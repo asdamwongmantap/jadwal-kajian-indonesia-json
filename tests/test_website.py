@@ -32,3 +32,28 @@ def test_artikel_menjadi_jadwal(fixture_text):
     assert k["tema"].startswith("Kitab Bulughul Maram")
     assert k["tempat"]["nama"] == "Masjid At-Taqwa Jatibening Satu"
     assert k["wilayah"]["kabkota"] == "Kota Bekasi"
+
+
+BLOK_CFG = {
+    "id": "istiqlal-rutin",
+    "nama": "Masjid Istiqlal - Jadwal Rutin",
+    "list_url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+    "link_pattern": "(?!)",
+    "blok_jadwal": {"item": ".timeline-step", "waktu": ".time-tag", "judul": "h6",
+                    "pemateri": ".ustadz-name", "tema": ".kitab-name"},
+    "hints": {"tempat": "Masjid Istiqlal", "wilayah": "31.71"},
+}
+
+
+def test_blok_jadwal_hari_ini(fixture_text):
+    a = WebsiteAdapter(BLOK_CFG, fetcher=None)
+    items = a.parse_blok(fixture_text("website_istiqlal_blok.html"), BLOK_CFG["list_url"],
+                         datetime(2026, 10, 11, 3, tzinfo=timezone.utc))
+    ks = [parse(i) for i in items]
+    assert len(ks) == 4
+    zuhur = ks[1]
+    assert zuhur["tanggal"] == "2026-10-11" and zuhur["waktu"]["acuan_shalat"] == "Dzuhur"
+    assert zuhur["ustadz"] == ["KH Bukhori Sail Attahiri, Lc, MA."]
+    assert zuhur["wilayah"]["kode"] == "31.71"
+    jumat = ks[3]  # "Khusus Jumat": hari terdekat, bukan hari ini
+    assert jumat["hari"] == "Jumat" and jumat["tanggal"] == "2026-10-16" and jumat["tanggal_perkiraan"]

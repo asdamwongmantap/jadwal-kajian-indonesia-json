@@ -31,6 +31,62 @@ sumber:
       wilayah: "32.75"     # kode Kemendagri Kota Bekasi
       peta: "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA"
 
+  - id: darussalam-cibubur
+    tipe: website
+    nama: "Masjid Darussalam Cibubur"
+    list_url: "https://darussalam.id/live/"
+    link_pattern: "/live"
+    content_selector: "article"
+    title_selector: "h3.my-4"
+    max_articles: 10
+    hints:
+      tempat: "Masjid Darussalam Cibubur (Kota Wisata)"
+      wilayah: "32.01"     # kode Kemendagri Kab. Bogor (Kec. Gunung Putri)
+      peta: "https://share.google/s2S1pyOE7WDHoIu5c"
+
+  - id: istiqlal-keislaman
+    tipe: website
+    nama: "Masjid Istiqlal - Artikel Keislaman"
+    aktif: false           # isinya ringkasan kajian yang sudah lewat, bukan jadwal; jadwal ada di istiqlal-rutin
+    list_url: "https://www.istiqlal.or.id/artikel/kategori/keislaman"
+    link_pattern: "/artikel/detail/(kajian|hawamisy|qabla|dialog|khutbah)"
+    content_selector: "div.ck-content"
+    title_selector: "h1.article-title-custom"
+    max_articles: 10
+    hints:
+      tempat: "Masjid Istiqlal"
+      wilayah: "31.71"     # kode Kemendagri Jakarta Pusat
+
+  - id: istiqlal-rutin
+    tipe: website
+    nama: "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini"
+    list_url: "https://www.istiqlal.or.id/artikel/kategori/keislaman"
+    link_pattern: "(?!)"   # tidak ada artikel; hanya blok "Kajian Hari Ini" di halaman daftar
+    blok_jadwal:
+      item: ".timeline-step"
+      waktu: ".time-tag"
+      judul: "h6"
+      pemateri: ".ustadz-name"
+      tema: ".kitab-name"
+    hints:
+      tempat: "Masjid Istiqlal"
+      wilayah: "31.71"     # kode Kemendagri Jakarta Pusat
+
+  - id: masjidagung-cilegon
+    tipe: website
+    nama: "Masjid Agung Nurul Ikhlas Kota Cilegon"
+    aktif: false           # tabel /jadwal masih kosong; artikel /kegiatan hanya poster (tanggal terbit terbaca sebagai tanggal kajian)
+    list_urls:
+      - "https://masjidagungcilegon.com/jadwal"      # tab "Jadwal Kajian" (tabel; kosong saat dicek)
+      - "https://masjidagungcilegon.com/kegiatan"
+    link_pattern: "/kegiatan/[^/]*(kajian|nisa|taklim|talim|ta-lim)"
+    content_selector: "article"
+    title_selector: "article h1"
+    max_articles: 10
+    hints:
+      tempat: "Masjid Agung Nurul Ikhlas Kota Cilegon"
+      wilayah: "36.72"     # kode Kemendagri Kota Cilegon
+
   # Contoh menambah kanal lain (nonaktif sampai Anda cek isinya):
   # - id: kajiantebet
   #   tipe: telegram

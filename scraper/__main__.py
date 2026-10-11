@@ -47,7 +47,7 @@ def run(args) -> int:
             log.exception("Sumber %s gagal", src["id"])
             raw, parsed, status = [], [], f"gagal: {e.__class__.__name__}"
         log.info("[%s] %d pengumuman, %d jadwal terbaca", src["id"], len(raw), len(parsed))
-        url = f"https://t.me/s/{src['channel']}" if src["tipe"] == "telegram" else src.get("list_url")
+        url = f"https://t.me/s/{src['channel']}" if src["tipe"] == "telegram" else (src.get("list_url") or (src.get("list_urls") or [None])[0])
         meta_sumber.append({"id": src["id"], "nama": adapter.name, "tipe": src["tipe"], "url": url,
                             "status": status, "pengumuman": len(raw), "jadwal": len(parsed)})
 
