@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "12.05",
+    "kabkota": "Kabupaten Langkat",
+    "provinsi": "Sumatera Utara",
+    "slug": "kabupaten-langkat",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "0f832c5693c0",
+      "judul": "Kajian Ahad Pagi Ba'da Sholat Subuh",
+      "tema": "Syarh Ushul Tsalatsah Mengenal Rasulullah(lanjutan)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Hari Febriansyah, S.PdI., M.Pd."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ahmad Daromi",
+        "alamat": "Kavling Hasanah, Jl.Pilar - Sukatani No.197, (Arah timur 50m sebelum lapangan Futsal Ganda Agung)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11533",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T16:05:08+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

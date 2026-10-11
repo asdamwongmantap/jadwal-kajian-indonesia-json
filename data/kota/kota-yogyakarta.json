@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "34.71",
+    "kabkota": "Kota Yogyakarta",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "slug": "kota-yogyakarta",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "2ff722a839c1",
+      "judul": "Dauroh Fiqh Muamalah",
+      "tema": "Membahas Fikih Muamalah Dasar Mazhab Syafi'i",
+      "kitab": "gratis",
+      "ustadz": [
+        "Ustadz Dany Indra Permana, S.Si., M.H."
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": "09:45",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-18T08:00:00+07:00",
+      "tempat": {
+        "nama": "Offline: Masjid Pogung Dalangan (MPD)",
+        "alamat": "Online: YouTube Masjid Pogung Dalangan TV",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11531",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T16:04:26+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

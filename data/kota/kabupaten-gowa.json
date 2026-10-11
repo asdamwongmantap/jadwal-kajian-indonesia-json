@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "73.06",
+    "kabkota": "Kabupaten Gowa",
+    "provinsi": "Sulawesi Selatan",
+    "slug": "kabupaten-gowa",
+    "zona_waktu": "WITA"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "b971d53af79a",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Al Ustadz Umar Abu Hafsh"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": "Setiap Hari Sabtu",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Zubair bin Awwam",
+        "alamat": "Ma'had Minhajus Salikin, Pattallassang – Gowa",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "73.06",
+        "kabkota": "Kabupaten Gowa",
+        "provinsi": "Sulawesi Selatan",
+        "slug": "kabupaten-gowa",
+        "zona_waktu": "WITA"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/@ash-shohihah?si=wecZMfVlxN4ToaUH",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11494",
+          "diteruskan_dari": "Info Kajian Salafy Sulawesi",
+          "diposting": "2026-10-10T07:36:03+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

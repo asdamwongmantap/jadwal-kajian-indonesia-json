@@ -1,0 +1,241 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "32.16",
+    "kabkota": "Kabupaten Bekasi",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bekasi",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 5,
+  "kajian": [
+    {
+      "id": "4faee33d0619",
+      "judul": "Kajian Rutin Ilmiah Terbuka Untuk Umum",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Hisyam Ubaidillah Bukkar, S.Pd.I."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T09:00:00+07:00",
+      "tempat": {
+        "nama": "Musholla Al Fattah",
+        "alamat": "Perumahan Libersa Garden Karangasih Cikarang Utara",
+        "peta": "https://maps.app.goo.gl/7TTquXFkey1D9qcB6"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11541",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T16:09:10+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    },
+    {
+      "id": "5bac0bf28975",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": true,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dhuha",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Quba",
+        "alamat": "Telaga Sakinah, Telagamurni, Kec. Cikarang Barat, Kab. Bekasi, Jawa Barat 17530",
+        "peta": "https://maps.app.goo.gl/tyGv1JFMVK1PpDBT6"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11586",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:39:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    },
+    {
+      "id": "c3b7fbf4ffaf",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": true,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Abu Bakr Ash Shiddiq (Mabas)",
+        "alamat": "Kp. Islami Thoyibah & Taman Rahmani, Kertamukti, Kec. Cibitung, Kab. Bekasi, Jawa Barat",
+        "peta": "https://maps.app.goo.gl/BfZSPDCmq7fF99LV7"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11573",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:30:16+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    },
+    {
+      "id": "dadd9817c6b8",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": true,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Jannah",
+        "alamat": "Kp. Selang Jati, Wanajaya, Kec. Cibitung, Kab. Bekasi, Jawa Barat 17520",
+        "peta": "https://maps.app.goo.gl/KprFWym7vePFNrAR8"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11568",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:28:23+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    },
+    {
+      "id": "e849fc2373f5",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Jihad Cikarang Baru (MAJ)",
+        "alamat": "Jalan Beruang X Blok G, Jayamukti. Cikarang Pusat, Kab. Bekasi",
+        "peta": "https://maps.app.goo.gl/pi36r"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11544",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T16:10:59+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

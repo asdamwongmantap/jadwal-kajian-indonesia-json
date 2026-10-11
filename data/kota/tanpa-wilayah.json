@@ -1,0 +1,49 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": null,
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "4709ffc3820d",
+      "judul": "Kajian Nahwu Wadhih & Kitabut Tashrif",
+      "tema": "Nahwu Wadhih Juz 2 | Hal. 110 : Tamrin Al Alam",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Pamuji Hadi Waluyo, Lc."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:00",
+        "selesai": "08:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T07:00:00+07:00",
+      "tempat": {
+        "nama": "Mushola Nurul Istiqomah",
+        "alamat": null,
+        "peta": "https://goo.gl/maps/MrnZEUdQw3K2"
+      },
+      "wilayah": null,
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11602",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:46:51+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

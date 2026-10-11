@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "33.09",
+    "kabkota": "Kabupaten Boyolali",
+    "provinsi": "Jawa Tengah",
+    "slug": "kabupaten-boyolali",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "34d55f4adb55",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "1. Al-Ustadzah Hayah Hurul Aini, S.Ked.",
+        "2. Al-Ustadzah Wirna Tri Cempaka, S.Psi."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T08:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Riyan Humaid",
+        "alamat": "Pondok Putri Al Madinah (melalui gerbang utara), Grenjeng, Kenteng, Nogosari, Boyolali, Jawa Tengah",
+        "peta": "https://maps.app.goo.gl/rrpkEG7VZLpyYDxk9?g_st=ac"
+      },
+      "wilayah": {
+        "kode": "33.09",
+        "kabkota": "Kabupaten Boyolali",
+        "provinsi": "Jawa Tengah",
+        "slug": "kabupaten-boyolali",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11523",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T15:57:22+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

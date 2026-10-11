@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "75.01",
+    "kabkota": "Kabupaten Gorontalo",
+    "provinsi": "Gorontalo",
+    "slug": "kabupaten-gorontalo",
+    "zona_waktu": "WITA"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "511287896017",
+      "judul": "Kajian Telaga Ilmu",
+      "tema": null,
+      "kitab": "Riyadhus Shalihin",
+      "ustadz": [
+        "Ustadz Syahrul Fatwa, Lc., M.A."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Baitul Ma'mur",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "75.01",
+        "kabkota": "Kabupaten Gorontalo",
+        "provinsi": "Gorontalo",
+        "slug": "kabupaten-gorontalo",
+        "zona_waktu": "WITA"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11537",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T16:07:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

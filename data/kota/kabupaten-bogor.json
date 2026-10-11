@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "32.01",
+    "kabkota": "Kabupaten Bogor",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bogor",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "c428993f7890",
+      "judul": "Kajian Ahad Pagi di Masjid At-Tauhid!",
+      "tema": null,
+      "kitab": "Ushul Tsalatsah",
+      "ustadz": [
+        "Ustadz Abu Umar Muhammad Abdul Aziz"
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid At-Tauhid - Sukahati Cibinong",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.01",
+        "kabkota": "Kabupaten Bogor",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bogor",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/@masjid.atttauhid?si=k3MlAElyRdz3VfKo",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11563",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:18:05+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

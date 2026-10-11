@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "16.09",
+    "kabkota": "Kabupaten Ogan Komering Ulu Selatan",
+    "provinsi": "Sumatera Selatan",
+    "slug": "kabupaten-ogan-komering-ulu-selatan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "7a2b6a729819",
+      "judul": "Kajian Rutin Masjid At-Taqwa",
+      "tema": "10 Pilar Di Dalam Pendidikan Anak",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Asror Habibie, Lc."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Di Masjid At-Taqwa Jl. Kayu jati, Simpang Tiga",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/qDEB3oNXQeNQ7agA7"
+      },
+      "wilayah": {
+        "kode": "16.09",
+        "kabkota": "Kabupaten Ogan Komering Ulu Selatan",
+        "provinsi": "Sumatera Selatan",
+        "slug": "kabupaten-ogan-komering-ulu-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11562",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T16:35:05+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

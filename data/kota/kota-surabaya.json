@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "35.78",
+    "kabkota": "Kota Surabaya",
+    "provinsi": "Jawa Timur",
+    "slug": "kota-surabaya",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "e79b42566667",
+      "judul": null,
+      "tema": "Shahih Fiqih Sunnah",
+      "kitab": "Manzilah Kalimatut Tauhid",
+      "ustadz": [
+        "Ustadz Mubarak Bamualim, Lc., M.H.I."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T08:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Syafi'i - Jl. Kalimas Madya II No. 1",
+        "alamat": "Nyamplungan, Pabean Cantikan, Surabaya",
+        "peta": "https://maps.app.goo.gl/reRaSJx265KA6b6r5"
+      },
+      "wilayah": {
+        "kode": "35.78",
+        "kabkota": "Kota Surabaya",
+        "provinsi": "Jawa Timur",
+        "slug": "kota-surabaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11511",
+          "diteruskan_dari": "Surabaya Mengaji",
+          "diposting": "2026-10-10T15:08:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

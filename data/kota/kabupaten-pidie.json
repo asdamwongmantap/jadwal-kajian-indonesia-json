@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "11.07",
+    "kabkota": "Kabupaten Pidie",
+    "provinsi": "Aceh",
+    "slug": "kabupaten-pidie",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "eeceb54211c4",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Shinta",
+        "Setiap hari Sabtu"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": "Setiap hari Sabtu",
+      "waktu": {
+        "mulai": "07:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Mutiara Sunnah",
+        "alamat": "Perum. D'Ahsana Kedanyang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "11.07",
+        "kabkota": "Kabupaten Pidie",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-pidie",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11441",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-10T00:34:53+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}

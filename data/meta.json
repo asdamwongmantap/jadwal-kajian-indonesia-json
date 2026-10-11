@@ -1,0 +1,27 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "jumlah_kajian": 59,
+  "jumlah_kota": 27,
+  "sumber": [
+    {
+      "id": "jadwalkajiansunnah",
+      "nama": "Telegram @jadwalkajiansunnah",
+      "tipe": "telegram",
+      "url": "https://t.me/s/jadwalkajiansunnah",
+      "status": "ok",
+      "pengumuman": 166,
+      "jadwal": 99
+    },
+    {
+      "id": "attaqwa-jatibening",
+      "nama": "Masjid At-Taqwa Jatibening Satu",
+      "tipe": "website",
+      "url": "https://attaqwajatibening.com/berita",
+      "status": "ok",
+      "pengumuman": 9,
+      "jadwal": 9
+    }
+  ],
+  "catatan": "Data diambil otomatis dari pengumuman publik. Selalu cek sumber asli sebelum berangkat."
+}

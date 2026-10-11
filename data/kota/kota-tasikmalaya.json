@@ -1,0 +1,202 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T13:05:01+00:00",
+  "wilayah": {
+    "kode": "32.78",
+    "kabkota": "Kota Tasikmalaya",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-tasikmalaya",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 4,
+  "kajian": [
+    {
+      "id": "372f279e8766",
+      "judul": null,
+      "tema": "Wakaf Pahala Yang Tidak Terputus",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Haidar As Sundawy"
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al- Hasan",
+        "alamat": "Mangkubumi Kota Tasikmalaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11529",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T16:01:19+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    },
+    {
+      "id": "ed199b00d989",
+      "judul": null,
+      "tema": "TAFSIR SURAT QURAISY QS. Quraisy (106)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ii Ali Nurjani"
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ahsanul Mahmuda",
+        "alamat": "Jl. SL Tobing, Sambongpari, Kecamatan Mangkubumi, Tasikmalaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11521",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T15:55:29+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    },
+    {
+      "id": "ac35dc79fc69",
+      "judul": "Tabligh Akbar",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Haidar As-Sundawy"
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Hasan",
+        "alamat": "(Restoran Hawu Nini - SDIT Hasan), Cikunir Hilir, Mangkubumi, Kota Tasikmalaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11514",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-10-10T15:11:20+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    },
+    {
+      "id": "4d5e9743af2f",
+      "judul": null,
+      "tema": "3 Wasiat Nabi Yang Sangat Agung",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Jajang Nurzaman, Lc."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": "17:10",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ibadurohim",
+        "alamat": "Jl, Cikunten Indah, Babakan Domba,, Masuk gang, Dekat perum bening regency,, Kota Tasikmalaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11605",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:48:56+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
+      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+    }
+  ]
+}
