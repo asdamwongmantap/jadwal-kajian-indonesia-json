@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T10:00:00+00:00",
+  "wilayah": {
+    "kode": "32.78",
+    "kabkota": "Kota Tasikmalaya",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-tasikmalaya",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "4d5e9743af2f",
+      "judul": null,
+      "tema": "3 Wasiat Nabi Yang Sangat Agung",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Jajang Nurzaman, Lc."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": "17:10",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ibadurohim",
+        "alamat": "Jl, Cikunten Indah, Babakan Domba,, Masuk gang, Dekat perum bening regency,, Kota Tasikmalaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11605",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:48:56+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T10:00:00+00:00",
+      "terakhir_dilihat": "2026-10-11T10:00:00+00:00"
+    }
+  ]
+}

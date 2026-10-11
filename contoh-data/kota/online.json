@@ -1,0 +1,49 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T10:00:00+00:00",
+  "wilayah": null,
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "59e0c1c8616d",
+      "judul": null,
+      "tema": "#17: Jihad",
+      "kitab": "62 Amalan Pembuka Pintu Surga",
+      "ustadz": [
+        "Ustadz Khalid Basalamah"
+      ],
+      "tanggal": "2026-10-12",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "12:30",
+        "selesai": "13:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-12T12:30:00+07:00",
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11625",
+          "diteruskan_dari": "Khalid Basalamah Official",
+          "diposting": "2026-10-11T09:48:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T10:00:00+00:00",
+      "terakhir_dilihat": "2026-10-11T10:00:00+00:00"
+    }
+  ]
+}

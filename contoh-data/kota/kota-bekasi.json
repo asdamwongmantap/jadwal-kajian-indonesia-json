@@ -1,0 +1,153 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T10:00:00+00:00",
+  "wilayah": {
+    "kode": "32.75",
+    "kabkota": "Kota Bekasi",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-bekasi",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 3,
+  "kajian": [
+    {
+      "id": "9b2c4f98be83",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abdurrahman Dani"
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Baitul Haq",
+        "alamat": "Purigading, Jatimelati, Bekasi",
+        "peta": "https://g.co/kgs/WSMCf4"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11566",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:26:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T10:00:00+00:00",
+      "terakhir_dilihat": "2026-10-11T10:00:00+00:00"
+    },
+    {
+      "id": "2e9e1cf02b8d",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": true,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Fursan",
+        "alamat": "(Al Fursan Islamic School), Jl. Parpostel No. 102, Jatiasih, Kec. Jatiasih, Kota Bekasi, Jawa Barat 17425",
+        "peta": "https://maps.app.goo.gl/aEWedCobo3DnamTHA"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11569",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:28:52+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T10:00:00+00:00",
+      "terakhir_dilihat": "2026-10-11T10:00:00+00:00"
+    },
+    {
+      "id": "d01b8a38fc10",
+      "judul": "Kajian Rutin Ahad Pagi Pekan Kedua",
+      "tema": "Kitab Tauhid karya Syeikh Shalih Al-Fauzan Jilid 2, Bab 1, Pasal 4 Pembatal Iman (Muqadimah)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zahir Al-Minangkabawi"
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid At-Taqwa Jatibening Satu",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11582",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:34:47+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T10:00:00+00:00",
+      "terakhir_dilihat": "2026-10-11T10:00:00+00:00"
+    }
+  ]
+}

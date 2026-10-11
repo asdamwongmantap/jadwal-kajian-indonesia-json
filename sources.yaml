@@ -1,0 +1,40 @@
+# Daftar sumber jadwal kajian.
+# tipe: telegram (kanal publik t.me/s/<kanal>) atau website (halaman daftar + artikel).
+# Sebelum menambah sumber: pastikan robots.txt mengizinkan, dan sebaiknya minta izin pengelola.
+
+pengaturan:
+  # Ganti USERNAME/REPO agar pengelola situs bisa menghubungi Anda.
+  user_agent: "KajianScraper/0.1 (+https://github.com/asdamwongmantap/jadwal-kajian-indonesia-json.git)"
+  jeda_detik: 2          # jeda minimal antar-permintaan ke host yang sama
+  rutin_ttl_hari: 45     # kajian rutin tanpa tanggal dibuang bila tidak terlihat lagi selama ini
+
+sumber:
+  - id: jadwalkajiansunnah
+    tipe: telegram
+    nama: "Telegram @jadwalkajiansunnah"
+    channel: jadwalkajiansunnah
+    max_pages: 12          # 1 halaman ~20 pesan
+    lookback_days: 7
+    # deny_patterns tambahan (regex). Pola bawaan sudah melewati pesan "Dilarang mengubah ... tanpa izin".
+    deny_patterns: []
+
+  - id: attaqwa-jatibening
+    tipe: website
+    nama: "Masjid At-Taqwa Jatibening Satu"
+    list_url: "https://attaqwajatibening.com/berita"
+    link_pattern: "/berita/(kajian|talim|ta-lim|tabligh)"
+    content_selector: "article"
+    title_selector: "h3.my-4"
+    max_articles: 10
+    hints:
+      tempat: "Masjid At-Taqwa Jatibening Satu"
+      wilayah: "32.75"     # kode Kemendagri Kota Bekasi
+      peta: "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA"
+
+  # Contoh menambah kanal lain (nonaktif sampai Anda cek isinya):
+  # - id: kajiantebet
+  #   tipe: telegram
+  #   channel: kajiantebet
+  #   aktif: false
+  #   hints:
+  #     wilayah: "31.74"   # Jakarta Selatan, dipakai bila alamat tidak terbaca

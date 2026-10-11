@@ -1,0 +1,110 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T10:00:00+00:00",
+  "kota": [
+    {
+      "slug": "kabupaten-bekasi",
+      "kabkota": "Kabupaten Bekasi",
+      "provinsi": "Jawa Barat",
+      "kode": "32.16",
+      "jumlah": 1,
+      "file": "kota/kabupaten-bekasi.json"
+    },
+    {
+      "slug": "kabupaten-kampar",
+      "kabkota": "Kabupaten Kampar",
+      "provinsi": "Riau",
+      "kode": "14.01",
+      "jumlah": 1,
+      "file": "kota/kabupaten-kampar.json"
+    },
+    {
+      "slug": "kabupaten-sleman",
+      "kabkota": "Kabupaten Sleman",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode": "34.04",
+      "jumlah": 1,
+      "file": "kota/kabupaten-sleman.json"
+    },
+    {
+      "slug": "kota-administrasi-jakarta-selatan",
+      "kabkota": "Kota Administrasi Jakarta Selatan",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode": "31.74",
+      "jumlah": 3,
+      "file": "kota/kota-administrasi-jakarta-selatan.json"
+    },
+    {
+      "slug": "kota-bekasi",
+      "kabkota": "Kota Bekasi",
+      "provinsi": "Jawa Barat",
+      "kode": "32.75",
+      "jumlah": 3,
+      "file": "kota/kota-bekasi.json"
+    },
+    {
+      "slug": "kota-cilegon",
+      "kabkota": "Kota Cilegon",
+      "provinsi": "Banten",
+      "kode": "36.72",
+      "jumlah": 1,
+      "file": "kota/kota-cilegon.json"
+    },
+    {
+      "slug": "kota-depok",
+      "kabkota": "Kota Depok",
+      "provinsi": "Jawa Barat",
+      "kode": "32.76",
+      "jumlah": 2,
+      "file": "kota/kota-depok.json"
+    },
+    {
+      "slug": "kota-makassar",
+      "kabkota": "Kota Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "kode": "73.71",
+      "jumlah": 1,
+      "file": "kota/kota-makassar.json"
+    },
+    {
+      "slug": "kota-pekanbaru",
+      "kabkota": "Kota Pekanbaru",
+      "provinsi": "Riau",
+      "kode": "14.71",
+      "jumlah": 1,
+      "file": "kota/kota-pekanbaru.json"
+    },
+    {
+      "slug": "kota-pematangsiantar",
+      "kabkota": "Kota Pematangsiantar",
+      "provinsi": "Sumatera Utara",
+      "kode": "12.72",
+      "jumlah": 1,
+      "file": "kota/kota-pematangsiantar.json"
+    },
+    {
+      "slug": "kota-tangerang-selatan",
+      "kabkota": "Kota Tangerang Selatan",
+      "provinsi": "Banten",
+      "kode": "36.74",
+      "jumlah": 1,
+      "file": "kota/kota-tangerang-selatan.json"
+    },
+    {
+      "slug": "kota-tasikmalaya",
+      "kabkota": "Kota Tasikmalaya",
+      "provinsi": "Jawa Barat",
+      "kode": "32.78",
+      "jumlah": 1,
+      "file": "kota/kota-tasikmalaya.json"
+    },
+    {
+      "slug": "online",
+      "kabkota": null,
+      "provinsi": null,
+      "kode": null,
+      "jumlah": 1,
+      "file": "kota/online.json"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T10:00:00+00:00",
+  "wilayah": {
+    "kode": "32.76",
+    "kabkota": "Kota Depok",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-depok",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "80ec06e3d958",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ammi Nur Baits, S.T., B.A."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:30",
+        "selesai": "09:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T07:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Ittihad",
+        "alamat": "Jl. Rambutan Blok A, Cinere, (dalam komplek Cinere Blok A/seberang mall Cinere di belakang ruko)",
+        "peta": "https://maps.app.goo.gl/hzhMLme2stVzjSbi9?g_st=ipc"
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11601",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:45:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T10:00:00+00:00",
+      "terakhir_dilihat": "2026-10-11T10:00:00+00:00"
+    },
+    {
+      "id": "2024e78ed556",
+      "judul": "Kajian Tematik Spesial Muslimah",
+      "tema": "Kemilau Indah Aqidah Imam Asy-Syafi'i",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Ubaidah Yusuf As-Sidawi"
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-11T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ar Riyadh Depok",
+        "alamat": "Jl. Kolintang 2, Mekarjaya, Sukmajaya, Depok 2 Tengah 16411",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11599",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:42:46+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T10:00:00+00:00",
+      "terakhir_dilihat": "2026-10-11T10:00:00+00:00"
+    }
+  ]
+}

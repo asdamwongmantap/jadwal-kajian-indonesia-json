@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T10:00:00+00:00",
+  "wilayah": {
+    "kode": "34.04",
+    "kabkota": "Kabupaten Sleman",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "slug": "kabupaten-sleman",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "9a58be65b9cc",
+      "judul": "Kajian Spiritual Growth | Tafaqquh fid Din",
+      "tema": "Mindful Activities",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Rezki Hr, S.T., M.Eng., Ph.D."
+      ],
+      "tanggal": "2026-10-11",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Pogung Baru",
+        "alamat": "Pogung Kidul, Sinduadi, Mlati, Sleman, DIY",
+        "peta": "https://maps.app.goo.gl/otaKuDha73gWTF3X8"
+      },
+      "wilayah": {
+        "kode": "34.04",
+        "kabkota": "Kabupaten Sleman",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-sleman",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/@tafaqquhfid_din",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11603",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-10T22:47:41+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-11T10:00:00+00:00",
+      "terakhir_dilihat": "2026-10-11T10:00:00+00:00"
+    }
+  ]
+}

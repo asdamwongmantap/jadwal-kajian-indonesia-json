@@ -1,0 +1,18 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-11T10:00:00+00:00",
+  "jumlah_kajian": 18,
+  "jumlah_kota": 13,
+  "sumber": [
+    {
+      "id": "jadwalkajiansunnah",
+      "nama": "Telegram @jadwalkajiansunnah",
+      "tipe": "telegram",
+      "url": "https://t.me/s/jadwalkajiansunnah",
+      "status": "ok",
+      "pengumuman": 19,
+      "jadwal": 18
+    }
+  ],
+  "catatan": "Data diambil otomatis dari pengumuman publik. Selalu cek sumber asli sebelum berangkat."
+}

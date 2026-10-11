@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/USERNAME/jadwal-kajian/schema/kajian.schema.json",
+  "title": "Jadwal kajian",
+  "type": "object",
+  "required": ["skema", "dibuat", "jumlah", "kajian"],
+  "properties": {
+    "skema": {"type": "string"},
+    "dibuat": {"type": "string", "format": "date-time"},
+    "jumlah": {"type": "integer", "minimum": 0},
+    "kajian": {"type": "array", "items": {"$ref": "#/$defs/kajian"}}
+  },
+  "$defs": {
+    "kajian": {
+      "type": "object",
+      "required": ["id", "ustadz", "tanggal", "tanggal_perkiraan", "hari", "waktu", "zona_waktu",
+                   "tempat", "wilayah", "mode", "sumber", "pertama_dilihat", "terakhir_dilihat"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[0-9a-f]{12}$", "description": "Hash stabil dari tanggal/hari, waktu, tempat, ustadz, wilayah"},
+        "judul": {"type": ["string", "null"]},
+        "tema": {"type": ["string", "null"]},
+        "kitab": {"type": ["string", "null"]},
+        "ustadz": {"type": "array", "items": {"type": "string"}},
+        "tanggal": {"type": ["string", "null"], "format": "date", "description": "YYYY-MM-DD; null untuk kajian rutin tanpa tanggal"},
+        "tanggal_perkiraan": {"type": "boolean", "description": "true bila tanggal disimpulkan dari nama hari dan waktu posting"},
+        "hari": {"enum": ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Ahad", null]},
+        "rutin": {"type": ["string", "null"], "description": "Keterangan jadwal rutin, mis. 'Setiap Ahad 2 Pekan Sekali'"},
+        "waktu": {
+          "type": "object",
+          "required": ["mulai", "selesai", "acuan_shalat", "relasi"],
+          "properties": {
+            "mulai": {"type": ["string", "null"], "pattern": "^([01]\\d|2[0-3]):[0-5]\\d$"},
+            "selesai": {"type": ["string", "null"], "pattern": "^([01]\\d|2[0-3]):[0-5]\\d$"},
+            "acuan_shalat": {"enum": ["Subuh", "Dzuhur", "Ashar", "Maghrib", "Isya", "Dhuha", null]},
+            "relasi": {"enum": ["setelah", "sebelum", null]}
+          }
+        },
+        "zona_waktu": {"enum": ["WIB", "WITA", "WIT"]},
+        "mulai_iso": {"type": ["string", "null"], "format": "date-time"},
+        "tempat": {
+          "type": "object",
+          "required": ["nama", "alamat", "peta"],
+          "properties": {
+            "nama": {"type": ["string", "null"]},
+            "alamat": {"type": ["string", "null"]},
+            "peta": {"type": ["string", "null"]}
+          }
+        },
+        "wilayah": {
+          "type": ["object", "null"],
+          "required": ["kode", "kabkota", "provinsi", "slug", "zona_waktu"],
+          "properties": {
+            "kode": {"type": "string", "pattern": "^\\d{2}\\.\\d{2}$", "description": "Kode Kemendagri kab/kota"},
+            "kabkota": {"type": "string"},
+            "provinsi": {"type": "string"},
+            "slug": {"type": "string"},
+            "zona_waktu": {"enum": ["WIB", "WITA", "WIT", null]}
+          }
+        },
+        "mode": {"enum": ["offline", "online", "hybrid"]},
+        "streaming": {"type": ["string", "null"]},
+        "peserta": {"enum": ["umum", "ikhwan", "akhwat", "anak", null]},
+        "sumber": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["id", "nama", "url"],
+            "properties": {
+              "id": {"type": "string"},
+              "nama": {"type": "string"},
+              "url": {"type": "string"},
+              "diteruskan_dari": {"type": ["string", "null"]},
+              "diposting": {"type": ["string", "null"]}
+            }
+          }
+        },
+        "pertama_dilihat": {"type": "string", "format": "date-time"},
+        "terakhir_dilihat": {"type": "string", "format": "date-time"}
+      }
+    }
+  }
+}
