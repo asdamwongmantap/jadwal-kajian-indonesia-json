@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-12T19:07:25+00:00",
+  "wilayah": {
+    "kode": "12.05",
+    "kabkota": "Kabupaten Langkat",
+    "provinsi": "Sumatera Utara",
+    "slug": "kabupaten-langkat",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "ac676110967e",
+      "judul": "Kajian Kitab Adabul Mufrod",
+      "tema": null,
+      "kitab": "Adabul Mufrod",
+      "ustadz": [
+        "Ustadz Habib Taufiq Al-Haddad, S.T., S.H., M.M."
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "13:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-13T13:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Ikhlas Office 8",
+        "alamat": "Senopati",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11722",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T15:12:59+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
+    }
+  ]
+}

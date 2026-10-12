@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-12T19:07:25+00:00",
+  "wilayah": {
+    "kode": "52.71",
+    "kabkota": "Kota Mataram",
+    "provinsi": "Nusa Tenggara Barat",
+    "slug": "kota-mataram",
+    "zona_waktu": "WITA"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "5fb1fc6bcce2",
+      "judul": "Kajian Kitab Rutin Pekanan",
+      "tema": "Aqidah",
+      "kitab": "Rutin Pekanan",
+      "ustadz": [
+        "1 Ustadz Ahmad Firdaus, Lc. LIBUR",
+        "2 Ustadz Hakam Abdurrahman bin Hizam, Lc."
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": null
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Islamic Center Masjid 'Aisyah",
+        "alamat": "Jln. Soromandi no.01 Lawata - Mataram - Lombok - NTB",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "52.71",
+        "kabkota": "Kota Mataram",
+        "provinsi": "Nusa Tenggara Barat",
+        "slug": "kota-mataram",
+        "zona_waktu": "WITA"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11721",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T15:11:52+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-12T19:07:25+00:00",
+  "wilayah": {
+    "kode": "32.76",
+    "kabkota": "Kota Depok",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-depok",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "bb9733651c8b",
+      "judul": "Kajian Khusus Muslimah",
+      "tema": "Kajian Hadits Ahkam dari Kitab",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zakariyal Anshari, Lc., M.pd."
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "13:00",
+        "selesai": "14:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-13T13:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ar Riyadh Depok",
+        "alamat": "Jl. Kolintang 2, Mekarjaya, Sukmajaya, Depok 2 Tengah 16411",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11725",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T15:17:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
+    },
+    {
+      "id": "0312cf09f92f",
+      "judul": "Kajian Tematik Spesial",
+      "tema": "Mungkin Kita Munafiq",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Fatahillah Aly, S.ag."
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ar Riyadh Depok",
+        "alamat": "Jl. Kolintang 2, Mekarjaya, Sukmajaya, Depok 2 Tengah 16411",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/@MasjidAr-RiyadhDepok",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11723",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T15:15:49+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
+    }
+  ]
+}

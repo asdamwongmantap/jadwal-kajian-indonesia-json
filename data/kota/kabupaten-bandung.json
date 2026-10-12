@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-12T19:07:25+00:00",
+  "wilayah": {
+    "kode": "32.04",
+    "kabkota": "Kabupaten Bandung",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bandung",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "bc55bf93abc5",
+      "judul": "Kajian Bareng Offline",
+      "tema": null,
+      "kitab": "Fawaidul Fawaid",
+      "ustadz": [
+        "Ustadz Abu Faqih Abdullah"
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami' Al-Islam",
+        "alamat": "Ma'had Al-Islam, Cileunyi, Kab. Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.04",
+        "kabkota": "Kabupaten Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11709",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-10-12T10:36:19+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
+    }
+  ]
+}

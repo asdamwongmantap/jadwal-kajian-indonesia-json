@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-12T00:32:07+00:00",
+  "dibuat": "2026-10-12T19:07:25+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -8,160 +8,19 @@
     "slug": "kota-administrasi-jakarta-pusat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 6,
+  "jumlah": 4,
   "kajian": [
     {
-      "id": "b987aaab05cf",
-      "judul": null,
-      "tema": "Meraih Pahala Besar Dengan Amalan Ringan",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Luthfi Abdul Jabbar, Lc."
-      ],
-      "tanggal": "2026-10-12",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": "13:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-12T13:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al-Huda Kemayoran",
-        "alamat": "Kb. Kosong, Kec. Kemayoran, Kota Jakarta Pusat",
-        "peta": "https://maps.app.goo.gl/1u6g7FhB5vnP678V8"
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11642",
-          "diteruskan_dari": "R",
-          "diposting": "2026-10-11T20:03:46+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
-      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
-    },
-    {
-      "id": "2b47515510c2",
-      "judul": "Kajian Dialog Zuhur",
-      "tema": "Kimiyyah As Sa’adah (TASAWUF)",
-      "kitab": null,
-      "ustadz": [
-        "KH. Kopri Nurzen, Lc, MA."
-      ],
-      "tanggal": "2026-10-12",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dzuhur",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Istiqlal",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "istiqlal-rutin",
-          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
-          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-12T00:32:07.804739+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
-      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
-    },
-    {
-      "id": "6a2df6b077df",
-      "judul": null,
-      "tema": "Yuk hadir dan ambil faedah dari Kajian kitab Syarah Kitab Al-Jami' bersama",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Habib Taufiq"
-      ],
-      "tanggal": "2026-10-12",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dzuhur",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Amanah",
-        "alamat": "Komplek Dinas Teknik Jatibaru, Jl. Taman Jatibaru No. 1, Cideng, Gambir – Jakarta Pusat",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11674",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-11T21:02:09+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
-      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
-    },
-    {
-      "id": "e2b301969142",
+      "id": "8d726665136b",
       "judul": "Kajian Khawamisy",
-      "tema": "Al Wadhih fi Ulumil Qur'an (ULUM AL QUR'AN)",
+      "tema": "Kitab Qashasul Anbiya’ (SEJARAH)",
       "kitab": null,
       "ustadz": [
-        "H. A. Muzakkir Abdurrahman, Lc., MA."
+        "KH Choirul Anshori, M.Pd.I."
       ],
-      "tanggal": "2026-10-12",
+      "tanggal": "2026-10-13",
       "tanggal_perkiraan": false,
-      "hari": "Senin",
+      "hari": "Selasa",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -192,23 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-12T00:32:07.804739+00:00"
+          "diposting": "2026-10-12T19:07:25.520939+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
-      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
     },
     {
-      "id": "eac6e498877f",
+      "id": "bea305fd0185",
       "judul": "Kajian Renungan Fajar",
-      "tema": "Mengkonsumsi yang Halal Adalah Jalan Diterimanya Doa",
+      "tema": "Meninggalkan Hal yang Meragukan",
       "kitab": null,
       "ustadz": [
-        "H. Ahmad Mulyadi SE.I."
+        "Drs. H. A. Dzulfatah Yasin, M.Ag."
       ],
-      "tanggal": "2026-10-12",
+      "tanggal": "2026-10-13",
       "tanggal_perkiraan": false,
-      "hari": "Senin",
+      "hari": "Selasa",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -239,11 +98,58 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-12T00:32:07.804739+00:00"
+          "diposting": "2026-10-12T19:07:25.520939+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
-      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
+    },
+    {
+      "id": "c56d601b7916",
+      "judul": "Kajian Dialog Zuhur",
+      "tema": "Kajian Fiqh Muamalat",
+      "kitab": null,
+      "ustadz": [
+        "KH Nur Hayyin Muhdlor, Lc, ME"
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T19:07:25.520939+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
     },
     {
       "id": "6b285788f1da",
@@ -288,7 +194,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T00:32:07+00:00",
-      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
     }
   ]
 }

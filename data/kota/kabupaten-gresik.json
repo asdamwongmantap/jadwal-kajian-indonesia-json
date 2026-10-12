@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-12T19:07:25+00:00",
+  "wilayah": {
+    "kode": "35.25",
+    "kabkota": "Kabupaten Gresik",
+    "provinsi": "Jawa Timur",
+    "slug": "kabupaten-gresik",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "f8a62688c7fc",
+      "judul": null,
+      "tema": "Kitab Tafsir Jalalain",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Nadhirin, Lc.",
+        "Kitab Tafsir Jalalain"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": "Setiap hari Senin genap",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Jannah",
+        "alamat": "Jl. Jendral Ahmad Yani, Ngipik-Gresik",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "35.25",
+        "kabkota": "Kabupaten Gresik",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-gresik",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11701",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-12T04:38:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-12T19:07:25+00:00",
+  "wilayah": {
+    "kode": "31.75",
+    "kabkota": "Kota Administrasi Jakarta Timur",
+    "provinsi": "Daerah Khusus Ibukota Jakarta",
+    "slug": "kota-administrasi-jakarta-timur",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "bbb31634806b",
+      "judul": "Kajian Ilmiah",
+      "tema": null,
+      "kitab": "Hilyah Tholibil Ilmi Pertemuan Ke-16",
+      "ustadz": [
+        "Ustadz Ahmad Rasyid Bazher"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": "Rutin setiap hari Senin",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Imam Nawawi",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11698",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T03:05:31+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
+      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
+    }
+  ]
+}
