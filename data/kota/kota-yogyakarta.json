@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-11T13:05:01+00:00",
+  "dibuat": "2026-10-12T00:32:07+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,8 +8,103 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "0cec1b9d6cde",
+      "judul": "Kajian Muslimah — Bersama Wanita Shiddiqah",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ammi Nur Baits"
+      ],
+      "tanggal": "2026-10-12",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-12T08:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Kampus UGM",
+        "alamat": "Yogyakarta, 08.00–11.00 WIB, Khusus Muslimah",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11628",
+          "diteruskan_dari": "anb channel",
+          "diposting": "2026-10-11T19:52:07+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
+      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+    },
+    {
+      "id": "88785a5d6888",
+      "judul": "Kajian | Senin Pagi",
+      "tema": "| Alumnus Daar El-Hadits Yaman",
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Imroatul Azizah",
+        "| Inspirator Muslimah"
+      ],
+      "tanggal": "2026-10-12",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": "09:45",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-12T08:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Benteng Binangun",
+        "alamat": "| Jl. Kadipaten Lor, Kadipaten, Kecamatan Kraton, Kota Yogyakarta, | Maps",
+        "peta": "https://maps.app.goo.gl/87Q3PSeH3vKvyoji8"
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11641",
+          "diteruskan_dari": "MUTIARA HIKMAH OFFICIAL",
+          "diposting": "2026-10-11T20:02:46+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
+      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+    },
     {
       "id": "2ff722a839c1",
       "judul": "Dauroh Fiqh Muamalah",
@@ -55,7 +150,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
     }
   ]
 }

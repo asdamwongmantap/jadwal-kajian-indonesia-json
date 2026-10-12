@@ -1,8 +1,8 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-11T13:05:01+00:00",
-  "jumlah_kajian": 59,
-  "jumlah_kota": 27,
+  "dibuat": "2026-10-12T00:32:07+00:00",
+  "jumlah_kajian": 37,
+  "jumlah_kota": 17,
   "sumber": [
     {
       "id": "jadwalkajiansunnah",
@@ -10,8 +10,8 @@
       "tipe": "telegram",
       "url": "https://t.me/s/jadwalkajiansunnah",
       "status": "ok",
-      "pengumuman": 166,
-      "jadwal": 99
+      "pengumuman": 160,
+      "jadwal": 107
     },
     {
       "id": "attaqwa-jatibening",
@@ -21,6 +21,24 @@
       "status": "ok",
       "pengumuman": 9,
       "jadwal": 9
+    },
+    {
+      "id": "darussalam-cibubur",
+      "nama": "Masjid Darussalam Cibubur",
+      "tipe": "website",
+      "url": "https://darussalam.id/live/",
+      "status": "ok",
+      "pengumuman": 0,
+      "jadwal": 0
+    },
+    {
+      "id": "istiqlal-rutin",
+      "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+      "tipe": "website",
+      "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+      "status": "ok",
+      "pengumuman": 4,
+      "jadwal": 4
     }
   ],
   "catatan": "Data diambil otomatis dari pengumuman publik. Selalu cek sumber asli sebelum berangkat."

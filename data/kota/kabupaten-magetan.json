@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-12T00:32:07+00:00",
+  "wilayah": {
+    "kode": "35.20",
+    "kabkota": "Kabupaten Magetan",
+    "provinsi": "Jawa Timur",
+    "slug": "kabupaten-magetan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "afb935e4e721",
+      "judul": null,
+      "tema": "Tafsir Ibnu Katsir",
+      "kitab": "Ad-Daa' Wa Ad-Dawaa",
+      "ustadz": [
+        "Ustadzah Ummu Haura"
+      ],
+      "tanggal": "2026-10-12",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-12T08:00:00+07:00",
+      "tempat": {
+        "nama": "Rumah Qur'an Darussunnah",
+        "alamat": "Jl. Magetan no. 37 GKB",
+        "peta": "https://goo.gl/maps/5hkqeHbnYw6oRajh9"
+      },
+      "wilayah": {
+        "kode": "35.20",
+        "kabkota": "Kabupaten Magetan",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-magetan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11649",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-11T20:06:12+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
+      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+    }
+  ]
+}

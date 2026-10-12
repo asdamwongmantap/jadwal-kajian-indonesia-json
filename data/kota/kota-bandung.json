@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-12T00:32:07+00:00",
+  "wilayah": {
+    "kode": "32.73",
+    "kabkota": "Kota Bandung",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-bandung",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "76f90026d041",
+      "judul": "Kajian Islam Ilmiyah",
+      "tema": "Jual Beli Akad Salam",
+      "kitab": "Taisirul Allam Syarah Umdatul Ahkam",
+      "ustadz": [
+        "Ustadz Hary Badar bin Marwan"
+      ],
+      "tanggal": "2026-10-12",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ash Shiddiq",
+        "alamat": "Jl. Kebon Gedang (Gg. Hj. Siti Aisyah) Rt.02 Rw.10 Maleer, Batununggal, Kota Bandung",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11631",
+          "diteruskan_dari": "Imam Malik Bandung",
+          "diposting": "2026-10-11T19:57:34+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
+      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-11T13:05:01+00:00",
+  "dibuat": "2026-10-12T00:32:07+00:00",
   "wilayah": {
     "kode": "52.72",
     "kabkota": "Kota Bima",
@@ -11,29 +11,29 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "798405a9c838",
-      "judul": "Kajian Kitab",
-      "tema": "Tafsir Ayat-Ayat Pilihan #20",
+      "id": "8ab603625f1c",
+      "judul": "Kajian Rutin Bulanan",
+      "tema": null,
       "kitab": null,
       "ustadz": [
-        "Ustadz Dr. Firanda Andirja, MA."
+        "Ustadzah Ummu Ihsan Choiriyah"
       ],
-      "tanggal": "2026-10-11",
+      "tanggal": "2026-10-12",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
-        "mulai": "18:00",
+        "mulai": "09:00",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-11T18:00:00+07:00",
+      "mulai_iso": "2026-10-12T09:00:00+07:00",
       "tempat": {
         "nama": "Masjid Al Ikhlas Dukuh Bima",
         "alamat": null,
-        "peta": null
+        "peta": "https://maps.app.goo.gl/Xtrw1TxCvrjpbPFG7"
       },
       "wilayah": {
         "kode": "52.72",
@@ -44,18 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": null,
+      "peserta": "akhwat",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11527",
+          "url": "https://t.me/jadwalkajiansunnah/11661",
           "diteruskan_dari": null,
-          "diposting": "2026-10-10T15:59:30+00:00"
+          "diposting": "2026-10-11T20:55:00+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
+      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
     }
   ]
 }

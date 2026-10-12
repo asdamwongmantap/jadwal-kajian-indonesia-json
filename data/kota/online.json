@@ -1,91 +1,9 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-11T13:05:01+00:00",
+  "dibuat": "2026-10-12T00:32:07+00:00",
   "wilayah": null,
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "301b580b02d8",
-      "judul": "KAJIAN RUTIN UNTUK UMUM In syaaAllah",
-      "tema": "Syarah Al-Ushul Ats-Tsalatsah",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Muhamad Arif Juni, Lc., M.S.I."
-      ],
-      "tanggal": "2026-10-11",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11539",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-10T16:08:14+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
-    },
-    {
-      "id": "b960384441f8",
-      "judul": "KAJIAN RUTIN UNTUK UMUM In syaaAllah",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Prof. Dr. Daud Rasyid, M.A."
-      ],
-      "tanggal": "2026-10-11",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11535",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-10T16:06:18+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
-    },
     {
       "id": "59e0c1c8616d",
       "judul": null,
@@ -125,7 +43,48 @@
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+    },
+    {
+      "id": "11601cf1549f",
+      "judul": "KAJIAN RUTIN UNTUK UMUM In syaaAllah",
+      "tema": "Fikih Asmaul Husna",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Aldhi Ferdian, Lc."
+      ],
+      "tanggal": "2026-10-12",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": "https://youtube.com/masjidashshaff",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11650",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-11T20:08:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
+      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
     }
   ]
 }

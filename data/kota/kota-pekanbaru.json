@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-11T13:05:01+00:00",
+  "dibuat": "2026-10-12T00:32:07+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,126 +8,32 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "4a095e61484c",
-      "judul": null,
-      "tema": "MENGENAL ALLAH LEBIH DEKAT Buku Panduan Fiqh Asmaul Husna Karya",
+      "id": "81cb97ddcc18",
+      "judul": "Kajian Rutin Ilmiah Khusus Muslimah",
+      "tema": "Fikih Asmaul Husna",
       "kitab": null,
       "ustadz": [
-        "Ustadz Maududi Abdullah, Lc."
+        "Ustadz Ahmad Doni, Lc."
       ],
-      "tanggal": "2026-10-11",
+      "tanggal": "2026-10-12",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "09:30",
         "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Jl. Kayu Putih Kel. Bina Widya Kec. Bina Widya, Pekanbaru, Riau",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11553",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-10T16:24:04+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
-    },
-    {
-      "id": "6556a1e9c416",
-      "judul": "Kajian Rutin Untuk Umum",
-      "tema": "Hadits-hadits Akhlaq (Karya Syaikh Abdurrazaq Hafidzahullah)",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Zamzami Juned, Lc."
-      ],
-      "tanggal": "2026-10-11",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Jami' Al Badr",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/FcTVZErVRS4ZLeoa8"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11560",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-10T16:33:58+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
-    },
-    {
-      "id": "92f8caa437c5",
-      "judul": "Info Kajian Rutin Ahad Shubuh Pekan 2",
-      "tema": null,
-      "kitab": "Arbain An Nawawiyah",
-      "ustadz": [
-        "Dr. Dasman Yahya Ma'ali, Lc., MA hafidzahulloh"
-      ],
-      "tanggal": "2026-10-11",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
+        "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-12T09:30:00+07:00",
       "tempat": {
-        "nama": "Masjid Abu Bakar Ash Shiddiq",
-        "alamat": "Jln. Soekarno Hatta GG. Pelita Labuh Baru Barat Kec.Payung Sekaki - Pekanbaru",
-        "peta": null
+        "nama": "Masjid Jami' Abu Darda",
+        "alamat": "Jl. Merak Sakti, Panam - Pekanbaru",
+        "peta": "https://maps.app.goo.gl/SKeHp8s9rPiD1JMp8?g_st=ac"
       },
       "wilayah": {
         "kode": "14.71",
@@ -138,65 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": "umum",
+      "peserta": "akhwat",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11551",
+          "url": "https://t.me/jadwalkajiansunnah/11660",
           "diteruskan_dari": null,
-          "diposting": "2026-10-10T16:21:19+00:00"
+          "diposting": "2026-10-11T20:25:37+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
-    },
-    {
-      "id": "e8a9e1c35e84",
-      "judul": "Info Kajian Ahad Malam Pekan 2,4",
-      "tema": "Kisah Para Sahabat",
-      "kitab": null,
-      "ustadz": [
-        "Dr. Hidayatullah Ismail, Lc., MA."
-      ],
-      "tanggal": "2026-10-11",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Fattah",
-        "alamat": "Jl. Purwodadi Sidomulyo Barat Tuah Madani Pekanbaru",
-        "peta": "https://share.google/4klNH3ELd0o6IpxTc"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11620",
-          "diteruskan_dari": "RadioROBBANI 91.1FM",
-          "diposting": "2026-10-11T09:42:18+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-11T13:05:01+00:00"
+      "pertama_dilihat": "2026-10-12T00:32:07+00:00",
+      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
     }
   ]
 }
