@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-13T02:34:15+00:00",
+  "dibuat": "2026-10-13T16:59:41+00:00",
   "wilayah": {
     "kode": "11.07",
     "kabkota": "Kabupaten Pidie",
@@ -8,8 +8,56 @@
     "slug": "kabupaten-pidie",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "f0c5da021ba7",
+      "judul": "Kajian Rabu Pagi",
+      "tema": "| Alumnus Daar El-Hadits Yaman",
+      "kitab": "Al Kabair",
+      "ustadz": [
+        "Ustadzah Imroatul Azizah",
+        "| Inspirator Muslimah"
+      ],
+      "tanggal": "2026-10-14",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-14T08:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Green Hills Residence",
+        "alamat": "| Maps",
+        "peta": "https://maps.app.goo.gl/hqLUhhh6TZwYnAhK8"
+      },
+      "wilayah": {
+        "kode": "11.07",
+        "kabkota": "Kabupaten Pidie",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-pidie",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11839",
+          "diteruskan_dari": "MUTIARA HIKMAH OFFICIAL",
+          "diposting": "2026-10-13T15:16:15+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T16:59:41+00:00",
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+    },
     {
       "id": "eeceb54211c4",
       "judul": null,
@@ -57,6 +105,54 @@
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
       "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+    },
+    {
+      "id": "e00beaf11da7",
+      "judul": null,
+      "tema": null,
+      "kitab": "Tadzkiratus Sami' Wal Mutakallim",
+      "ustadz": [
+        "Ustadz Khoirul Fajar, Lc.",
+        "Kitab Tadzkiratus Sami' Wal Mutakallim"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": "Setiap hari Selasa (kecuali pekan pertama)",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Mutiara Sunnah",
+        "alamat": "Perum. D'Ahsana Kedanyang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "11.07",
+        "kabkota": "Kabupaten Pidie",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-pidie",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11829",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-13T08:19:49+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T16:59:41+00:00",
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
     }
   ]
 }

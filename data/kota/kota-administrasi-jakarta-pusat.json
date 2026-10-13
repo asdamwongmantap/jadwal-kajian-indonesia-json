@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-13T02:34:15+00:00",
+  "dibuat": "2026-10-13T16:59:41+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -8,8 +8,102 @@
     "slug": "kota-administrasi-jakarta-pusat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 7,
   "kajian": [
+    {
+      "id": "41c929783b5b",
+      "judul": "Kajian Renungan Fajar",
+      "tema": "Meneladani Sosok Nabi Ibrahim",
+      "kitab": null,
+      "ustadz": [
+        "Dr. KH. Ahmad Husni Ismail, M.Ag."
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-13T16:59:41.692829+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T16:59:41+00:00",
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+    },
+    {
+      "id": "70c29f34521e",
+      "judul": "Kajian Dialog Zuhur",
+      "tema": "Tafsir Rawai’ul Bayan fi Tafsir Ayatil Ahkam",
+      "kitab": null,
+      "ustadz": [
+        "KH Mahmud Salim, MA."
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-13T16:59:41.692829+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T16:59:41+00:00",
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+    },
     {
       "id": "8d726665136b",
       "judul": "Kajian Khawamisy",
@@ -152,6 +246,53 @@
       "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
     },
     {
+      "id": "f8ce3aac05d7",
+      "judul": "Kajian Khawamisy",
+      "tema": "Tafsir At Tahrir Wattanwir (TAFSIR)",
+      "kitab": null,
+      "ustadz": [
+        "H. Fathurrahman Yahya, Lc, MA."
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-13T16:59:41.692829+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T16:59:41+00:00",
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+    },
+    {
       "id": "6b285788f1da",
       "judul": "Kajian Qobla Jumat",
       "tema": null,
@@ -194,7 +335,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T00:32:07+00:00",
-      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
     }
   ]
 }

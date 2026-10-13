@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-13T02:34:15+00:00",
+  "dibuat": "2026-10-13T16:59:41+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,7 +8,7 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
       "id": "a46f5630e50a",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
     },
     {
       "id": "65bb10ac37eb",
@@ -100,7 +100,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
     },
     {
       "id": "6c162c6bd8cc",
@@ -145,7 +145,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+    },
+    {
+      "id": "d33d420db0f0",
+      "judul": "Kajian Rutin Rabu Malam, Pekan Kedua, 14 Oktober 2026 • 4 Jumadil Awwal 1448 H",
+      "tema": "Kitab 40 Hadits Tentang Akhlak dan Adab Hadits Kedua Puluh Satu Adab di Jalan (Bagian Ke-2)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Khoirul Maktum, Lc."
+      ],
+      "tanggal": "2026-10-14",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid At-Taqwa Jatibening Satu",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "attaqwa-jatibening",
+          "nama": "Masjid At-Taqwa Jatibening Satu",
+          "url": "https://attaqwajatibening.com/berita/kajian-rutin-rabu-malam-pekan-kedua-14-oktober-2026-4-jumadil-awwal-1448-h",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-13T16:59:41.692829+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T16:59:41+00:00",
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
     }
   ]
 }

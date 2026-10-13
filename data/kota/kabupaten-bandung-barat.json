@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-13T02:34:15+00:00",
+  "dibuat": "2026-10-13T16:59:41+00:00",
   "wilayah": {
     "kode": "32.17",
     "kabkota": "Kabupaten Bandung Barat",
@@ -8,7 +8,7 @@
     "slug": "kabupaten-bandung-barat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
     {
       "id": "637d41b37f4c",
@@ -55,7 +55,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+    },
+    {
+      "id": "ee333f06cd59",
+      "judul": "Kajian Bareng Offline",
+      "tema": "Hadits ke-69",
+      "kitab": "Umdatul Ahkam",
+      "ustadz": [
+        "Ustadz Fandi Kasbara Harahap, S.Sy."
+      ],
+      "tanggal": "2026-10-14",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:15",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-14T16:15:00+07:00",
+      "tempat": {
+        "nama": "Masjid Umar bin Khattab",
+        "alamat": "Desa Selacau, Kec. Batujajar, Kab. Bandung Barat",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.17",
+        "kabkota": "Kabupaten Bandung Barat",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bandung-barat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11837",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-10-13T15:13:26+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T16:59:41+00:00",
+      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
     }
   ]
 }
