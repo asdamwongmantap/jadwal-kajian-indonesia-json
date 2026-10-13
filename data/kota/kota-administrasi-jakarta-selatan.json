@@ -1,0 +1,153 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-13T02:34:15+00:00",
+  "wilayah": {
+    "kode": "31.74",
+    "kabkota": "Kota Administrasi Jakarta Selatan",
+    "provinsi": "Daerah Khusus Ibukota Jakarta",
+    "slug": "kota-administrasi-jakarta-selatan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 3,
+  "kajian": [
+    {
+      "id": "21751fae1954",
+      "judul": "Kajian Rutin Bedah Buku Thibbun Nabawi",
+      "tema": "Alumnus Darul Hadits Dammaj-So'dah Yaman, Praktisi Thibbun Nabawi",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abdurrahman Dani"
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-13T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Fatimah Muhammad",
+        "alamat": "Jl. Tebet Barat Raya No. 44, Jakarta Selatan",
+        "peta": "https://maps.app.goo.gl/Kt5KFPXHSEiH6muU8"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11792",
+          "diteruskan_dari": "Kajian Tebet",
+          "diposting": "2026-10-13T00:48:24+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    },
+    {
+      "id": "4d8ee8c205ca",
+      "judul": "Kajian Mama Muslimah",
+      "tema": "Kitab Syarah Lum'atul I'tiqod",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Sofyan Chalid Ruray"
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-13T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Hidayah",
+        "alamat": "Villa Pejaten Mas, Jl. Pejaten Mas Raya no. 11, Pasar Minggu, Jakarta Selatan",
+        "peta": "https://maps.app.goo.gl/LrPToeBoKgdHu5X56?g_st=iw"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11761",
+          "diteruskan_dari": "Kajian MT Mama Muslimah",
+          "diposting": "2026-10-12T21:16:51+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    },
+    {
+      "id": "167512f448b9",
+      "judul": "Kajian Mama Muslimah pagi ini",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": true,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Hidayah",
+        "alamat": "Villa Pejaten Mas, Jl. Pejaten Mas Raya no. 11, Pasar Minggu, Jakarta Selatan",
+        "peta": "https://maps.app.goo.gl/LrPToeBoKgdHu5X56?g_st=iw"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11793",
+          "diteruskan_dari": "Kajian MT Mama Muslimah",
+          "diposting": "2026-10-13T00:49:04+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    }
+  ]
+}

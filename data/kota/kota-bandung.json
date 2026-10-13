@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-13T02:34:15+00:00",
+  "wilayah": {
+    "kode": "32.73",
+    "kabkota": "Kota Bandung",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-bandung",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "8d241b39426f",
+      "judul": null,
+      "tema": "Kapan Berdiri Ketika untuk Shalat (Kitab Al Lulu Wal Marjan)",
+      "kitab": null,
+      "ustadz": [
+        "Al Ustadz Muhammad Mundzir"
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Falaah",
+        "alamat": "Jl. Rajamantri Kidul No.6, Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11749",
+          "diteruskan_dari": "Pekerja Mengaji Channel",
+          "diposting": "2026-10-12T21:05:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    },
+    {
+      "id": "a10aea6ae4db",
+      "judul": "Kajian Islam Ilmiyah",
+      "tema": "Kebaikan di Bulan Ramadhan",
+      "kitab": "Syarah Riyadus Sholihin",
+      "ustadz": [
+        "Ustadz Hary Badar bin Marwan"
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid ashSHIDDIQ",
+        "alamat": "Jl. Kebon Gedang Gg. Hj. Siti Aisyah Rt 02 Rw 10 Maleer Bandung., (",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11773",
+          "diteruskan_dari": "Imam Malik Bandung",
+          "diposting": "2026-10-12T23:49:54+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    }
+  ]
+}

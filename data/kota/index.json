@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-12T19:07:25+00:00",
+  "dibuat": "2026-10-13T02:34:15+00:00",
   "kota": [
     {
       "slug": "kabupaten-bandung",
@@ -17,6 +17,22 @@
       "kode": "32.17",
       "jumlah": 1,
       "file": "kota/kabupaten-bandung-barat.json"
+    },
+    {
+      "slug": "kabupaten-bantul",
+      "kabkota": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode": "34.02",
+      "jumlah": 1,
+      "file": "kota/kabupaten-bantul.json"
+    },
+    {
+      "slug": "kabupaten-bekasi",
+      "kabkota": "Kabupaten Bekasi",
+      "provinsi": "Jawa Barat",
+      "kode": "32.16",
+      "jumlah": 1,
+      "file": "kota/kabupaten-bekasi.json"
     },
     {
       "slug": "kabupaten-ciamis",
@@ -47,8 +63,16 @@
       "kabkota": "Kabupaten Langkat",
       "provinsi": "Sumatera Utara",
       "kode": "12.05",
-      "jumlah": 1,
+      "jumlah": 5,
       "file": "kota/kabupaten-langkat.json"
+    },
+    {
+      "slug": "kabupaten-magetan",
+      "kabkota": "Kabupaten Magetan",
+      "provinsi": "Jawa Timur",
+      "kode": "35.20",
+      "jumlah": 1,
+      "file": "kota/kabupaten-magetan.json"
     },
     {
       "slug": "kabupaten-pidie",
@@ -59,12 +83,36 @@
       "file": "kota/kabupaten-pidie.json"
     },
     {
+      "slug": "kabupaten-purworejo",
+      "kabkota": "Kabupaten Purworejo",
+      "provinsi": "Jawa Tengah",
+      "kode": "33.06",
+      "jumlah": 1,
+      "file": "kota/kabupaten-purworejo.json"
+    },
+    {
+      "slug": "kota-administrasi-jakarta-barat",
+      "kabkota": "Kota Administrasi Jakarta Barat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode": "31.73",
+      "jumlah": 1,
+      "file": "kota/kota-administrasi-jakarta-barat.json"
+    },
+    {
       "slug": "kota-administrasi-jakarta-pusat",
       "kabkota": "Kota Administrasi Jakarta Pusat",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.71",
       "jumlah": 4,
       "file": "kota/kota-administrasi-jakarta-pusat.json"
+    },
+    {
+      "slug": "kota-administrasi-jakarta-selatan",
+      "kabkota": "Kota Administrasi Jakarta Selatan",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode": "31.74",
+      "jumlah": 3,
+      "file": "kota/kota-administrasi-jakarta-selatan.json"
     },
     {
       "slug": "kota-administrasi-jakarta-timur",
@@ -83,6 +131,22 @@
       "file": "kota/kota-bandar-lampung.json"
     },
     {
+      "slug": "kota-bandung",
+      "kabkota": "Kota Bandung",
+      "provinsi": "Jawa Barat",
+      "kode": "32.73",
+      "jumlah": 2,
+      "file": "kota/kota-bandung.json"
+    },
+    {
+      "slug": "kota-bekasi",
+      "kabkota": "Kota Bekasi",
+      "provinsi": "Jawa Barat",
+      "kode": "32.75",
+      "jumlah": 3,
+      "file": "kota/kota-bekasi.json"
+    },
+    {
       "slug": "kota-bogor",
       "kabkota": "Kota Bogor",
       "provinsi": "Jawa Barat",
@@ -95,7 +159,7 @@
       "kabkota": "Kota Depok",
       "provinsi": "Jawa Barat",
       "kode": "32.76",
-      "jumlah": 2,
+      "jumlah": 4,
       "file": "kota/kota-depok.json"
     },
     {
@@ -121,6 +185,22 @@
       "kode": "73.72",
       "jumlah": 1,
       "file": "kota/kota-parepare.json"
+    },
+    {
+      "slug": "kota-pekanbaru",
+      "kabkota": "Kota Pekanbaru",
+      "provinsi": "Riau",
+      "kode": "14.71",
+      "jumlah": 3,
+      "file": "kota/kota-pekanbaru.json"
+    },
+    {
+      "slug": "kota-semarang",
+      "kabkota": "Kota Semarang",
+      "provinsi": "Jawa Tengah",
+      "kode": "33.74",
+      "jumlah": 2,
+      "file": "kota/kota-semarang.json"
     },
     {
       "slug": "kota-yogyakarta",

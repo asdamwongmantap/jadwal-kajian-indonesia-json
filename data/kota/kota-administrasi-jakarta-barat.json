@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-13T02:34:15+00:00",
+  "wilayah": {
+    "kode": "31.73",
+    "kabkota": "Kota Administrasi Jakarta Barat",
+    "provinsi": "Daerah Khusus Ibukota Jakarta",
+    "slug": "kota-administrasi-jakarta-barat",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "8cb42427829e",
+      "judul": "KAJIAN SIRAH NABAWIYAH : Menuju Fathu Mekkah | Bagian 4",
+      "tema": "KAJIAN SIRAH NABAWIYAH : Menuju Fathu Mekkah | Bagian 4",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Halid Syar'ie, Lc."
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami Al-Mubarak",
+        "alamat": "Jl. Kebahagiaan No. 7A, Krukut, Taman Sari, Jakarta Barat, ( )",
+        "peta": "https://g.co/kgs/savHYzb"
+      },
+      "wilayah": {
+        "kode": "31.73",
+        "kabkota": "Kota Administrasi Jakarta Barat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-barat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11772",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T22:17:41+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    }
+  ]
+}

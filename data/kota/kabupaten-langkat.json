@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-12T19:07:25+00:00",
+  "dibuat": "2026-10-13T02:34:15+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,8 +8,62 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 5,
   "kajian": [
+    {
+      "id": "53e6ab0043ab",
+      "judul": null,
+      "tema": "Ketika Amal Tak Bisa Lagi Bisa Disembunyikan",
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Imroatul Azizah"
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-13T08:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Muthi'in",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11766",
+          "diteruskan_dari": "KAJIAN MUSLIMAH KHASANAH",
+          "diposting": "2026-10-12T22:11:13+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11767",
+          "diteruskan_dari": "KAJIAN MUSLIMAH KHASANAH",
+          "diposting": "2026-10-12T22:11:13+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    },
     {
       "id": "ac676110967e",
       "judul": "Kajian Kitab Adabul Mufrod",
@@ -55,7 +109,148 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-12T19:07:25+00:00"
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    },
+    {
+      "id": "b7cb53b313e9",
+      "judul": "Majelis Ilmu",
+      "tema": "Akhlak Mulia Dalam Rumah Tangga",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Ihsan Al Atsari"
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Sd Nabawi Islamic School",
+        "alamat": "Jl.Pegambiran no.24 Rawamangun, JakartaTimur, , 021 4897112",
+        "peta": "https://goo.gl/maps/i8DmWYPVi482"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://m.youtube.com/channel/UCaMqIbr6jKGsRqu8Qt7f-jA",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11778",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T23:57:48+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    },
+    {
+      "id": "ef90147aa9c1",
+      "judul": "KAJIAN SIRAH NABAWIYAH : Menuju Fathu Mekkah | Bagian 4",
+      "tema": "KAJIAN SIRAH NABAWIYAH : Menuju Fathu Mekkah | Bagian 4",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Halid Syar'ie, Lc."
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami Al-Mubarak",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11791",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-13T00:13:08+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    },
+    {
+      "id": "f041fedfd0b2",
+      "judul": null,
+      "tema": "Sikap Ahlus Sunnah Kepada Sahabat Nabi dan Ahlul Bait",
+      "kitab": "Intisari Aqidah",
+      "ustadz": [
+        "Ustadz Pamuji Hadi Waluyo, Lc."
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Musholla Nurul Istiqomah",
+        "alamat": "Narahubung: 0813-1645-3253",
+        "peta": "https://goo.gl/maps/MrnZEUdQw3K2"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11742",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T20:55:08+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
     }
   ]
 }

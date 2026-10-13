@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-13T02:34:15+00:00",
+  "wilayah": {
+    "kode": "34.02",
+    "kabkota": "Kabupaten Bantul",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "slug": "kabupaten-bantul",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "f68188779928",
+      "judul": "Kajian Selasa Pagi",
+      "tema": "| Alumnus Daar El-Hadits Yaman",
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Imroatul Azizah",
+        "| Inspirator Muslimah"
+      ],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-13T08:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Muthi'in",
+        "alamat": "| Wonocatur Banguntapan Bantul, | Maps",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.02",
+        "kabkota": "Kabupaten Bantul",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-bantul",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11734",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T20:50:37+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    }
+  ]
+}

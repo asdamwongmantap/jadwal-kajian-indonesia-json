@@ -1,0 +1,59 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-13T02:34:15+00:00",
+  "wilayah": {
+    "kode": "32.16",
+    "kabkota": "Kabupaten Bekasi",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bekasi",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "5af43ff96143",
+      "judul": "Kajian Muslimah",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-13",
+      "tanggal_perkiraan": true,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dhuha",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Musholla Ar Rahman (Cluster Aquatic Garden)",
+        "alamat": "Grand Wisata, Lambangjaya, Kec. Tambun Sel., Kab. Bekasi, Jawa Barat 17514",
+        "peta": "https://maps.app.goo.gl/4mMAEwmFLTZy8s8J6"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11736",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-12T20:51:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
+      "terakhir_dilihat": "2026-10-13T02:34:15+00:00"
+    }
+  ]
+}
