@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-13T16:59:41+00:00",
+  "dibuat": "2026-10-14T00:17:48+00:00",
   "wilayah": {
     "kode": "33.74",
     "kabkota": "Kota Semarang",
@@ -11,29 +11,29 @@
   "jumlah": 2,
   "kajian": [
     {
-      "id": "52e1ba3a7668",
-      "judul": "Kajian Rutin Uau Official, Masjid Ibadurrahman Semarang Indah & Ykss",
-      "tema": "Wajib-Wajib Shalat",
-      "kitab": "Al-Mulakhasul Fiqhi",
+      "id": "398c88be7c68",
+      "judul": null,
+      "tema": "Bahasa Arab Shorof (Kitab Tafsir Kilat)",
+      "kitab": "Bahasa Arab Amsilati",
       "ustadz": [
-        "Ustadz Abu Umair Kuswoyo"
+        "Ustadz Teguh Priyono, M.Pd."
       ],
-      "tanggal": "2026-10-13",
+      "tanggal": "2026-10-14",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "mulai": "08:00",
+        "selesai": "09:00",
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-14T08:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Ibadurrahman Semarang Indah",
-        "alamat": "Jl. Semarang Indah Blok C/X/1",
-        "peta": "https://maps.app.goo.gl/QXTxviVxdWGqfhyr7?g_st=aw"
+        "nama": "Masjid Nurus Sunnah (lantai 2)",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "peta": null
       },
       "wilayah": {
         "kode": "33.74",
@@ -49,26 +49,26 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11753",
-          "diteruskan_dari": "Abu Umair Official",
-          "diposting": "2026-10-12T21:08:42+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/11847",
+          "diteruskan_dari": "Masjid Nurussunnah",
+          "diposting": "2026-10-13T21:26:26+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
     },
     {
-      "id": "64b41ad32d00",
+      "id": "20ffc7e2ac5c",
       "judul": null,
-      "tema": "Nasehat-Nasehat Salman Al-Farisi Radhiyallahu Anhu (bagian Ke-2)",
-      "kitab": "Mawa'izh Shahabah",
+      "tema": "Jinayah (bagian Ke-2)",
+      "kitab": "Bulughul Maram",
       "ustadz": [
-        "Ustadz Miftah Farid, Lc., MA., M.H.",
-        "• Alumni Universitas Islam Madinah"
+        "Ustadz Abdul Hakim Rahmatulloh, Lc.",
+        "• Alumni LIPIA Jakarta"
       ],
-      "tanggal": "2026-10-13",
+      "tanggal": "2026-10-14",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -97,13 +97,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11751",
+          "url": "https://t.me/jadwalkajiansunnah/11849",
           "diteruskan_dari": "Masjid Nurussunnah",
-          "diposting": "2026-10-12T21:06:32+00:00"
+          "diposting": "2026-10-13T21:26:26+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
     }
   ]
 }

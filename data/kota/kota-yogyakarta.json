@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-13T16:59:41+00:00",
+  "dibuat": "2026-10-14T00:17:48+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,8 +8,55 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "23cce44104e1",
+      "judul": "Kajian Rutin Rabu Petang & Mulazamah",
+      "tema": null,
+      "kitab": "Ad-Daa' wa Ad-Dawaa",
+      "ustadz": [
+        "Ustadz Afifi Abdul Wadud, B.A."
+      ],
+      "tanggal": "2026-10-14",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Pogung Raya",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11854",
+          "diteruskan_dari": "Masjid Pogung Raya - MPR",
+          "diposting": "2026-10-13T22:00:04+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+    },
     {
       "id": "2ff722a839c1",
       "judul": "Dauroh Fiqh Muamalah",
@@ -102,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
     }
   ]
 }

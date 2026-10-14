@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-13T16:59:41+00:00",
+  "dibuat": "2026-10-14T00:17:48+00:00",
   "wilayah": {
     "kode": "32.17",
     "kabkota": "Kabupaten Bandung Barat",
@@ -11,28 +11,28 @@
   "jumlah": 2,
   "kajian": [
     {
-      "id": "637d41b37f4c",
-      "judul": "Kajian Bareng Offline",
-      "tema": "50 Kaidah kehidupan dalam Hadits-hadits Nabi",
-      "kitab": "Qawaid Nabawiyyah",
+      "id": "ae611a301655",
+      "judul": "DAURAH QURAN HAALATUL HURUF - Pertemuan ke 2",
+      "tema": null,
+      "kitab": null,
       "ustadz": [
-        "Ustadz Asep Zaenudin bin Anif Suwardani"
+        "Ustadz Ganjar Abu Muhammad 'ala"
       ],
-      "tanggal": "2026-10-13",
+      "tanggal": "2026-10-14",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "08:30",
         "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-14T08:30:00+07:00",
       "tempat": {
-        "nama": "Masjid Umar bin Khattab",
-        "alamat": "Desa Selacau, Kec. Batujajar, Kab. Bandung Barat",
+        "nama": "Masjid Ibnu Abbas",
+        "alamat": "Mahad Al Jazariy, Wangunsari, Lembang, Kab. Bandung Barat",
         "peta": null
       },
       "wilayah": {
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11708",
-          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
-          "diposting": "2026-10-12T10:36:19+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/11881",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-13T22:18:51+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
     },
     {
       "id": "ee333f06cd59",
@@ -102,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-13T16:59:41+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
     }
   ]
 }

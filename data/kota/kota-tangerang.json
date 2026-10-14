@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-14T00:17:48+00:00",
+  "wilayah": {
+    "kode": "36.71",
+    "kabkota": "Kota Tangerang",
+    "provinsi": "Banten",
+    "slug": "kota-tangerang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "086c704f921a",
+      "judul": null,
+      "tema": "Kitab Al Arbaunal Jiyad Fik Tarbiyatul Awlad",
+      "kitab": "Al Adab Al Mufrad, Orang yang baik di dunia dialah yang mendapat perlakuan baik di akhirat",
+      "ustadz": [
+        "Ustadz Jajang Ibnu Hajar, Lc."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": "》Waktu : 08.30 – 10.00 WIB (setiap senin) (khusus akhwat)",
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Musholla Baitti Jannati",
+        "alamat": "Kompleks Baitti Jannati - Islamic Village",
+        "peta": "https://maps.app.goo.gl/Z2U6xiqfwJQYCwtW7?g_st=ic"
+      },
+      "wilayah": {
+        "kode": "36.71",
+        "kabkota": "Kota Tangerang",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11797",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-13T00:50:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+    }
+  ]
+}

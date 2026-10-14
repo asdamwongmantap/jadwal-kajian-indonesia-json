@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-13T16:59:41+00:00",
+  "dibuat": "2026-10-14T00:17:48+00:00",
   "wilayah": {
     "kode": "32.76",
     "kabkota": "Kota Depok",
@@ -8,173 +8,32 @@
     "slug": "kota-depok",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "bb9733651c8b",
-      "judul": "Kajian Khusus Muslimah",
-      "tema": "Kajian Hadits Ahkam dari Kitab",
+      "id": "f67651f8e2c0",
+      "judul": "Kajian Spesial Tematik Mt As-Sunnah Depok",
+      "tema": "Hindari Ghibah",
       "kitab": null,
       "ustadz": [
-        "Ustadz Zakariyal Anshari, Lc., M.pd."
+        "Ustadz MAUDUDI ABDULLAH, LC. @maududiabdullah"
       ],
-      "tanggal": "2026-10-13",
+      "tanggal": "2026-10-14",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
-        "mulai": "13:00",
-        "selesai": "14:30",
+        "mulai": "09:00",
+        "selesai": "11:00",
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-13T13:00:00+07:00",
+      "mulai_iso": "2026-10-14T09:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Ar Riyadh Depok",
-        "alamat": "Jl. Kolintang 2, Mekarjaya, Sukmajaya, Depok 2 Tengah 16411",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.76",
-        "kabkota": "Kota Depok",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-depok",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11725",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-12T15:17:27+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
-    },
-    {
-      "id": "0312cf09f92f",
-      "judul": "Kajian Tematik Spesial",
-      "tema": "Mungkin Kita Munafiq",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Fatahillah Aly, S.ag."
-      ],
-      "tanggal": "2026-10-13",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ar Riyadh Depok",
-        "alamat": "Jl. Kolintang 2, Mekarjaya, Sukmajaya, Depok 2 Tengah 16411",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.76",
-        "kabkota": "Kota Depok",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-depok",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": "https://youtube.com/@MasjidAr-RiyadhDepok",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11723",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-12T15:15:49+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
-    },
-    {
-      "id": "691ff90489fe",
-      "judul": "kajian rutin pekanan di Masjid Al Adhim dan kajian ini terbuka untuk umum",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dr. Ali Saman Hasan, Lc., MA."
-      ],
-      "tanggal": "2026-10-13",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Adhim Jl. Andara Raya No.32",
-        "alamat": "Pangkalan Jati Baru, Kec. Cinere, Kota Depok, Jawa Barat 16514",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.76",
-        "kabkota": "Kota Depok",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-depok",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11732",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-12T20:48:21+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
-    },
-    {
-      "id": "7838493465bb",
-      "judul": null,
-      "tema": "Kaidah Ketiga Dalam Memahami Syirik",
-      "kitab": "Aqidah",
-      "ustadz": [
-        "Ustadz Gigih Surya Nugraha. Sh"
-      ],
-      "tanggal": "2026-10-13",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Imam Asy Syafi'i (mias)",
-        "alamat": "Jl. Raden Saleh, Gg. Persahabatan No.69, Sukmajaya, Depok, GMaps: s.id/miasdepok",
-        "peta": null
+        "nama": "Masjid Al-Lathiif Lantai 3 Pesona Square Mall",
+        "alamat": "Jl. Ir. H. Juanda No.22a, Kota Depok, Jawa Barat 16418",
+        "peta": "https://maps.app.goo.gl/Uy2TqB1683fg7mJE7"
       },
       "wilayah": {
         "kode": "32.76",
@@ -190,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11789",
+          "url": "https://t.me/jadwalkajiansunnah/11910",
           "diteruskan_dari": null,
-          "diposting": "2026-10-13T00:12:07+00:00"
+          "diposting": "2026-10-14T00:03:39+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
     }
   ]
 }

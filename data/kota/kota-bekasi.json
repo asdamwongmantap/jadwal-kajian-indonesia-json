@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-13T16:59:41+00:00",
+  "dibuat": "2026-10-14T00:17:48+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,145 +8,8 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "a46f5630e50a",
-      "judul": "Kajian Rutin Selasa Pekan Ke-2",
-      "tema": null,
-      "kitab": "Harta Haram Muamalat Kontemporer)",
-      "ustadz": [
-        "Ustadz Dr. Erwandi"
-      ],
-      "tanggal": "2026-10-13",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": "11:00",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-13T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Baitul Haq",
-        "alamat": "Purigading, Jatimelati, Bekasi",
-        "peta": "https://g.co/kgs/WSMCf4"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11741",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-12T20:53:44+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
-    },
-    {
-      "id": "65bb10ac37eb",
-      "judul": "Kajian Muslimah",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-13",
-      "tanggal_perkiraan": true,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dhuha",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ar Risalah",
-        "alamat": "Jl. Kavling Pejuang 2 No. 14, RT. 04/08, Pejuang, Kec. Medansatria, Kota Bekasi, Jawa Barat 17131",
-        "peta": "https://maps.app.goo.gl/AYf5kwQjQXNgzPNi6"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11735",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-12T20:51:14+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
-    },
-    {
-      "id": "6c162c6bd8cc",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-13",
-      "tanggal_perkiraan": true,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurul Ihsan",
-        "alamat": "Jl. Titiran Raya Blok C RT. 004/004, Pondok Timur Indah 1, Mustikajaya, Kec. Mustikajaya, Kota Bekasi 17158",
-        "peta": "https://maps.app.goo.gl/vJgALd7iPavjoUgP9"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11739",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-12T20:52:48+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
-    },
     {
       "id": "d33d420db0f0",
       "judul": "Kajian Rutin Rabu Malam, Pekan Kedua, 14 Oktober 2026 • 4 Jumadil Awwal 1448 H",
@@ -192,7 +55,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-13T16:59:41+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+    },
+    {
+      "id": "1c22005effd3",
+      "judul": null,
+      "tema": "Kitab Aku mencintaimu karena Allah, Bersegera melakukan kewajiban dan tidak mengungkit kebaikan (Kajian Muslimah)",
+      "kitab": "Shahih Fadhail Amal",
+      "ustadz": [
+        "Ustadz Nizar Saad Jabal, Lc, M.Pd."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": "》Waktu : Ba'da Maghrib – selesai (setiap senin)",
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Assalam Jakasampurna",
+        "alamat": "Jl. Jatiluhur Raya, Kav.19 Jakasampurna, Bekasi Barat",
+        "peta": "https://maps.app.goo.gl/v2ZdkoZmkYCrCxSA6"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11798",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-13T00:50:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
     }
   ]
 }

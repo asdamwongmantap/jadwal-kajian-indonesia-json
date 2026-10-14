@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-13T16:59:41+00:00",
+  "dibuat": "2026-10-14T00:17:48+00:00",
   "wilayah": {
     "kode": "34.02",
     "kabkota": "Kabupaten Bantul",
@@ -11,29 +11,29 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "f68188779928",
-      "judul": "Kajian Selasa Pagi",
+      "id": "464f6dff1704",
+      "judul": "Kajian Rabu Pagi",
       "tema": "| Alumnus Daar El-Hadits Yaman",
       "kitab": null,
       "ustadz": [
-        "Ustadzah Imroatul Azizah",
-        "| Inspirator Muslimah"
+        "Ustadz Hanan Yasir, MA.",
+        "| @ustadzhananyasir"
       ],
-      "tanggal": "2026-10-13",
+      "tanggal": "2026-10-14",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
-        "mulai": "08:30",
+        "mulai": "09:00",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-13T08:30:00+07:00",
+      "mulai_iso": "2026-10-14T09:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Al-Muthi'in",
-        "alamat": "| Wonocatur Banguntapan Bantul, | Maps",
+        "nama": "Masjid Al Muthi'in",
+        "alamat": "Wonocatur, Banguntapan,Bantul",
         "peta": null
       },
       "wilayah": {
@@ -50,13 +50,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11734",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-12T20:50:37+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/11914",
+          "diteruskan_dari": "MUTIARA HIKMAH OFFICIAL",
+          "diposting": "2026-10-14T00:05:05+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
     }
   ]
 }

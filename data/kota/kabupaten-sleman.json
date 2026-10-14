@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-14T00:17:48+00:00",
+  "wilayah": {
+    "kode": "34.04",
+    "kabkota": "Kabupaten Sleman",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "slug": "kabupaten-sleman",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "9caeeb0cb860",
+      "judul": null,
+      "tema": "PEMBATAL ISLAM\" | Pertemuan ke-17",
+      "kitab": "bit.ly/Kitab-AlWajibat",
+      "ustadz": [
+        "Ustadz Afifi Abdul Wadud, B.A."
+      ],
+      "tanggal": "2026-10-14",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "21:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-14T21:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Pogung Raya (MPR)",
+        "alamat": "Pogung Dalangan, Sinduadi, Mlati, Sleman",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.04",
+        "kabkota": "Kabupaten Sleman",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-sleman",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11868",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-13T22:07:33+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
+      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+    }
+  ]
+}
