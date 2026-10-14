@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,32 +8,32 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 7,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "954f4cd727fa",
-      "judul": null,
+      "id": "50d350cab517",
+      "judul": "Kajian Offline Majlis Taklim Darul Aisyah",
       "tema": null,
       "kitab": null,
       "ustadz": [
-        "Ustadz Ammi Nur Baits"
+        "Ustadz Muhammad Nur Yasin, Lc."
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": "16:00",
+        "mulai": "08:45",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-14T16:00:00+07:00",
+      "mulai_iso": "2026-10-15T08:45:00+07:00",
       "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": null
+        "nama": "Masjid Darul Aisyah",
+        "alamat": "Perumahan Darul Aisyah GKB",
+        "peta": "https://maps.app.goo.gl/B7nn7Nd9AyzAZLPy7?g_st=iw"
       },
       "wilayah": {
         "kode": "12.05",
@@ -42,300 +42,20 @@
         "slug": "kabupaten-langkat",
         "zona_waktu": "WIB"
       },
-      "mode": "online",
+      "mode": "offline",
       "streaming": null,
       "peserta": "akhwat",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11845",
-          "diteruskan_dari": "KAJIAN MUSLIMAH KHASANAH",
-          "diposting": "2026-10-13T21:25:04+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12004",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-14T21:10:14+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
-    },
-    {
-      "id": "28930bc52213",
-      "judul": "Kajian Bedah Kitab",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Zainudin Khuzairi"
-      ],
-      "tanggal": "2026-10-14",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Jami Babuttaqwa",
-        "alamat": "Jl. Kebantenan RT 006 RW 04",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11933",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-14T00:28:27+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-14T14:33:27+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
-    },
-    {
-      "id": "36d356fd7e6b",
-      "judul": "Info Kajian Bitv",
-      "tema": null,
-      "kitab": "Huquq Kibar As-Sinn fi al-Islam",
-      "ustadz": [
-        "Ustadz Anshory Hadi, Lc."
-      ],
-      "tanggal": "2026-10-14",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Jami' Al-Jihad Ciledug",
-        "alamat": "Maps. g.co/kgs/Hkexf1",
-        "peta": "https://g.co/kgs/Hkexf1"
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11874",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-13T22:13:58+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
-    },
-    {
-      "id": "701aab81763f",
-      "judul": "Info Kajian Sunnah Kuansing",
-      "tema": "Perjalanan setelah kiamat",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Firdaus Basyir As-Subayanjiy"
-      ],
-      "tanggal": "2026-10-14",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Imam Asy-Syafi'i",
-        "alamat": "Jalur 2 Karak, Taluk Kuantan - Riau",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11963",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-14T01:19:59+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-14T14:33:27+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
-    },
-    {
-      "id": "8f4b4e0658fb",
-      "judul": "Majelis Ilmu",
-      "tema": "MENDIRIKAN SHOLAT Bab: Rukun Islam yang ke 2",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Salim Bin Yahya Qibas"
-      ],
-      "tanggal": "2026-10-14",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Smp-Sma Nabawi School",
-        "alamat": "Jl.Sunan Giri no.5 Rawamangun, JakartaTimur, , 021 4897112",
-        "peta": "https://g.co/kgs/Jgt3PVb"
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": "https://m.youtube.com/channel/UCaMqIbr6jKGsRqu8Qt7f-jA",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11938",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-14T00:48:03+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-14T14:33:27+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
-    },
-    {
-      "id": "d308a86b0d76",
-      "judul": "KAJIAN ISLAM : Tafsir Al Qur'an | Al Kahf | Bagian 5 | Melanjutkan Pembahasan dari Ayat 56",
-      "tema": "KAJIAN ISLAM : Tafsir Al Qur'an | Al Kahf | Bagian 5 | Melanjutkan Pembahasan dari Ayat 56",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Naiim Luthfi Ambadar, Lc."
-      ],
-      "tanggal": "2026-10-14",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Jami Al-Mubarak",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11875",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-13T22:14:40+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
-    },
-    {
-      "id": "daf894e92ca8",
-      "judul": "Info Kajian Rutin Masjid Ar Raudhoh",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-14",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ar Raudhoh Teratak Buluh",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": "https://youtube.com/@ArRaudhohtv?si=5AOqZqEwnzH2SY7F",
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11919",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-14T00:19:02+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-14T14:33:27+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     }
   ]
 }

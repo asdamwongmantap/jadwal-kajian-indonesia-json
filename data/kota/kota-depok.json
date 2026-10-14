@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "32.76",
     "kabkota": "Kota Depok",
@@ -11,29 +11,29 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "f67651f8e2c0",
-      "judul": "Kajian Spesial Tematik Mt As-Sunnah Depok",
-      "tema": "Hindari Ghibah",
+      "id": "6a86668ea526",
+      "judul": null,
+      "tema": "Adab-Adab Peradilan",
       "kitab": null,
       "ustadz": [
-        "Ustadz MAUDUDI ABDULLAH, LC. @maududiabdullah"
+        "Ustadz Adam Badr Bajri Lc."
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": "09:00",
-        "selesai": "11:00",
-        "acuan_shalat": null,
-        "relasi": null
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-14T09:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Al-Lathiif Lantai 3 Pesona Square Mall",
-        "alamat": "Jl. Ir. H. Juanda No.22a, Kota Depok, Jawa Barat 16418",
-        "peta": "https://maps.app.goo.gl/Uy2TqB1683fg7mJE7"
+        "nama": "Masjid Imam Asy Syafi'i (mias)",
+        "alamat": "Jl. Raden Saleh, Gg. Persahabatan No.69, Sukmajaya, Depok, GMaps: s.id/miasdepok",
+        "peta": null
       },
       "wilayah": {
         "kode": "32.76",
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11910",
+          "url": "https://t.me/jadwalkajiansunnah/12011",
           "diteruskan_dari": null,
-          "diposting": "2026-10-14T00:03:39+00:00"
+          "diposting": "2026-10-14T21:14:45+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     }
   ]
 }

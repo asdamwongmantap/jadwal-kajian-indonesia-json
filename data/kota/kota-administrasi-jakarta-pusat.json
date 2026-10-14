@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -11,16 +11,16 @@
   "jumlah": 5,
   "kajian": [
     {
-      "id": "35240b1469dd",
+      "id": "22176836971c",
       "judul": "Kajian Khawamisy",
-      "tema": "Tafsir At Tahrir Wattanwir (TAFSIR)",
+      "tema": "Nashoihul Ibad (AQIDAH)",
       "kitab": null,
       "ustadz": [
-        "H. Fathurrahman Yahya, Lc, MA."
+        "H. Moch. Taufiqurrahman, MA."
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -51,23 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-14T00:17:48.419013+00:00"
+          "diposting": "2026-10-14T23:55:09.528270+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     },
     {
-      "id": "43571294d712",
+      "id": "df6a0fe70b60",
       "judul": "Kajian Dialog Zuhur",
-      "tema": "Tafsir Rawai’ul Bayan fi Tafsir Ayatil Ahkam",
+      "tema": "Kajian Tauhid Kitab Akidah Ahlussunnah Wal Jamaah",
       "kitab": null,
       "ustadz": [
-        "KH Mahmud Salim, MA."
+        "KH Rifki Ramdani, Lc, MA."
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -98,23 +98,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-14T00:17:48.419013+00:00"
+          "diposting": "2026-10-14T23:55:09.528270+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     },
     {
-      "id": "54e8d97ac4e1",
+      "id": "f7d4f75e04e6",
       "judul": "Kajian Renungan Fajar",
-      "tema": "Meneladani Sosok Nabi Ibrahim",
+      "tema": "Menjaga Keutuhan Bangsa",
       "kitab": null,
       "ustadz": [
-        "Dr. KH. Ahmad Husni Ismail, M.Ag."
+        "Laksamana TNI KH Asep Saepudin"
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -145,11 +145,11 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-14T00:17:48.419013+00:00"
+          "diposting": "2026-10-14T23:55:09.528270+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     },
     {
       "id": "6b285788f1da",
@@ -194,7 +194,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T00:32:07+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     },
     {
       "id": "ec3838040932",

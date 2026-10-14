@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -11,28 +11,29 @@
   "jumlah": 4,
   "kajian": [
     {
-      "id": "23cce44104e1",
-      "judul": "Kajian Rutin Rabu Petang & Mulazamah",
-      "tema": null,
-      "kitab": "Ad-Daa' wa Ad-Dawaa",
+      "id": "41fb39f4e6ec",
+      "judul": "Kajian Kamis Pagi",
+      "tema": "| Fikih Keluarga",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Afifi Abdul Wadud, B.A."
+        "Ustadz Hanan Yasir, MA.",
+        "| @ustadzhananyasir"
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "08:00",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-15T08:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Pogung Raya",
-        "alamat": null,
+        "nama": "Pesantren Lansia",
+        "alamat": "Sleman, Yogyakarta",
         "peta": null
       },
       "wilayah": {
@@ -42,44 +43,44 @@
         "slug": "kota-yogyakarta",
         "zona_waktu": "WIB"
       },
-      "mode": "hybrid",
+      "mode": "offline",
       "streaming": null,
-      "peserta": "umum",
+      "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11854",
-          "diteruskan_dari": "Masjid Pogung Raya - MPR",
-          "diposting": "2026-10-13T22:00:04+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12003",
+          "diteruskan_dari": "MUTIARA HIKMAH OFFICIAL",
+          "diposting": "2026-10-14T21:09:17+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     },
     {
-      "id": "39efabb93764",
-      "judul": "Kajian Rutin Kolaborasi Rabu Malam di Maa",
-      "tema": "Meraih Perlindungan dengan Keikhlasan",
-      "kitab": "Silsilah A'mal al-Qulub",
+      "id": "267469681b62",
+      "judul": "Kajian Rutin Kamis Buka Puasa",
+      "tema": "Empat Hadits, Satu Kehidupan: Memahami Inti Ajaran Islam",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Abunnada, S.Psi."
+        "Ustadz Arfan Arraihan Noor, Lc., M.Pd."
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "17:00",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-15T17:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Al Ashri Pogung Rejo",
-        "alamat": "Sinduadi, Mlati, Sleman, Yogyakarta",
+        "nama": "Masjid Pogung Raya (MPR)",
+        "alamat": "Pogung Kampung Hijrah",
         "peta": null
       },
       "wilayah": {
@@ -96,13 +97,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11983",
-          "diteruskan_dari": "Masjid Al 'Ashri Pogung Rejo",
-          "diposting": "2026-10-14T08:41:37+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12000",
+          "diteruskan_dari": "Masjid Pogung Raya - MPR",
+          "diposting": "2026-10-14T21:07:19+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T14:33:27+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     },
     {
       "id": "2ff722a839c1",

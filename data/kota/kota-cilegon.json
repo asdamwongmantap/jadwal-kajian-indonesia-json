@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "36.72",
     "kabkota": "Kota Cilegon",
@@ -8,31 +8,31 @@
     "slug": "kota-cilegon",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "fce1d1069478",
+      "id": "e76fcce5fafc",
       "judul": null,
-      "tema": "『 Kitab Tafsir Juz 'amma 』",
-      "kitab": null,
+      "tema": null,
+      "kitab": "At-Tauhid 』",
       "ustadz": [
-        "Ustadzah Hasanah Ummu Maryam"
+        "Ustadzah Rubeya Ummu Abdillah"
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": "09:15",
-        "selesai": "10:30",
+        "mulai": "16:00",
+        "selesai": "17:15",
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-14T09:15:00+07:00",
+      "mulai_iso": "2026-10-15T16:00:00+07:00",
       "tempat": {
         "nama": "Masjid Abu Bakar Ash-Shiddiq",
-        "alamat": "Perum Bumi Rakata Asri, Cilegon, Offline, Kajian ini GRATIS",
+        "alamat": "Perum Bumi Rakata Asri, Cilegon, Kajian ini GRATIS khusus Muslimah",
         "peta": null
       },
       "wilayah": {
@@ -42,67 +42,20 @@
         "slug": "kota-cilegon",
         "zona_waktu": "WIB"
       },
-      "mode": "offline",
+      "mode": "hybrid",
       "streaming": null,
-      "peserta": null,
+      "peserta": "akhwat",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11844",
+          "url": "https://t.me/jadwalkajiansunnah/11999",
           "diteruskan_dari": "🌹 Majelis Ilmu Muslimah Rakata 🌹",
-          "diposting": "2026-10-13T21:24:34+00:00"
+          "diposting": "2026-10-14T21:06:56+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
-    },
-    {
-      "id": "3a495cfc16a8",
-      "judul": "Kajian Rutin Ba'da Shubuh",
-      "tema": "Kaifa 'aamalahum Rasulullah Muhammad",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Hibban Muttabi Al Haq, SH"
-      ],
-      "tanggal": "2026-10-14",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Imam An-Nawawi",
-        "alamat": "Komplek Yayasan Al-Hanif Al-Atsariyah, Perumnas Cibeber Blok F, Cibeber - Cilegon",
-        "peta": "https://s.id/PetaMIAN"
-      },
-      "wilayah": {
-        "kode": "36.72",
-        "kabkota": "Kota Cilegon",
-        "provinsi": "Banten",
-        "slug": "kota-cilegon",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11840",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-13T15:18:42+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-13T16:59:41+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     }
   ]
 }

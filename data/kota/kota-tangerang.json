@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "36.71",
     "kabkota": "Kota Tangerang",
@@ -8,8 +8,55 @@
     "slug": "kota-tangerang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "b165c08d72b8",
+      "judul": "Kajian Tematik",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zaid Susanto, Lc."
+      ],
+      "tanggal": "2026-10-15",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Abu Bakar Ash-Shiddiq",
+        "alamat": "Jl. Akasia No. 1, RT/RW.: 004/003, Tajur, Ciledug, Tangerang",
+        "peta": "https://maps.app.goo.gl/RfNVPnpkkdXNx7yz5"
+      },
+      "wilayah": {
+        "kode": "36.71",
+        "kabkota": "Kota Tangerang",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12018",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T21:59:07+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
+    },
     {
       "id": "086c704f921a",
       "judul": null,
@@ -56,6 +103,53 @@
       ],
       "pertama_dilihat": "2026-10-14T00:17:48+00:00",
       "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+    },
+    {
+      "id": "e010e40f0287",
+      "judul": null,
+      "tema": "Kitab Tauhid Bab Larangan untuk menjadikan Allah sebagai perantara kepada mahkluk",
+      "kitab": "Al Mulakhash, Bab Tauhid bagian ke-2",
+      "ustadz": [
+        "Ustadz Abu Adam Abdul Aziz"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": "》Waktu : Ba'da Maghrib – isya (setiap rabu)",
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Hakim",
+        "alamat": "(Komplek Kehakiman), Jl. Kehakiman Raya, RT.002/RW.013, Tanah Tinggi, Kec. Tangerang, Kota Tangerang",
+        "peta": "https://goo.gl/maps/hgkqCtjaPvn"
+      },
+      "wilayah": {
+        "kode": "36.71",
+        "kabkota": "Kota Tangerang",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12036",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T22:10:02+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     }
   ]
 }

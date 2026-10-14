@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,8 +8,102 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "0ca32a4fb28e",
+      "judul": "Kajian Muslimah",
+      "tema": "SYARAH KITAB TAUHID (Kajian Kitab)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Luthfi Abdul Jabbar, Lc."
+      ],
+      "tanggal": "2026-10-15",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-15T10:00:00+07:00",
+      "tempat": {
+        "nama": "Rumah Kajian",
+        "alamat": "Jl. Kelapa Kopyor 7 B1 No.9 Duren Sawait Jakarta Timur",
+        "peta": "https://maps.app.goo.gl/7iBbTV62KHLTeFWh9"
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12001",
+          "diteruskan_dari": "R",
+          "diposting": "2026-10-14T21:08:35+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
+    },
+    {
+      "id": "b70f17cfd3b1",
+      "judul": null,
+      "tema": "Kitab Bulugul Maram",
+      "kitab": "4 Kaidah memahami Tauhid Dan Syirik, 6 Prinsip ahlus sunnah wal jamaah",
+      "ustadz": [
+        "Ustadz Abu Ya'la Kurnaedi, Lc, M.Pd."
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": true,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:30",
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Islam",
+        "alamat": "Jl. Nusa Indah VII No.10, RT.13/RW.3, Kel. Malaka Jaya, Kec. Duren Sawit, Jakarta Timur",
+        "peta": "https://maps.app.goo.gl/qbnoURMjhYwsAnFh7"
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12033",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T22:10:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
+    },
     {
       "id": "bbb31634806b",
       "judul": "Kajian Ilmiah",

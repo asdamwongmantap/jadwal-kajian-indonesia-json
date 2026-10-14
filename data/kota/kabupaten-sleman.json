@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "34.04",
     "kabkota": "Kabupaten Sleman",
@@ -11,29 +11,29 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "9caeeb0cb860",
-      "judul": null,
-      "tema": "PEMBATAL ISLAM\" | Pertemuan ke-17",
-      "kitab": "bit.ly/Kitab-AlWajibat",
+      "id": "d60cda0dd654",
+      "judul": "Kajian Umum",
+      "tema": null,
+      "kitab": null,
       "ustadz": [
-        "Ustadz Afifi Abdul Wadud, B.A."
+        "Ustadz Erlan Iskandar, S.T., M.Psi (Alumni Ma'had Al 'Ilmi Yogyak"
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": "21:00",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-14T21:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Pogung Raya (MPR)",
-        "alamat": "Pogung Dalangan, Sinduadi, Mlati, Sleman",
-        "peta": null
+        "nama": "Masjid Baiturrahman Klidon",
+        "alamat": "Jl. Besi Jangkang, Sukoharjo Ngaglik, Klidon, Sukoharjo, Kec. Sleman, Sleman",
+        "peta": "https://maps.app.goo.gl/xB3tjkXb1aSFvRPF6?g_st=ic"
       },
       "wilayah": {
         "kode": "34.04",
@@ -43,19 +43,19 @@
         "zona_waktu": "WIB"
       },
       "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
+      "streaming": "https://youtube.com/KakErlanBercerita",
+      "peserta": "anak",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11868",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-13T22:07:33+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/11990",
+          "diteruskan_dari": "Kak Erlan Bercerita",
+          "diposting": "2026-10-14T21:00:46+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     }
   ]
 }

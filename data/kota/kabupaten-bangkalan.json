@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-14T23:55:09+00:00",
+  "wilayah": {
+    "kode": "35.26",
+    "kabkota": "Kabupaten Bangkalan",
+    "provinsi": "Jawa Timur",
+    "slug": "kabupaten-bangkalan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "0893fd2480ee",
+      "judul": "Kajian Rutin Untuk Umum",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Sidqi Kamal Zimah, B.A."
+      ],
+      "tanggal": "2026-10-15",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-15T09:30:00+07:00",
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+      },
+      "wilayah": {
+        "kode": "35.26",
+        "kabkota": "Kabupaten Bangkalan",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-bangkalan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "online",
+      "streaming": "https://youtube.com/masjidashshaff",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12031",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T22:07:58+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
+    }
+  ]
+}

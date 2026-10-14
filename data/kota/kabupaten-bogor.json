@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "32.01",
     "kabkota": "Kabupaten Bogor",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-14T14:33:27+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,19 +8,19 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 4,
   "kajian": [
     {
-      "id": "92961263977d",
+      "id": "61af5107c657",
       "judul": "Majelis Ba'da Maghrib",
-      "tema": null,
-      "kitab": "Fikih Asma'ul Husna",
+      "tema": "Mahasiswa S2 Fakultas Aqidah Universitas Islam Madinah, KSA",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Abu Hanif Ali Parada, M.A."
+        "Ustadz Achmad Buchari Jawas, B.A."
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -49,13 +49,60 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11851",
+          "url": "https://t.me/jadwalkajiansunnah/11988",
           "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-10-13T21:28:34+00:00"
+          "diposting": "2026-10-14T21:00:10+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
+    },
+    {
+      "id": "ffd568ffa8b5",
+      "judul": null,
+      "tema": "Tafsir Surah Al Kahfi",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Gigih Surya Nugraha"
+      ],
+      "tanggal": "2026-10-15",
+      "tanggal_perkiraan": true,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Hikmah",
+        "alamat": "Komplek DDN II, Jl.Pangkalan Jati, Cilandak, Pondok Labu, Jakarta Selatan, 12450",
+        "peta": "https://maps.app.goo.gl/XNyRfo5p7uTFJVs79"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/channel/UCI7g3zu_9CCr1mv_-0yZ1fA",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12016",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T21:24:30+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     },
     {
       "id": "167512f448b9",
@@ -101,6 +148,53 @@
       ],
       "pertama_dilihat": "2026-10-13T02:34:15+00:00",
       "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+    },
+    {
+      "id": "e103e5f993f3",
+      "judul": null,
+      "tema": "Kitab Al kabair, Korupsi",
+      "kitab": "Uhsul Tsalatsah, Atas perintah Allah",
+      "ustadz": [
+        "Ustadz Yovin Abu Hammam"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": "》Waktu : 08.00 – 09.15 WIB (setiap rabu)",
+      "waktu": {
+        "mulai": "20:00",
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Iman",
+        "alamat": "(Blok M Square Mall, Lt.7), Jl. Melawai 5, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan",
+        "peta": "https://goo.gl/maps/p26d1YXFeeT2"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12034",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T22:10:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -11,29 +11,29 @@
   "jumlah": 2,
   "kajian": [
     {
-      "id": "d33d420db0f0",
-      "judul": "Kajian Rutin Rabu Malam, Pekan Kedua, 14 Oktober 2026 • 4 Jumadil Awwal 1448 H",
-      "tema": "Kitab 40 Hadits Tentang Akhlak dan Adab Hadits Kedua Puluh Satu Adab di Jalan (Bagian Ke-2)",
-      "kitab": null,
+      "id": "33a8bef1fddc",
+      "judul": "Kajian Muslimah",
+      "tema": null,
+      "kitab": "Amalan Hati",
       "ustadz": [
-        "Ustadz Khoirul Maktum, Lc."
+        "Ustadz Dr. Djazuli Ruhan Basyir, Lc., M.A."
       ],
-      "tanggal": "2026-10-14",
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "mulai": "09:30",
+        "selesai": "10:30",
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-15T09:30:00+07:00",
       "tempat": {
-        "nama": "Masjid At-Taqwa Jatibening Satu",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
+        "nama": "Masjid Al-Aqsha",
+        "alamat": "Kemang Pratama 1, Jalan Niaga Raya Bekasi",
+        "peta": "https://maps.app.goo.gl/ysB1Ka5nbtmKq8z1A?g_st=ac"
       },
       "wilayah": {
         "kode": "32.75",
@@ -44,18 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": null,
+      "peserta": "akhwat",
       "sumber": [
         {
-          "id": "attaqwa-jatibening",
-          "nama": "Masjid At-Taqwa Jatibening Satu",
-          "url": "https://attaqwajatibening.com/berita/kajian-rutin-rabu-malam-pekan-kedua-14-oktober-2026-4-jumadil-awwal-1448-h",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-13T16:59:41.692829+00:00"
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11986",
+          "diteruskan_dari": "Djazuli Ruhan Basyir",
+          "diposting": "2026-10-14T20:59:09+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-13T16:59:41+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     },
     {
       "id": "1c22005effd3",

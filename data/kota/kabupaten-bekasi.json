@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "32.16",
     "kabkota": "Kabupaten Bekasi",
@@ -11,27 +11,29 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "04edfdede1e5",
-      "judul": null,
+      "id": "8a1a58df88aa",
+      "judul": "Kajian Kamis Muslimah",
       "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-14",
+      "kitab": "hal. 494 dst.)",
+      "ustadz": [
+        "Ustadz Erfandoni Tarmidzi, Lc, M.H.I."
+      ],
+      "tanggal": "2026-10-15",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "mulai": "09:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-15T09:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Al-Jihad Cikarang Baru (MAJ)",
-        "alamat": "Jalan Beruang X Blok G, Jayamukti. Cikarang Pusat, Kab. Bekasi",
-        "peta": "https://maps.app.goo.gl/pi36r"
+        "nama": null,
+        "alamat": null,
+        "peta": null
       },
       "wilayah": {
         "kode": "32.16",
@@ -40,20 +42,20 @@
         "slug": "kabupaten-bekasi",
         "zona_waktu": "WIB"
       },
-      "mode": "offline",
+      "mode": "online",
       "streaming": null,
-      "peserta": "umum",
+      "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11870",
+          "url": "https://t.me/jadwalkajiansunnah/12040",
           "diteruskan_dari": null,
-          "diposting": "2026-10-13T22:11:21+00:00"
+          "diposting": "2026-10-14T22:13:49+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     }
   ]
 }

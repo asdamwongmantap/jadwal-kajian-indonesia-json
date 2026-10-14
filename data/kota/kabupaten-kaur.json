@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-14T23:55:09+00:00",
+  "wilayah": {
+    "kode": "17.04",
+    "kabkota": "Kabupaten Kaur",
+    "provinsi": "Bengkulu",
+    "slug": "kabupaten-kaur",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "3b61976c2351",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Erwandi Tarmizi, Lc., MA. dalam agenda Bedah Muamala"
+      ],
+      "tanggal": "2026-10-15",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-15T16:00:00+07:00",
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "17.04",
+        "kabkota": "Kabupaten Kaur",
+        "provinsi": "Bengkulu",
+        "slug": "kabupaten-kaur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "online",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12030",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T22:06:24+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
+    }
+  ]
+}

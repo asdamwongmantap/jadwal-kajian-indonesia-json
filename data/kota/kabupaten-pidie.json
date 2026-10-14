@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T14:33:27+00:00",
+  "dibuat": "2026-10-14T23:55:09+00:00",
   "wilayah": {
     "kode": "11.07",
     "kabkota": "Kabupaten Pidie",
@@ -8,103 +8,8 @@
     "slug": "kabupaten-pidie",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "f0c5da021ba7",
-      "judul": "Kajian Rabu Pagi",
-      "tema": "| Alumnus Daar El-Hadits Yaman",
-      "kitab": "Al Kabair",
-      "ustadz": [
-        "Ustadzah Imroatul Azizah",
-        "| Inspirator Muslimah"
-      ],
-      "tanggal": "2026-10-14",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "08:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-14T08:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid Green Hills Residence",
-        "alamat": "| Maps",
-        "peta": "https://maps.app.goo.gl/hqLUhhh6TZwYnAhK8"
-      },
-      "wilayah": {
-        "kode": "11.07",
-        "kabkota": "Kabupaten Pidie",
-        "provinsi": "Aceh",
-        "slug": "kabupaten-pidie",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11839",
-          "diteruskan_dari": "MUTIARA HIKMAH OFFICIAL",
-          "diposting": "2026-10-13T15:16:15+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-13T16:59:41+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
-    },
-    {
-      "id": "aabb2ae0271e",
-      "judul": null,
-      "tema": "Fiqih Muyassar",
-      "kitab": null,
-      "ustadz": [
-        "Ustadzah Ummu Salman"
-      ],
-      "tanggal": "2026-10-14",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-14T09:00:00+07:00",
-      "tempat": {
-        "nama": "Rumah Qur'an Mutiara Sunnah",
-        "alamat": "Ruko Green Garden A.2 No.38, (Barat Icon Mall)",
-        "peta": "https://g.co/kgs/vnkCeS"
-      },
-      "wilayah": {
-        "kode": "11.07",
-        "kabkota": "Kabupaten Pidie",
-        "provinsi": "Aceh",
-        "slug": "kabupaten-pidie",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11857",
-          "diteruskan_dari": "Gresik Mengaji",
-          "diposting": "2026-10-13T22:01:09+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
-    },
     {
       "id": "eeceb54211c4",
       "judul": null,
@@ -199,7 +104,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-13T16:59:41+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
     }
   ]
 }
