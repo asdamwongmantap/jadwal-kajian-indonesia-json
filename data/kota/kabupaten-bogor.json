@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-14T14:33:27+00:00",
+  "wilayah": {
+    "kode": "32.01",
+    "kabkota": "Kabupaten Bogor",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bogor",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "af10eaa13a26",
+      "judul": "Kajian Kamis Pagi Pekan Ketiga",
+      "tema": null,
+      "kitab": "Al Kabair",
+      "ustadz": [
+        "Ustadz Sofyan Chalid Ruray Lc."
+      ],
+      "tanggal": "2026-10-15",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-15T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Shafa Marwah",
+        "alamat": "Jl. Letda Nasir No.31, Nagrak, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16967",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.01",
+        "kabkota": "Kabupaten Bogor",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bogor",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11985",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T08:46:02+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T14:33:27+00:00",
+      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+    }
+  ]
+}

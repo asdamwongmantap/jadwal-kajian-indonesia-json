@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-14T14:33:27+00:00",
+  "wilayah": {
+    "kode": "14.71",
+    "kabkota": "Kota Pekanbaru",
+    "provinsi": "Riau",
+    "slug": "kota-pekanbaru",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "8e7066a87f9d",
+      "judul": "Kajian Rutin Hari Rabu Pekan 2",
+      "tema": "Topik Aqidah Dalam Al-Fatihah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Prof. DR. Ali Musri Semjan Putra, MA."
+      ],
+      "tanggal": "2026-10-14",
+      "tanggal_perkiraan": true,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ubay Bin Ka'ab",
+        "alamat": "Jl. Muhajirin, Arengka Atas, Kel. Sidomulyo Barat, Pekanbaru., (Link maps dapat dilihat pada bagian info paling bawah)",
+        "peta": "https://g.co/kgs/MvjUv1"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/c/MasjidUbayBinKaabPekanbaru",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11920",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T00:20:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T14:33:27+00:00",
+      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+    },
+    {
+      "id": "af61759e5a04",
+      "judul": "Kajian Rutin Rabu Malam Pekan 2,5",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Helmi Basri, Lc., MA."
+      ],
+      "tanggal": "2026-10-14",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Yaqien",
+        "alamat": "Sail - Pekanbaru",
+        "peta": "https://share.google/6TkawdydpJ0O6OfEN"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11944",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T00:58:44+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T14:33:27+00:00",
+      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+    }
+  ]
+}

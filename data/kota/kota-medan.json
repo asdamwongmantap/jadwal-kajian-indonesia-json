@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-14T14:33:27+00:00",
+  "wilayah": {
+    "kode": "12.71",
+    "kabkota": "Kota Medan",
+    "provinsi": "Sumatera Utara",
+    "slug": "kota-medan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "ca88224ee995",
+      "judul": null,
+      "tema": "Tafsir Juz 'amma",
+      "kitab": "Tafsir Juz 'amma",
+      "ustadz": [
+        "Ustadz Abu Maryam"
+      ],
+      "tanggal": "2026-10-14",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Muwahhidin",
+        "alamat": "Jl. Lorong Kabung, Medan Selayang, Kota Medan, (belakang kolam renang selayang -masuk dari Jl. SMKN 8 Medan)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.71",
+        "kabkota": "Kota Medan",
+        "provinsi": "Sumatera Utara",
+        "slug": "kota-medan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/11936",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-14T00:47:06+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-14T14:33:27+00:00",
+      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
+    }
+  ]
+}
