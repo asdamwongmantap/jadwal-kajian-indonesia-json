@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-15T14:13:27+00:00",
+  "dibuat": "2026-10-15T23:41:09+00:00",
   "wilayah": {
     "kode": "34.04",
     "kabkota": "Kabupaten Sleman",
@@ -11,29 +11,29 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "d60cda0dd654",
-      "judul": "Kajian Umum",
-      "tema": null,
-      "kitab": null,
+      "id": "46bfba8eef4e",
+      "judul": null,
+      "tema": "Menegakkan Keadilan di Tengah Keluarga",
+      "kitab": "Ahaditsul Akhlak karya Syaikh Abdur Razzaq Al Badr",
       "ustadz": [
-        "Ustadz Erlan Iskandar, S.T., M.Psi (Alumni Ma'had Al 'Ilmi Yogyak"
+        "Ustadz Doni Saputra, S.Pd."
       ],
-      "tanggal": "2026-10-15",
+      "tanggal": "2026-10-16",
       "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "hari": "Jumat",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "18:00",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": "Isya",
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-16T18:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Baiturrahman Klidon",
-        "alamat": "Jl. Besi Jangkang, Sukoharjo Ngaglik, Klidon, Sukoharjo, Kec. Sleman, Sleman",
-        "peta": "https://maps.app.goo.gl/xB3tjkXb1aSFvRPF6?g_st=ic"
+        "nama": "Masjid Al Hidayah",
+        "alamat": "Purwosari, Jalan Kaliurang Km. 6, Gang Bali C-16 SIA XVIII Purwosari, Sinduadi, Mlati, Purwosari, Sinduadi, Kabupaten Sleman, DIY 55284",
+        "peta": null
       },
       "wilayah": {
         "kode": "34.04",
@@ -42,20 +42,20 @@
         "slug": "kabupaten-sleman",
         "zona_waktu": "WIB"
       },
-      "mode": "hybrid",
-      "streaming": "https://youtube.com/KakErlanBercerita",
-      "peserta": "anak",
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11990",
-          "diteruskan_dari": "Kak Erlan Bercerita",
-          "diposting": "2026-10-14T21:00:46+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12135",
+          "diteruskan_dari": "Indonesia Bertauhid",
+          "diposting": "2026-10-15T20:49:06+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
-      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
+      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
+      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
     }
   ]
 }

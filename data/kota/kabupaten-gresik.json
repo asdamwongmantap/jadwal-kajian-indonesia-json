@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-15T14:13:27+00:00",
+  "dibuat": "2026-10-15T23:41:09+00:00",
   "wilayah": {
     "kode": "35.25",
     "kabkota": "Kabupaten Gresik",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-gresik",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "733c6fce2111",
+      "judul": null,
+      "tema": "Kitabul Jami",
+      "kitab": "Akhsharul Mukhtasharat",
+      "ustadz": [
+        "Ustadzah Yasaroh"
+      ],
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-16T08:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Darul Aisyah",
+        "alamat": "Darul Aisyah Regency, GKB, Gresik",
+        "peta": "https://goo.gl/maps/5hkqeHbnYw6oRajh9"
+      },
+      "wilayah": {
+        "kode": "35.25",
+        "kabkota": "Kabupaten Gresik",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-gresik",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12108",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-15T20:30:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
+      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
+    },
     {
       "id": "f8a62688c7fc",
       "judul": null,

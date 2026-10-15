@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-15T23:41:09+00:00",
+  "wilayah": {
+    "kode": "33.01",
+    "kabkota": "Kabupaten Cilacap",
+    "provinsi": "Jawa Tengah",
+    "slug": "kabupaten-cilacap",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "14c37bc13fcf",
+      "judul": "Info Kajian Khusus",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Al-Ustadzah Ummu Isma'il"
+      ],
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-16T09:00:00+07:00",
+      "tempat": {
+        "nama": "Ta Almanshuroh (tritih) Cilacap",
+        "alamat": "( Komplek Masjid Batu Taman Hati ), Jl. Semen Nusantara, Tritih Kulon, Cilacap",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.01",
+        "kabkota": "Kabupaten Cilacap",
+        "provinsi": "Jawa Tengah",
+        "slug": "kabupaten-cilacap",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12110",
+          "diteruskan_dari": "Al-Manshuroh Cilacap",
+          "diposting": "2026-10-15T20:32:55+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
+      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
+    }
+  ]
+}

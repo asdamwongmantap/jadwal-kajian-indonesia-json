@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-15T14:13:27+00:00",
+  "dibuat": "2026-10-15T23:41:09+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,113 +8,19 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "ae3a0ed2e92e",
-      "judul": "Kajian Bareng Offline",
-      "tema": null,
-      "kitab": "A'malul Qulub)",
+      "id": "f530061d73dc",
+      "judul": "Kajian Al-Mughni Center For Islamic Studies",
+      "tema": "Berhati-Hatilah dari Fitnah Dunia dan Wanita",
+      "kitab": "Riyadhush-Shalihin",
       "ustadz": [
-        "Ustadz Abu Haidar As-Sundawy"
+        "Ustadz Dr. Andy Octavian Latief, M.Sc."
       ],
-      "tanggal": "2026-10-15",
+      "tanggal": "2026-10-16",
       "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": "16:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-15T16:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Agung Al-Ukhuwwah",
-        "alamat": "Jl.Wastukencana No. 27, Kota Bandung",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11997",
-          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
-          "diposting": "2026-10-14T21:05:39+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
-      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
-    },
-    {
-      "id": "ae2ad090500a",
-      "judul": "Kajian Bareng Offline",
-      "tema": "Hadits Ke-44",
-      "kitab": "Arba'in An-Nawawi",
-      "ustadz": [
-        "Ustadz Hary Badar bin Marwan"
-      ],
-      "tanggal": "2026-10-15",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": "20:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-15T20:00:00+07:00",
-      "tempat": {
-        "nama": "Studio MIMBA TV",
-        "alamat": "Jl. Kebon Gedang No. 99, Gatot Subroto, Kota Bandung",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11998",
-          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
-          "diposting": "2026-10-14T21:05:39+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
-      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
-    },
-    {
-      "id": "ead044e760c6",
-      "judul": "Kajian Rutin Kamis Pekan Ketiga",
-      "tema": "Pengaruh Akidah Terhadap Kepribadian Seseorang",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Yahya Abdul Aziz"
-      ],
-      "tanggal": "2026-10-15",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "hari": "Jumat",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -125,9 +31,9 @@
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid ashSHIDDIQ",
-        "alamat": "Jl. Kebon Gedang (Gg. Hj. Siti Aisyah) RT 02 RW 10, Maleer, Batununggal, Kota Bandung",
-        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
+        "nama": "Masjid An-Naafi",
+        "alamat": "Jl. Dago Pakar Permai 7, Komp. Resort Dago Pakar Bandung",
+        "peta": null
       },
       "wilayah": {
         "kode": "32.73",
@@ -136,27 +42,20 @@
         "slug": "kota-bandung",
         "zona_waktu": "WIB"
       },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/@almughnicenter",
+      "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11995",
-          "diteruskan_dari": "Imam Malik Bandung",
-          "diposting": "2026-10-14T21:04:38+00:00"
-        },
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12097",
-          "diteruskan_dari": "Imam Malik Bandung",
-          "diposting": "2026-10-15T03:16:26+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12126",
+          "diteruskan_dari": "Al-Mughni Center for Islamic Studies",
+          "diposting": "2026-10-15T20:41:17+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
-      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
+      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
+      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-15T14:13:27+00:00",
+  "dibuat": "2026-10-15T23:41:09+00:00",
   "wilayah": {
     "kode": "32.01",
     "kabkota": "Kabupaten Bogor",
@@ -11,29 +11,29 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "af10eaa13a26",
-      "judul": "Kajian Kamis Pagi Pekan Ketiga",
+      "id": "8a6afb4160b6",
+      "judul": null,
       "tema": null,
-      "kitab": "Al Kabair",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Sofyan Chalid Ruray Lc."
+        "Ustadz Sahrul Abu Yahya Hafidzahulla"
       ],
-      "tanggal": "2026-10-15",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": true,
+      "hari": "Jumat",
       "rutin": null,
       "waktu": {
-        "mulai": "09:00",
-        "selesai": "11:00",
+        "mulai": "16:10",
+        "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-15T09:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Shafa Marwah",
-        "alamat": "Jl. Letda Nasir No.31, Nagrak, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16967",
-        "peta": null
+        "nama": "Masjid Urwah Al Bariqi",
+        "alamat": "VivoMall Galleria –Ground (G) Floor, Jl. Raya Jakarta–Bogor No. Km. 50, Cimandala,, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat",
+        "peta": "https://maps.app.goo.gl/xZ8qpE9hVEZzdFas7"
       },
       "wilayah": {
         "kode": "32.01",
@@ -44,18 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": "umum",
+      "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11985",
+          "url": "https://t.me/jadwalkajiansunnah/12165",
           "diteruskan_dari": null,
-          "diposting": "2026-10-14T08:46:02+00:00"
+          "diposting": "2026-10-15T21:31:37+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T14:33:27+00:00",
-      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
+      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
+      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
     }
   ]
 }

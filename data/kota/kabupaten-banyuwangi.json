@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-15T23:41:09+00:00",
+  "wilayah": {
+    "kode": "35.10",
+    "kabkota": "Kabupaten Banyuwangi",
+    "provinsi": "Jawa Timur",
+    "slug": "kabupaten-banyuwangi",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "2a52b2d85e75",
+      "judul": "Kajian Kitab",
+      "tema": "Tafsir Ibnu Katsir",
+      "kitab": "Off-line",
+      "ustadz": [
+        "Ustadz. Zainal Arifin Lc, M.Pd."
+      ],
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami' Cheesy Aljubnah",
+        "alamat": "Kp. Sempu-Jababeka 1",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "35.10",
+        "kabkota": "Kabupaten Banyuwangi",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-banyuwangi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12157",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-15T21:24:02+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
+      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
+    }
+  ]
+}

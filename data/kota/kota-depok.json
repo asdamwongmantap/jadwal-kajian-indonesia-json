@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-15T14:13:27+00:00",
+  "dibuat": "2026-10-15T23:41:09+00:00",
   "wilayah": {
     "kode": "32.76",
     "kabkota": "Kota Depok",
@@ -8,19 +8,66 @@
     "slug": "kota-depok",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
     {
-      "id": "6a86668ea526",
-      "judul": null,
-      "tema": "Adab-Adab Peradilan",
+      "id": "9480194bd557",
+      "judul": "Kajian Tematik Spesial Muslimah",
+      "tema": "Tips Nabawi Dalam Mengatasi Rumah Tangga",
       "kitab": null,
       "ustadz": [
-        "Ustadz Adam Badr Bajri Lc."
+        "Ustadz Dr. Emha Hasan Ayatullah, M.a."
       ],
-      "tanggal": "2026-10-15",
+      "tanggal": "2026-10-16",
       "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-16T08:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ar Riyadh Depok",
+        "alamat": "Jl. Kolintang 2, Mekarjaya, Sukmajaya, Depok 2 Tengah 16411",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12152",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-15T21:18:54+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
+      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
+    },
+    {
+      "id": "15ad01bb4997",
+      "judul": "Kajian TAFSIR IBNU KATSIR Juz 28",
+      "tema": "Kajian TAFSIR IBNU KATSIR Juz 28",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zulfi Askar, Lc."
+      ],
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -31,8 +78,55 @@
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Imam Asy Syafi'i (mias)",
-        "alamat": "Jl. Raden Saleh, Gg. Persahabatan No.69, Sukmajaya, Depok, GMaps: s.id/miasdepok",
+        "nama": "Masjid Ar Riyadh Depok",
+        "alamat": "Jl. Kolintang 2, Mekarjaya, Sukmajaya, Depok 2 Tengah 16411",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/@MasjidAr-RiyadhDepok",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12154",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-15T21:19:49+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
+      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
+    },
+    {
+      "id": "cb03c16c92ad",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz TB. Ali Ibn Zaenal Abidin, Lc."
+      ],
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Fatahillah",
+        "alamat": "Depok",
         "peta": null
       },
       "wilayah": {
@@ -49,13 +143,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12011",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-14T21:14:45+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12127",
+          "diteruskan_dari": "Masjid Fatahillah Depok",
+          "diposting": "2026-10-15T20:42:01+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
-      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
+      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
+      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
     }
   ]
 }
