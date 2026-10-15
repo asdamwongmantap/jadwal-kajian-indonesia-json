@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-15T14:13:27+00:00",
+  "wilayah": {
+    "kode": "14.01",
+    "kabkota": "Kabupaten Kampar",
+    "provinsi": "Riau",
+    "slug": "kabupaten-kampar",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "92b809b0a93e",
+      "judul": "Kajian Rutin Kamis Pekan 3",
+      "tema": null,
+      "kitab": "TADZKIROTUS SAMI' WAL MUTAKALLIM (Karya Imam Badrudin Ibnu Jamaah)#45",
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-10-15",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Thalhah bin 'Ubaidillah",
+        "alamat": "Air Tiris - Kampar",
+        "peta": "https://g.co/kgs/owR7NK"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12096",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-15T02:57:14+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-15T14:13:27+00:00",
+      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
+    },
+    {
+      "id": "bd923a1d9c8c",
+      "judul": "Kajian Kamis Malam Pekan 3",
+      "tema": "MANHAJIAH FIQH AL SUNNAH (Metode Memahami Hadits atau Sunnah)",
+      "kitab": null,
+      "ustadz": [
+        "Dr. Helmi Basri, Lc., MA."
+      ],
+      "tanggal": "2026-10-15",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Ihsan (Markaz Islamy Kampar)",
+        "alamat": "Bangkinang - Kampar",
+        "peta": "https://share.google/l9Pt5txZGdrnjDrWX"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12084",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-15T02:46:35+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-15T14:13:27+00:00",
+      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
+    }
+  ]
+}

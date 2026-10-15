@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-15T14:13:27+00:00",
+  "wilayah": {
+    "kode": "12.71",
+    "kabkota": "Kota Medan",
+    "provinsi": "Sumatera Utara",
+    "slug": "kota-medan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "d04a6965f302",
+      "judul": "Daurah Bedah Buku",
+      "tema": "Bagaimana Muslimah Berkarya",
+      "kitab": "Al Qiyamah Al Kubro",
+      "ustadz": [
+        "Ustadzah Ummu Hany"
+      ],
+      "tanggal": "2026-10-15",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": "12:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-15T09:30:00+07:00",
+      "tempat": {
+        "nama": "RAZ Hotel Convention Hall (Jl. Dr. Mansyur No. 186, Tj. Rejo, Kec. Medan Sunggal, Kota Medan)",
+        "alamat": "Info Panitia Kajian : 0812-6008-470 atau 0812-6374-0049, (KHUSUS AKHWAT / MUSLIMAH)",
+        "peta": "https://maps.app.goo.gl/RtRxpSqwvhtAtPrE7"
+      },
+      "wilayah": {
+        "kode": "12.71",
+        "kabkota": "Kota Medan",
+        "provinsi": "Sumatera Utara",
+        "slug": "kota-medan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12064",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-15T02:34:03+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-15T14:13:27+00:00",
+      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
+    }
+  ]
+}

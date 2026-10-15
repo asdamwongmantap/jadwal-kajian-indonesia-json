@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-15T14:13:27+00:00",
+  "wilayah": {
+    "kode": "14.71",
+    "kabkota": "Kota Pekanbaru",
+    "provinsi": "Riau",
+    "slug": "kota-pekanbaru",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "c1387894ead4",
+      "judul": "Tabligh Akbar Kota Teluk Kuantan",
+      "tema": "Agar Ilmu Agama Tak Menjadi Sebab Celaka",
+      "kitab": null,
+      "ustadz": [
+        "Syaikh Dr. Thalal bin Qasim bin Ahmad al Faqih, MA."
+      ],
+      "tanggal": "2026-10-15",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ponpes Ibnu Abbas",
+        "alamat": "Teluk Kuantan - Kuansing",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12078",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-15T02:42:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-15T14:13:27+00:00",
+      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
+    }
+  ]
+}

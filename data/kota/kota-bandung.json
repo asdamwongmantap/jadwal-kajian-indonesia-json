@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-14T23:55:09+00:00",
+  "dibuat": "2026-10-15T14:13:27+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-14T23:55:09+00:00",
-      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
+      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
     },
     {
       "id": "ae2ad090500a",
@@ -102,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-14T23:55:09+00:00",
-      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
+      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
     },
     {
       "id": "ead044e760c6",
@@ -146,10 +146,17 @@
           "url": "https://t.me/jadwalkajiansunnah/11995",
           "diteruskan_dari": "Imam Malik Bandung",
           "diposting": "2026-10-14T21:04:38+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12097",
+          "diteruskan_dari": "Imam Malik Bandung",
+          "diposting": "2026-10-15T03:16:26+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-14T23:55:09+00:00",
-      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
+      "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
     }
   ]
 }
