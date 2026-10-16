@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T14:01:09+00:00",
+  "dibuat": "2026-10-16T23:35:05+00:00",
   "wilayah": {
     "kode": "36.71",
     "kabkota": "Kota Tangerang",
@@ -8,55 +8,8 @@
     "slug": "kota-tangerang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "53b995f7444d",
-      "judul": "Kajian Rutin Bedah Kitab",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Mukhlis Abu Dzar"
-      ],
-      "tanggal": "2026-10-16",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Abu Bakar Ash-Shiddiq",
-        "alamat": "Jl. Akasia No. 1, RT/RW.: 004/003, Tajur, Ciledug, Tangerang",
-        "peta": "https://maps.app.goo.gl/RfNVPnpkkdXNx7yz5"
-      },
-      "wilayah": {
-        "kode": "36.71",
-        "kabkota": "Kota Tangerang",
-        "provinsi": "Banten",
-        "slug": "kota-tangerang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12212",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-16T01:54:42+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
-    },
     {
       "id": "086c704f921a",
       "judul": null,

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T14:01:09+00:00",
+  "dibuat": "2026-10-16T23:35:05+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,32 +8,127 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 6,
   "kajian": [
     {
-      "id": "62e30ddc299b",
-      "judul": "Tabligh Akbar Kota Pekanbaru Malam Ini",
-      "tema": null,
+      "id": "4bd81284e4d3",
+      "judul": null,
+      "tema": "Bisa Jadi Kematianmu Sudah Dekat",
       "kitab": null,
       "ustadz": [
-        "Ustadz Dr. Zainal Abidin, Lc., MA."
+        "Ustadz Dr. Zainal Abidin, Lc., M.M.",
+        "Jam 09.00 WIB s/d Selesai"
       ],
-      "tanggal": "2026-10-16",
+      "tanggal": "2026-10-17",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-17T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Imam Abu Daud",
+        "alamat": "Gg. Keluarga Tenayan Raya, Pekanbaru",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12255",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T15:07:40+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
+      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+    },
+    {
+      "id": "2845d0d912a3",
+      "judul": "Kajian Rutin Sabtu Subuh 1,3,5",
+      "tema": null,
+      "kitab": "SYARHUS SUNNAH (Imam Al Muzani rahimahullah)",
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": "Maghrib",
+        "acuan_shalat": "Subuh",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ubay bin Ka'ab",
+        "alamat": "Komp.SD IT An Najiyah Muhajirin - Pekanbaru",
+        "peta": "https://share.google/NTVx1PXwOqFjAfFep"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12264",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T15:12:14+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
+      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+    },
+    {
+      "id": "60dd10c4018c",
+      "judul": "Kajian Rutin Pekanan",
+      "tema": "Syarah Hadits Arbain Nawawi",
+      "kitab": "Syarah Hadits Arbain Nawawi",
+      "ustadz": [
+        "Ustadz Abu Dawud Ghanna"
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
         "relasi": "setelah"
       },
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Imam Syafii 2",
-        "alamat": "Jl. Soekarno Hatta - Pekanbaru",
-        "peta": null
+        "nama": "Masjid Al Madinah",
+        "alamat": "Jl. Ampi No 99 Marpoyan - Pekanbaru",
+        "peta": "https://maps.app.goo.gl/9ektXR5vNXfEZ7iW9"
       },
       "wilayah": {
         "kode": "14.71",
@@ -49,13 +144,154 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12223",
+          "url": "https://t.me/jadwalkajiansunnah/12262",
           "diteruskan_dari": null,
-          "diposting": "2026-10-16T03:03:49+00:00"
+          "diposting": "2026-10-16T15:10:58+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
+      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
+      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+    },
+    {
+      "id": "6e6bbced3df1",
+      "judul": "Kajian Rutin Hari Sabtu Subuh Pekan Ganjil",
+      "tema": null,
+      "kitab": "Syarhus Sunnah (Karya Imam Al-Muzani Rahimahullah) #23",
+      "ustadz": [
+        "Ustadz DR. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ubay Bin Ka'ab",
+        "alamat": "Jl. Muhajirin, Arengka Atas, Kel. Sidomulyo Barat, Pekanbaru., (Link maps dapat dilihat pada bagian info paling bawah)",
+        "peta": "https://g.co/kgs/MvjUv1"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/c/MasjidUbayBinKaabPekanbaru",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12269",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T15:14:39+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
+      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+    },
+    {
+      "id": "a52c28b03d03",
+      "judul": "Kajian Rutin Sabtu Subuh",
+      "tema": null,
+      "kitab": "ITTIHAFUL KIRAM (Tentang Akhlak & Adab dari Kitab Bulughul Maram) (Syarah Syaikh Shaleh Al Fauzan)",
+      "ustadz": [
+        "Dr. Hidayatullah Ismail, Lc., MA."
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid GURU",
+        "alamat": "Jl Arifin Ahmad - Pekanbaru",
+        "peta": "https://share.google/yXroWbM2jlhVGSOB2"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12266",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T15:13:13+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
+      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+    },
+    {
+      "id": "afb2dbd2b227",
+      "judul": "Kajian Islam Ilmiah Pekanan",
+      "tema": null,
+      "kitab": "Harta Haram Muamalat Kontemporer",
+      "ustadz": [
+        "Ustadz Gilang Prasetyo"
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al FURQON",
+        "alamat": "Jl. Karya Bersama No 26 Air Dingin Pekanbaru.., Map",
+        "peta": "https://maps.app.goo.gl/GnyzW9XiF33KFC1C9"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12256",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T15:07:51+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
+      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T14:01:09+00:00",
+  "dibuat": "2026-10-16T23:35:05+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,149 +8,8 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 6,
+  "jumlah": 3,
   "kajian": [
-    {
-      "id": "f00df2a664af",
-      "judul": "Kajian Kitab Takwa Sepanjang Hari",
-      "tema": "Takwa Ketika Kita Kerja",
-      "kitab": "Takwa Sepanjang Hari",
-      "ustadz": [
-        "Ustadz Pamuji Hadi Waluyo, Lc."
-      ],
-      "tanggal": "2026-10-16",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "07:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-16T07:30:00+07:00",
-      "tempat": {
-        "nama": "Musholla Baitul Jannah",
-        "alamat": "Multivision Tower lantai B1, - Jl. Kuningan Mulia Kav. 9B, Kuningan, Jakarta Selatan, Narahubung: 0811-1838-767",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12167",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-15T23:06:46+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
-    },
-    {
-      "id": "a6842668b070",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Akhlis Nurrohman, Lc."
-      ],
-      "tanggal": "2026-10-16",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "11:42",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-16T11:42:00+07:00",
-      "tempat": {
-        "nama": "Masjid Nurullah Kalibata City Insya Allah menyelenggarakan ibadah Shalat Jum'at",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12131",
-          "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-10-15T20:47:58+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
-    },
-    {
-      "id": "6fc4f7bd0254",
-      "judul": null,
-      "tema": "Kitab Ta'zim Qodris Sholah",
-      "kitab": "Mengundang Jama'ah Akhwat Dan Ikhwan",
-      "ustadz": [
-        "Ustadz DR Emha Hasan Ayatullah Lc MA."
-      ],
-      "tanggal": "2026-10-16",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "13:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-16T13:30:00+07:00",
-      "tempat": {
-        "nama": "Rumah Delima",
-        "alamat": "Perumahan Vila Delima,, Jalan Delima Raya Blok J6, Lebak Bulus Jakarta Selatan",
-        "peta": "https://maps.app.goo.gl/WvRVUUdeNmvNbW8m8"
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12225",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-16T03:06:32+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
-    },
     {
       "id": "7a45a222d7c8",
       "judul": "Majelis Ba'da Maghrib",
@@ -196,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
+      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
     },
     {
       "id": "167512f448b9",

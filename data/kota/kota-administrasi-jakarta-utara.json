@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T14:01:09+00:00",
+  "dibuat": "2026-10-16T23:35:05+00:00",
   "wilayah": {
     "kode": "31.72",
     "kabkota": "Kota Administrasi Jakarta Utara",
@@ -11,25 +11,25 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "b16cb5f144b4",
+      "id": "b17b3399f51e",
       "judul": null,
-      "tema": null,
+      "tema": "100 AMALAN RUTIN RASULULLAH Shallallahu 'alaihi wa sallam",
       "kitab": null,
       "ustadz": [
-        "Ustadz Zainudin Khuzairi, Spdi"
+        "Ustadz Zainudin Khuzairi"
       ],
-      "tanggal": "2026-10-16",
+      "tanggal": "2026-10-17",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
-        "mulai": "11:41",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-16T11:41:00+07:00",
+      "mulai_iso": null,
       "tempat": {
         "nama": "Masjid NURUD DA' WAH",
         "alamat": "Jl. Cipeucang V No. 48 Rt. 001/02 Rawabadak Utara, Koja. Jakarta Utara 14230",
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12181",
+          "url": "https://t.me/jadwalkajiansunnah/12302",
           "diteruskan_dari": null,
-          "diposting": "2026-10-16T01:26:45+00:00"
+          "diposting": "2026-10-16T23:34:02+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
+      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
+      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
     }
   ]
 }

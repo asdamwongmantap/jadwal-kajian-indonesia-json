@@ -1,0 +1,49 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-16T23:35:05+00:00",
+  "wilayah": null,
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "db07e89784e1",
+      "judul": "Kajian Khusus Akhwat",
+      "tema": "Hukum-Hukum Seputar Shalat Berjamaah bagi Muslimah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Aminah, Lc. M.H.I."
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": "17:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-17T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Ihsan Dukuh Zamrud",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": null,
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12291",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T23:21:34+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
+      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+    }
+  ]
+}

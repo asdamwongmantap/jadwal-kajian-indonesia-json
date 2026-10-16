@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T14:01:09+00:00",
+  "dibuat": "2026-10-16T23:35:05+00:00",
   "wilayah": {
     "kode": "32.16",
     "kabkota": "Kabupaten Bekasi",
@@ -8,32 +8,30 @@
     "slug": "kabupaten-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "018f47f80eed",
-      "judul": null,
-      "tema": "Menjaga Lisan Benteng Diri dari Bencana Ucapan",
+      "id": "79f7d0ccd220",
+      "judul": "Kajian Rutin Pekanan",
+      "tema": "Seri Tafsir Maudhu'i",
       "kitab": null,
-      "ustadz": [
-        "Ustadz Abu Zubair Hawaary, Lc., M.A."
-      ],
-      "tanggal": "2026-10-16",
+      "ustadz": [],
+      "tanggal": "2026-10-17",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": "Maghrib",
+        "acuan_shalat": "Subuh",
         "relasi": "setelah"
       },
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Al-Jihad Cikarang Baru (MAJ)",
-        "alamat": "Jalan Beruang X Blok G, Jayamukti. Cikarang Pusat, Kab. Bekasi",
-        "peta": "https://maps.app.goo.gl/pi36r"
+        "nama": "Masjid Al Ikhlas",
+        "alamat": "Kajian Rutin Pekanan, Setiap Sabtu Pagi",
+        "peta": "https://maps.app.goo.gl/EsjVB6He5VSTLkLn9"
       },
       "wilayah": {
         "kode": "32.16",
@@ -49,148 +47,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12158",
+          "url": "https://t.me/jadwalkajiansunnah/12283",
           "diteruskan_dari": null,
-          "diposting": "2026-10-15T21:24:26+00:00"
+          "diposting": "2026-10-16T16:38:34+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
-    },
-    {
-      "id": "1f06123fc420",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-16",
-      "tanggal_perkiraan": true,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Ikhlas",
-        "alamat": "Jalan Raya Dukuh Bima No. 2, Dukuh Bima Kota Legenda, Kec. Tambun Sel., Kab. Bekasi, Jawa Barat 17514",
-        "peta": "https://maps.app.goo.gl/5vUT8CkFRBEXvKBk7"
-      },
-      "wilayah": {
-        "kode": "32.16",
-        "kabkota": "Kabupaten Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kabupaten-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12236",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-16T03:39:30+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
-    },
-    {
-      "id": "9f3f5130522c",
-      "judul": null,
-      "tema": "Jika Anda Sudah Tidak Punya Rasa Malu",
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-16",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Jami At-Tadzkirah",
-        "alamat": "Perumahan Sindang Asri, Cibarusah, Bekasi, (Maps",
-        "peta": "https://goo.gl/maps/vZWSxq1JhXxCKiUF9"
-      },
-      "wilayah": {
-        "kode": "32.16",
-        "kabkota": "Kabupaten Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kabupaten-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12159",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-15T21:25:58+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
-    },
-    {
-      "id": "f3d71d992b77",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-16",
-      "tanggal_perkiraan": true,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Ukhuwah",
-        "alamat": "Jl. H. Ma'mun, Kp. Cinyosog, Burangkeng, Kec. Setu, Kab. Bekasi, Jawa Barat 17320",
-        "peta": "https://maps.app.goo.gl/MhTriKczRhNjzLq79"
-      },
-      "wilayah": {
-        "kode": "32.16",
-        "kabkota": "Kabupaten Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kabupaten-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12231",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-16T03:19:21+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
-      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
+      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
+      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
     }
   ]
 }
