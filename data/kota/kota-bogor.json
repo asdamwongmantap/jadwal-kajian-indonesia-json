@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-15T23:41:09+00:00",
+  "dibuat": "2026-10-16T14:01:09+00:00",
   "wilayah": {
     "kode": "32.71",
     "kabkota": "Kota Bogor",
@@ -8,7 +8,7 @@
     "slug": "kota-bogor",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
     {
       "id": "4262322d74f6",
@@ -55,7 +55,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
+      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
+    },
+    {
+      "id": "8efd37c9d158",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Fakhrur Rodhi Al Hendan, S.H."
+      ],
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami Alhikmah Cikaret",
+        "alamat": "Komplek BBIA – Perum Cikaret Hijau, Cikaret, Bogor Selatan",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.71",
+        "kabkota": "Kota Bogor",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bogor",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12183",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T01:28:30+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
+      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
     }
   ]
 }

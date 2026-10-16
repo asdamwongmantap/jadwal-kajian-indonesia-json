@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-16T14:01:09+00:00",
+  "wilayah": {
+    "kode": "14.06",
+    "kabkota": "Kabupaten Rokan Hulu",
+    "provinsi": "Riau",
+    "slug": "kabupaten-rokan-hulu",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "6a0e74c78787",
+      "judul": "Kajian Jum'at Malam Pekan 3",
+      "tema": "Kajian Tema : FIQIH KELUARGA",
+      "kitab": null,
+      "ustadz": [
+        "Dr. Hidayatullah Ismail, Lc., MA."
+      ],
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Raudhatus Sholihin",
+        "alamat": "Ujung Batu - Rokan Hulu",
+        "peta": "https://share.google/oQppHItUc9jfDAsNc"
+      },
+      "wilayah": {
+        "kode": "14.06",
+        "kabkota": "Kabupaten Rokan Hulu",
+        "provinsi": "Riau",
+        "slug": "kabupaten-rokan-hulu",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12243",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T03:46:16+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
+      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
+    }
+  ]
+}

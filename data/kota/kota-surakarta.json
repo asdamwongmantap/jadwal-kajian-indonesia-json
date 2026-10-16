@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-15T23:41:09+00:00",
+  "dibuat": "2026-10-16T14:01:09+00:00",
   "wilayah": {
     "kode": "33.72",
     "kabkota": "Kota Surakarta",
@@ -8,8 +8,55 @@
     "slug": "kota-surakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "eeabc2cfc1af",
+      "judul": "Kajian Islam",
+      "tema": "Risalah Mutun Aqidah Wa Tauhid\" Karya : Syaikh Muhammad Bin Abdul Wahhab At Tamimi Insya Allah Rutin Dibahas Setiap Hari Jum'at Malam Sabtu \"Pekan Ke-3 & Pekan Ke-4",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Mohammad Alif, Lc."
+      ],
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Qomar",
+        "alamat": "Jl.Slamet Riyadi No.414 Rel Bengkong Purwosari, Solo, Jawa Tengah, Kodepos 57142, (Sebelah Barat RS Kasih Ibu)",
+        "peta": "https://goo.gl/maps/1bfWkYUrwwq_"
+      },
+      "wilayah": {
+        "kode": "33.72",
+        "kabkota": "Kota Surakarta",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-surakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12219",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T03:00:48+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
+      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
+    },
     {
       "id": "b4607771827f",
       "judul": "Kajian Islam",

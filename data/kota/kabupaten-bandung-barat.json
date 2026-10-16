@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-15T23:41:09+00:00",
+  "dibuat": "2026-10-16T14:01:09+00:00",
   "wilayah": {
     "kode": "32.17",
     "kabkota": "Kabupaten Bandung Barat",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
+      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
     },
     {
       "id": "8949e33549d3",
@@ -102,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
+      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
     },
     {
       "id": "d3f13d94b618",
@@ -149,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
+      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-15T23:41:09+00:00",
+  "dibuat": "2026-10-16T14:01:09+00:00",
   "wilayah": {
     "kode": "14.01",
     "kabkota": "Kabupaten Kampar",
@@ -8,8 +8,102 @@
     "slug": "kabupaten-kampar",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "0d6a29a857d3",
+      "judul": "Kajian Rutin Jum'at Pekan 3",
+      "tema": null,
+      "kitab": "ADABUL MUFRAD (Ummahat)",
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Darul Hijrah",
+        "alamat": "Desa Kumantan Bangkinang - Kampar",
+        "peta": "https://maps.app.goo.gl/7HHX8zuJ2Z1CG87d6"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12247",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T03:49:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
+      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
+    },
+    {
+      "id": "41cc87b49d3f",
+      "judul": "Kajian Rutin Jum'at Pekan 1.3",
+      "tema": null,
+      "kitab": "Shahih Muslim",
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-10-16",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Raya MUHAMMADIYAH",
+        "alamat": "Bangkinang - Kampar",
+        "peta": "https://g.co/kgs/oasfKp"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12244",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T03:47:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-16T14:01:09+00:00",
+      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
+    },
     {
       "id": "97c278275350",
       "judul": "Kajian Rutin Jum'at Subuh",
@@ -55,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-15T23:41:09+00:00"
+      "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
     }
   ]
 }
