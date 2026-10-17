@@ -1,13 +1,13 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T23:35:05+00:00",
+  "dibuat": "2026-10-17T13:00:59+00:00",
   "kota": [
     {
       "slug": "kabupaten-bekasi",
       "kabkota": "Kabupaten Bekasi",
       "provinsi": "Jawa Barat",
       "kode": "32.16",
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/kabupaten-bekasi.json"
     },
     {
@@ -15,7 +15,7 @@
       "kabkota": "Kabupaten Ciamis",
       "provinsi": "Jawa Barat",
       "kode": "32.07",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kabupaten-ciamis.json"
     },
     {
@@ -39,7 +39,7 @@
       "kabkota": "Kabupaten Langkat",
       "provinsi": "Sumatera Utara",
       "kode": "12.05",
-      "jumlah": 1,
+      "jumlah": 3,
       "file": "kota/kabupaten-langkat.json"
     },
     {
@@ -59,6 +59,14 @@
       "file": "kota/kabupaten-pidie.json"
     },
     {
+      "slug": "kabupaten-tasikmalaya",
+      "kabkota": "Kabupaten Tasikmalaya",
+      "provinsi": "Jawa Barat",
+      "kode": "32.06",
+      "jumlah": 2,
+      "file": "kota/kabupaten-tasikmalaya.json"
+    },
+    {
       "slug": "kota-administrasi-jakarta-pusat",
       "kabkota": "Kota Administrasi Jakarta Pusat",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
@@ -71,7 +79,7 @@
       "kabkota": "Kota Administrasi Jakarta Selatan",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.74",
-      "jumlah": 3,
+      "jumlah": 4,
       "file": "kota/kota-administrasi-jakarta-selatan.json"
     },
     {
@@ -79,7 +87,7 @@
       "kabkota": "Kota Administrasi Jakarta Timur",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.75",
-      "jumlah": 2,
+      "jumlah": 6,
       "file": "kota/kota-administrasi-jakarta-timur.json"
     },
     {
@@ -103,7 +111,7 @@
       "kabkota": "Kota Bandar Lampung",
       "provinsi": "Lampung",
       "kode": "18.71",
-      "jumlah": 3,
+      "jumlah": 4,
       "file": "kota/kota-bandar-lampung.json"
     },
     {
@@ -119,8 +127,32 @@
       "kabkota": "Kota Bekasi",
       "provinsi": "Jawa Barat",
       "kode": "32.75",
-      "jumlah": 5,
+      "jumlah": 12,
       "file": "kota/kota-bekasi.json"
+    },
+    {
+      "slug": "kota-bogor",
+      "kabkota": "Kota Bogor",
+      "provinsi": "Jawa Barat",
+      "kode": "32.71",
+      "jumlah": 1,
+      "file": "kota/kota-bogor.json"
+    },
+    {
+      "slug": "kota-denpasar",
+      "kabkota": "Kota Denpasar",
+      "provinsi": "Bali",
+      "kode": "51.71",
+      "jumlah": 2,
+      "file": "kota/kota-denpasar.json"
+    },
+    {
+      "slug": "kota-depok",
+      "kabkota": "Kota Depok",
+      "provinsi": "Jawa Barat",
+      "kode": "32.76",
+      "jumlah": 1,
+      "file": "kota/kota-depok.json"
     },
     {
       "slug": "kota-makassar",
@@ -129,6 +161,14 @@
       "kode": "73.71",
       "jumlah": 3,
       "file": "kota/kota-makassar.json"
+    },
+    {
+      "slug": "kota-medan",
+      "kabkota": "Kota Medan",
+      "provinsi": "Sumatera Utara",
+      "kode": "12.71",
+      "jumlah": 1,
+      "file": "kota/kota-medan.json"
     },
     {
       "slug": "kota-parepare",
@@ -143,7 +183,7 @@
       "kabkota": "Kota Pekanbaru",
       "provinsi": "Riau",
       "kode": "14.71",
-      "jumlah": 6,
+      "jumlah": 7,
       "file": "kota/kota-pekanbaru.json"
     },
     {
@@ -171,19 +211,35 @@
       "file": "kota/kota-tangerang.json"
     },
     {
+      "slug": "kota-tangerang-selatan",
+      "kabkota": "Kota Tangerang Selatan",
+      "provinsi": "Banten",
+      "kode": "36.74",
+      "jumlah": 1,
+      "file": "kota/kota-tangerang-selatan.json"
+    },
+    {
       "slug": "kota-yogyakarta",
       "kabkota": "Kota Yogyakarta",
       "provinsi": "Daerah Istimewa Yogyakarta",
       "kode": "34.71",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-yogyakarta.json"
+    },
+    {
+      "slug": "online",
+      "kabkota": null,
+      "provinsi": null,
+      "kode": null,
+      "jumlah": 3,
+      "file": "kota/online.json"
     },
     {
       "slug": "tanpa-wilayah",
       "kabkota": null,
       "provinsi": null,
       "kode": null,
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/tanpa-wilayah.json"
     }
   ]

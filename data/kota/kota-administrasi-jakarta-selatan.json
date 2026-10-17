@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T23:35:05+00:00",
+  "dibuat": "2026-10-17T13:00:59+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,8 +8,55 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
+    {
+      "id": "5cf447a37feb",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Al Ustadz Sigit Santoso, B.A."
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Hikmah",
+        "alamat": "Komplek DDN II, Jl.Pangkalan Jati, Cilandak, Pondok Labu, Jakarta Selatan, 12450",
+        "peta": "https://maps.app.goo.gl/XNyRfo5p7uTFJVs79"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/channel/UCI7g3zu_9CCr1mv_-0yZ1fA",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12316",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T23:45:07+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+    },
     {
       "id": "7a45a222d7c8",
       "judul": "Majelis Ba'da Maghrib",
@@ -55,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-15T23:41:09+00:00",
-      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     },
     {
       "id": "167512f448b9",

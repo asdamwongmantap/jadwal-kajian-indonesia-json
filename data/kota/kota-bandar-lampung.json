@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T23:35:05+00:00",
+  "dibuat": "2026-10-17T13:00:59+00:00",
   "wilayah": {
     "kode": "18.71",
     "kabkota": "Kota Bandar Lampung",
@@ -8,13 +8,13 @@
     "slug": "kota-bandar-lampung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
       "id": "f6c43e928c65",
-      "judul": "Kajian Khusus Muslimah",
+      "judul": "Kajian Muslimah",
       "tema": null,
-      "kitab": "Riyadhus Shalihin",
+      "kitab": "I'anatul Mustafid Bisyarhi Kitabut Tauhid",
       "ustadz": [
         "Ustadz Abdullah Furqon"
       ],
@@ -52,10 +52,17 @@
           "url": "https://t.me/jadwalkajiansunnah/11438",
           "diteruskan_dari": "Masjid Al-Hayah",
           "diposting": "2026-10-10T00:25:56+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12306",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T23:37:24+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     },
     {
       "id": "1dc35fb031dc",
@@ -150,6 +157,53 @@
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
       "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+    },
+    {
+      "id": "3e18f1e7433f",
+      "judul": null,
+      "tema": null,
+      "kitab": "Metode Asy-Syafi'i (Ilmu Tajwid Praktis)",
+      "ustadz": [
+        "Udo Faizul Abu Ghozi"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": "Kegiatan Belajar, InsyaAllahu ta'ala, setiap Malam Ahad Ba'da Isya",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Isya",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid AL-Hayah (Khusus Ikhwan)",
+        "alamat": null,
+        "peta": "https://goo.gl/maps/TUp1W1Jw8by"
+      },
+      "wilayah": {
+        "kode": "18.71",
+        "kabkota": "Kota Bandar Lampung",
+        "provinsi": "Lampung",
+        "slug": "kota-bandar-lampung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "ikhwan",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12307",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T23:38:45+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     }
   ]
 }

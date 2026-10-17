@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T23:35:05+00:00",
+  "dibuat": "2026-10-17T13:00:59+00:00",
   "wilayah": {
     "kode": "32.16",
     "kabkota": "Kabupaten Bekasi",
@@ -8,7 +8,7 @@
     "slug": "kabupaten-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
     {
       "id": "79f7d0ccd220",
@@ -53,7 +53,52 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+    },
+    {
+      "id": "e18aeea3e0dd",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Isya",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Baitul Makmur",
+        "alamat": "Telaga Sakinah, Telagamurni, Kec. Cikarang Barat, Kab. Bekasi, Jawa Barat 17530",
+        "peta": "https://maps.app.goo.gl/o6jbUDDbMPnUfiwh6"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12356",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-17T06:35:41+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     }
   ]
 }

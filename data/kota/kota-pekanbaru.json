@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T23:35:05+00:00",
+  "dibuat": "2026-10-17T13:00:59+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,7 +8,7 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 6,
+  "jumlah": 7,
   "kajian": [
     {
       "id": "4bd81284e4d3",
@@ -56,7 +56,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     },
     {
       "id": "2845d0d912a3",
@@ -103,7 +103,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     },
     {
       "id": "60dd10c4018c",
@@ -150,7 +150,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     },
     {
       "id": "6e6bbced3df1",
@@ -197,7 +197,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     },
     {
       "id": "a52c28b03d03",
@@ -244,7 +244,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     },
     {
       "id": "afb2dbd2b227",
@@ -291,7 +291,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+    },
+    {
+      "id": "b2646025e135",
+      "judul": "Kajian Sabtu Malam Pekan 3",
+      "tema": "Lempar Batu Sembunyi Tangan",
+      "kitab": null,
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Baitul Alim",
+        "alamat": "Jl.Melati Stadion - Pekanbaru",
+        "peta": "https://share.google/Fn6VOKXVpgV3teWEj"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12333",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-17T05:25:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     }
   ]
 }

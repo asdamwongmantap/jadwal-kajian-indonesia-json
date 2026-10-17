@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-17T13:00:59+00:00",
+  "wilayah": {
+    "kode": "36.74",
+    "kabkota": "Kota Tangerang Selatan",
+    "provinsi": "Banten",
+    "slug": "kota-tangerang-selatan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "eb50cfe3a0a7",
+      "judul": "INFO KAJIAN RUTIN: Masjid Jami' Utsman bin Affan",
+      "tema": "Menjaga Kehormatan & Kemuliaan Ilmu",
+      "kitab": "Hilyah Thalibil' Ilmi",
+      "ustadz": [
+        "Ustadz Rido Abu Hafidzh, S.Pd.I., M.Pd."
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami' Utsman bin Affan",
+        "alamat": "Jl. Murjaya, Jurangmangu Barat, Pd. Aren, Tangerang Selatan",
+        "peta": "https://bit.ly/mapsMUBA"
+      },
+      "wilayah": {
+        "kode": "36.74",
+        "kabkota": "Kota Tangerang Selatan",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12366",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-17T11:39:35+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T23:35:05+00:00",
+  "dibuat": "2026-10-17T13:00:59+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,8 +8,56 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "868219f6cf89",
+      "judul": "Kajian | Sabtu Pagi",
+      "tema": "| Alumnus Daar El-Hadits Yaman",
+      "kitab": "Al-Wabilush Shayyib",
+      "ustadz": [
+        "Ustadzah Imroatul Azizah",
+        "| Inspirator Muslimah"
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:45",
+        "selesai": "10:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-17T08:45:00+07:00",
+      "tempat": {
+        "nama": "Masjid Abdurrahman bin Auf",
+        "alamat": "| Kasongan Bantul Yogyakarta, | Maps",
+        "peta": "https://maps.app.goo.gl/JmqaJv3HBVdKKPNw8"
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12309",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T23:40:12+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+    },
     {
       "id": "2ff722a839c1",
       "judul": "Dauroh Fiqh Muamalah",

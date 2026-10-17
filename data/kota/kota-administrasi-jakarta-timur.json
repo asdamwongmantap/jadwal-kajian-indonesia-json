@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-16T23:35:05+00:00",
+  "dibuat": "2026-10-17T13:00:59+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,8 +8,102 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 6,
   "kajian": [
+    {
+      "id": "eb5185836c92",
+      "judul": "Kajian Anak Offline",
+      "tema": "Allah Selalu Melihatku",
+      "kitab": null,
+      "ustadz": [
+        "Kak Dedi"
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-17T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Istiqomah",
+        "alamat": "Jl. Dermaga Kav. Pengadilan Blok D No.26, Klender, Jakarta Timur",
+        "peta": "https://maps.app.goo.gl/bvTVGsGwG2xUp3Cp6"
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/@masjidistiqomahchannel",
+      "peserta": "anak",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12322",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T23:53:02+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+    },
+    {
+      "id": "fe09c1afec32",
+      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
+      "tema": null,
+      "kitab": "Riyadhus Shalihin",
+      "ustadz": [
+        "Ustadz Farhan Abu Furaihan"
+      ],
+      "tanggal": "2026-10-17",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Soleh Hawa",
+        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12314",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-16T23:43:41+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+    },
     {
       "id": "b70f17cfd3b1",
       "judul": null,
@@ -56,6 +150,100 @@
       ],
       "pertama_dilihat": "2026-10-14T23:55:09+00:00",
       "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
+    },
+    {
+      "id": "47dd7e72eb75",
+      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
+      "tema": null,
+      "kitab": "Minhâj al-Firqah an-Nâjiyah",
+      "ustadz": [
+        "Ustadz Abu Usamah Samsul Hadi"
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-18T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Soleh Hawa",
+        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12369",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-17T11:43:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+    },
+    {
+      "id": "6d310cc48a72",
+      "judul": "Kajian Kitab Mukhtashar Jami'ul 'ulum Wal Hikam",
+      "tema": "Cara Menyikapi Perkara Syubhat",
+      "kitab": "Mukhtashar Jami'ul 'ulum Wal Hikam",
+      "ustadz": [
+        "Ustadz Pamuji Hadi Waluyo, Lc."
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Thayyibah",
+        "alamat": "Jl. Olahraga II no. 1 Condet Cililitan Jakarta Timur, Google Maps: LIVE STREAMING",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/c/MasjidThayyibah",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12365",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-17T11:38:48+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
+      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
     },
     {
       "id": "bbb31634806b",
