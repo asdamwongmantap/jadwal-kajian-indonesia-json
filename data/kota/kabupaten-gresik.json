@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T13:00:59+00:00",
+  "dibuat": "2026-10-17T23:07:39+00:00",
   "wilayah": {
     "kode": "35.25",
     "kabkota": "Kabupaten Gresik",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-gresik",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "ad2c3783bc09",
+      "judul": null,
+      "tema": "Fiqih Sunnah Wanita",
+      "kitab": "Al-Kabaair",
+      "ustadz": [
+        "Ustadz Muhammad Nur Yasin"
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-18T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Ihsan",
+        "alamat": "Jl. Proklamasi no.64 Gresik",
+        "peta": "https://maps.app.goo.gl/vNqEucj9kn2xXAsSA"
+      },
+      "wilayah": {
+        "kode": "35.25",
+        "kabkota": "Kabupaten Gresik",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-gresik",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12375",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-17T19:36:10+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+    },
     {
       "id": "f8a62688c7fc",
       "judul": null,

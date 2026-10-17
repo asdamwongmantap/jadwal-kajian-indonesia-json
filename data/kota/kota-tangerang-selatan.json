@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T13:00:59+00:00",
+  "dibuat": "2026-10-17T23:07:39+00:00",
   "wilayah": {
     "kode": "36.74",
     "kabkota": "Kota Tangerang Selatan",
@@ -8,8 +8,53 @@
     "slug": "kota-tangerang-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "03243180a631",
+      "judul": null,
+      "tema": "Bahagia dalam kesulitan-Rahasia Pasukan Kain Sobek Kajian akan dilaksanakan Offline Kajian ini GRATIS dan Terbuka Untuk Umum",
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-18T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ruhama Jl. Tarumanagara no.67",
+        "alamat": "Cirendeu-Pisangan, Ciputat Timur, Tangerang Selatan, Narahubung : 081290016236 / 085692310358, Semoga Allah mudahkan langkah anak-anak kita menimba ilmu agama",
+        "peta": "https://maps.app.goo.gl/nUhABLUtGmR23zFJ9?g_st=aw"
+      },
+      "wilayah": {
+        "kode": "36.74",
+        "kabkota": "Kota Tangerang Selatan",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "anak",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12392",
+          "diteruskan_dari": "Kajian Anak Kak Yogi",
+          "diposting": "2026-10-17T19:56:34+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+    },
     {
       "id": "eb50cfe3a0a7",
       "judul": "INFO KAJIAN RUTIN: Masjid Jami' Utsman bin Affan",
@@ -55,7 +100,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
     }
   ]
 }

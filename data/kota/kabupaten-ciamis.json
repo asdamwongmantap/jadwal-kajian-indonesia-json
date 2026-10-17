@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T13:00:59+00:00",
+  "dibuat": "2026-10-17T23:07:39+00:00",
   "wilayah": {
     "kode": "32.07",
     "kabkota": "Kabupaten Ciamis",
@@ -8,55 +8,8 @@
     "slug": "kabupaten-ciamis",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "3db83521bb28",
-      "judul": "Kajian Bersama Santri Rtq Mgi Kawali - Kajian Pekanan",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Ade Abdul Aziz"
-      ],
-      "tanggal": "2026-10-17",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Gedung RTQ Kawali",
-        "alamat": "Dusun Kilayugung RT/RW 01/01 Desa Kawalimukti Kecamatan Kawali",
-        "peta": "https://maps.app.goo.gl/2eQJFAYogbF13rFG7"
-      },
-      "wilayah": {
-        "kode": "32.07",
-        "kabkota": "Kabupaten Ciamis",
-        "provinsi": "Jawa Barat",
-        "slug": "kabupaten-ciamis",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12352",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-17T05:51:47+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
-    },
     {
       "id": "77ffadb06f77",
       "judul": "Ta'lim Senin Ba'da Maghrib",

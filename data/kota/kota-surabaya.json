@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T13:00:59+00:00",
+  "dibuat": "2026-10-17T23:07:39+00:00",
   "wilayah": {
     "kode": "35.78",
     "kabkota": "Kota Surabaya",
@@ -8,30 +8,32 @@
     "slug": "kota-surabaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "bfd009a97744",
+      "id": "80e4b70614f9",
       "judul": null,
-      "tema": null,
+      "tema": "Aqidah Ath Thahawiyah",
       "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-17",
+      "ustadz": [
+        "Ustadz Gemma Ilhamy, M.Pd.I."
+      ],
+      "tanggal": "2026-10-18",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": "15:00",
+        "mulai": "07:00",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-17T15:00:00+07:00",
+      "mulai_iso": "2026-10-18T07:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Nurul Iman",
-        "alamat": "Jl. Bendul Merisi Selatan Airdas No. 68, Surabaya",
-        "peta": null
+        "nama": "Masjid al-Hikmah - Jl. Gayungsari IV No.34",
+        "alamat": "Gayungan, Surabaya",
+        "peta": "https://maps.app.goo.gl/eSU22fCFPtYTCkUN6"
       },
       "wilayah": {
         "kode": "35.78",
@@ -42,63 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": null,
+      "peserta": "akhwat",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12292",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-16T23:22:50+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12380",
+          "diteruskan_dari": "Surabaya Mengaji",
+          "diposting": "2026-10-17T19:39:43+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
-    },
-    {
-      "id": "02cc7f756061",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-17",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurul Iman",
-        "alamat": "Jl. Bendul Merisi Selatan Airdas No. 68, Surabaya",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "35.78",
-        "kabkota": "Kota Surabaya",
-        "provinsi": "Jawa Timur",
-        "slug": "kota-surabaya",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12293",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-16T23:23:11+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
     }
   ]
 }

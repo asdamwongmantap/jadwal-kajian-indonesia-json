@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-17T23:07:39+00:00",
+  "wilayah": {
+    "kode": "33.74",
+    "kabkota": "Kota Semarang",
+    "provinsi": "Jawa Tengah",
+    "slug": "kota-semarang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "0058112b601f",
+      "judul": null,
+      "tema": "Mengenal Allah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Umair Kuswoyo"
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-18T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Hotel Grasia",
+        "alamat": "Jl. Guntur, Kelurahan Gajahmungkur, Kecamatan Gajahmungkur",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12390",
+          "diteruskan_dari": "Abu Umair Official",
+          "diposting": "2026-10-17T19:54:11+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+    },
+    {
+      "id": "2a511535cf39",
+      "judul": null,
+      "tema": "Fadhilah Wudhu",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Umair Kuswoyo"
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Baitul Wahid",
+        "alamat": "Perumahan Graha Wahid Kelurahan Sambiroto, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12388",
+          "diteruskan_dari": "Abu Umair Official",
+          "diposting": "2026-10-17T19:54:11+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+    }
+  ]
+}

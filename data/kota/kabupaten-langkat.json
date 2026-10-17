@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T13:00:59+00:00",
+  "dibuat": "2026-10-17T23:07:39+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,30 +8,30 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
     {
-      "id": "74d6ab31a282",
-      "judul": null,
-      "tema": "Khalid bin Walid, Pedang Allah yang Terhunus",
-      "kitab": null,
+      "id": "e3aad1b1faa0",
+      "judul": "Kajian Intensif Daring Pertemuan Ke-65",
+      "tema": "Tidak Boleh Membenarkan Dukun dan Peramal",
+      "kitab": "al-Aqidah ath-Thahawiyyah",
       "ustadz": [
-        "Ustadz Mohamad Toriqul Huda, S.Ag., M.S.I."
+        "Ustadz Dr. Andy Octavian Latief, S.Si., M.Sc."
       ],
-      "tanggal": "2026-10-17",
+      "tanggal": "2026-10-18",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": "15:45",
+        "mulai": "20:00",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-17T15:45:00+07:00",
+      "mulai_iso": "2026-10-18T20:00:00+07:00",
       "tempat": {
-        "nama": "Ma'had Online TSL",
+        "nama": null,
         "alamat": null,
         "peta": null
       },
@@ -42,67 +42,20 @@
         "slug": "kabupaten-langkat",
         "zona_waktu": "WIB"
       },
-      "mode": "offline",
+      "mode": "online",
       "streaming": null,
       "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12320",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-16T23:48:48+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12381",
+          "diteruskan_dari": "Tarbiyah Sunnah Learning",
+          "diposting": "2026-10-17T19:41:20+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
-    },
-    {
-      "id": "c31959837cac",
-      "judul": "Info Kajian Sabtu Subuh",
-      "tema": "Fikih Sholat",
-      "kitab": "Tamamul Minnah Fii Fiqhul Kitab wa Shohih As-Sunnah. Karya Syaikh Abu Abdurrahman 'Adil bin Yusuf Al 'Azizi",
-      "ustadz": [
-        "Ustadz Zamzami Juned, Lc."
-      ],
-      "tanggal": "2026-10-17",
-      "tanggal_perkiraan": true,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Abu Bakar Ash-Shiddiq",
-        "alamat": "Jl. Soekarno-Hatta Gg. Pelita Labuhbaru Barat kec. Payung Sekaki",
-        "peta": "https://maps.app.goo.gl/x1bfxMq37zetS5UH9"
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "ikhwan",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12271",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-16T15:15:58+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
     },
     {
       "id": "1ad1c55e2572",
@@ -149,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
     }
   ]
 }

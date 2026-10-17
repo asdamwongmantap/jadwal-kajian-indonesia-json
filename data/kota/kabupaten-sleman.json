@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-17T23:07:39+00:00",
+  "wilayah": {
+    "kode": "34.04",
+    "kabkota": "Kabupaten Sleman",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "slug": "kabupaten-sleman",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "41fdc65ee7d4",
+      "judul": "Kajian Ahad Pagi",
+      "tema": "| Alumnus Daar El-Hadits Yaman",
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Imroatul Azizah",
+        "| Inspirator Muslimah"
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-18T08:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Nuur Iman",
+        "alamat": "| Klampok Baru, Sekarsuli, Sendangtirto, Berbah, Sleman,, | Maps",
+        "peta": "https://maps.app.goo.gl/1ekkpfQ3QVfn4Ayn8"
+      },
+      "wilayah": {
+        "kode": "34.04",
+        "kabkota": "Kabupaten Sleman",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-sleman",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12377",
+          "diteruskan_dari": "MUTIARA HIKMAH OFFICIAL",
+          "diposting": "2026-10-17T19:36:44+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+    }
+  ]
+}

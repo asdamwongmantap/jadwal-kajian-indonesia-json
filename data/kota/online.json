@@ -1,50 +1,9 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T13:00:59+00:00",
+  "dibuat": "2026-10-17T23:07:39+00:00",
   "wilayah": null,
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "b9f88a18159b",
-      "judul": "Kajian Rutin Untuk Umum",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Gigih Surya Nugraha, S.H."
-      ],
-      "tanggal": "2026-10-17",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12317",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-16T23:46:51+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
-    },
     {
       "id": "0ba9d556596f",
       "judul": "KAJIAN TEMATIK UNTUK UMUM In syaaAllah",
@@ -84,7 +43,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
     },
     {
       "id": "f8b8a15be743",
@@ -125,7 +84,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T13:00:59+00:00"
+      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
     }
   ]
 }
