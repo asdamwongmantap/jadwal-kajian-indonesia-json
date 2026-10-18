@@ -1,13 +1,13 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T23:07:39+00:00",
+  "dibuat": "2026-10-18T13:21:31+00:00",
   "kota": [
     {
       "slug": "kabupaten-ciamis",
       "kabkota": "Kabupaten Ciamis",
       "provinsi": "Jawa Barat",
       "kode": "32.07",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kabupaten-ciamis.json"
     },
     {
@@ -25,6 +25,14 @@
       "kode": "35.25",
       "jumlah": 2,
       "file": "kota/kabupaten-gresik.json"
+    },
+    {
+      "slug": "kabupaten-kampar",
+      "kabkota": "Kabupaten Kampar",
+      "provinsi": "Riau",
+      "kode": "14.01",
+      "jumlah": 2,
+      "file": "kota/kabupaten-kampar.json"
     },
     {
       "slug": "kabupaten-kudus",
@@ -55,7 +63,7 @@
       "kabkota": "Kabupaten Sleman",
       "provinsi": "Daerah Istimewa Yogyakarta",
       "kode": "34.04",
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/kabupaten-sleman.json"
     },
     {
@@ -111,7 +119,7 @@
       "kabkota": "Kota Bekasi",
       "provinsi": "Jawa Barat",
       "kode": "32.75",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-bekasi.json"
     },
     {
@@ -127,7 +135,7 @@
       "kabkota": "Kota Makassar",
       "provinsi": "Sulawesi Selatan",
       "kode": "73.71",
-      "jumlah": 3,
+      "jumlah": 4,
       "file": "kota/kota-makassar.json"
     },
     {
@@ -151,7 +159,7 @@
       "kabkota": "Kota Semarang",
       "provinsi": "Jawa Tengah",
       "kode": "33.74",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-semarang.json"
     },
     {
@@ -183,7 +191,7 @@
       "kabkota": "Kota Tangerang Selatan",
       "provinsi": "Banten",
       "kode": "36.74",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-tangerang-selatan.json"
     },
     {

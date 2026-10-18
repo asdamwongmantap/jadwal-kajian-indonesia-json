@@ -1,7 +1,7 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T23:07:39+00:00",
-  "jumlah": 52,
+  "dibuat": "2026-10-18T13:21:31+00:00",
+  "jumlah": 60,
   "kajian": [
     {
       "id": "80e4b70614f9",
@@ -48,7 +48,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "faeb41057768",
@@ -89,7 +89,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "b70f17cfd3b1",
@@ -231,7 +231,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "ad2c3783bc09",
@@ -278,7 +278,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "47dd7e72eb75",
@@ -325,7 +325,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "10e542afecf7",
@@ -372,7 +372,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "167512f448b9",
@@ -462,7 +462,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "ccd4110b1b32",
@@ -509,7 +509,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "0058112b601f",
@@ -553,10 +553,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12390",
           "diteruskan_dari": "Abu Umair Official",
           "diposting": "2026-10-17T19:54:11+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12410",
+          "diteruskan_dari": "Abu Umair Official",
+          "diposting": "2026-10-18T09:07:25+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "e3aad1b1faa0",
@@ -600,10 +607,111 @@
           "url": "https://t.me/jadwalkajiansunnah/12381",
           "diteruskan_dari": "Tarbiyah Sunnah Learning",
           "diposting": "2026-10-17T19:41:20+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12414",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-18T09:13:15+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+    },
+    {
+      "id": "5acfc39dcf9a",
+      "judul": "Kajian Rutin Ahad Malam Pekan 3",
+      "tema": null,
+      "kitab": "Ad Durush Muhimmah Li 'ammatil Ummah",
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Babussalam",
+        "alamat": "Muaro Jalai - Kampar",
+        "peta": "https://g.co/kgs/HZPBbZ"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12407",
+          "diteruskan_dari": "Ustadz Dr. Dasman Yahya, Ma'ali, Lc, MA حفظه الله",
+          "diposting": "2026-10-18T09:04:35+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+    },
+    {
+      "id": "9cc43711ba24",
+      "judul": "Kajian Rutin Ahad Malam Pekan 3",
+      "tema": "Tanda Tanda Lemahnya Iman",
+      "kitab": null,
+      "ustadz": [
+        "Dr. Helmi Basri, Lc., MA."
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Raya MUHAMMADIYAH",
+        "alamat": "Bangkinang - Kampar",
+        "peta": "https://share.google/gVvMOYFeYgYMMIFXv"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12411",
+          "diteruskan_dari": "Ustadz Dr. Helmi Basri, Lc., MA حفظه الله",
+          "diposting": "2026-10-18T09:08:12+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "1ad1c55e2572",
@@ -650,7 +758,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+    },
+    {
+      "id": "7fe459a63eaa",
+      "judul": "Kajian Spiritual Growth | Tafaqquh fid Din",
+      "tema": "It's Just The World!",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Rezki Hr, S.T., M.Eng., Ph.D."
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Pogung Baru",
+        "alamat": "Pogung Kidul, Sinduadi, Mlati, Sleman, DIY",
+        "peta": "https://maps.app.goo.gl/otaKuDha73gWTF3X8"
+      },
+      "wilayah": {
+        "kode": "34.04",
+        "kabkota": "Kabupaten Sleman",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-sleman",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/@tafaqquhfid_din",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12415",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-18T09:15:17+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "08e1e4b17f83",
@@ -697,7 +852,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "947d3ae5c5d8",
@@ -744,7 +899,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "fd82a787a8f4",
@@ -791,7 +946,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "1b8bea0bb841",
@@ -838,7 +993,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "f67eb3255e2a",
@@ -885,7 +1040,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "6d310cc48a72",
@@ -932,7 +1087,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "6a6735ff3c0c",
@@ -979,7 +1134,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "17e7d356aa5a",
@@ -1026,7 +1181,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "e83aa3fadd19",
@@ -1073,7 +1228,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+    },
+    {
+      "id": "1a03971ee9a9",
+      "judul": null,
+      "tema": "Al-Qur'an Obat Penyakit Hati",
+      "kitab": "Ighatsatul Lahfan Fi Mashayidisy Syaithan",
+      "ustadz": [
+        "Ustadz Dr. Faqih Edi Susilo, MT"
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurus Sunnah",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12405",
+          "diteruskan_dari": "Masjid Nurussunnah",
+          "diposting": "2026-10-18T04:08:12+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "2a511535cf39",
@@ -1120,7 +1322,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "eb50cfe3a0a7",
@@ -1164,10 +1366,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12366",
           "diteruskan_dari": null,
           "diposting": "2026-10-17T11:39:35+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12418",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-18T09:23:59+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "0ba9d556596f",
@@ -1208,7 +1417,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "f8b8a15be743",
@@ -1249,7 +1458,101 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+    },
+    {
+      "id": "2a0fe492d920",
+      "judul": "INFO KAJIAN RUTIN: Masjid Jami' Utsman bin Affan",
+      "tema": null,
+      "kitab": "Kun Salafiyyan 'alal Jaddah",
+      "ustadz": [
+        "Ustadz Farhan Abu Furaihan"
+      ],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami' Utsman bin Affan",
+        "alamat": "Jl. Murjaya, Jurangmangu Barat, Pd. Aren, Tangerang Selatan",
+        "peta": "https://bit.ly/mapsMUBA"
+      },
+      "wilayah": {
+        "kode": "36.74",
+        "kabkota": "Kota Tangerang Selatan",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12417",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-18T09:23:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+    },
+    {
+      "id": "95e56433574d",
+      "judul": null,
+      "tema": "Tanda Allah menginginkan kebaikan kepada hamba-Nya",
+      "kitab": "Kaidah Kehidupan dalam Al Quran",
+      "ustadz": [
+        "Ustadz Abu Hanif Kusnadi Alipatada, MAg"
+      ],
+      "tanggal": "2026-10-23",
+      "tanggal_perkiraan": true,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:00",
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Baabut Taubah",
+        "alamat": "(Perumahan Kemang Pratama I), Jl. Citra Niaga Raya, Kemang Pratama 1, Bekasi 17116",
+        "peta": "https://maps.app.goo.gl/JDoPAtEwd9JKuaep9"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "ikhwan",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12327",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-17T04:01:10+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "ebb2422a50af",
@@ -1294,7 +1597,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "eeceb54211c4",
@@ -1584,7 +1887,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+    },
+    {
+      "id": "83967a1141bf",
+      "judul": "Ta'lim Ahad Sore",
+      "tema": null,
+      "kitab": "Ighaatsatul Lahfaan",
+      "ustadz": [
+        "Ustadz Ayip Saepudin, Lc."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": "Setiap Ahad Sore",
+      "waktu": {
+        "mulai": "16:15",
+        "selesai": "17:15",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Barokah",
+        "alamat": "Bojonggaok - Ciamis",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.07",
+        "kabkota": "Kabupaten Ciamis",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-ciamis",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12413",
+          "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
+          "diposting": "2026-10-18T09:09:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "e103e5f993f3",
@@ -1915,7 +2265,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "bbb31634806b",
@@ -2103,7 +2453,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "ea9a101d49af",
@@ -2152,6 +2502,53 @@
       ],
       "pertama_dilihat": "2026-10-15T14:13:27+00:00",
       "terakhir_dilihat": "2026-10-16T23:35:05+00:00"
+    },
+    {
+      "id": "22a50ecc3d49",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Mudzakkir Abd Razzaq, Lc."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": "Setiap Ahad 2 Pekan Sekali",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Kubah 99 Asmaul Husna",
+        "alamat": "Di Kawasan CPI Makassar",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "73.71",
+        "kabkota": "Kota Makassar",
+        "provinsi": "Sulawesi Selatan",
+        "slug": "kota-makassar",
+        "zona_waktu": "WITA"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12406",
+          "diteruskan_dari": "I-Salam Karim",
+          "diposting": "2026-10-18T09:03:32+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "3d9ccd3b32b2",

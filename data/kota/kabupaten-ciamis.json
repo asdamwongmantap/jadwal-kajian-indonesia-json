@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T23:07:39+00:00",
+  "dibuat": "2026-10-18T13:21:31+00:00",
   "wilayah": {
     "kode": "32.07",
     "kabkota": "Kabupaten Ciamis",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-ciamis",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "83967a1141bf",
+      "judul": "Ta'lim Ahad Sore",
+      "tema": null,
+      "kitab": "Ighaatsatul Lahfaan",
+      "ustadz": [
+        "Ustadz Ayip Saepudin, Lc."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": "Setiap Ahad Sore",
+      "waktu": {
+        "mulai": "16:15",
+        "selesai": "17:15",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Barokah",
+        "alamat": "Bojonggaok - Ciamis",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.07",
+        "kabkota": "Kabupaten Ciamis",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-ciamis",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12413",
+          "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
+          "diposting": "2026-10-18T09:09:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+    },
     {
       "id": "77ffadb06f77",
       "judul": "Ta'lim Senin Ba'da Maghrib",

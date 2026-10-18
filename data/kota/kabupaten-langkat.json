@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T23:07:39+00:00",
+  "dibuat": "2026-10-18T13:21:31+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -52,10 +52,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12381",
           "diteruskan_dari": "Tarbiyah Sunnah Learning",
           "diposting": "2026-10-17T19:41:20+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12414",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-18T09:13:15+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "1ad1c55e2572",
@@ -102,7 +109,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     }
   ]
 }

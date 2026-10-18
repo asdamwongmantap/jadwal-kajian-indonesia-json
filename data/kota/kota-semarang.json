@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-17T23:07:39+00:00",
+  "dibuat": "2026-10-18T13:21:31+00:00",
   "wilayah": {
     "kode": "33.74",
     "kabkota": "Kota Semarang",
@@ -8,7 +8,7 @@
     "slug": "kota-semarang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
     {
       "id": "0058112b601f",
@@ -52,10 +52,64 @@
           "url": "https://t.me/jadwalkajiansunnah/12390",
           "diteruskan_dari": "Abu Umair Official",
           "diposting": "2026-10-17T19:54:11+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12410",
+          "diteruskan_dari": "Abu Umair Official",
+          "diposting": "2026-10-18T09:07:25+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+    },
+    {
+      "id": "1a03971ee9a9",
+      "judul": null,
+      "tema": "Al-Qur'an Obat Penyakit Hati",
+      "kitab": "Ighatsatul Lahfan Fi Mashayidisy Syaithan",
+      "ustadz": [
+        "Ustadz Dr. Faqih Edi Susilo, MT"
+      ],
+      "tanggal": "2026-10-18",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurus Sunnah",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12405",
+          "diteruskan_dari": "Masjid Nurussunnah",
+          "diposting": "2026-10-18T04:08:12+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
       "id": "2a511535cf39",
@@ -102,7 +156,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-17T23:07:39+00:00"
+      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     }
   ]
 }
