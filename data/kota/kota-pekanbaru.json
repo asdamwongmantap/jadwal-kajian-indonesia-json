@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T13:21:31+00:00",
+  "dibuat": "2026-10-18T23:11:37+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,66 +8,19 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "17e7d356aa5a",
-      "judul": "Kajian Rutin Ahad Subuh Pekan 3",
+      "id": "8c146ef53725",
+      "judul": "Kajian Kitab \" Syarhu As Sunnah",
       "tema": null,
-      "kitab": null,
+      "kitab": "Syarhu As Sunnah",
       "ustadz": [
-        "Ustadz Dr. Hidayatullah Ismail, Lc., MA."
+        "Ustadz Heri Purnama, Lc."
       ],
-      "tanggal": "2026-10-18",
+      "tanggal": "2026-10-19",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurul Yaqien",
-        "alamat": "Sail - Pekanbaru",
-        "peta": "https://share.google/6TkawdydpJ0O6OfEN"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": "https://c2.siar.us/public/robbani",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12398",
-          "diteruskan_dari": "RadioROBBANI 91.1FM",
-          "diposting": "2026-10-17T20:03:42+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
-    },
-    {
-      "id": "e83aa3fadd19",
-      "judul": "Kajian Rutin Ahad Pekan 1,3,5",
-      "tema": "Kitab : FIQIH DZIKIR & DO'A",
-      "kitab": "Fiqih Dzikir & Do'a",
-      "ustadz": [
-        "Dr. Dasman Yahya Ma'ali, Lc., MA."
-      ],
-      "tanggal": "2026-10-18",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -78,9 +31,9 @@
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Al Ittihad",
-        "alamat": "Rumbai - Pekanbaru",
-        "peta": "https://share.google/TvMCiTnsyqJzdUH47"
+        "nama": "Jl. Kayu Putih Kel. Bina Widya Kec. Bina Widya, Pekanbaru, Riau",
+        "alamat": null,
+        "peta": null
       },
       "wilayah": {
         "kode": "14.71",
@@ -89,20 +42,20 @@
         "slug": "kota-pekanbaru",
         "zona_waktu": "WIB"
       },
-      "mode": "hybrid",
-      "streaming": "https://c2.siar.us/public/robbani",
+      "mode": "offline",
+      "streaming": null,
       "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12396",
-          "diteruskan_dari": "RadioROBBANI 91.1FM",
-          "diposting": "2026-10-17T20:03:42+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12458",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-18T21:17:22+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
+      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
     }
   ]
 }

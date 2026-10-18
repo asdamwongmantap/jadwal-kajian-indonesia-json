@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T13:21:31+00:00",
+  "dibuat": "2026-10-18T23:11:37+00:00",
   "wilayah": {
     "kode": "33.74",
     "kabkota": "Kota Semarang",
@@ -8,73 +8,19 @@
     "slug": "kota-semarang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "0058112b601f",
+      "id": "dfc30674e2c1",
       "judul": null,
-      "tema": "Mengenal Allah",
-      "kitab": null,
+      "tema": "Tuntunan Nabi Dalam Mendoakan Orang Sakit",
+      "kitab": "Ensiklopedi Adab Islam",
       "ustadz": [
-        "Ustadz Abu Umair Kuswoyo"
+        "Ustadz Faruq Suparwi S.Pd.I, M.Ag."
       ],
-      "tanggal": "2026-10-18",
+      "tanggal": "2026-10-19",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "16:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-18T16:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Hotel Grasia",
-        "alamat": "Jl. Guntur, Kelurahan Gajahmungkur, Kecamatan Gajahmungkur",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "33.74",
-        "kabkota": "Kota Semarang",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-semarang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12390",
-          "diteruskan_dari": "Abu Umair Official",
-          "diposting": "2026-10-17T19:54:11+00:00"
-        },
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12410",
-          "diteruskan_dari": "Abu Umair Official",
-          "diposting": "2026-10-18T09:07:25+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
-    },
-    {
-      "id": "1a03971ee9a9",
-      "judul": null,
-      "tema": "Al-Qur'an Obat Penyakit Hati",
-      "kitab": "Ighatsatul Lahfan Fi Mashayidisy Syaithan",
-      "ustadz": [
-        "Ustadz Dr. Faqih Edi Susilo, MT"
-      ],
-      "tanggal": "2026-10-18",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -103,60 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12405",
+          "url": "https://t.me/jadwalkajiansunnah/12473",
           "diteruskan_dari": "Masjid Nurussunnah",
-          "diposting": "2026-10-18T04:08:12+00:00"
+          "diposting": "2026-10-18T21:23:03+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
-    },
-    {
-      "id": "2a511535cf39",
-      "judul": null,
-      "tema": "Fadhilah Wudhu",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Abu Umair Kuswoyo"
-      ],
-      "tanggal": "2026-10-18",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Baitul Wahid",
-        "alamat": "Perumahan Graha Wahid Kelurahan Sambiroto, Kecamatan Tembalang",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "33.74",
-        "kabkota": "Kota Semarang",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-semarang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12388",
-          "diteruskan_dari": "Abu Umair Official",
-          "diposting": "2026-10-17T19:54:11+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
+      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
     }
   ]
 }

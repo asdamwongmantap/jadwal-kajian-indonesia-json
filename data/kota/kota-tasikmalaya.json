@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-18T23:11:37+00:00",
+  "wilayah": {
+    "kode": "32.78",
+    "kabkota": "Kota Tasikmalaya",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-tasikmalaya",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "9450fc6042bd",
+      "judul": "Kajian rutin tafsir Qur-an",
+      "tema": "Kajian rutin tafsir Qur-an",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dedi Permadi hafidzohullohu"
+      ],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ahsanul Mahmuda",
+        "alamat": "Jl. SL Tobing, Sambongpari - Mangkubumi",
+        "peta": "https://maps.app.goo.gl/M2C7KjMsLT6VdoMi8"
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12453",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-18T21:12:15+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
+      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+    }
+  ]
+}

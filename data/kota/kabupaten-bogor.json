@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-18T23:11:37+00:00",
+  "wilayah": {
+    "kode": "32.01",
+    "kabkota": "Kabupaten Bogor",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bogor",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "ecc546986c4c",
+      "judul": "Kajian Senin Malam di Masjid At-Tauhid!",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Faris Yudi Kurnia, Lc. M.Pd."
+      ],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid At-Tauhid - Sukahati Cibinong",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.01",
+        "kabkota": "Kabupaten Bogor",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bogor",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/@masjid.atttauhid?si=k3MlAElyRdz3VfKo",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12454",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-18T21:13:03+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
+      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+    }
+  ]
+}

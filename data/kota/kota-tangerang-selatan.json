@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T13:21:31+00:00",
+  "dibuat": "2026-10-18T23:11:37+00:00",
   "wilayah": {
     "kode": "36.74",
     "kabkota": "Kota Tangerang Selatan",
@@ -8,107 +8,8 @@
     "slug": "kota-tangerang-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "03243180a631",
-      "judul": null,
-      "tema": "Bahagia dalam kesulitan-Rahasia Pasukan Kain Sobek Kajian akan dilaksanakan Offline Kajian ini GRATIS dan Terbuka Untuk Umum",
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-18",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": "11:00",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-18T09:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid Ruhama Jl. Tarumanagara no.67",
-        "alamat": "Cirendeu-Pisangan, Ciputat Timur, Tangerang Selatan, Narahubung : 081290016236 / 085692310358, Semoga Allah mudahkan langkah anak-anak kita menimba ilmu agama",
-        "peta": "https://maps.app.goo.gl/nUhABLUtGmR23zFJ9?g_st=aw"
-      },
-      "wilayah": {
-        "kode": "36.74",
-        "kabkota": "Kota Tangerang Selatan",
-        "provinsi": "Banten",
-        "slug": "kota-tangerang-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "anak",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12392",
-          "diteruskan_dari": "Kajian Anak Kak Yogi",
-          "diposting": "2026-10-17T19:56:34+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
-    },
-    {
-      "id": "eb50cfe3a0a7",
-      "judul": "INFO KAJIAN RUTIN: Masjid Jami' Utsman bin Affan",
-      "tema": "Menjaga Kehormatan & Kemuliaan Ilmu",
-      "kitab": "Hilyah Thalibil' Ilmi",
-      "ustadz": [
-        "Ustadz Rido Abu Hafidzh, S.Pd.I., M.Pd."
-      ],
-      "tanggal": "2026-10-18",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Jami' Utsman bin Affan",
-        "alamat": "Jl. Murjaya, Jurangmangu Barat, Pd. Aren, Tangerang Selatan",
-        "peta": "https://bit.ly/mapsMUBA"
-      },
-      "wilayah": {
-        "kode": "36.74",
-        "kabkota": "Kota Tangerang Selatan",
-        "provinsi": "Banten",
-        "slug": "kota-tangerang-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12366",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-17T11:39:35+00:00"
-        },
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12418",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-18T09:23:59+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
-    },
     {
       "id": "2a0fe492d920",
       "judul": "INFO KAJIAN RUTIN: Masjid Jami' Utsman bin Affan",
@@ -154,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T13:21:31+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
     }
   ]
 }

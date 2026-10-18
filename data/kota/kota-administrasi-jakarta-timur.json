@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T13:21:31+00:00",
+  "dibuat": "2026-10-18T23:11:37+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,32 +8,32 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 2,
   "kajian": [
     {
-      "id": "b70f17cfd3b1",
-      "judul": null,
-      "tema": "Kitab Bulugul Maram",
-      "kitab": "4 Kaidah memahami Tauhid Dan Syirik, 6 Prinsip ahlus sunnah wal jamaah",
+      "id": "8832f85129ad",
+      "judul": "Kajian Ilmiah",
+      "tema": "Kekuatan Istighfar",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Abu Ya'la Kurnaedi, Lc, M.Pd."
+        "Ustadz Nizar Saad Jabal, M.Pd."
       ],
-      "tanggal": "2026-10-18",
-      "tanggal_perkiraan": true,
-      "hari": "Ahad",
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
-        "mulai": "07:30",
+        "mulai": "13:30",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-19T13:30:00+07:00",
       "tempat": {
-        "nama": "Masjid Nurul Islam",
-        "alamat": "Jl. Nusa Indah VII No.10, RT.13/RW.3, Kel. Malaka Jaya, Kec. Duren Sawit, Jakarta Timur",
-        "peta": "https://maps.app.goo.gl/qbnoURMjhYwsAnFh7"
+        "nama": "Masjid Imam Nawawi",
+        "alamat": null,
+        "peta": null
       },
       "wilayah": {
         "kode": "31.75",
@@ -49,107 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12033",
+          "url": "https://t.me/jadwalkajiansunnah/12431",
           "diteruskan_dari": null,
-          "diposting": "2026-10-14T22:10:01+00:00"
+          "diposting": "2026-10-18T14:22:26+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-14T23:55:09+00:00",
-      "terakhir_dilihat": "2026-10-14T23:55:09+00:00"
-    },
-    {
-      "id": "47dd7e72eb75",
-      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
-      "tema": null,
-      "kitab": "Minhâj al-Firqah an-Nâjiyah",
-      "ustadz": [
-        "Ustadz Abu Usamah Samsul Hadi"
-      ],
-      "tanggal": "2026-10-18",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-18T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Soleh Hawa",
-        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.75",
-        "kabkota": "Kota Administrasi Jakarta Timur",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-timur",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12369",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-17T11:43:27+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
-    },
-    {
-      "id": "6d310cc48a72",
-      "judul": "Kajian Kitab Mukhtashar Jami'ul 'ulum Wal Hikam",
-      "tema": "Cara Menyikapi Perkara Syubhat",
-      "kitab": "Mukhtashar Jami'ul 'ulum Wal Hikam",
-      "ustadz": [
-        "Ustadz Pamuji Hadi Waluyo, Lc."
-      ],
-      "tanggal": "2026-10-18",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Thayyibah",
-        "alamat": "Jl. Olahraga II no. 1 Condet Cililitan Jakarta Timur, Google Maps: LIVE STREAMING",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.75",
-        "kabkota": "Kota Administrasi Jakarta Timur",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-timur",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": "https://www.youtube.com/c/MasjidThayyibah",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12365",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-17T11:38:48+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-17T13:00:59+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
+      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
     },
     {
       "id": "bbb31634806b",

@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-18T23:11:37+00:00",
+  "wilayah": {
+    "kode": "11.03",
+    "kabkota": "Kabupaten Aceh Timur",
+    "provinsi": "Aceh",
+    "slug": "kabupaten-aceh-timur",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "43a82461d273",
+      "judul": null,
+      "tema": "Tiga Pilar Ibadah dalam Al-Fatihah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Umar Indra, S.S."
+      ],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": true,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "12:15",
+        "selesai": "13:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Darul Ihsan Telkom Gegerkalong",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/K9a8sr6yEA391dSg7"
+      },
+      "wilayah": {
+        "kode": "11.03",
+        "kabkota": "Kabupaten Aceh Timur",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-aceh-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12438",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-18T16:44:50+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
+      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+    }
+  ]
+}

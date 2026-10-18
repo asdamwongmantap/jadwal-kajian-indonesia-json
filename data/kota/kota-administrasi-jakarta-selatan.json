@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T13:21:31+00:00",
+  "dibuat": "2026-10-18T23:11:37+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,64 +8,19 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 2,
   "kajian": [
     {
-      "id": "167512f448b9",
-      "judul": "Kajian Mama Muslimah pagi ini",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-18",
-      "tanggal_perkiraan": true,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Hidayah",
-        "alamat": "Villa Pejaten Mas, Jl. Pejaten Mas Raya no. 11, Pasar Minggu, Jakarta Selatan",
-        "peta": "https://maps.app.goo.gl/LrPToeBoKgdHu5X56?g_st=iw"
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/11793",
-          "diteruskan_dari": "Kajian MT Mama Muslimah",
-          "diposting": "2026-10-13T00:49:04+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-13T02:34:15+00:00",
-      "terakhir_dilihat": "2026-10-14T14:33:27+00:00"
-    },
-    {
-      "id": "1b8bea0bb841",
+      "id": "20c6667b2acf",
       "judul": "Majelis Ba'da Maghrib",
       "tema": null,
-      "kitab": "Matan Tuhfatul Athfal",
+      "kitab": "Adabul Mufrad",
       "ustadz": [
-        "Ustadz Ilham Taufiq Al-Makki, B.Sh."
+        "Ustadz Rafael Afrianto, Lc."
       ],
-      "tanggal": "2026-10-18",
+      "tanggal": "2026-10-19",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -94,60 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12384",
+          "url": "https://t.me/jadwalkajiansunnah/12474",
           "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-10-17T19:42:33+00:00"
+          "diposting": "2026-10-18T21:24:35+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
-    },
-    {
-      "id": "f67eb3255e2a",
-      "judul": "Majelis Ba'da Subuh",
-      "tema": "Kajian Kitab Apa dan Bagaimana Hadits Nabi (Kajian Mustholah Hadits)",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Prof. Daud Rasyid"
-      ],
-      "tanggal": "2026-10-18",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurullah",
-        "alamat": "Apartemen Kalibata City, Basement Tower Cendana",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12383",
-          "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-10-17T19:42:33+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-17T23:07:39+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
+      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
     },
     {
       "id": "e103e5f993f3",
