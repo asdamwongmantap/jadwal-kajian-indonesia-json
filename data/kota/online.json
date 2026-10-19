@@ -1,8 +1,8 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T23:11:37+00:00",
+  "dibuat": "2026-10-19T16:31:13+00:00",
   "wilayah": null,
-  "jumlah": 2,
+  "jumlah": 4,
   "kajian": [
     {
       "id": "7cdd5eee4524",
@@ -43,7 +43,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     },
     {
       "id": "5184b12ab9ab",
@@ -84,7 +84,89 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
+    {
+      "id": "9f8478d4071a",
+      "judul": null,
+      "tema": "Syarah Aqidah Ahlussunah Wal Jama'ah",
+      "kitab": null,
+      "ustadz": [
+        "Buya Dr. Rahmat Silaturahim ST. MPd"
+      ],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": true,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/L3x1S5wXksmzSUGL8?g_st=ipc"
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12565",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T09:41:45+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
+    {
+      "id": "413e51226d1c",
+      "judul": "Kajian Rutin Untuk Umum",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Aep Saepullah Ibnu Ahmad, Lc."
+      ],
+      "tanggal": "2026-10-20",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": "https://youtube.com/masjidashshaff",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12548",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T09:28:11+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     }
   ]
 }

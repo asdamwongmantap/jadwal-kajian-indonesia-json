@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T23:11:37+00:00",
+  "dibuat": "2026-10-19T16:31:13+00:00",
   "wilayah": {
     "kode": "73.71",
     "kabkota": "Kota Makassar",
@@ -8,7 +8,7 @@
     "slug": "kota-makassar",
     "zona_waktu": "WITA"
   },
-  "jumlah": 4,
+  "jumlah": 5,
   "kajian": [
     {
       "id": "22a50ecc3d49",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T13:21:31+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     },
     {
       "id": "3d9ccd3b32b2",
@@ -197,6 +197,53 @@
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
       "terakhir_dilihat": "2026-10-13T16:59:41+00:00"
+    },
+    {
+      "id": "72a48fc6c07e",
+      "judul": "Kajian Senin",
+      "tema": "Pokok-Pokok Aqidah Ahlus Sunnah (Tanbihaat As-Saniyyah 'ala Aqidatil Wasithiyyah karya Asy-Syaikh 'Abdul Aziz bin Nashir Ar-Rasyid rahimahullah (Wafat tahun 1408 H)",
+      "kitab": null,
+      "ustadz": [
+        "Al-Ustadz Abu Darda Sufyan Al-Kandariy"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": "Setiap Hari Senin",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid As-Sunnah",
+        "alamat": "Jl. Baji Rupa No.8 Makassar",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "73.71",
+        "kabkota": "Kota Makassar",
+        "provinsi": "Sulawesi Selatan",
+        "slug": "kota-makassar",
+        "zona_waktu": "WITA"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/passunnahmks",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12533",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T02:13:48+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T23:11:37+00:00",
+  "dibuat": "2026-10-19T16:31:13+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,8 +8,55 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 4,
   "kajian": [
+    {
+      "id": "59d6d94c6a49",
+      "judul": "Kajian Rutin Ba'da Dzuhur",
+      "tema": null,
+      "kitab": "Mukhtasar Minhajul Qashidin",
+      "ustadz": [
+        "Ustadz Ali Hasan Bawazier"
+      ],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "13:00",
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-19T13:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Nur Salma",
+        "alamat": "Centennial Tower lantai 22, Jl. Gatot Subroto Kav 24-25 Jaksel",
+        "peta": "https://maps.app.goo.gl/VhN76MxGZjyRKowH6"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12508",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T01:56:47+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
     {
       "id": "20c6667b2acf",
       "judul": "Majelis Ba'da Maghrib",
@@ -55,7 +102,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
+    {
+      "id": "27304e444219",
+      "judul": "Kajian Ilmiah",
+      "tema": "Sudah Benarkah Sumber Ilmu Agamamu?",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ghasim Awad Al-Ba'dani"
+      ],
+      "tanggal": "2026-10-20",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": "11:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-20T10:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Baiturrahman",
+        "alamat": "Jl Buana Raya, Pondok Pinang, Jakarta Selatan",
+        "peta": "https://maps.app.goo.gl/6eSLMxRmPCcvxN2i6"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12558",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T09:36:15+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     },
     {
       "id": "e103e5f993f3",

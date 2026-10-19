@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T23:11:37+00:00",
+  "dibuat": "2026-10-19T16:31:13+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,7 +8,7 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 6,
+  "jumlah": 10,
   "kajian": [
     {
       "id": "af75e4131456",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     },
     {
       "id": "0ebaa5924b0e",
@@ -102,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     },
     {
       "id": "4a67c112f1d0",
@@ -147,7 +147,97 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
+    {
+      "id": "4a89a3e573ab",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": true,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ar Risalah",
+        "alamat": "Jl. Kavling Pejuang 2 No. 14, Pejuang, Kec. Medansatria, Kota Bekasi, Jawa Barat 17131",
+        "peta": "https://maps.app.goo.gl/AYf5kwQjQXNgzPNi6"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12555",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T09:34:07+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
+    {
+      "id": "55443d89f36e",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": true,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Raya At-Taqwa",
+        "alamat": "Rawalumbu Jemb. 11, RT. 005/019, Bojong Rawalumbu, Kec. Rawalumbu, Kota Bekasi, Jawa Barat 17116",
+        "peta": "https://maps.app.goo.gl/N7a5FUJE8XATsoMk8"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12552",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T09:32:41+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     },
     {
       "id": "60ae49f3f06b",
@@ -192,7 +282,99 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
+    {
+      "id": "a2778d011769",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": true,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid HSI Al Kautsar",
+        "alamat": "Kp. Tenggilis, Mustikajaya, Kec. Mustikajaya, Kota Bekasi, Jawa Barat",
+        "peta": "https://maps.app.goo.gl/SD7NRVKMK7dm9YMV6"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12557",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T09:34:59+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
+    {
+      "id": "cdec6fa7a630",
+      "judul": "Kajian Rutin Rabu Malam, Pekan Ketiga, 21 Oktober 2026 • 11 Jumadil Awwal 1448 H",
+      "tema": "Kitab Tafsir Juz 'Amma Surat At-Takatsur",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Darwis Abu Ubaidah"
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid At-Taqwa Jatibening Satu",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "attaqwa-jatibening",
+          "nama": "Masjid At-Taqwa Jatibening Satu",
+          "url": "https://attaqwajatibening.com/berita/kajian-rutin-rabu-malam-pekan-ketiga-21-oktober-2026-11-jumadil-awwal-1448-h",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T16:31:13.608213+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     },
     {
       "id": "95e56433574d",

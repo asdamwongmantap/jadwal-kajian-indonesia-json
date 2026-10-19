@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-19T16:31:13+00:00",
+  "wilayah": {
+    "kode": "12.07",
+    "kabkota": "Kabupaten Deli Serdang",
+    "provinsi": "Sumatera Utara",
+    "slug": "kabupaten-deli-serdang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "3932d15e841f",
+      "judul": null,
+      "tema": "Perjalanan Ke Akhirat",
+      "kitab": "Ensiklopedi Asma'ul Husna",
+      "ustadz": [
+        "Ustadz Abu Maryam"
+      ],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": "11:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-19T09:30:00+07:00",
+      "tempat": {
+        "nama": "Rumah Ukhty Rhina",
+        "alamat": "(Jl. Medan Binjai Km. 10.5 / Jl. Masjid, Gg. Keluarga No. 148, Dusun V, Desa Payageli, Kec. Sunggal, Kab. Deli Serdang), Info Panitia Kajian : 0819-632-849",
+        "peta": "https://maps.app.goo.gl/JevcujfHbUEqmozH9"
+      },
+      "wilayah": {
+        "kode": "12.07",
+        "kabkota": "Kabupaten Deli Serdang",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-deli-serdang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12501",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T01:54:23+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    }
+  ]
+}

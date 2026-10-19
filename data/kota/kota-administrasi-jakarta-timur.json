@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T23:11:37+00:00",
+  "dibuat": "2026-10-19T16:31:13+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,8 +8,55 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "cfcc950365a4",
+      "judul": "Kajian Bareng Offline",
+      "tema": "Kitab Fikih Asmaul Husna",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Haidar As-Sundawy"
+      ],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-19T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Salman Al Farisi",
+        "alamat": "Jl. Haji Ten, Komp. Bulog, Jakarta Timur",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12525",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T02:09:31+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
     {
       "id": "8832f85129ad",
       "judul": "Kajian Ilmiah",
@@ -55,13 +102,13 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     },
     {
       "id": "bbb31634806b",
       "judul": "Kajian Ilmiah",
       "tema": null,
-      "kitab": "Hilyah Tholibil Ilmi Pertemuan Ke-16",
+      "kitab": "Hilyah Tholibil Ilmi Pertemuan Ke-17",
       "ustadz": [
         "Ustadz Ahmad Rasyid Bazher"
       ],
@@ -99,10 +146,17 @@
           "url": "https://t.me/jadwalkajiansunnah/11698",
           "diteruskan_dari": null,
           "diposting": "2026-10-12T03:05:31+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12506",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T01:56:15+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     }
   ]
 }

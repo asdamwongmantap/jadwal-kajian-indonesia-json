@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T23:11:37+00:00",
+  "dibuat": "2026-10-19T16:31:13+00:00",
   "wilayah": {
     "kode": "36.74",
     "kabkota": "Kota Tangerang Selatan",
@@ -8,7 +8,7 @@
     "slug": "kota-tangerang-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
     {
       "id": "2a0fe492d920",
@@ -52,10 +52,109 @@
           "url": "https://t.me/jadwalkajiansunnah/12417",
           "diteruskan_dari": null,
           "diposting": "2026-10-18T09:23:27+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12544",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T09:01:31+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-18T13:21:31+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
+    {
+      "id": "4080799c0a70",
+      "judul": null,
+      "tema": "Syarah Kitab Ath-Thahawiyah",
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid As-Sunnah Bintaro",
+        "alamat": "Jl. Nusajaya, Pondok Ranji Bintaro Sektor 3A, (Belakang bintaro plaza)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "36.74",
+        "kabkota": "Kota Tangerang Selatan",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12511",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T01:58:56+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
+    {
+      "id": "c01db2d9d2ab",
+      "judul": null,
+      "tema": "Fiqih Asmaul Husna bagian ketiga",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhamad Arif Juni, Lc., M.S.I."
+      ],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ash Shaff Emerald Bintaro in syaa Allah kembali mengadakan Kajian Syabab Offline hari Senin",
+        "alamat": "khusus remaja dan terbuka untuk umum. Berikut detailnya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "36.74",
+        "kabkota": "Kota Tangerang Selatan",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12523",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T02:07:47+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     }
   ]
 }

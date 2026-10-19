@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T23:11:37+00:00",
+  "dibuat": "2026-10-19T16:31:13+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,8 +8,55 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "0184359cb7f3",
+      "judul": "Kajian Rutin Buka Puasa Sunnah Senin",
+      "tema": "Doa Agar Tidak Mendapat Musibah dalam Agama",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ratno Abu Muhammad, Lc., M.Ag."
+      ],
+      "tanggal": "2026-10-19",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "17:00",
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "sebelum"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-19T17:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Pogung Raya",
+        "alamat": "(Maps",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12485",
+          "diteruskan_dari": "Masjid Pogung Raya - MPR",
+          "diposting": "2026-10-19T01:11:56+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
     {
       "id": "f2fc3c85a110",
       "judul": "Kajian Rutin Senin",
@@ -52,10 +99,17 @@
           "url": "https://t.me/jadwalkajiansunnah/11699",
           "diteruskan_dari": null,
           "diposting": "2026-10-12T03:06:36+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12513",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T02:00:15+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     }
   ]
 }

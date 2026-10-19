@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-18T23:11:37+00:00",
+  "dibuat": "2026-10-19T16:31:13+00:00",
   "wilayah": {
     "kode": "33.74",
     "kabkota": "Kota Semarang",
@@ -8,7 +8,7 @@
     "slug": "kota-semarang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
     {
       "id": "dfc30674e2c1",
@@ -55,7 +55,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-18T23:11:37+00:00"
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+    },
+    {
+      "id": "d938493946bf",
+      "judul": "Info Kajian Mt. Azkadina",
+      "tema": "Kajian Kitab Lanjutan DUNIA KESENANGAN YANG SEMU",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Ujang Pramudhiarto, Lc."
+      ],
+      "tanggal": "2026-10-20",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-20T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Azhar",
+        "alamat": "Jl. Klentengsari Pedalangan, Banyumanik Semarang, Jawa Tengah 50268, Indonesia",
+        "peta": "https://maps.app.goo.gl/9r7KsT5SEAJ7cq4B8"
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12536",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T08:36:17+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
+      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
     }
   ]
 }
