@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-19T16:31:13+00:00",
+  "dibuat": "2026-10-20T00:19:37+00:00",
   "wilayah": {
     "kode": "32.16",
     "kabkota": "Kabupaten Bekasi",
@@ -8,75 +8,32 @@
     "slug": "kabupaten-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "3431e75326f9",
-      "judul": "Kajian Muslimah",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-19",
-      "tanggal_perkiraan": true,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Ashar",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Ma'had An-Najiyah",
-        "alamat": "Jl. Cendrawasih 1, Blok D19 No. 1, Telagamurni, Kec. Cikarang Barat, Kab. Bekasi, Jawa Barat 17530",
-        "peta": "https://maps.app.goo.gl/Sf3TYF89M2sjjtq89"
-      },
-      "wilayah": {
-        "kode": "32.16",
-        "kabkota": "Kabupaten Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kabupaten-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12553",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:33:09+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
-    },
-    {
-      "id": "fb5ac4261ab8",
+      "id": "ab6cbe78f46e",
       "judul": null,
-      "tema": null,
+      "tema": "Kitab Fiqih Asmaul Husna",
       "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-19",
-      "tanggal_perkiraan": true,
-      "hari": "Senin",
+      "ustadz": [
+        "Ustadz Muhammad Muchtar, Lc,. MH"
+      ],
+      "tanggal": "2026-10-20",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
       "rutin": null,
       "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
+        "mulai": "09:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-20T09:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Al-Hasanah (Shalahuddin Al Ayyubi Islamic Boarding School)",
-        "alamat": "Jl. Raya Babelan, Kebalen, Kec. Babelan, Kab. Bekasi, Jawa Barat 17610",
-        "peta": "https://maps.app.goo.gl/m2729xmAeqNt1GQY7"
+        "nama": "Masjid Raya At - Tauhid",
+        "alamat": "Jl. Zona Eropa Boulevard - Kota Deltamas., Cikarang Pusat",
+        "peta": null
       },
       "wilayah": {
         "kode": "32.16",
@@ -92,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12554",
+          "url": "https://t.me/jadwalkajiansunnah/12588",
           "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:33:46+00:00"
+          "diposting": "2026-10-19T17:20:36+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
+      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
     }
   ]
 }

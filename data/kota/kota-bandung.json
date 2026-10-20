@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-19T16:31:13+00:00",
+  "dibuat": "2026-10-20T00:19:37+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,78 +8,31 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "7a2e102feb35",
-      "judul": null,
+      "id": "4554c91042e4",
+      "judul": "Kajian Muslimah - Masjid Al Aziz Bandung",
       "tema": null,
-      "kitab": null,
+      "kitab": "300 Dosa Yang Diremehkan Wanita",
       "ustadz": [
-        "Ustadz Abu Eirbadh Mufy Thalib , kira-kira apa yang bakal ustadz bahas di"
+        "Ustadz Abdullah Amir Maretan"
       ],
-      "tanggal": "2026-10-19",
+      "tanggal": "2026-10-20",
       "tanggal_perkiraan": false,
-      "hari": "Senin",
+      "hari": "Selasa",
       "rutin": null,
       "waktu": {
-        "mulai": "18:30",
+        "mulai": "09:00",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-19T18:30:00+07:00",
+      "mulai_iso": "2026-10-20T09:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Al Ihsan Darul Hikam (MASJID AL IHSAN DARUL HIKAM)",
-        "alamat": "Jl. Ir. H. Djuanda no. 283 Bandung",
-        "peta": "https://g.co/kgs/2qCRbx"
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12517",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T02:03:40+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
-    },
-    {
-      "id": "dd86c6ed008b",
-      "judul": null,
-      "tema": null,
-      "kitab": "Syarh Tsalatsatil-Ushul",
-      "ustadz": [
-        "Ustadz Dr. Andy Octavian Latief, M.Sc. )"
-      ],
-      "tanggal": "2026-10-19",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al-Furqon",
-        "alamat": "Jalan Jurang Gg. Masjid Al Furqon. Kel. Pasteur Kec. Sukajadi, Bandung",
+        "nama": "Masjid Al Aziz (Jl. Soekarno Hatta No. 662 - Bandung)",
+        "alamat": "Peserta: Terbuka untuk umum (Ikhwan / Akhwat)",
         "peta": null
       },
       "wilayah": {
@@ -89,20 +42,20 @@
         "slug": "kota-bandung",
         "zona_waktu": "WIB"
       },
-      "mode": "offline",
+      "mode": "hybrid",
       "streaming": null,
-      "peserta": null,
+      "peserta": "akhwat",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12519",
+          "url": "https://t.me/jadwalkajiansunnah/12599",
           "diteruskan_dari": null,
-          "diposting": "2026-10-19T02:04:54+00:00"
+          "diposting": "2026-10-19T17:36:38+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
+      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-19T16:31:13+00:00",
+  "dibuat": "2026-10-20T00:19:37+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,31 +8,31 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
     {
-      "id": "cfcc950365a4",
-      "judul": "Kajian Bareng Offline",
-      "tema": "Kitab Fikih Asmaul Husna",
-      "kitab": null,
+      "id": "a0bb7d2502af",
+      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
+      "tema": null,
+      "kitab": "Al-Minah al-'Aliyyah fī Bayān as-Sunan al-Yaumiyyah",
       "ustadz": [
-        "Ustadz Abu Haidar As-Sundawy"
+        "Ustadz Hamdi Solah Albakry, Lc."
       ],
-      "tanggal": "2026-10-19",
+      "tanggal": "2026-10-20",
       "tanggal_perkiraan": false,
-      "hari": "Senin",
+      "hari": "Selasa",
       "rutin": null,
       "waktu": {
-        "mulai": "09:30",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-19T09:30:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Salman Al Farisi",
-        "alamat": "Jl. Haji Ten, Komp. Bulog, Jakarta Timur",
+        "nama": "Masjid Soleh Hawa",
+        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
         "peta": null
       },
       "wilayah": {
@@ -49,60 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12525",
+          "url": "https://t.me/jadwalkajiansunnah/12572",
           "diteruskan_dari": null,
-          "diposting": "2026-10-19T02:09:31+00:00"
+          "diposting": "2026-10-19T17:05:46+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
-    },
-    {
-      "id": "8832f85129ad",
-      "judul": "Kajian Ilmiah",
-      "tema": "Kekuatan Istighfar",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Nizar Saad Jabal, M.Pd."
-      ],
-      "tanggal": "2026-10-19",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": "13:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-19T13:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid Imam Nawawi",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.75",
-        "kabkota": "Kota Administrasi Jakarta Timur",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-timur",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12431",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-18T14:22:26+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
+      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
     },
     {
       "id": "bbb31634806b",
@@ -156,7 +109,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
     }
   ]
 }

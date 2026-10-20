@@ -1,132 +1,9 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-19T16:31:13+00:00",
+  "dibuat": "2026-10-20T00:19:37+00:00",
   "wilayah": null,
-  "jumlah": 4,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "7cdd5eee4524",
-      "judul": "kajian ⤵",
-      "tema": "Alumni Darul Hadits, Dammaj – Yaman",
-      "kitab": "Ushūlus Sunnah",
-      "ustadz": [
-        "Ustadz Ayub Abu Ayub"
-      ],
-      "tanggal": "2026-10-19",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": "10:00",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-19T09:00:00+07:00",
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12455",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-18T21:13:48+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
-    },
-    {
-      "id": "5184b12ab9ab",
-      "judul": "KAJIAN RUTIN UNTUK UMUM In syaaAllah",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dr. Ahmad Ridwan, Lc., M.E."
-      ],
-      "tanggal": "2026-10-19",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": "11:00",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-19T09:30:00+07:00",
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12435",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-18T14:26:49+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
-    },
-    {
-      "id": "9f8478d4071a",
-      "judul": null,
-      "tema": "Syarah Aqidah Ahlussunah Wal Jama'ah",
-      "kitab": null,
-      "ustadz": [
-        "Buya Dr. Rahmat Silaturahim ST. MPd"
-      ],
-      "tanggal": "2026-10-19",
-      "tanggal_perkiraan": true,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/L3x1S5wXksmzSUGL8?g_st=ipc"
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12565",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:41:45+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
-    },
     {
       "id": "413e51226d1c",
       "judul": "Kajian Rutin Untuk Umum",
@@ -166,7 +43,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
     }
   ]
 }

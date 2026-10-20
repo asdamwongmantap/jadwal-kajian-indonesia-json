@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-19T16:31:13+00:00",
+  "dibuat": "2026-10-20T00:19:37+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,109 +8,66 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 3,
   "kajian": [
     {
-      "id": "0c6ad6c04c1b",
+      "id": "6308f4a39827",
       "judul": null,
-      "tema": null,
+      "tema": "AIR SISA JILATAN KUCING (Kitab Bahjah Qulubil Abrar)",
       "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-19",
-      "tanggal_perkiraan": true,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Mukhlisin",
-        "alamat": "Pandau",
-        "peta": "https://goo.gl/maps/35Rk785qJ9rfM1t46"
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12563",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:40:53+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
-    },
-    {
-      "id": "0e345090a531",
-      "judul": null,
-      "tema": "Adab & Akhlak Penuntut Ilmu ( karya Ustadz Yazid Bin Abdul Qadir Jawas )",
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-19",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ar Raudhoh Teratak Buluh",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12527",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T02:10:29+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
-    },
-    {
-      "id": "6a71495002d4",
-      "judul": null,
-      "tema": "Pembahasan Point Ke 63. ISRAILIYAT BARU",
-      "kitab": "Syarah Hilyah Thalibil 'ilmi",
       "ustadz": [
-        "Ustadz Zainuddin Khuzairi"
+        "Ustadz Luthfi Abdul Jabbar, Lc."
       ],
-      "tanggal": "2026-10-19",
+      "tanggal": "2026-10-20",
       "tanggal_perkiraan": false,
-      "hari": "Senin",
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-20T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Furqon",
+        "alamat": "Vila Nusa Indah 2 Blok Z",
+        "peta": "https://maps.app.goo.gl/4wvEoep9qEjsaYYw8"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12614",
+          "diteruskan_dari": "R",
+          "diposting": "2026-10-19T22:10:00+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
+      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
+    },
+    {
+      "id": "e71825af48e5",
+      "judul": null,
+      "tema": "Tafsir Al-Qur'an",
+      "kitab": "Tafsir Al-Qur'an",
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-10-20",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -121,9 +78,9 @@
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Jami' Al Mukhlisin",
-        "alamat": "Jl. Raya Tugu No.37, RT.2/RW.14, Tugu Utara, Kec. Koja, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14260",
-        "peta": "https://maps.app.goo.gl/u2jKbhoEk8AAH2QF9"
+        "nama": "Masjid Muhammad Al Qosim",
+        "alamat": "Jl. Kyai Ngaben Boja",
+        "peta": null
       },
       "wilayah": {
         "kode": "12.05",
@@ -139,13 +96,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12551",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:31:09+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12631",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-10-19T22:45:04+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
+      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
     },
     {
       "id": "f84545fdaa5c",
@@ -192,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
     }
   ]
 }

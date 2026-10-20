@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-19T16:31:13+00:00",
+  "dibuat": "2026-10-20T00:19:37+00:00",
   "wilayah": {
     "kode": "32.01",
     "kabkota": "Kabupaten Bogor",
@@ -11,16 +11,16 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "ecc546986c4c",
-      "judul": "Kajian Senin Malam di Masjid At-Tauhid!",
-      "tema": null,
+      "id": "a551f4606858",
+      "judul": "Kajian Selasa Malam di Masjid At-Tauhid!",
+      "tema": "Aqidah Ahlus Sunnah Terhadap Perbuatan Kemunafikan",
       "kitab": null,
       "ustadz": [
-        "Ustadz Abu Faris Yudi Kurnia, Lc. M.Pd."
+        "Ustadz Abu Abdillah Kholidin,Lc.M.Pdhafizhahullah"
       ],
-      "tanggal": "2026-10-19",
+      "tanggal": "2026-10-20",
       "tanggal_perkiraan": false,
-      "hari": "Senin",
+      "hari": "Selasa",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12454",
+          "url": "https://t.me/jadwalkajiansunnah/12594",
           "diteruskan_dari": null,
-          "diposting": "2026-10-18T21:13:03+00:00"
+          "diposting": "2026-10-19T17:24:30+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
+      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
     }
   ]
 }

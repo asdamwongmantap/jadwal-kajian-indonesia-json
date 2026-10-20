@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-19T16:31:13+00:00",
+  "dibuat": "2026-10-20T00:19:37+00:00",
   "wilayah": {
     "kode": "32.04",
     "kabkota": "Kabupaten Bandung",
@@ -8,55 +8,8 @@
     "slug": "kabupaten-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "a662eebe057b",
-      "judul": "Kajian Ilmu Tajwid dan Talaqi Al-Qur'an",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Rendi Rustandi"
-      ],
-      "tanggal": "2026-10-19",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": "16:41",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-19T16:41:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al Birr",
-        "alamat": "Komp. Pradha Ciganitri, Bojongsoang, Kab. Bandung",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.04",
-        "kabkota": "Kabupaten Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kabupaten-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12442",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-18T20:56:05+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-18T23:11:37+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
-    },
     {
       "id": "d46ef6d4d917",
       "judul": null,
@@ -102,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-19T16:31:13+00:00"
+      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
     }
   ]
 }

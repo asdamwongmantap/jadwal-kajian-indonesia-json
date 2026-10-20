@@ -1,8 +1,8 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-19T16:31:13+00:00",
-  "jumlah_kajian": 86,
-  "jumlah_kota": 33,
+  "dibuat": "2026-10-20T00:19:37+00:00",
+  "jumlah_kajian": 63,
+  "jumlah_kota": 28,
   "sumber": [
     {
       "id": "jadwalkajiansunnah",
@@ -10,8 +10,8 @@
       "tipe": "telegram",
       "url": "https://t.me/s/jadwalkajiansunnah",
       "status": "ok",
-      "pengumuman": 163,
-      "jadwal": 101
+      "pengumuman": 155,
+      "jadwal": 98
     },
     {
       "id": "attaqwa-jatibening",
@@ -27,7 +27,7 @@
       "nama": "Masjid Darussalam Cibubur",
       "tipe": "website",
       "url": "https://darussalam.id/live/",
-      "status": "ok",
+      "status": "gagal: ConnectTimeout",
       "pengumuman": 0,
       "jadwal": 0
     },
