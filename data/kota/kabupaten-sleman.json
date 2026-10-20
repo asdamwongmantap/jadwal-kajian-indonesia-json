@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-20T23:52:18+00:00",
+  "wilayah": {
+    "kode": "34.04",
+    "kabkota": "Kabupaten Sleman",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "slug": "kabupaten-sleman",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "93b47ae95fcd",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Firanda Andirja, M.A."
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "11:30",
+        "selesai": "13:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-21T11:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Pogung Dalangan (MPD)",
+        "alamat": "Pogung Kidul, Sinduadi, Sleman",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.04",
+        "kabkota": "Kabupaten Sleman",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-sleman",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12666",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-20T16:35:44+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-20T14:21:48+00:00",
+  "dibuat": "2026-10-20T23:52:18+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,66 +8,19 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "6308f4a39827",
-      "judul": null,
-      "tema": "AIR SISA JILATAN KUCING (Kitab Bahjah Qulubil Abrar)",
-      "kitab": null,
+      "id": "a0e481d48afa",
+      "judul": "Majelis Ilmu",
+      "tema": null,
+      "kitab": "Tauhid",
       "ustadz": [
-        "Ustadz Luthfi Abdul Jabbar, Lc."
+        "Ustadz Muhtarom"
       ],
-      "tanggal": "2026-10-20",
+      "tanggal": "2026-10-21",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al-Furqon",
-        "alamat": "Vila Nusa Indah 2 Blok Z",
-        "peta": "https://maps.app.goo.gl/4wvEoep9qEjsaYYw8"
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12614",
-          "diteruskan_dari": "R",
-          "diposting": "2026-10-19T22:10:00+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "e71825af48e5",
-      "judul": null,
-      "tema": "Tafsir Al-Qur'an",
-      "kitab": "Tafsir Al-Qur'an",
-      "ustadz": [
-        "Ustadz Endang Sutedi, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -78,9 +31,9 @@
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Muhammad Al Qosim",
-        "alamat": "Jl. Kyai Ngaben Boja",
-        "peta": null
+        "nama": "Masjid Smp-Sma Nabawi School",
+        "alamat": "Jl.Sunan Giri no.5 Rawamangun, JakartaTimur, , 021 4897112",
+        "peta": "https://g.co/kgs/Jgt3PVb"
       },
       "wilayah": {
         "kode": "12.05",
@@ -89,67 +42,20 @@
         "slug": "kabupaten-langkat",
         "zona_waktu": "WIB"
       },
-      "mode": "offline",
-      "streaming": null,
+      "mode": "hybrid",
+      "streaming": "https://m.youtube.com/channel/UCaMqIbr6jKGsRqu8Qt7f-jA",
       "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12631",
-          "diteruskan_dari": "Endang Sutedi Official",
-          "diposting": "2026-10-19T22:45:04+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "f84545fdaa5c",
-      "judul": null,
-      "tema": "Sikap Ahlus Sunnah Kepada Ahlul Bait",
-      "kitab": "Intisari Aqidah",
-      "ustadz": [
-        "Ustadz Pamuji Hadi Waluyo, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Musholla Nurul Istiqomah",
-        "alamat": "Narahubung: 0813-1645-3253",
-        "peta": "https://goo.gl/maps/MrnZEUdQw3K2"
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12549",
+          "url": "https://t.me/jadwalkajiansunnah/12656",
           "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:28:59+00:00"
+          "diposting": "2026-10-20T16:27:07+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     }
   ]
 }

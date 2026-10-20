@@ -1,0 +1,88 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-20T23:52:18+00:00",
+  "wilayah": null,
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "bd263bcf9a31",
+      "judul": "Kajian Rutin Rabu ba'da Ashar",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": true,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Iman Blok M Square Lt. 7",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": null,
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12667",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-20T16:36:59+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
+    },
+    {
+      "id": "ea870fe136de",
+      "judul": "Info Kajian Bitv",
+      "tema": null,
+      "kitab": "wa Assunnah",
+      "ustadz": [
+        "Ustadz Ahmad Ali Rozaq, Lc."
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami' Al-Jihad",
+        "alamat": "Ciledug, ( Maps. g.co/kgs/Hkexf1 )",
+        "peta": "https://g.co/kgs/Hkexf1"
+      },
+      "wilayah": null,
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12673",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-20T16:43:19+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
+    }
+  ]
+}

@@ -1,362 +1,173 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-20T14:21:48+00:00",
-  "jumlah": 63,
+  "dibuat": "2026-10-20T23:52:18+00:00",
+  "jumlah": 40,
   "kajian": [
     {
-      "id": "a3e0b193f34e",
-      "judul": "Kajian Rutin Ummahat",
+      "id": "93b47ae95fcd",
+      "judul": null,
       "tema": null,
-      "kitab": "Ushul Tsalatsah",
-      "ustadz": [
-        "Ustadz Abu Umair Kuswoyo"
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "08:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T08:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Nurus Sunnah (lantai 2)",
-        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "33.74",
-        "kabkota": "Kota Semarang",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-semarang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12601",
-          "diteruskan_dari": "Masjid Nurussunnah",
-          "diposting": "2026-10-19T21:57:54+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "7ee150ba84f7",
-      "judul": "Kajian Selasa Pagi",
-      "tema": "| Alumnus Daar El-Hadits Yaman",
       "kitab": null,
       "ustadz": [
-        "Ustadzah Imroatul Azizah",
-        "| Inspirator Muslimah"
+        "Ustadz Dr. Firanda Andirja, M.A."
       ],
-      "tanggal": "2026-10-20",
+      "tanggal": "2026-10-21",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
-        "mulai": "08:30",
-        "selesai": null,
+        "mulai": "11:30",
+        "selesai": "13:30",
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T08:30:00+07:00",
+      "mulai_iso": "2026-10-21T11:30:00+07:00",
       "tempat": {
-        "nama": "Masjid Al-Muthi'in",
-        "alamat": "| Wonocatur Banguntapan Bantul, | Maps",
+        "nama": "Masjid Pogung Dalangan (MPD)",
+        "alamat": "Pogung Kidul, Sinduadi, Sleman",
         "peta": null
       },
       "wilayah": {
-        "kode": "34.02",
-        "kabkota": "Kabupaten Bantul",
+        "kode": "34.04",
+        "kabkota": "Kabupaten Sleman",
         "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kabupaten-bantul",
+        "slug": "kabupaten-sleman",
         "zona_waktu": "WIB"
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": null,
+      "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12585",
+          "url": "https://t.me/jadwalkajiansunnah/12666",
           "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:18:50+00:00"
+          "diposting": "2026-10-20T16:35:44+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
-      "id": "ab6cbe78f46e",
-      "judul": null,
-      "tema": "Kitab Fiqih Asmaul Husna",
-      "kitab": null,
+      "id": "8834c892935c",
+      "judul": "Kajian Bareng Offline",
+      "tema": "Hadits ke-69",
+      "kitab": "Umdatul Ahkam",
       "ustadz": [
-        "Ustadz Muhammad Muchtar, Lc,. MH"
+        "Ustadz Fandi Kasbara Harahap, S.Sy."
       ],
-      "tanggal": "2026-10-20",
+      "tanggal": "2026-10-21",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
-        "mulai": "09:00",
-        "selesai": "11:00",
+        "mulai": "16:15",
+        "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:00:00+07:00",
+      "mulai_iso": "2026-10-21T16:15:00+07:00",
       "tempat": {
-        "nama": "Masjid Raya At - Tauhid",
-        "alamat": "Jl. Zona Eropa Boulevard - Kota Deltamas., Cikarang Pusat",
+        "nama": "Masjid Umar bin Khattab",
+        "alamat": "Desa Selacau, Kec. Batujajar, Kab. Bandung Barat",
         "peta": null
       },
       "wilayah": {
-        "kode": "32.16",
-        "kabkota": "Kabupaten Bekasi",
+        "kode": "32.17",
+        "kabkota": "Kabupaten Bandung Barat",
         "provinsi": "Jawa Barat",
-        "slug": "kabupaten-bekasi",
+        "slug": "kabupaten-bandung-barat",
         "zona_waktu": "WIB"
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": null,
+      "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12588",
+          "url": "https://t.me/jadwalkajiansunnah/12671",
           "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:20:36+00:00"
+          "diposting": "2026-10-20T16:42:19+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
-      "id": "4554c91042e4",
-      "judul": "Kajian Muslimah - Masjid Al Aziz Bandung",
+      "id": "e074fc11c134",
+      "judul": null,
+      "tema": "Landasan Ketiga: Mendengar Dan Taat Kepada Ulil Amri",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Akhmad Jamaludin Ardani, Lc."
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "18:00",
+        "selesai": null,
+        "acuan_shalat": "Isya",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-21T18:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Agung Syuhada Kotabaru",
+        "alamat": "Jl. I Dewa Nyoman Oka No. 13. Kotabaru, Gondokusuman, Yogyakarta, DIY 55224",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12669",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-20T16:40:02+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
+    },
+    {
+      "id": "a0e481d48afa",
+      "judul": "Majelis Ilmu",
       "tema": null,
-      "kitab": "300 Dosa Yang Diremehkan Wanita",
+      "kitab": "Tauhid",
       "ustadz": [
-        "Ustadz Abdullah Amir Maretan"
+        "Ustadz Muhtarom"
       ],
-      "tanggal": "2026-10-20",
+      "tanggal": "2026-10-21",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
-        "mulai": "09:00",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Al Aziz (Jl. Soekarno Hatta No. 662 - Bandung)",
-        "alamat": "Peserta: Terbuka untuk umum (Ikhwan / Akhwat)",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12599",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:36:38+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "a1489da15271",
-      "judul": "Kajian Khusus Wanita Muslimah",
-      "tema": "Catatan-catatan Terkait Hukum-hukum Khusus Wanita",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Jefri Halim, Lc., M.A."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Jami' Al Badr",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/FcTVZErVRS4ZLeoa8"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12629",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T22:18:22+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "d938493946bf",
-      "judul": "Info Kajian Mt. Azkadina",
-      "tema": "Kajian Kitab Lanjutan DUNIA KESENANGAN YANG SEMU",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dr. Ujang Pramudhiarto, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al Azhar",
-        "alamat": "Jl. Klentengsari Pedalangan, Banyumanik Semarang, Jawa Tengah 50268, Indonesia",
-        "peta": "https://maps.app.goo.gl/9r7KsT5SEAJ7cq4B8"
-      },
-      "wilayah": {
-        "kode": "33.74",
-        "kabkota": "Kota Semarang",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-semarang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12536",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T08:36:17+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "9a46552ef2e1",
-      "judul": null,
-      "tema": "Bab 151 Orang Yang Mendengar Kekejian Lalu Menyebarkannya",
-      "kitab": "Adabul Mufrad",
-      "ustadz": [
-        "Ustadz Abu Umair Kuswoyo"
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid Baiturrahim",
-        "alamat": "Perumahan Griya Bukit Mas, Jl. Ngesrep Barat 6, Kelurahan Srondol Kulon, Kecamatan Banyumanik",
-        "peta": "https://maps.app.goo.gl/nJpzxXEMQkyhz7wp9"
-      },
-      "wilayah": {
-        "kode": "11.17",
-        "kabkota": "Kabupaten Bener Meriah",
-        "provinsi": "Aceh",
-        "slug": "kabupaten-bener-meriah",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12606",
-          "diteruskan_dari": "Abu Umair Official",
-          "diposting": "2026-10-19T21:59:48+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "6308f4a39827",
-      "judul": null,
-      "tema": "AIR SISA JILATAN KUCING (Kitab Bahjah Qulubil Abrar)",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Luthfi Abdul Jabbar, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al-Furqon",
-        "alamat": "Vila Nusa Indah 2 Blok Z",
-        "peta": "https://maps.app.goo.gl/4wvEoep9qEjsaYYw8"
+        "nama": "Masjid Smp-Sma Nabawi School",
+        "alamat": "Jl.Sunan Giri no.5 Rawamangun, JakartaTimur, , 021 4897112",
+        "peta": "https://g.co/kgs/Jgt3PVb"
       },
       "wilayah": {
         "kode": "12.05",
@@ -365,455 +176,32 @@
         "slug": "kabupaten-langkat",
         "zona_waktu": "WIB"
       },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12614",
-          "diteruskan_dari": "R",
-          "diposting": "2026-10-19T22:10:00+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "9b2b812c9597",
-      "judul": "Kajian Muslimah",
-      "tema": "Tadabbur & Tafsir Surah An-Naziat",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dr. Djazuli Ruhan Basyir, Lc., M.A."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid Gren Alia Cikini",
-        "alamat": "Jl. Cikini Raya No. 32, Menteng, Jakarta Pusat",
-        "peta": "https://maps.app.goo.gl/QZQ354JWKpNWPTHd9"
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12616",
-          "diteruskan_dari": "Djazuli Ruhan Basyir",
-          "diposting": "2026-10-19T22:11:06+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "1f853f4f363a",
-      "judul": "Kajian Mama Muslimah",
-      "tema": "Sejauh Apa Pun Langkahmu, Jangan Tinggalkan Shalat: Fikih Bersuci dan Sholat bagi Wanita Musafirah",
-      "kitab": "101 Permasalahan Wanita",
-      "ustadz": [
-        "Ustadz Azhar Khalid Seff"
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": "11:30",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:30:00+07:00",
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/3bzP2AyvF8EJJAL49"
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "online",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12615",
-          "diteruskan_dari": "Kajian MT Mama Muslimah",
-          "diposting": "2026-10-19T22:10:41+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "27304e444219",
-      "judul": "Kajian Ilmiah",
-      "tema": "Sudah Benarkah Sumber Ilmu Agamamu?",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Ghasim Awad Al-Ba'dani"
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "10:00",
-        "selesai": "11:30",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T10:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Baiturrahman",
-        "alamat": "Jl Buana Raya, Pondok Pinang, Jakarta Selatan",
-        "peta": "https://maps.app.goo.gl/6eSLMxRmPCcvxN2i6"
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
       "mode": "hybrid",
-      "streaming": null,
+      "streaming": "https://m.youtube.com/channel/UCaMqIbr6jKGsRqu8Qt7f-jA",
       "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12558",
+          "url": "https://t.me/jadwalkajiansunnah/12656",
           "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:36:15+00:00"
+          "diposting": "2026-10-20T16:27:07+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
-      "id": "350a34447a77",
-      "judul": "Kajian Khusus Muslimah",
-      "tema": "Fiqih Do'a dan Dzikir",
-      "kitab": "Fiqih Do'a dan Dzikir",
-      "ustadz": [
-        "Ustadz Abdullah Sya'roni"
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "13:00",
-        "selesai": "14:30",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T13:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Ar Riyadh Depok",
-        "alamat": "Jl. Kolintang 2, Mekarjaya, Sukmajaya, Depok 2 Tengah 16411",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.76",
-        "kabkota": "Kota Depok",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-depok",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12539",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T08:40:00+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "d46ef6d4d917",
-      "judul": null,
-      "tema": "Membersihkan Hati dari Dengki & Kebencian",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Farid Ramdhan, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Badr",
-        "alamat": "Warung Kopi Pabinihan, Dangdeur, Kiangroke, Kec. Banjaran, Kabupaten Bandung, Jawa Barat 40377",
-        "peta": "https://maps.app.goo.gl/Emf72so7amgCJp5YA"
-      },
-      "wilayah": {
-        "kode": "32.04",
-        "kabkota": "Kabupaten Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kabupaten-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12547",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:27:55+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "a551f4606858",
-      "judul": "Kajian Selasa Malam di Masjid At-Tauhid!",
-      "tema": "Aqidah Ahlus Sunnah Terhadap Perbuatan Kemunafikan",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Abu Abdillah Kholidin,Lc.M.Pdhafizhahullah"
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid At-Tauhid - Sukahati Cibinong",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.01",
-        "kabkota": "Kabupaten Bogor",
-        "provinsi": "Jawa Barat",
-        "slug": "kabupaten-bogor",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": "https://youtube.com/@masjid.atttauhid?si=k3MlAElyRdz3VfKo",
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12594",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:24:30+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "e71825af48e5",
-      "judul": null,
-      "tema": "Tafsir Al-Qur'an",
-      "kitab": "Tafsir Al-Qur'an",
-      "ustadz": [
-        "Ustadz Endang Sutedi, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Muhammad Al Qosim",
-        "alamat": "Jl. Kyai Ngaben Boja",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12631",
-          "diteruskan_dari": "Endang Sutedi Official",
-          "diposting": "2026-10-19T22:45:04+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "f84545fdaa5c",
-      "judul": null,
-      "tema": "Sikap Ahlus Sunnah Kepada Ahlul Bait",
-      "kitab": "Intisari Aqidah",
-      "ustadz": [
-        "Ustadz Pamuji Hadi Waluyo, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Musholla Nurul Istiqomah",
-        "alamat": "Narahubung: 0813-1645-3253",
-        "peta": "https://goo.gl/maps/MrnZEUdQw3K2"
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12549",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:28:59+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "8a1b43f2e324",
-      "judul": "Kajian Renungan Fajar",
-      "tema": "Cara Menggapai Keridhaan Allah",
-      "kitab": null,
-      "ustadz": [
-        "Dr. Aceng Abdul Azis, MA."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Istiqlal",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "istiqlal-rutin",
-          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
-          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-20T00:19:37.155181+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "99dd296a4228",
+      "id": "2b98e23ecbd3",
       "judul": "Kajian Khawamisy",
-      "tema": "Al Hadits Al Qudsiyah (HADITS)",
+      "tema": "Tafsir As Sya'rawi (TAFSIR)",
       "kitab": null,
       "ustadz": [
-        "Dr. H. M. Ulinnuha, Lc, MA."
+        "H. Warso Winata, Lc., MA."
       ],
-      "tanggal": "2026-10-20",
+      "tanggal": "2026-10-21",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -844,23 +232,70 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-20T00:19:37.155181+00:00"
+          "diposting": "2026-10-20T23:52:18.246067+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
-      "id": "9f1e857113c7",
-      "judul": "Kajian Dialog Zuhur",
-      "tema": "Al Fiqh ‘Alal-Madzahibil Arba’ah",
+      "id": "791a1dea3255",
+      "judul": "Kajian Renungan Fajar",
+      "tema": "Pancasila Perekat Bangsa",
       "kitab": null,
       "ustadz": [
-        "Dr. H. M. Yusuf Sidiq, MA."
+        "H. Saparwadi, M.Pd."
       ],
-      "tanggal": "2026-10-20",
+      "tanggal": "2026-10-21",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-20T23:52:18.246067+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
+    },
+    {
+      "id": "83ab30d9e991",
+      "judul": "Kajian Dialog Zuhur",
+      "tema": "Fathul Mu’in",
+      "kitab": null,
+      "ustadz": [
+        "Dr. Hj. Dewi Endriyanti"
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -891,23 +326,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-20T00:19:37.155181+00:00"
+          "diposting": "2026-10-20T23:52:18.246067+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
-      "id": "a0bb7d2502af",
-      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
-      "tema": null,
-      "kitab": "Al-Minah al-'Aliyyah fī Bayān as-Sunan al-Yaumiyyah",
+      "id": "eaa47dd4a20e",
+      "judul": "Kajian Islam Ilmiyah",
+      "tema": "Pasal Tentang Keimanan Bahwasanya Al-Qur'an Kalamullah Secara Hakiki",
+      "kitab": "Aqidah Wasiithiyyah",
       "ustadz": [
-        "Ustadz Hamdi Solah Albakry, Lc."
+        "Ustadz Abu Abdillah Andi Suhandi"
       ],
-      "tanggal": "2026-10-20",
+      "tanggal": "2026-10-21",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -918,15 +353,15 @@
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Soleh Hawa",
-        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
-        "peta": null
+        "nama": "Masjid Ash Shiddiq",
+        "alamat": "Jl. Kebon Gedang, (Gg. Hj. Siti Aisyah) Rt.02 Rw.10, Maleer, Batununggal, Kota Bandung., (",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
       },
       "wilayah": {
-        "kode": "31.75",
-        "kabkota": "Kota Administrasi Jakarta Timur",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-timur",
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
         "zona_waktu": "WIB"
       },
       "mode": "offline",
@@ -936,609 +371,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12572",
+          "url": "https://t.me/jadwalkajiansunnah/12661",
           "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:05:46+00:00"
+          "diposting": "2026-10-20T16:31:26+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "16e3ce8b4b20",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": true,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dhuha",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Furqan",
-        "alamat": "Jl. Pulosirih, Taman Galaxy, Pekayon Jaya, Kec. Bekasi Sel., Kota Bekasi, Jawa Barat 17148",
-        "peta": "https://maps.app.goo.gl/5H1jLWQnkuivroPr7"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12589",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:21:19+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "1d01e6d55a2b",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "KH. Agus Salim No.100, Bekasi Jaya, Kec. Bekasi Timur, Kota Bekasi, Jawa Barat 17112"
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": true,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dzuhur",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Jami Bunga Bangsa",
-        "alamat": "Jl. KH. Agus Salim No.100, Bekasi Jaya, Kec. Bekasi Timur, Kota Bekasi, Jawa Barat 17112",
-        "peta": "https://maps.app.goo.gl/rKBmJVhJf94KaYJ18"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12592",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:22:42+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "3f4426619cad",
-      "judul": "Kajian Muslimah",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": true,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dhuha",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Baiturrahim",
-        "alamat": "Jl. Surya Raya No. 384, Jakasetia, Kec. Bekasi Sel., Kota Bekasi, Jawa Barat 17147",
-        "peta": "https://maps.app.goo.gl/YJz65YCGNQjiamBv9"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12590",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:21:36+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "6cd2a11ce584",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": true,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dhuha",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Aminussalam",
-        "alamat": "Jl. Setia 2 No. 2, Jatiwaringin, Kec. Pondokgede, Kota Bekasi, Jawa Barat 17411",
-        "peta": "https://maps.app.goo.gl/i6FbLU6nHY8KhE3d7"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12591",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:21:57+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "7348aa151fc4",
-      "judul": "Kajian Muslimah",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": true,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dhuha",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ar Risalah",
-        "alamat": "Jl. Kavling Pejuang 2 No. 14, Pejuang, Kec. Medansatria, Kota Bekasi, Jawa Barat 17131",
-        "peta": "https://maps.app.goo.gl/AYf5kwQjQXNgzPNi6"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12593",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:23:04+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "83cb0bf28639",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": true,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dhuha",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Raya Al Azhar",
-        "alamat": "Jl. Bulevar Utara, Summarecon Bekasi, Marga Mulya, Kec. Bekasi Utara, Kota Bekasi, Jawa Barat 17143",
-        "peta": "https://maps.app.goo.gl/7kna5YukAtrMDBwDA"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12586",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:19:22+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "0627fdccf999",
-      "judul": "Kajian Kitab Spesial",
-      "tema": null,
-      "kitab": "Spesial",
-      "ustadz": [
-        "Ustadz Sofyan Chalid bin Idham Ruray, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ar Riyadh Depok",
-        "alamat": "Jl. Kolintang 2, Mekarjaya, Sukmajaya, Depok 2 Tengah 16411",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.76",
-        "kabkota": "Kota Depok",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-depok",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": "https://youtube.com/@MasjidAr-RiyadhDepok",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12541",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T08:40:47+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "6b51cd974b8c",
-      "judul": "Kajian Kitab Rutin Pekanan",
-      "tema": "Aqidah",
-      "kitab": "Rutin Pekanan",
-      "ustadz": [
-        "1 Ustadz Ahmad Firdaus, Lc.",
-        "2 Ustadz Hakam Abdurrahman bin Hizam, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": null
-      },
-      "zona_waktu": "WITA",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Islamic Center Masjid 'Aisyah",
-        "alamat": "Jln. Soromandi no.01 Lawata - Mataram - Lombok - NTB",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "52.71",
-        "kabkota": "Kota Mataram",
-        "provinsi": "Nusa Tenggara Barat",
-        "slug": "kota-mataram",
-        "zona_waktu": "WITA"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12583",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:17:35+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "7176f0e0ad48",
-      "judul": "Kajian Rutin Uau Official, Masjid Ibadurrahman Semarang Indah & Ykss",
-      "tema": "Sunah-Sunah Shalat",
-      "kitab": "Al-Mulakhasul Fiqhi",
-      "ustadz": [
-        "Ustadz Abu Umair Kuswoyo"
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ibadurrahman Semarang Indah",
-        "alamat": "Jl. Semarang Indah Blok C/X/1",
-        "peta": "https://maps.app.goo.gl/QXTxviVxdWGqfhyr7?g_st=aw"
-      },
-      "wilayah": {
-        "kode": "33.74",
-        "kabkota": "Kota Semarang",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-semarang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12604",
-          "diteruskan_dari": "Abu Umair Official",
-          "diposting": "2026-10-19T21:59:47+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "c42314ae0536",
-      "judul": "Kajian Ilmiyyah",
-      "tema": "Kajian Kitab Fiqih",
-      "kitab": "Al-Fiqh Al-Muyassar",
-      "ustadz": [
-        "Ustadz Agil Pradana, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid At-Tawwaab",
-        "alamat": "Al-Bayan Islamic School, Jl. Basoka Raya No. 96, Larangan Indah, Kota Tangerang - Banten",
-        "peta": "https://goo.gl/maps/94c5LZtgPvj7yrN7A"
-      },
-      "wilayah": {
-        "kode": "36.71",
-        "kabkota": "Kota Tangerang",
-        "provinsi": "Banten",
-        "slug": "kota-tangerang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12608",
-          "diteruskan_dari": "SIMA",
-          "diposting": "2026-10-19T22:02:22+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "855e02c221d8",
-      "judul": "Kajian Rutin Selasa Petang",
-      "tema": "Kebinasaan Qarun",
-      "kitab": "Mendulang Mutiara Faidah dari Kisah Nabi dan Rasul",
-      "ustadz": [
-        "Ustadz Hasim Ikhwanudin, S.Ars."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Pogung Raya (MPR)",
-        "alamat": "Pogung Kampung Hijrah",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "34.71",
-        "kabkota": "Kota Yogyakarta",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kota-yogyakarta",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12617",
-          "diteruskan_dari": "Masjid Pogung Raya - MPR",
-          "diposting": "2026-10-19T22:11:47+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "c6e97c221498",
-      "judul": null,
-      "tema": "Sebab Selamat dari Fitnah Syahwat",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Muhammad Rezki Hr, S.T., M.Eng., Ph.D."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Pogung Dalangan - MPD",
-        "alamat": "Pogung Kampung Hijrah, Yogyakarta",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "34.71",
-        "kabkota": "Kota Yogyakarta",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kota-yogyakarta",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12609",
-          "diteruskan_dari": "Masjid Pogung Dalangan - MPD",
-          "diposting": "2026-10-19T22:05:06+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "413e51226d1c",
-      "judul": "Kajian Rutin Untuk Umum",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Aep Saepullah Ibnu Ahmad, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12548",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:28:11+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
       "id": "cdec6fa7a630",
@@ -1585,7 +424,87 @@
         }
       ],
       "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
+    },
+    {
+      "id": "bd263bcf9a31",
+      "judul": "Kajian Rutin Rabu ba'da Ashar",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": true,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Iman Blok M Square Lt. 7",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": null,
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12667",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-20T16:36:59+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
+    },
+    {
+      "id": "ea870fe136de",
+      "judul": "Info Kajian Bitv",
+      "tema": null,
+      "kitab": "wa Assunnah",
+      "ustadz": [
+        "Ustadz Ahmad Ali Rozaq, Lc."
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami' Al-Jihad",
+        "alamat": "Ciledug, ( Maps. g.co/kgs/Hkexf1 )",
+        "peta": "https://g.co/kgs/Hkexf1"
+      },
+      "wilayah": null,
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12673",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-20T16:43:19+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
       "id": "95e56433574d",
@@ -1677,7 +596,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
       "id": "eeceb54211c4",
@@ -2399,7 +1318,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
       "id": "1dc35fb031dc",
@@ -2500,7 +1419,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
       "id": "3e18f1e7433f",
@@ -2830,7 +1749,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     },
     {
       "id": "0a026cd5881b",
@@ -2979,7 +1898,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-20T14:21:48+00:00",
+  "dibuat": "2026-10-20T23:52:18+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -11,29 +11,29 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "4554c91042e4",
-      "judul": "Kajian Muslimah - Masjid Al Aziz Bandung",
-      "tema": null,
-      "kitab": "300 Dosa Yang Diremehkan Wanita",
+      "id": "eaa47dd4a20e",
+      "judul": "Kajian Islam Ilmiyah",
+      "tema": "Pasal Tentang Keimanan Bahwasanya Al-Qur'an Kalamullah Secara Hakiki",
+      "kitab": "Aqidah Wasiithiyyah",
       "ustadz": [
-        "Ustadz Abdullah Amir Maretan"
+        "Ustadz Abu Abdillah Andi Suhandi"
       ],
-      "tanggal": "2026-10-20",
+      "tanggal": "2026-10-21",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
-        "mulai": "09:00",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Al Aziz (Jl. Soekarno Hatta No. 662 - Bandung)",
-        "alamat": "Peserta: Terbuka untuk umum (Ikhwan / Akhwat)",
-        "peta": null
+        "nama": "Masjid Ash Shiddiq",
+        "alamat": "Jl. Kebon Gedang, (Gg. Hj. Siti Aisyah) Rt.02 Rw.10, Maleer, Batununggal, Kota Bandung., (",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
       },
       "wilayah": {
         "kode": "32.73",
@@ -42,20 +42,20 @@
         "slug": "kota-bandung",
         "zona_waktu": "WIB"
       },
-      "mode": "hybrid",
+      "mode": "offline",
       "streaming": null,
-      "peserta": "akhwat",
+      "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12599",
+          "url": "https://t.me/jadwalkajiansunnah/12661",
           "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:36:38+00:00"
+          "diposting": "2026-10-20T16:31:26+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-20T14:21:48+00:00",
+  "dibuat": "2026-10-20T23:52:18+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,55 +8,8 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "a0bb7d2502af",
-      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
-      "tema": null,
-      "kitab": "Al-Minah al-'Aliyyah fī Bayān as-Sunan al-Yaumiyyah",
-      "ustadz": [
-        "Ustadz Hamdi Solah Albakry, Lc."
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Soleh Hawa",
-        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.75",
-        "kabkota": "Kota Administrasi Jakarta Timur",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-timur",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12572",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T17:05:46+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
     {
       "id": "bbb31634806b",
       "judul": "Kajian Ilmiah",
@@ -109,7 +62,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
+      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
     }
   ]
 }

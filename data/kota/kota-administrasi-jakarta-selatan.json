@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-20T14:21:48+00:00",
+  "dibuat": "2026-10-20T23:52:18+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,102 +8,8 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "1f853f4f363a",
-      "judul": "Kajian Mama Muslimah",
-      "tema": "Sejauh Apa Pun Langkahmu, Jangan Tinggalkan Shalat: Fikih Bersuci dan Sholat bagi Wanita Musafirah",
-      "kitab": "101 Permasalahan Wanita",
-      "ustadz": [
-        "Ustadz Azhar Khalid Seff"
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": "11:30",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T09:30:00+07:00",
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/3bzP2AyvF8EJJAL49"
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "online",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12615",
-          "diteruskan_dari": "Kajian MT Mama Muslimah",
-          "diposting": "2026-10-19T22:10:41+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
-    {
-      "id": "27304e444219",
-      "judul": "Kajian Ilmiah",
-      "tema": "Sudah Benarkah Sumber Ilmu Agamamu?",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Ghasim Awad Al-Ba'dani"
-      ],
-      "tanggal": "2026-10-20",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "10:00",
-        "selesai": "11:30",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-20T10:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Baiturrahman",
-        "alamat": "Jl Buana Raya, Pondok Pinang, Jakarta Selatan",
-        "peta": "https://maps.app.goo.gl/6eSLMxRmPCcvxN2i6"
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12558",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T09:36:15+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
-    },
     {
       "id": "e103e5f993f3",
       "judul": null,
