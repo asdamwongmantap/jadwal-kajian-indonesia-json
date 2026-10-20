@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-20T00:19:37+00:00",
+  "dibuat": "2026-10-20T14:21:48+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
+      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
     },
     {
       "id": "8a1b43f2e324",
@@ -102,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
+      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
     },
     {
       "id": "99dd296a4228",
@@ -149,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
+      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
     },
     {
       "id": "9f1e857113c7",
@@ -196,7 +196,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-20T00:19:37+00:00",
-      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
+      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
     },
     {
       "id": "ebb2422a50af",
@@ -241,7 +241,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-20T00:19:37+00:00"
+      "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
     },
     {
       "id": "ec3838040932",
