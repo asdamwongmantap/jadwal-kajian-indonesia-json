@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-20T23:52:18+00:00",
+  "dibuat": "2026-10-21T14:32:10+00:00",
   "wilayah": {
     "kode": "36.71",
     "kabkota": "Kota Tangerang",
@@ -8,8 +8,55 @@
     "slug": "kota-tangerang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "f20c86f83fdd",
+      "judul": null,
+      "tema": "Kitab Hadist Arbain An Nawawi, Pertemuan ke-29",
+      "kitab": "Hadits 'Arba'in Nawawi",
+      "ustadz": [
+        "Ustadz Gigih Surya Nugraha, SH"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": "》Waktu : Ba'da Subuh – selesai (setiap selasa & kamis)",
+      "waktu": {
+        "mulai": "08:30",
+        "selesai": "10:00",
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Ikhlas",
+        "alamat": "Komplek, Jl. Karang Tengah Permai Jl. Arjuna, RT.002/RW.014, Karang Timur., Karang Tengah, Kota Tangerang",
+        "peta": "https://maps.app.goo.gl/tvbNBTxy12vTFNaXA"
+      },
+      "wilayah": {
+        "kode": "36.71",
+        "kabkota": "Kota Tangerang",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12581",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-19T17:16:25+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    },
     {
       "id": "086c704f921a",
       "judul": null,

@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-21T14:32:10+00:00",
+  "wilayah": {
+    "kode": "73.09",
+    "kabkota": "Kabupaten Maros",
+    "provinsi": "Sulawesi Selatan",
+    "slug": "kabupaten-maros",
+    "zona_waktu": "WITA"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "1ea53f414b29",
+      "judul": "Kajian Serial Tematik",
+      "tema": "BAGIAN KE-7 Sungguh, Ia Telah Meraih Bagian yang Besar",
+      "kitab": null,
+      "ustadz": [
+        "Dr. Iqbal Gunawan, MA.",
+        "Pimpinan Pesantren Urwah Bin Zubair Maros"
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Abdullah bin Nashir Al-Falih Maros",
+        "alamat": "Penyelenggara",
+        "peta": "https://maps.app.goo.gl/RWCUNPtY6od2wiEf6"
+      },
+      "wilayah": {
+        "kode": "73.09",
+        "kabkota": "Kabupaten Maros",
+        "provinsi": "Sulawesi Selatan",
+        "slug": "kabupaten-maros",
+        "zona_waktu": "WITA"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/@ustadziqbalgunawan",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12698",
+          "diteruskan_dari": "Ustadz Iqbal Gunawan Official",
+          "diposting": "2026-10-21T07:54:12+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    }
+  ]
+}

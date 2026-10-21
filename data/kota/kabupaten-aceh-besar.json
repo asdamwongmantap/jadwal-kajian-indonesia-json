@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-21T14:32:10+00:00",
+  "wilayah": {
+    "kode": "11.06",
+    "kabkota": "Kabupaten Aceh Besar",
+    "provinsi": "Aceh",
+    "slug": "kabupaten-aceh-besar",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "27ceaf899a58",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ahmad Sabiq",
+        "Idhahul Mahajjah fi Bayani Sabilis Salaf"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": "Setiap hari Rabu ganjil",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Darussalam PT SIG",
+        "alamat": "Belakang Gedung Utama PT SIG",
+        "peta": "https://maps.app.goo.gl/y5xLdRG7T5Rgkps26"
+      },
+      "wilayah": {
+        "kode": "11.06",
+        "kabkota": "Kabupaten Aceh Besar",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-aceh-besar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12682",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-21T07:46:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    }
+  ]
+}

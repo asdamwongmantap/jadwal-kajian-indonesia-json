@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-21T14:32:10+00:00",
+  "wilayah": {
+    "kode": "32.78",
+    "kabkota": "Kota Tasikmalaya",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-tasikmalaya",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "adf313d472da",
+      "judul": null,
+      "tema": "Yuk, bedah Fiqih Muamalah bersama Ustadz Iskandar Dinata, Lc",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Iskandar Dinata, Lc."
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-21T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Aisyah",
+        "alamat": "Bantarsari, Kota Tasikmalaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12734",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-21T08:40:48+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    },
+    {
+      "id": "9cd19eb1f979",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Ilyas"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": "Setiap Hari Rabu",
+      "waktu": {
+        "mulai": "13:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Bani Kholil",
+        "alamat": "JL. Seladarma Gg. H. Safe'i 02/05, Kalektoran, Kota Tasikmalaya",
+        "peta": "https://maps.app.goo.gl/aMVQVQAV2qbKwopG8?g_st=ac"
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12713",
+          "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
+          "diposting": "2026-10-21T08:14:45+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    }
+  ]
+}

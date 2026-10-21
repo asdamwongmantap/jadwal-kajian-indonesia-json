@@ -1,0 +1,109 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-21T14:32:10+00:00",
+  "wilayah": {
+    "kode": "33.74",
+    "kabkota": "Kota Semarang",
+    "provinsi": "Jawa Tengah",
+    "slug": "kota-semarang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "4ed6e36aae8a",
+      "judul": null,
+      "tema": null,
+      "kitab": "Aktho'ul Musholliin (kesalahan-Kesalahan Orang Yang Shalat) Bagian Ke-25",
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Azhar Banyumanik",
+        "alamat": "Jl. Klenteng Sari Kelurahan Pedalangan Kecamatan Banyumanik",
+        "peta": "https://maps.app.goo.gl/Kb2MKFpV615ySF6A6"
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12697",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-10-21T07:52:58+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    },
+    {
+      "id": "7326ff58db47",
+      "judul": null,
+      "tema": "Jinayah (bagian Ke-3)",
+      "kitab": "Bulughul Maram",
+      "ustadz": [
+        "Ustadz Abdul Hakim Rahmatulloh, Lc.",
+        "• Alumni LIPIA Jakarta"
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurus Sunnah",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12675",
+          "diteruskan_dari": "Masjid Nurussunnah",
+          "diposting": "2026-10-21T07:14:14+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    }
+  ]
+}

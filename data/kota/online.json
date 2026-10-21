@@ -1,0 +1,49 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-21T14:32:10+00:00",
+  "wilayah": null,
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "ddc1fb92559d",
+      "judul": "Kajian Tematik Untuk Umum",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Yovin Abu Hammam"
+      ],
+      "tanggal": "2026-10-22",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-22T09:30:00+07:00",
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": "https://youtube.com/masjidashshaff",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12736",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-21T09:22:33+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    }
+  ]
+}

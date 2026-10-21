@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-21T14:32:10+00:00",
+  "wilayah": {
+    "kode": "14.71",
+    "kabkota": "Kota Pekanbaru",
+    "provinsi": "Riau",
+    "slug": "kota-pekanbaru",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "e9eee555c4bf",
+      "judul": "Kajian Islam Rabu Malam Pekan 3",
+      "tema": "Kajian Tema : FIQIH NAWAZIL",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Helmi Basri, Lc., MA."
+      ],
+      "tanggal": "2026-10-21",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Miftahul Jannah",
+        "alamat": "Parit Indah Tangkerang Labuai - Pekanbaru",
+        "peta": "https://maps.app.goo.gl/GbYhryjdvD3QcZBC8"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12688",
+          "diteruskan_dari": "RadioROBBANI 91.1FM",
+          "diposting": "2026-10-21T07:49:12+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    }
+  ]
+}

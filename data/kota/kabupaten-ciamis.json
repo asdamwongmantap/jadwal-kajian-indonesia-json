@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-20T23:52:18+00:00",
+  "dibuat": "2026-10-21T14:32:10+00:00",
   "wilayah": {
     "kode": "32.07",
     "kabkota": "Kabupaten Ciamis",
@@ -8,7 +8,7 @@
     "slug": "kabupaten-ciamis",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 5,
   "kajian": [
     {
       "id": "83967a1141bf",
@@ -58,6 +58,53 @@
       "terakhir_dilihat": "2026-10-20T14:21:48+00:00"
     },
     {
+      "id": "219a52e3e9ba",
+      "judul": "Kajian Islam Ilmiyyah",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Al-Ustadz Abu Ilyas"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": "Waktu : Setiap Malam Kamis",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Barokah",
+        "alamat": "Bojonggaok - Ciamis",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.07",
+        "kabkota": "Kabupaten Ciamis",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-ciamis",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12714",
+          "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
+          "diposting": "2026-10-21T08:14:45+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    },
+    {
       "id": "77ffadb06f77",
       "judul": "Ta'lim Senin Ba'da Maghrib",
       "tema": null,
@@ -103,6 +150,53 @@
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
       "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+    },
+    {
+      "id": "a17fc892bfb5",
+      "judul": "Kajian Rutin Malam Kamis",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Al-Ustadz Ayip Saepudin, Lc."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": "Waktu: Setiap Malam Kamis",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami Miftahul Huda",
+        "alamat": "Gayam - Ciamis",
+        "peta": "https://goo.gl/maps/zbh4Rme1br8D1x1BA"
+      },
+      "wilayah": {
+        "kode": "32.07",
+        "kabkota": "Kabupaten Ciamis",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-ciamis",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12715",
+          "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
+          "diposting": "2026-10-21T08:14:45+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
     },
     {
       "id": "e1a321848b23",

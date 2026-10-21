@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-20T23:52:18+00:00",
+  "dibuat": "2026-10-21T14:32:10+00:00",
   "wilayah": {
     "kode": "32.17",
     "kabkota": "Kabupaten Bandung Barat",
@@ -52,10 +52,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12671",
           "diteruskan_dari": null,
           "diposting": "2026-10-20T16:42:19+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12699",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-10-21T07:55:57+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-20T23:52:18+00:00",
-      "terakhir_dilihat": "2026-10-20T23:52:18+00:00"
+      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
     }
   ]
 }

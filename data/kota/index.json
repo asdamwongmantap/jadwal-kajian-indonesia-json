@@ -1,7 +1,23 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-20T23:52:18+00:00",
+  "dibuat": "2026-10-21T14:32:10+00:00",
   "kota": [
+    {
+      "slug": "kabupaten-aceh-besar",
+      "kabkota": "Kabupaten Aceh Besar",
+      "provinsi": "Aceh",
+      "kode": "11.06",
+      "jumlah": 1,
+      "file": "kota/kabupaten-aceh-besar.json"
+    },
+    {
+      "slug": "kabupaten-bandung",
+      "kabkota": "Kabupaten Bandung",
+      "provinsi": "Jawa Barat",
+      "kode": "32.04",
+      "jumlah": 1,
+      "file": "kota/kabupaten-bandung.json"
+    },
     {
       "slug": "kabupaten-bandung-barat",
       "kabkota": "Kabupaten Bandung Barat",
@@ -11,11 +27,27 @@
       "file": "kota/kabupaten-bandung-barat.json"
     },
     {
+      "slug": "kabupaten-bekasi",
+      "kabkota": "Kabupaten Bekasi",
+      "provinsi": "Jawa Barat",
+      "kode": "32.16",
+      "jumlah": 1,
+      "file": "kota/kabupaten-bekasi.json"
+    },
+    {
+      "slug": "kabupaten-bogor",
+      "kabkota": "Kabupaten Bogor",
+      "provinsi": "Jawa Barat",
+      "kode": "32.01",
+      "jumlah": 1,
+      "file": "kota/kabupaten-bogor.json"
+    },
+    {
       "slug": "kabupaten-ciamis",
       "kabkota": "Kabupaten Ciamis",
       "provinsi": "Jawa Barat",
       "kode": "32.07",
-      "jumlah": 3,
+      "jumlah": 5,
       "file": "kota/kabupaten-ciamis.json"
     },
     {
@@ -35,19 +67,43 @@
       "file": "kota/kabupaten-gresik.json"
     },
     {
+      "slug": "kabupaten-kampar",
+      "kabkota": "Kabupaten Kampar",
+      "provinsi": "Riau",
+      "kode": "14.01",
+      "jumlah": 2,
+      "file": "kota/kabupaten-kampar.json"
+    },
+    {
+      "slug": "kabupaten-kudus",
+      "kabkota": "Kabupaten Kudus",
+      "provinsi": "Jawa Tengah",
+      "kode": "33.19",
+      "jumlah": 1,
+      "file": "kota/kabupaten-kudus.json"
+    },
+    {
       "slug": "kabupaten-langkat",
       "kabkota": "Kabupaten Langkat",
       "provinsi": "Sumatera Utara",
       "kode": "12.05",
-      "jumlah": 1,
+      "jumlah": 3,
       "file": "kota/kabupaten-langkat.json"
+    },
+    {
+      "slug": "kabupaten-maros",
+      "kabkota": "Kabupaten Maros",
+      "provinsi": "Sulawesi Selatan",
+      "kode": "73.09",
+      "jumlah": 1,
+      "file": "kota/kabupaten-maros.json"
     },
     {
       "slug": "kabupaten-pidie",
       "kabkota": "Kabupaten Pidie",
       "provinsi": "Aceh",
       "kode": "11.07",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kabupaten-pidie.json"
     },
     {
@@ -79,7 +135,7 @@
       "kabkota": "Kota Administrasi Jakarta Selatan",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.74",
-      "jumlah": 1,
+      "jumlah": 3,
       "file": "kota/kota-administrasi-jakarta-selatan.json"
     },
     {
@@ -87,8 +143,16 @@
       "kabkota": "Kota Administrasi Jakarta Timur",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.75",
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/kota-administrasi-jakarta-timur.json"
+    },
+    {
+      "slug": "kota-administrasi-jakarta-utara",
+      "kabkota": "Kota Administrasi Jakarta Utara",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode": "31.72",
+      "jumlah": 1,
+      "file": "kota/kota-administrasi-jakarta-utara.json"
     },
     {
       "slug": "kota-bandar-lampung",
@@ -103,7 +167,7 @@
       "kabkota": "Kota Bandung",
       "provinsi": "Jawa Barat",
       "kode": "32.73",
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/kota-bandung.json"
     },
     {
@@ -123,6 +187,14 @@
       "file": "kota/kota-bekasi.json"
     },
     {
+      "slug": "kota-bogor",
+      "kabkota": "Kota Bogor",
+      "provinsi": "Jawa Barat",
+      "kode": "32.71",
+      "jumlah": 1,
+      "file": "kota/kota-bogor.json"
+    },
+    {
       "slug": "kota-makassar",
       "kabkota": "Kota Makassar",
       "provinsi": "Sulawesi Selatan",
@@ -139,6 +211,22 @@
       "file": "kota/kota-parepare.json"
     },
     {
+      "slug": "kota-pekanbaru",
+      "kabkota": "Kota Pekanbaru",
+      "provinsi": "Riau",
+      "kode": "14.71",
+      "jumlah": 1,
+      "file": "kota/kota-pekanbaru.json"
+    },
+    {
+      "slug": "kota-semarang",
+      "kabkota": "Kota Semarang",
+      "provinsi": "Jawa Tengah",
+      "kode": "33.74",
+      "jumlah": 2,
+      "file": "kota/kota-semarang.json"
+    },
+    {
       "slug": "kota-surakarta",
       "kabkota": "Kota Surakarta",
       "provinsi": "Jawa Tengah",
@@ -151,16 +239,32 @@
       "kabkota": "Kota Tangerang",
       "provinsi": "Banten",
       "kode": "36.71",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-tangerang.json"
+    },
+    {
+      "slug": "kota-tasikmalaya",
+      "kabkota": "Kota Tasikmalaya",
+      "provinsi": "Jawa Barat",
+      "kode": "32.78",
+      "jumlah": 2,
+      "file": "kota/kota-tasikmalaya.json"
     },
     {
       "slug": "kota-yogyakarta",
       "kabkota": "Kota Yogyakarta",
       "provinsi": "Daerah Istimewa Yogyakarta",
       "kode": "34.71",
-      "jumlah": 2,
+      "jumlah": 4,
       "file": "kota/kota-yogyakarta.json"
+    },
+    {
+      "slug": "online",
+      "kabkota": null,
+      "provinsi": null,
+      "kode": null,
+      "jumlah": 1,
+      "file": "kota/online.json"
     },
     {
       "slug": "tanpa-wilayah",
