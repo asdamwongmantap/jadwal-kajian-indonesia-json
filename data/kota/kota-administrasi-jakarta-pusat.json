@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-21T14:32:10+00:00",
+  "dibuat": "2026-10-22T00:00:25+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -11,16 +11,16 @@
   "jumlah": 5,
   "kajian": [
     {
-      "id": "2b98e23ecbd3",
+      "id": "62e4a9e353e0",
       "judul": "Kajian Khawamisy",
-      "tema": "Tafsir As Sya'rawi (TAFSIR)",
+      "tema": "Al Minahus Saniyyah (TASAWWUF)",
       "kitab": null,
       "ustadz": [
-        "H. Warso Winata, Lc., MA."
+        "H. Romli Jawahir, Lc, MA."
       ],
-      "tanggal": "2026-10-21",
+      "tanggal": "2026-10-22",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -51,23 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-20T23:52:18.246067+00:00"
+          "diposting": "2026-10-22T00:00:25.547853+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     },
     {
-      "id": "791a1dea3255",
+      "id": "b41f7eaefcc1",
       "judul": "Kajian Renungan Fajar",
-      "tema": "Pancasila Perekat Bangsa",
+      "tema": "Santri dan Pahlawan Bangsa",
       "kitab": null,
       "ustadz": [
-        "H. Saparwadi, M.Pd."
+        "Dr. KH. Agam Bayu Suyanto, M.B.A."
       ],
-      "tanggal": "2026-10-21",
+      "tanggal": "2026-10-22",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -98,23 +98,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-20T23:52:18.246067+00:00"
+          "diposting": "2026-10-22T00:00:25.547853+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     },
     {
-      "id": "83ab30d9e991",
+      "id": "c9162dcba264",
       "judul": "Kajian Dialog Zuhur",
-      "tema": "Fathul Mu’in",
+      "tema": "Kitab Nashoihud Diniyah-Wal Washoya Al-Imaniyyah",
       "kitab": null,
       "ustadz": [
-        "Dr. Hj. Dewi Endriyanti"
+        "Drs. H. A. Dzulfatah Yasin, M.Ag."
       ],
-      "tanggal": "2026-10-21",
+      "tanggal": "2026-10-22",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -145,11 +145,11 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-20T23:52:18.246067+00:00"
+          "diposting": "2026-10-22T00:00:25.547853+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     },
     {
       "id": "ebb2422a50af",
@@ -194,7 +194,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-16T23:35:05+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     },
     {
       "id": "ec3838040932",

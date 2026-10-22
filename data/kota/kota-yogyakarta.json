@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-21T14:32:10+00:00",
+  "dibuat": "2026-10-22T00:00:25+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,149 +8,8 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "e074fc11c134",
-      "judul": null,
-      "tema": "Landasan Ketiga: Mendengar Dan Taat Kepada Ulil Amri",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Akhmad Jamaludin Ardani, Lc."
-      ],
-      "tanggal": "2026-10-21",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "18:00",
-        "selesai": null,
-        "acuan_shalat": "Isya",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-21T18:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Agung Syuhada Kotabaru",
-        "alamat": "Jl. I Dewa Nyoman Oka No. 13. Kotabaru, Gondokusuman, Yogyakarta, DIY 55224",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "34.71",
-        "kabkota": "Kota Yogyakarta",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kota-yogyakarta",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12669",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-20T16:40:02+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
-    },
-    {
-      "id": "aaab2629fc53",
-      "judul": "Kajian Rutin Rabu Petang & Mulazamah",
-      "tema": null,
-      "kitab": "Ad-Daa' wa Ad-Dawaa",
-      "ustadz": [
-        "Ustadz Afifi Abdul Wadud, B.A."
-      ],
-      "tanggal": "2026-10-21",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Pogung Raya",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "34.71",
-        "kabkota": "Kota Yogyakarta",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kota-yogyakarta",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12704",
-          "diteruskan_dari": "Masjid Pogung Raya - MPR",
-          "diposting": "2026-10-21T08:09:36+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
-    },
-    {
-      "id": "c01f2a4d4a53",
-      "judul": "Kajian Rutin Kolaborasi Rabu Malam di Maa",
-      "tema": "Buah Keikhlasan #4 dan Petaka Riya",
-      "kitab": "Silsilah A'mal al-Qulub",
-      "ustadz": [
-        "Ustadz Abunnada, S.Psi."
-      ],
-      "tanggal": "2026-10-21",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Ashri Pogung Rejo",
-        "alamat": "Sinduadi, Mlati, Sleman, Yogyakarta",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "34.71",
-        "kabkota": "Kota Yogyakarta",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kota-yogyakarta",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12706",
-          "diteruskan_dari": "Masjid Al 'Ashri Pogung Rejo",
-          "diposting": "2026-10-21T08:09:57+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
-    },
     {
       "id": "f2fc3c85a110",
       "judul": "Kajian Rutin Senin",

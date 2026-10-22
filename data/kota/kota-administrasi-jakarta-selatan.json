@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-21T14:32:10+00:00",
+  "dibuat": "2026-10-22T00:00:25+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -11,16 +11,16 @@
   "jumlah": 3,
   "kajian": [
     {
-      "id": "7c02435daae3",
+      "id": "60bdaa13a5cc",
       "judul": "Majelis Ba'da Maghrib",
       "tema": null,
-      "kitab": null,
+      "kitab": "Ushulus Sunnah",
       "ustadz": [
-        "Ustadz Joni Qodariyanto, Lc."
+        "Ustadz Dr. Ahmad Sujai"
       ],
-      "tanggal": "2026-10-21",
+      "tanggal": "2026-10-22",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -42,20 +42,20 @@
         "slug": "kota-administrasi-jakarta-selatan",
         "zona_waktu": "WIB"
       },
-      "mode": "offline",
+      "mode": "hybrid",
       "streaming": null,
       "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12709",
+          "url": "https://t.me/jadwalkajiansunnah/12766",
           "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-10-21T08:10:50+00:00"
+          "diposting": "2026-10-21T22:09:59+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     },
     {
       "id": "32f068519424",

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-21T14:32:10+00:00",
+  "dibuat": "2026-10-22T00:00:25+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,32 +8,32 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
-      "id": "cdec6fa7a630",
-      "judul": "Kajian Rutin Rabu Malam, Pekan Ketiga, 21 Oktober 2026 • 11 Jumadil Awwal 1448 H",
-      "tema": "Kitab Tafsir Juz 'Amma Surat At-Takatsur",
-      "kitab": null,
+      "id": "4666b9006862",
+      "judul": null,
+      "tema": "Edisi 1, Kitab Shalat, Bab 14 \"Anjuran Shalat Secara Mutlak dan Keutamaan Rukuk, Sujud, dan Khusyu'\" Hadits ke-392",
+      "kitab": "Shahih At Targhib wa At Tarhib",
       "ustadz": [
-        "Ustadz Dr. Darwis Abu Ubaidah"
+        "Ustadz Khalid Basalamah"
       ],
-      "tanggal": "2026-10-21",
+      "tanggal": "2026-10-22",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": "Maghrib",
+        "acuan_shalat": "Subuh",
         "relasi": "setelah"
       },
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid At-Taqwa Jatibening Satu",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
+        "nama": "Masjid Baitul Ma'mur Bintara",
+        "alamat": "Bekasi, Jawa Barat",
+        "peta": null
       },
       "wilayah": {
         "kode": "32.75",
@@ -42,20 +42,20 @@
         "slug": "kota-bekasi",
         "zona_waktu": "WIB"
       },
-      "mode": "offline",
+      "mode": "hybrid",
       "streaming": null,
       "peserta": null,
       "sumber": [
         {
-          "id": "attaqwa-jatibening",
-          "nama": "Masjid At-Taqwa Jatibening Satu",
-          "url": "https://attaqwajatibening.com/berita/kajian-rutin-rabu-malam-pekan-ketiga-21-oktober-2026-11-jumadil-awwal-1448-h",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-19T16:31:13.608213+00:00"
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12752",
+          "diteruskan_dari": "Khalid Basalamah Official",
+          "diposting": "2026-10-21T22:01:51+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-19T16:31:13+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     },
     {
       "id": "95e56433574d",
@@ -103,6 +103,53 @@
       ],
       "pertama_dilihat": "2026-10-18T13:21:31+00:00",
       "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
+    },
+    {
+      "id": "862233c9cd75",
+      "judul": "Kajian Rutin Ahad Pagi Pekan Keempat, 25 Oktober 2026 • 14 Jumadil Awwal 1448 H",
+      "tema": "Kitab Tauhid karya Syeikh Shalih Al-Fauzan Jilid 2, Bab 1, Pasal 4 Pembatal Iman (Bagian Pertama)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zahir Al-Minangkabawi"
+      ],
+      "tanggal": "2026-10-25",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid At-Taqwa Jatibening Satu",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "attaqwa-jatibening",
+          "nama": "Masjid At-Taqwa Jatibening Satu",
+          "url": "https://attaqwajatibening.com/berita/kajian-rutin-ahad-pagi-pekan-keempat-25-oktober-2026-14-jumadil-awwal-1448-h",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-22T00:00:25.547853+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     },
     {
       "id": "1c22005effd3",

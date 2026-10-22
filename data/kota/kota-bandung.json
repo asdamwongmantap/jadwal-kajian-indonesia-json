@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-21T14:32:10+00:00",
+  "dibuat": "2026-10-22T00:00:25+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,79 +8,32 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
     {
-      "id": "2b171f4ba8c1",
-      "judul": null,
-      "tema": "Perbuatan Kerusakan yang Melampaui Batas (Bagian Ke 2) (Pembahasan Kitab Al-Kabair)",
-      "kitab": null,
+      "id": "71c311ae89f8",
+      "judul": "Kajian Bareng Offline",
+      "tema": null,
+      "kitab": "A'malul Qulub)",
       "ustadz": [
-        "Al Ustadz Abdullah Amir Maretan"
+        "Ustadz Abu Haidar As-Sundawy"
       ],
-      "tanggal": "2026-10-21",
+      "tanggal": "2026-10-22",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "16:00",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-22T16:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Nurul Falaah",
-        "alamat": "Jl. Rajamantri Kidul No.6, Bandung",
+        "nama": "Masjid Agung Al-Ukhuwwah",
+        "alamat": "Jl.Wastukencana No. 27, Kota Bandung",
         "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12708",
-          "diteruskan_dari": "Pekerja Mengaji Channel",
-          "diposting": "2026-10-21T08:10:28+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
-    },
-    {
-      "id": "eaa47dd4a20e",
-      "judul": "Kajian Islam Ilmiyah",
-      "tema": "Pasal Tentang Keimanan Bahwasanya Al-Qur'an Kalamullah Secara Hakiki",
-      "kitab": "Aqidah Wasiithiyyah",
-      "ustadz": [
-        "Ustadz Abu Abdillah Andi Suhandi"
-      ],
-      "tanggal": "2026-10-21",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ash Shiddiq",
-        "alamat": "Jl. Kebon Gedang, (Gg. Hj. Siti Aisyah) Rt.02 Rw.10, Maleer, Batununggal, Kota Bandung., (",
-        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
       },
       "wilayah": {
         "kode": "32.73",
@@ -96,20 +49,107 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12661",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-20T16:31:26+00:00"
-        },
+          "url": "https://t.me/jadwalkajiansunnah/12763",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-10-21T22:08:35+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
+    },
+    {
+      "id": "8f6f5949dac6",
+      "judul": "Kajian Bareng Offline",
+      "tema": "Hadits Ke-45",
+      "kitab": "Arba'in An-Nawawi",
+      "ustadz": [
+        "Ustadz Hary Badar bin Marwan"
+      ],
+      "tanggal": "2026-10-22",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "20:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-22T20:00:00+07:00",
+      "tempat": {
+        "nama": "Studio MIMBA TV",
+        "alamat": "Jl. Kebon Gedang No. 99, Gatot Subroto, Kota Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12693",
-          "diteruskan_dari": "Imam Malik Bandung",
-          "diposting": "2026-10-21T07:50:59+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12764",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-10-21T22:08:35+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-20T23:52:18+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
+    },
+    {
+      "id": "3d14ba763b9a",
+      "judul": "Kajian IsIam Ilmiah",
+      "tema": "Pembahasan Kitab Syarh Masaail Jahiliyyah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Ibrohim Muhammad Mundzir"
+      ],
+      "tanggal": "2026-10-22",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Furqon",
+        "alamat": "Jl. Jurang, Sukajadi, Kota Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12772",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-21T22:20:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     }
   ]
 }

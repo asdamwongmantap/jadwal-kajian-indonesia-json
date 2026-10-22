@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-21T14:32:10+00:00",
+  "dibuat": "2026-10-22T00:00:25+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -11,16 +11,16 @@
   "jumlah": 2,
   "kajian": [
     {
-      "id": "0070070ae135",
+      "id": "8064db1888d9",
       "judul": "Info Kajian Rutin Masjid Soleh Hawa",
       "tema": null,
-      "kitab": "Al-Wabil ash-Shayyib",
+      "kitab": "Shahih Jami' Ash Shagir Karya Syaikh Muhammad Nasiruddin Al-Albani",
       "ustadz": [
-        "Ustadz Nizar Saad Jabal, Lc., M.Pd."
+        "Ustadz Abu Yahya Badrusalam, Lc."
       ],
-      "tanggal": "2026-10-21",
+      "tanggal": "2026-10-22",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12718",
+          "url": "https://t.me/jadwalkajiansunnah/12769",
           "diteruskan_dari": null,
-          "diposting": "2026-10-21T08:19:40+00:00"
+          "diposting": "2026-10-21T22:16:21+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     },
     {
       "id": "bbb31634806b",

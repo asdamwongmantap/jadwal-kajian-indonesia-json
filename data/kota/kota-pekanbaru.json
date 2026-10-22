@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-21T14:32:10+00:00",
+  "dibuat": "2026-10-22T00:00:25+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -11,29 +11,29 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "e9eee555c4bf",
-      "judul": "Kajian Islam Rabu Malam Pekan 3",
-      "tema": "Kajian Tema : FIQIH NAWAZIL",
+      "id": "3be591c134a3",
+      "judul": "Kajian Spesial Tunanetra Insyira TV",
+      "tema": null,
       "kitab": null,
       "ustadz": [
-        "Ustadz Dr. Helmi Basri, Lc., MA."
+        "Ustadz Abu Ibrahim Yami Cahyanto, Lc."
       ],
-      "tanggal": "2026-10-21",
+      "tanggal": "2026-10-22",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "09:00",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-22T09:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Miftahul Jannah",
-        "alamat": "Parit Indah Tangkerang Labuai - Pekanbaru",
-        "peta": "https://maps.app.goo.gl/GbYhryjdvD3QcZBC8"
+        "nama": "Musholla Insyira : jl. Arifin Ahmad - Pekanbaru",
+        "alamat": "Ustadz Abu Ibrahim Yami Cahyanto, Lc. , Mempelajari Tatacara Shalat Nabi dari Risalah 'Kaifiyyat Shalat Nabi' Karangan al Imam Ibnu Baz, Shalatlah Sebagaimana Nabi Kalian Shalat!",
+        "peta": null
       },
       "wilayah": {
         "kode": "14.71",
@@ -42,20 +42,20 @@
         "slug": "kota-pekanbaru",
         "zona_waktu": "WIB"
       },
-      "mode": "hybrid",
-      "streaming": "https://c2.siar.us/public/robbani",
-      "peserta": "umum",
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12688",
-          "diteruskan_dari": "RadioROBBANI 91.1FM",
-          "diposting": "2026-10-21T07:49:12+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12771",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-21T22:18:57+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-21T14:32:10+00:00",
+  "dibuat": "2026-10-22T00:00:25+00:00",
   "wilayah": {
     "kode": "32.78",
     "kabkota": "Kota Tasikmalaya",
@@ -8,55 +8,8 @@
     "slug": "kota-tasikmalaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "adf313d472da",
-      "judul": null,
-      "tema": "Yuk, bedah Fiqih Muamalah bersama Ustadz Iskandar Dinata, Lc",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Iskandar Dinata, Lc."
-      ],
-      "tanggal": "2026-10-21",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "16:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-21T16:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Aisyah",
-        "alamat": "Bantarsari, Kota Tasikmalaya",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.78",
-        "kabkota": "Kota Tasikmalaya",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-tasikmalaya",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12734",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-21T08:40:48+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
-    },
     {
       "id": "9cd19eb1f979",
       "judul": null,
@@ -102,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
     }
   ]
 }
