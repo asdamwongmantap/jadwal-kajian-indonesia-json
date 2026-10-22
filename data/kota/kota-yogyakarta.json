@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T00:00:25+00:00",
+  "dibuat": "2026-10-22T14:34:00+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,8 +8,55 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "6aa4c4d4be79",
+      "judul": "Kajian Rutin Kamis Buka Puasa",
+      "tema": "Keutamaan Sifat Qona'ah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Doni Saputra, S.Pd."
+      ],
+      "tanggal": "2026-10-22",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "17:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-22T17:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Pogung Raya (MPR)",
+        "alamat": "Pogung Kampung Hijrah",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12801",
+          "diteruskan_dari": "Masjid Pogung Raya - MPR",
+          "diposting": "2026-10-22T08:54:59+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T14:34:00+00:00",
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+    },
     {
       "id": "f2fc3c85a110",
       "judul": "Kajian Rutin Senin",

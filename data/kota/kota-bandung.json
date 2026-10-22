@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T00:00:25+00:00",
+  "dibuat": "2026-10-22T14:34:00+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,7 +8,7 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
       "id": "71c311ae89f8",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T00:00:25+00:00",
-      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
     },
     {
       "id": "8f6f5949dac6",
@@ -102,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T00:00:25+00:00",
-      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
     },
     {
       "id": "3d14ba763b9a",
@@ -149,7 +149,52 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T00:00:25+00:00",
-      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+    },
+    {
+      "id": "cb843db152f4",
+      "judul": "Kajian Ilmiyah Rutin Setiap Hari Kamis ke Empat",
+      "tema": "Dzikir-Dzikir Sebelum Tidur (part 3)",
+      "kitab": "Syarh Hishnul Muslim",
+      "ustadz": [],
+      "tanggal": "2026-10-22",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid ashSHIDDIQ",
+        "alamat": "Jl. Kebon Gedang Gg. Hj. Siti Aisyah Rt 02 Rw 10 Maleer Bandung., (",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12802",
+          "diteruskan_dari": "Imam Malik Bandung",
+          "diposting": "2026-10-22T08:55:40+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T14:34:00+00:00",
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
     }
   ]
 }

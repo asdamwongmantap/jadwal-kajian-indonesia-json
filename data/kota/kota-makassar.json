@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T00:00:25+00:00",
+  "dibuat": "2026-10-22T14:34:00+00:00",
   "wilayah": {
     "kode": "73.71",
     "kabkota": "Kota Makassar",
@@ -8,7 +8,7 @@
     "slug": "kota-makassar",
     "zona_waktu": "WITA"
   },
-  "jumlah": 5,
+  "jumlah": 6,
   "kajian": [
     {
       "id": "22a50ecc3d49",
@@ -150,6 +150,53 @@
       ],
       "pertama_dilihat": "2026-10-14T00:17:48+00:00",
       "terakhir_dilihat": "2026-10-15T14:13:27+00:00"
+    },
+    {
+      "id": "485c562d541f",
+      "judul": null,
+      "tema": null,
+      "kitab": "Tauhid",
+      "ustadz": [
+        "Ustadz Khaidir M. Sunusi"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": "Setiap Kamis",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Kubah 99 Asmaul Husna",
+        "alamat": "Di Kawasan CPI Makassar",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "73.71",
+        "kabkota": "Kota Makassar",
+        "provinsi": "Sulawesi Selatan",
+        "slug": "kota-makassar",
+        "zona_waktu": "WITA"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12786",
+          "diteruskan_dari": "I-Salam Karim",
+          "diposting": "2026-10-22T07:52:43+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T14:34:00+00:00",
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
     },
     {
       "id": "4cd43c06589f",

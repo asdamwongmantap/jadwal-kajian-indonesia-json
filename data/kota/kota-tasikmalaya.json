@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T00:00:25+00:00",
+  "dibuat": "2026-10-22T14:34:00+00:00",
   "wilayah": {
     "kode": "32.78",
     "kabkota": "Kota Tasikmalaya",
@@ -8,8 +8,53 @@
     "slug": "kota-tasikmalaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "1600992b17c1",
+      "judul": "Kajian Tafsir Al-Qur'an — Surah Az-Zumar",
+      "tema": "Kajian Tafsir Al-Qur'an — Surah Az-Zumar",
+      "kitab": "Aisarut Tafasir",
+      "ustadz": [],
+      "tanggal": "2026-10-22",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ponpes Al-Khulafa Ar-Rosyidun",
+        "alamat": "Tasikmalaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12815",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-22T09:12:58+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T14:34:00+00:00",
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+    },
     {
       "id": "9cd19eb1f979",
       "judul": null,
@@ -55,7 +100,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+    },
+    {
+      "id": "cea1625c62ab",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Al-Ustadz Ayip Saepudin, Lc."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": "Setiap Hari Kamis",
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Bani Kholil",
+        "alamat": "JL. Seladarma Gang Haji Safe'i 02/05, Kalektoran, Kota Tasikmalaya",
+        "peta": "https://maps.app.goo.gl/aMVQVQAV2qbKwopG8?g_st=ac"
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12782",
+          "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
+          "diposting": "2026-10-22T07:51:28+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T14:34:00+00:00",
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
     }
   ]
 }

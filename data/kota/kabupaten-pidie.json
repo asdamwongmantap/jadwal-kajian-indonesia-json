@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T00:00:25+00:00",
+  "dibuat": "2026-10-22T14:34:00+00:00",
   "wilayah": {
     "kode": "11.07",
     "kabkota": "Kabupaten Pidie",
@@ -8,7 +8,7 @@
     "slug": "kabupaten-pidie",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
       "id": "eeceb54211c4",
@@ -104,7 +104,55 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+    },
+    {
+      "id": "60c3e4057d79",
+      "judul": null,
+      "tema": null,
+      "kitab": "Sunan Abi Dawud",
+      "ustadz": [
+        "Ustadz Ahmad Jamil",
+        "Kitab Sunan Abi Dawud"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": "Setiap hari Kamis",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Isya",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Mutiara Sunnah",
+        "alamat": "Perum. D'Ahsana Kedanyang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "11.07",
+        "kabkota": "Kabupaten Pidie",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-pidie",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12788",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-22T08:47:15+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T14:34:00+00:00",
+      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
     },
     {
       "id": "e00beaf11da7",
