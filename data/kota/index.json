@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T23:59:17+00:00",
+  "dibuat": "2026-10-23T14:17:15+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -67,11 +67,19 @@
       "file": "kota/kabupaten-magetan.json"
     },
     {
+      "slug": "kabupaten-mamuju-tengah",
+      "kabkota": "Kabupaten Mamuju Tengah",
+      "provinsi": "Sulawesi Barat",
+      "kode": "76.06",
+      "jumlah": 1,
+      "file": "kota/kabupaten-mamuju-tengah.json"
+    },
+    {
       "slug": "kabupaten-pidie",
       "kabkota": "Kabupaten Pidie",
       "provinsi": "Aceh",
       "kode": "11.07",
-      "jumlah": 4,
+      "jumlah": 5,
       "file": "kota/kabupaten-pidie.json"
     },
     {
@@ -119,7 +127,7 @@
       "kabkota": "Kota Bandar Lampung",
       "provinsi": "Lampung",
       "kode": "18.71",
-      "jumlah": 5,
+      "jumlah": 6,
       "file": "kota/kota-bandar-lampung.json"
     },
     {
@@ -159,7 +167,7 @@
       "kabkota": "Kota Depok",
       "provinsi": "Jawa Barat",
       "kode": "32.76",
-      "jumlah": 3,
+      "jumlah": 4,
       "file": "kota/kota-depok.json"
     },
     {

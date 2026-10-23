@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T23:59:17+00:00",
+  "dibuat": "2026-10-23T14:17:15+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -53,7 +53,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "34dc515f0878",
@@ -100,7 +100,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "bbb31634806b",

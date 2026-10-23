@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T23:59:17+00:00",
+  "dibuat": "2026-10-23T14:17:15+00:00",
   "wilayah": {
     "kode": "32.76",
     "kabkota": "Kota Depok",
@@ -8,7 +8,7 @@
     "slug": "kota-depok",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
       "id": "9c503be51f88",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "41619ade9ef9",
@@ -102,7 +102,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+    },
+    {
+      "id": "95cfcaacab05",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz TB. Ja'far Ibn Zaenal Abidin"
+      ],
+      "tanggal": "2026-10-23",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Fatahillah",
+        "alamat": "Depok",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12886",
+          "diteruskan_dari": "Masjid Fatahillah Depok",
+          "diposting": "2026-10-23T03:27:49+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-23T14:17:15+00:00",
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "e3fbd7a5068e",
@@ -149,7 +196,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     }
   ]
 }

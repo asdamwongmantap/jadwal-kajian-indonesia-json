@@ -1,7 +1,7 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T23:59:17+00:00",
-  "jumlah": 72,
+  "dibuat": "2026-10-23T14:17:15+00:00",
+  "jumlah": 76,
   "kajian": [
     {
       "id": "2134b32bffe7",
@@ -48,7 +48,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "95e56433574d",
@@ -142,7 +142,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "b9aade50459a",
@@ -197,7 +197,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "9c503be51f88",
@@ -244,7 +244,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "703586daee40",
@@ -283,7 +283,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "4c2cc70de8b6",
@@ -330,7 +330,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "adc6bdb05dd6",
@@ -375,7 +375,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+    },
+    {
+      "id": "0c75348cb9ca",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abdullah Furqon"
+      ],
+      "tanggal": "2026-10-23",
+      "tanggal_perkiraan": true,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "11:47",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Hayah",
+        "alamat": "Jl. Z.A Pagar Alam, Gedung Meneng - Bandar Lampung, (Masuk melalui pintu gerbang SMP Islam Mumtaz)",
+        "peta": "https://goo.gl/maps/TUp1W1Jw8by"
+      },
+      "wilayah": {
+        "kode": "18.71",
+        "kabkota": "Kota Bandar Lampung",
+        "provinsi": "Lampung",
+        "slug": "kota-bandar-lampung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12896",
+          "diteruskan_dari": "Masjid Al-Hayah",
+          "diposting": "2026-10-23T03:32:33+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-23T14:17:15+00:00",
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "e7c9253db8ce",
@@ -422,7 +469,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "80a6f321bdca",
@@ -469,7 +516,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "ae4dcb7b8591",
@@ -516,7 +563,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "d6e9b74f6817",
@@ -570,7 +617,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "5c10ea1da2ae",
@@ -617,7 +664,99 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+    },
+    {
+      "id": "698dd8fd7795",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Sa'id Bahrul"
+      ],
+      "tanggal": "2026-10-23",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid As Salam",
+        "alamat": "(Depan Kantor PLN TOPOYO, Mamuju Tengah), Khatib",
+        "peta": "https://maps.app.goo.gl/eNBfA3rNbTXcb3HT6"
+      },
+      "wilayah": {
+        "kode": "76.06",
+        "kabkota": "Kabupaten Mamuju Tengah",
+        "provinsi": "Sulawesi Barat",
+        "slug": "kabupaten-mamuju-tengah",
+        "zona_waktu": "WITA"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12903",
+          "diteruskan_dari": "Info Kajian SE-SULBAR",
+          "diposting": "2026-10-23T03:34:35+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-23T14:17:15+00:00",
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+    },
+    {
+      "id": "d1b1ff4b9784",
+      "judul": "Info kajian Masjid Al Ashri",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-23",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Ashri Pogung Rejo",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "11.07",
+        "kabkota": "Kabupaten Pidie",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-pidie",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12894",
+          "diteruskan_dari": "Masjid Al 'Ashri Pogung Rejo",
+          "diposting": "2026-10-23T03:30:46+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-23T14:17:15+00:00",
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "9a5d8b99eb41",
@@ -664,7 +803,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "78d486197088",
@@ -897,7 +1036,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "34dc515f0878",
@@ -944,7 +1083,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "0e513755c2d7",
@@ -991,7 +1130,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "6b597497fc4a",
@@ -1038,7 +1177,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "71374fedeba7",
@@ -1085,7 +1224,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "e0ba1fb1af07",
@@ -1132,7 +1271,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "41619ade9ef9",
@@ -1179,7 +1318,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+    },
+    {
+      "id": "95cfcaacab05",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz TB. Ja'far Ibn Zaenal Abidin"
+      ],
+      "tanggal": "2026-10-23",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Fatahillah",
+        "alamat": "Depok",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12886",
+          "diteruskan_dari": "Masjid Fatahillah Depok",
+          "diposting": "2026-10-23T03:27:49+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-23T14:17:15+00:00",
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "e3fbd7a5068e",
@@ -1226,7 +1412,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "5ff6495d1cba",
@@ -1273,7 +1459,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "6a1aef940212",
@@ -1320,7 +1506,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "60bc7daa3494",
@@ -1367,7 +1553,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "5358815867bd",
@@ -1408,7 +1594,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "32f068519424",
@@ -1502,7 +1688,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T00:00:25+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "eeceb54211c4",
@@ -1591,7 +1777,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "f20c86f83fdd",
@@ -1920,7 +2106,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "f6c43e928c65",
@@ -2021,7 +2207,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T14:34:00+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "83967a1141bf",
@@ -2163,7 +2349,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "219a52e3e9ba",
@@ -2210,7 +2396,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "77ffadb06f77",
@@ -2304,7 +2490,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "cfc7f5b6db9c",
@@ -2358,7 +2544,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T14:34:00+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "e1a321848b23",
@@ -2548,7 +2734,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "60c3e4057d79",
@@ -2596,7 +2782,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T14:34:00+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "e00beaf11da7",
@@ -2940,7 +3126,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T14:34:00+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "ea9a101d49af",
@@ -3176,7 +3362,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T14:34:00+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "4cd43c06589f",
@@ -3372,7 +3558,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
     },
     {
       "id": "f2fc3c85a110",
