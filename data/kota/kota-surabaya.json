@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-23T23:51:41+00:00",
+  "wilayah": {
+    "kode": "35.78",
+    "kabkota": "Kota Surabaya",
+    "provinsi": "Jawa Timur",
+    "slug": "kota-surabaya",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "e6b29126500f",
+      "judul": null,
+      "tema": "Tafsir As-Saidy",
+      "kitab": "Khudz Aqidatak",
+      "ustadz": [
+        "Ustadz Syarif Umar Baswedan, Lc."
+      ],
+      "tanggal": "2026-10-24",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": "14:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-24T08:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid al-Muhajirin - Jl. Royal Residence",
+        "alamat": "Sumur Welut, Kec. Lakarsantri, Surabaya",
+        "peta": "https://maps.app.goo.gl/6sR83wYwEp3jhrpc7"
+      },
+      "wilayah": {
+        "kode": "35.78",
+        "kabkota": "Kota Surabaya",
+        "provinsi": "Jawa Timur",
+        "slug": "kota-surabaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12929",
+          "diteruskan_dari": "Surabaya Mengaji",
+          "diposting": "2026-10-23T23:21:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T14:17:15+00:00",
+  "dibuat": "2026-10-23T23:51:41+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,102 +8,8 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "95e56433574d",
-      "judul": null,
-      "tema": "Tanda Allah menginginkan kebaikan kepada hamba-Nya",
-      "kitab": "Kaidah Kehidupan dalam Al Quran",
-      "ustadz": [
-        "Ustadz Abu Hanif Kusnadi Alipatada, MAg"
-      ],
-      "tanggal": "2026-10-23",
-      "tanggal_perkiraan": true,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "07:00",
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Baabut Taubah",
-        "alamat": "(Perumahan Kemang Pratama I), Jl. Citra Niaga Raya, Kemang Pratama 1, Bekasi 17116",
-        "peta": "https://maps.app.goo.gl/JDoPAtEwd9JKuaep9"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "ikhwan",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12327",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-17T04:01:10+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-18T13:21:31+00:00",
-      "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
-    },
-    {
-      "id": "71374fedeba7",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Amar Abu Syafa, Lc."
-      ],
-      "tanggal": "2026-10-23",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Ihsan Dukuh Zamrud",
-        "alamat": "Jl. Pulo Utama No. 26, RT.003/RW.009, Padurenan, Kec. Mustika Jaya, Kota Bekasi, Jawa Barat 16340",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12857",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-22T17:28:37+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
-    },
     {
       "id": "862233c9cd75",
       "judul": "Kajian Rutin Ahad Pagi Pekan Keempat, 25 Oktober 2026 • 14 Jumadil Awwal 1448 H",
@@ -149,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T00:00:25+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     },
     {
       "id": "1c22005effd3",

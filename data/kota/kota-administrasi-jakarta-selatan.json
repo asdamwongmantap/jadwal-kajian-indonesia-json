@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T14:17:15+00:00",
+  "dibuat": "2026-10-23T23:51:41+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,102 +8,8 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 3,
   "kajian": [
-    {
-      "id": "4c2cc70de8b6",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dzikrullah Arza"
-      ],
-      "tanggal": "2026-10-23",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "11:40",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-23T11:40:00+07:00",
-      "tempat": {
-        "nama": "Masjid Nurullah Kalibata City Insya Allah menyelenggarakan ibadah Shalat Jum'at",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12845",
-          "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-10-22T17:19:57+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
-    },
-    {
-      "id": "086395fa2afe",
-      "judul": "Majelis Ba'da Maghrib",
-      "tema": null,
-      "kitab": "Minhajul Firqatun Najiyah",
-      "ustadz": [
-        "Ustadz Dzikrullah Arza"
-      ],
-      "tanggal": "2026-10-23",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurullah",
-        "alamat": "Apartemen Kalibata City, Basement Tower Cendana",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12847",
-          "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-10-22T17:19:57+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
-    },
     {
       "id": "32f068519424",
       "judul": null,
@@ -150,6 +56,53 @@
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
       "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    },
+    {
+      "id": "4b8b93127342",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Nuzul Dzikri"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": "setiap hari Sabtu, Pukul 07.00 WIB",
+      "waktu": {
+        "mulai": "07:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Iman",
+        "alamat": "lt.7 Blok-M Square, Kebayoran Baru, Jakarta Selatan",
+        "peta": "https://goo.gl/maps/p26d1YXFeeT2"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12915",
+          "diteruskan_dari": "Muhammad Nuzul Dzikri",
+          "diposting": "2026-10-23T23:09:17+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     },
     {
       "id": "e103e5f993f3",

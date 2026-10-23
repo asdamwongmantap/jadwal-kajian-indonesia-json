@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T14:17:15+00:00",
+  "dibuat": "2026-10-23T23:51:41+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,100 +8,8 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "adc6bdb05dd6",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-23",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "11:40",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-23T11:40:00+07:00",
-      "tempat": {
-        "nama": "Masjid Thayyibah",
-        "alamat": "Jl. Olahraga II no. 1 Condet Cililitan Jakarta Timur, Google Maps",
-        "peta": "https://goo.gl/maps/JQKGkKyRAaKpjXPe8"
-      },
-      "wilayah": {
-        "kode": "31.75",
-        "kabkota": "Kota Administrasi Jakarta Timur",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-timur",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12859",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-22T17:30:18+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
-    },
-    {
-      "id": "34dc515f0878",
-      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
-      "tema": null,
-      "kitab": "Al-Kaba ir (Dosa-dosa Besar)",
-      "ustadz": [
-        "Ustadz Gigih Surya Nugraha, S.H."
-      ],
-      "tanggal": "2026-10-23",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Soleh Hawa",
-        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.75",
-        "kabkota": "Kota Administrasi Jakarta Timur",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-timur",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12863",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-22T17:34:46+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
-    },
     {
       "id": "bbb31634806b",
       "judul": "Kajian Ilmiah",

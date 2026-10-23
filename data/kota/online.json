@@ -1,49 +1,49 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T14:17:15+00:00",
+  "dibuat": "2026-10-23T23:51:41+00:00",
   "wilayah": null,
   "jumlah": 2,
   "kajian": [
     {
-      "id": "5358815867bd",
+      "id": "2f31a787518e",
       "judul": null,
       "tema": null,
       "kitab": null,
       "ustadz": [
-        "Ustadz Syuban Bashthotah, B.A."
+        "Ustadz Agus Hendra"
       ],
-      "tanggal": "2026-10-23",
+      "tanggal": "2026-10-24",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "10:00",
         "selesai": null,
-        "acuan_shalat": "Dzuhur",
+        "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-24T10:00:00+07:00",
       "tempat": {
         "nama": null,
         "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+        "peta": null
       },
       "wilayah": null,
       "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": null,
+      "streaming": "https://www.youtube.com/c/rumahdakwahuk",
+      "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12884",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-22T18:04:44+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12938",
+          "diteruskan_dari": "TAKLIM KOLABORASI",
+          "diposting": "2026-10-23T23:28:28+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     },
     {
       "id": "8a57b556d849",
@@ -84,7 +84,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     }
   ]
 }

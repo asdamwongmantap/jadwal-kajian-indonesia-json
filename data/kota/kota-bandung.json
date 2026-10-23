@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T14:17:15+00:00",
+  "dibuat": "2026-10-23T23:51:41+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -11,29 +11,76 @@
   "jumlah": 3,
   "kajian": [
     {
-      "id": "e7c9253db8ce",
-      "judul": "Kajian Bareng Offline",
-      "tema": null,
-      "kitab": "Al-Qaulul Farid Fawaid 'ala Kitabut Tauhid)",
+      "id": "7f22cab0db36",
+      "judul": "Kajian Al-Mughni Center For Islamic Studies",
+      "tema": "Kajian Akidah",
+      "kitab": "al-Mulakhkhash fiy Syarhi Kitabit-Tauhid",
       "ustadz": [
-        "Ustadz Abu Haidar As-Sundawy"
+        "Ustadz Dr. Andy Octavian Latief, M.Sc."
       ],
-      "tanggal": "2026-10-23",
+      "tanggal": "2026-10-24",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
-        "mulai": "16:00",
+        "mulai": "08:00",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-23T16:00:00+07:00",
+      "mulai_iso": "2026-10-24T08:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Agung Al Ukhuwwah",
-        "alamat": "Jalan Wastukencana No. 27 Kota Bandung",
+        "nama": "Masjid Al-Hafidz",
+        "alamat": "Cigadung Valley Residence, Cigadung, Kec. Cibeunying Kaler, Bandung",
         "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12933",
+          "diteruskan_dari": "Al-Mughni Center for Islamic Studies",
+          "diposting": "2026-10-23T23:22:58+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
+    },
+    {
+      "id": "7ab9b86a8c95",
+      "judul": "Kajian Sabtu Pagi Pekan Ini",
+      "tema": "Sudah Lama Mengaji, Apa Yang Berubah dari Diri?",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Nuruddin Abu Faynan Al Makki"
+      ],
+      "tanggal": "2026-10-24",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-24T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid ashSHIDDIQ",
+        "alamat": "Jl. Kebon Gedang Gg. Hj. Siti Aisyah RT 02 RW 10 Maleer, KotaBandung., (",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
       },
       "wilayah": {
         "kode": "32.73",
@@ -49,25 +96,25 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12834",
-          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
-          "diposting": "2026-10-22T17:13:47+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12947",
+          "diteruskan_dari": "Imam Malik Bandung",
+          "diposting": "2026-10-23T23:38:37+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     },
     {
-      "id": "0e513755c2d7",
-      "judul": "Kajian Al-Mughni Center For Islamic Studies",
-      "tema": "Kunci-Kunci Masuk Surga",
-      "kitab": "Riyadhush-Shalihin",
+      "id": "95e636304c0e",
+      "judul": "Kajian Sabtu Malam Pekan Ini",
+      "tema": "BAB ISTINJA (Part 2)",
+      "kitab": "Zadul Mustaqni",
       "ustadz": [
-        "Ustadz Dr. Andy Octavian Latief, M.Sc."
+        "Ustadz Iskandar Dinata, Lc."
       ],
-      "tanggal": "2026-10-23",
+      "tanggal": "2026-10-24",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -78,56 +125,9 @@
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid An-Naafi",
-        "alamat": "Jl. Dago Pakar Permai 7, Komp. Resort Dago Pakar Bandung",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": "https://youtube.com/@almughnicenter",
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12836",
-          "diteruskan_dari": "Al-Mughni Center for Islamic Studies",
-          "diposting": "2026-10-22T17:14:44+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
-    },
-    {
-      "id": "6b597497fc4a",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Abu Umar Indra, S.S. Hafihzahullah"
-      ],
-      "tanggal": "2026-10-23",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ash Shidiq",
-        "alamat": "Jl. Kebon Gedang, RT. 02 / RW. 10, Maleer, Bandung, Kota Bandung, Jawa Barat 40274",
-        "peta": null
+        "nama": "Masjid Ash Shiddiq",
+        "alamat": "Jl. Kebon Gedang (Gg. Hj. Siti Aisyah) Rt.02 Rw.10 Maleer, Batununggal, Kota Bandung",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
       },
       "wilayah": {
         "kode": "32.73",
@@ -138,18 +138,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": null,
+      "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12830",
+          "url": "https://t.me/jadwalkajiansunnah/12945",
           "diteruskan_dari": "Imam Malik Bandung",
-          "diposting": "2026-10-22T17:11:56+00:00"
+          "diposting": "2026-10-23T23:38:03+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     }
   ]
 }

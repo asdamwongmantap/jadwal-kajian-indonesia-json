@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T14:17:15+00:00",
+  "dibuat": "2026-10-23T23:51:41+00:00",
   "wilayah": {
     "kode": "11.07",
     "kabkota": "Kabupaten Pidie",
@@ -8,53 +8,8 @@
     "slug": "kabupaten-pidie",
     "zona_waktu": "WIB"
   },
-  "jumlah": 5,
+  "jumlah": 4,
   "kajian": [
-    {
-      "id": "d1b1ff4b9784",
-      "judul": "Info kajian Masjid Al Ashri",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-23",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Ashri Pogung Rejo",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "11.07",
-        "kabkota": "Kabupaten Pidie",
-        "provinsi": "Aceh",
-        "slug": "kabupaten-pidie",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12894",
-          "diteruskan_dari": "Masjid Al 'Ashri Pogung Rejo",
-          "diposting": "2026-10-23T03:30:46+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-23T14:17:15+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
-    },
     {
       "id": "eeceb54211c4",
       "judul": null,
@@ -98,10 +53,17 @@
           "url": "https://t.me/jadwalkajiansunnah/11441",
           "diteruskan_dari": "Gresik Mengaji",
           "diposting": "2026-10-10T00:34:53+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12942",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-23T23:29:54+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-12T00:32:07+00:00"
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     },
     {
       "id": "27aad621b567",
@@ -149,7 +111,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     },
     {
       "id": "60c3e4057d79",
@@ -197,7 +159,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T14:34:00+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     },
     {
       "id": "e00beaf11da7",

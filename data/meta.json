@@ -1,8 +1,8 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T14:17:15+00:00",
-  "jumlah_kajian": 76,
-  "jumlah_kota": 31,
+  "dibuat": "2026-10-23T23:51:41+00:00",
+  "jumlah_kajian": 59,
+  "jumlah_kota": 27,
   "sumber": [
     {
       "id": "jadwalkajiansunnah",
@@ -10,8 +10,8 @@
       "tipe": "telegram",
       "url": "https://t.me/s/jadwalkajiansunnah",
       "status": "ok",
-      "pengumuman": 157,
-      "jadwal": 89
+      "pengumuman": 162,
+      "jadwal": 92
     },
     {
       "id": "attaqwa-jatibening",
@@ -37,8 +37,8 @@
       "tipe": "website",
       "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
       "status": "ok",
-      "pengumuman": 0,
-      "jadwal": 0
+      "pengumuman": 4,
+      "jadwal": 4
     }
   ],
   "catatan": "Data diambil otomatis dari pengumuman publik. Selalu cek sumber asli sebelum berangkat."

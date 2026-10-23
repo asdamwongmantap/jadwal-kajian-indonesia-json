@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T14:17:15+00:00",
+  "dibuat": "2026-10-23T23:51:41+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -11,29 +11,29 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "5c10ea1da2ae",
-      "judul": "Majelis Ilmu",
-      "tema": "Siroh Nabi Sebagai Pedoman Manhaj",
+      "id": "ac788a06ec22",
+      "judul": null,
+      "tema": "Fathu Mekkah, Kenangan Sejati Menaklukan Hati",
       "kitab": null,
       "ustadz": [
-        "Ustadz Muhammad Nursamsul Qamar"
+        "Ustadz Mohamad Toriqul Huda, S.Ag., M.S.I."
       ],
-      "tanggal": "2026-10-23",
+      "tanggal": "2026-10-24",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "15:45",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-24T15:45:00+07:00",
       "tempat": {
-        "nama": "Masjid Smp-Sma Nabawi School",
-        "alamat": "Jl.Sunan Giri no.5 Rawamangun, JakartaTimur, , 021 4897112",
-        "peta": "https://g.co/kgs/Jgt3PVb"
+        "nama": "Ma'had Online TSL",
+        "alamat": null,
+        "peta": null
       },
       "wilayah": {
         "kode": "12.05",
@@ -42,20 +42,20 @@
         "slug": "kabupaten-langkat",
         "zona_waktu": "WIB"
       },
-      "mode": "hybrid",
-      "streaming": "https://m.youtube.com/channel/UCaMqIbr6jKGsRqu8Qt7f-jA",
-      "peserta": "umum",
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12882",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-22T18:03:11+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/12927",
+          "diteruskan_dari": "Tarbiyah Sunnah Learning",
+          "diposting": "2026-10-23T23:19:28+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
+      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     }
   ]
 }
