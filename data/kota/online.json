@@ -1,29 +1,29 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T14:34:00+00:00",
+  "dibuat": "2026-10-22T23:59:17+00:00",
   "wilayah": null,
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
     {
-      "id": "ddc1fb92559d",
-      "judul": "Kajian Tematik Untuk Umum",
+      "id": "5358815867bd",
+      "judul": null,
       "tema": null,
       "kitab": null,
       "ustadz": [
-        "Ustadz Yovin Abu Hammam"
+        "Ustadz Syuban Bashthotah, B.A."
       ],
-      "tanggal": "2026-10-22",
+      "tanggal": "2026-10-23",
       "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "hari": "Jumat",
       "rutin": null,
       "waktu": {
-        "mulai": "09:30",
-        "selesai": "11:00",
-        "acuan_shalat": null,
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-22T09:30:00+07:00",
+      "mulai_iso": null,
       "tempat": {
         "nama": null,
         "alamat": null,
@@ -32,18 +32,59 @@
       "wilayah": null,
       "mode": "online",
       "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": "umum",
+      "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12736",
+          "url": "https://t.me/jadwalkajiansunnah/12884",
           "diteruskan_dari": null,
-          "diposting": "2026-10-21T09:22:33+00:00"
+          "diposting": "2026-10-22T18:04:44+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+    },
+    {
+      "id": "8a57b556d849",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ummu Muhammad Ferial Said"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": "Setiap Hari Jumat Pagi",
+      "waktu": {
+        "mulai": "07:45",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12853",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-22T17:25:23+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
     }
   ]
 }

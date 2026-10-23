@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T14:34:00+00:00",
+  "dibuat": "2026-10-22T23:59:17+00:00",
   "wilayah": {
     "kode": "35.20",
     "kabkota": "Kabupaten Magetan",
@@ -11,16 +11,16 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "9b4ec763523d",
+      "id": "1f691c18867d",
       "judul": null,
-      "tema": "Tafsir Ibnu Katsir",
-      "kitab": "Sunan Abi Dawud",
+      "tema": "Tafsir As Sa'di",
+      "kitab": "Akhsharul Mukhtasharat",
       "ustadz": [
         "Ustadzah Ummu Haura"
       ],
-      "tanggal": "2026-10-22",
+      "tanggal": "2026-10-23",
       "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "hari": "Jumat",
       "rutin": null,
       "waktu": {
         "mulai": "08:00",
@@ -29,7 +29,7 @@
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-22T08:00:00+07:00",
+      "mulai_iso": "2026-10-23T08:00:00+07:00",
       "tempat": {
         "nama": "Rumah Qur'an Darussunnah",
         "alamat": "Jl. Magetan no. 37 GKB",
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12755",
+          "url": "https://t.me/jadwalkajiansunnah/12850",
           "diteruskan_dari": "Gresik Mengaji",
-          "diposting": "2026-10-21T22:02:51+00:00"
+          "diposting": "2026-10-22T17:20:37+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
-      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
     }
   ]
 }

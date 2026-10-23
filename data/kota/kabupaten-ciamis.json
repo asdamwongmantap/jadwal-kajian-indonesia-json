@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T14:34:00+00:00",
+  "dibuat": "2026-10-22T23:59:17+00:00",
   "wilayah": {
     "kode": "32.07",
     "kabkota": "Kabupaten Ciamis",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-ciamis",
     "zona_waktu": "WIB"
   },
-  "jumlah": 6,
+  "jumlah": 7,
   "kajian": [
+    {
+      "id": "2134b32bffe7",
+      "judul": "Ta'lim Jum'at Pagi Besok",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Ilyas"
+      ],
+      "tanggal": "2026-10-23",
+      "tanggal_perkiraan": true,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "06:30",
+        "selesai": "07:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Madrasah Cidolog",
+        "alamat": "Sindangkasih - Ciamis",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.07",
+        "kabkota": "Kabupaten Ciamis",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-ciamis",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12843",
+          "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
+          "diposting": "2026-10-22T17:18:35+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+    },
     {
       "id": "83967a1141bf",
       "judul": "Ta'lim Ahad Sore",
@@ -102,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
     },
     {
       "id": "77ffadb06f77",
@@ -196,7 +243,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
     },
     {
       "id": "cfc7f5b6db9c",
@@ -250,7 +297,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T14:34:00+00:00",
-      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
     },
     {
       "id": "e1a321848b23",

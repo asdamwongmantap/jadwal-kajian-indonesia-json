@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T14:34:00+00:00",
+  "dibuat": "2026-10-22T23:59:17+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,19 +8,66 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
-      "id": "60bdaa13a5cc",
+      "id": "4c2cc70de8b6",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dzikrullah Arza"
+      ],
+      "tanggal": "2026-10-23",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "11:40",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-23T11:40:00+07:00",
+      "tempat": {
+        "nama": "Masjid Nurullah Kalibata City Insya Allah menyelenggarakan ibadah Shalat Jum'at",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12845",
+          "diteruskan_dari": "Masjid Nurullah Kalibata City",
+          "diposting": "2026-10-22T17:19:57+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+    },
+    {
+      "id": "086395fa2afe",
       "judul": "Majelis Ba'da Maghrib",
       "tema": null,
-      "kitab": "Ushulus Sunnah",
+      "kitab": "Minhajul Firqatun Najiyah",
       "ustadz": [
-        "Ustadz Dr. Ahmad Sujai"
+        "Ustadz Dzikrullah Arza"
       ],
-      "tanggal": "2026-10-22",
+      "tanggal": "2026-10-23",
       "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "hari": "Jumat",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -49,13 +96,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12766",
+          "url": "https://t.me/jadwalkajiansunnah/12847",
           "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-10-21T22:09:59+00:00"
+          "diposting": "2026-10-22T17:19:57+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
-      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
     },
     {
       "id": "32f068519424",

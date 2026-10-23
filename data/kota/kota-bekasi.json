@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T14:34:00+00:00",
+  "dibuat": "2026-10-22T23:59:17+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -10,53 +10,6 @@
   },
   "jumlah": 4,
   "kajian": [
-    {
-      "id": "4666b9006862",
-      "judul": null,
-      "tema": "Edisi 1, Kitab Shalat, Bab 14 \"Anjuran Shalat Secara Mutlak dan Keutamaan Rukuk, Sujud, dan Khusyu'\" Hadits ke-392",
-      "kitab": "Shahih At Targhib wa At Tarhib",
-      "ustadz": [
-        "Ustadz Khalid Basalamah"
-      ],
-      "tanggal": "2026-10-22",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Baitul Ma'mur Bintara",
-        "alamat": "Bekasi, Jawa Barat",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12752",
-          "diteruskan_dari": "Khalid Basalamah Official",
-          "diposting": "2026-10-21T22:01:51+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
-      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
-    },
     {
       "id": "95e56433574d",
       "judul": null,
@@ -105,6 +58,53 @@
       "terakhir_dilihat": "2026-10-18T13:21:31+00:00"
     },
     {
+      "id": "71374fedeba7",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Amar Abu Syafa, Lc."
+      ],
+      "tanggal": "2026-10-23",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Ihsan Dukuh Zamrud",
+        "alamat": "Jl. Pulo Utama No. 26, RT.003/RW.009, Padurenan, Kec. Mustika Jaya, Kota Bekasi, Jawa Barat 16340",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12857",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-22T17:28:37+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+    },
+    {
       "id": "862233c9cd75",
       "judul": "Kajian Rutin Ahad Pagi Pekan Keempat, 25 Oktober 2026 • 14 Jumadil Awwal 1448 H",
       "tema": "Kitab Tauhid karya Syeikh Shalih Al-Fauzan Jilid 2, Bab 1, Pasal 4 Pembatal Iman (Bagian Pertama)",
@@ -149,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T00:00:25+00:00",
-      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
     },
     {
       "id": "1c22005effd3",

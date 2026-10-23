@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T14:34:00+00:00",
+  "dibuat": "2026-10-22T23:59:17+00:00",
   "wilayah": {
     "kode": "33.72",
     "kabkota": "Kota Surakarta",
@@ -63,7 +63,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-14T00:17:48+00:00",
-      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
     }
   ]
 }

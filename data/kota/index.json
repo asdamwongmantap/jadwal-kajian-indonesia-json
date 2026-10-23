@@ -1,15 +1,7 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T14:34:00+00:00",
+  "dibuat": "2026-10-22T23:59:17+00:00",
   "kota": [
-    {
-      "slug": "kabupaten-aceh-barat-daya",
-      "kabkota": "Kabupaten Aceh Barat Daya",
-      "provinsi": "Aceh",
-      "kode": "11.12",
-      "jumlah": 1,
-      "file": "kota/kabupaten-aceh-barat-daya.json"
-    },
     {
       "slug": "kabupaten-aceh-besar",
       "kabkota": "Kabupaten Aceh Besar",
@@ -19,11 +11,19 @@
       "file": "kota/kabupaten-aceh-besar.json"
     },
     {
+      "slug": "kabupaten-bandung-barat",
+      "kabkota": "Kabupaten Bandung Barat",
+      "provinsi": "Jawa Barat",
+      "kode": "32.17",
+      "jumlah": 2,
+      "file": "kota/kabupaten-bandung-barat.json"
+    },
+    {
       "slug": "kabupaten-ciamis",
       "kabkota": "Kabupaten Ciamis",
       "provinsi": "Jawa Barat",
       "kode": "32.07",
-      "jumlah": 6,
+      "jumlah": 7,
       "file": "kota/kabupaten-ciamis.json"
     },
     {
@@ -43,20 +43,20 @@
       "file": "kota/kabupaten-gresik.json"
     },
     {
+      "slug": "kabupaten-kampar",
+      "kabkota": "Kabupaten Kampar",
+      "provinsi": "Riau",
+      "kode": "14.01",
+      "jumlah": 1,
+      "file": "kota/kabupaten-kampar.json"
+    },
+    {
       "slug": "kabupaten-langkat",
       "kabkota": "Kabupaten Langkat",
       "provinsi": "Sumatera Utara",
       "kode": "12.05",
       "jumlah": 1,
       "file": "kota/kabupaten-langkat.json"
-    },
-    {
-      "slug": "kabupaten-magelang",
-      "kabkota": "Kabupaten Magelang",
-      "provinsi": "Jawa Tengah",
-      "kode": "33.08",
-      "jumlah": 1,
-      "file": "kota/kabupaten-magelang.json"
     },
     {
       "slug": "kabupaten-magetan",
@@ -75,28 +75,20 @@
       "file": "kota/kabupaten-pidie.json"
     },
     {
-      "slug": "kabupaten-rokan-hulu",
-      "kabkota": "Kabupaten Rokan Hulu",
-      "provinsi": "Riau",
-      "kode": "14.06",
-      "jumlah": 1,
-      "file": "kota/kabupaten-rokan-hulu.json"
-    },
-    {
-      "slug": "kabupaten-sukoharjo",
-      "kabkota": "Kabupaten Sukoharjo",
-      "provinsi": "Jawa Tengah",
-      "kode": "33.11",
-      "jumlah": 1,
-      "file": "kota/kabupaten-sukoharjo.json"
-    },
-    {
       "slug": "kabupaten-tasikmalaya",
       "kabkota": "Kabupaten Tasikmalaya",
       "provinsi": "Jawa Barat",
       "kode": "32.06",
       "jumlah": 1,
       "file": "kota/kabupaten-tasikmalaya.json"
+    },
+    {
+      "slug": "kota-administrasi-jakarta-barat",
+      "kabkota": "Kota Administrasi Jakarta Barat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode": "31.73",
+      "jumlah": 1,
+      "file": "kota/kota-administrasi-jakarta-barat.json"
     },
     {
       "slug": "kota-administrasi-jakarta-pusat",
@@ -111,7 +103,7 @@
       "kabkota": "Kota Administrasi Jakarta Selatan",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.74",
-      "jumlah": 3,
+      "jumlah": 4,
       "file": "kota/kota-administrasi-jakarta-selatan.json"
     },
     {
@@ -119,7 +111,7 @@
       "kabkota": "Kota Administrasi Jakarta Timur",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.75",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-administrasi-jakarta-timur.json"
     },
     {
@@ -135,7 +127,7 @@
       "kabkota": "Kota Bandung",
       "provinsi": "Jawa Barat",
       "kode": "32.73",
-      "jumlah": 4,
+      "jumlah": 3,
       "file": "kota/kota-bandung.json"
     },
     {
@@ -159,16 +151,16 @@
       "kabkota": "Kota Bogor",
       "provinsi": "Jawa Barat",
       "kode": "32.71",
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/kota-bogor.json"
     },
     {
-      "slug": "kota-cilegon",
-      "kabkota": "Kota Cilegon",
-      "provinsi": "Banten",
-      "kode": "36.72",
-      "jumlah": 2,
-      "file": "kota/kota-cilegon.json"
+      "slug": "kota-depok",
+      "kabkota": "Kota Depok",
+      "provinsi": "Jawa Barat",
+      "kode": "32.76",
+      "jumlah": 3,
+      "file": "kota/kota-depok.json"
     },
     {
       "slug": "kota-makassar",
@@ -191,16 +183,8 @@
       "kabkota": "Kota Pekanbaru",
       "provinsi": "Riau",
       "kode": "14.71",
-      "jumlah": 2,
+      "jumlah": 1,
       "file": "kota/kota-pekanbaru.json"
-    },
-    {
-      "slug": "kota-semarang",
-      "kabkota": "Kota Semarang",
-      "provinsi": "Jawa Tengah",
-      "kode": "33.74",
-      "jumlah": 3,
-      "file": "kota/kota-semarang.json"
     },
     {
       "slug": "kota-surakarta",
@@ -219,11 +203,19 @@
       "file": "kota/kota-tangerang.json"
     },
     {
+      "slug": "kota-tangerang-selatan",
+      "kabkota": "Kota Tangerang Selatan",
+      "provinsi": "Banten",
+      "kode": "36.74",
+      "jumlah": 1,
+      "file": "kota/kota-tangerang-selatan.json"
+    },
+    {
       "slug": "kota-tasikmalaya",
       "kabkota": "Kota Tasikmalaya",
       "provinsi": "Jawa Barat",
       "kode": "32.78",
-      "jumlah": 3,
+      "jumlah": 2,
       "file": "kota/kota-tasikmalaya.json"
     },
     {
@@ -231,7 +223,7 @@
       "kabkota": "Kota Yogyakarta",
       "provinsi": "Daerah Istimewa Yogyakarta",
       "kode": "34.71",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-yogyakarta.json"
     },
     {
@@ -239,8 +231,16 @@
       "kabkota": null,
       "provinsi": null,
       "kode": null,
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/online.json"
+    },
+    {
+      "slug": "tanpa-wilayah",
+      "kabkota": null,
+      "provinsi": null,
+      "kode": null,
+      "jumlah": 1,
+      "file": "kota/tanpa-wilayah.json"
     }
   ]
 }

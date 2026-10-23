@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-22T14:34:00+00:00",
+  "dibuat": "2026-10-22T23:59:17+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,19 +8,64 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
     {
-      "id": "8064db1888d9",
+      "id": "adc6bdb05dd6",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-23",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "11:40",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-23T11:40:00+07:00",
+      "tempat": {
+        "nama": "Masjid Thayyibah",
+        "alamat": "Jl. Olahraga II no. 1 Condet Cililitan Jakarta Timur, Google Maps",
+        "peta": "https://goo.gl/maps/JQKGkKyRAaKpjXPe8"
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/12859",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-22T17:30:18+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
+    },
+    {
+      "id": "34dc515f0878",
       "judul": "Info Kajian Rutin Masjid Soleh Hawa",
       "tema": null,
-      "kitab": "Shahih Jami' Ash Shagir Karya Syaikh Muhammad Nasiruddin Al-Albani",
+      "kitab": "Al-Kaba ir (Dosa-dosa Besar)",
       "ustadz": [
-        "Ustadz Abu Yahya Badrusalam, Lc."
+        "Ustadz Gigih Surya Nugraha, S.H."
       ],
-      "tanggal": "2026-10-22",
+      "tanggal": "2026-10-23",
       "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "hari": "Jumat",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -49,13 +94,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12769",
+          "url": "https://t.me/jadwalkajiansunnah/12863",
           "diteruskan_dari": null,
-          "diposting": "2026-10-21T22:16:21+00:00"
+          "diposting": "2026-10-22T17:34:46+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-22T00:00:25+00:00",
-      "terakhir_dilihat": "2026-10-22T14:34:00+00:00"
+      "pertama_dilihat": "2026-10-22T23:59:17+00:00",
+      "terakhir_dilihat": "2026-10-22T23:59:17+00:00"
     },
     {
       "id": "bbb31634806b",
