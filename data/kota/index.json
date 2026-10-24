@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T23:51:41+00:00",
+  "dibuat": "2026-10-24T13:23:14+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -9,6 +9,14 @@
       "kode": "11.06",
       "jumlah": 1,
       "file": "kota/kabupaten-aceh-besar.json"
+    },
+    {
+      "slug": "kabupaten-batang",
+      "kabkota": "Kabupaten Batang",
+      "provinsi": "Jawa Tengah",
+      "kode": "33.25",
+      "jumlah": 1,
+      "file": "kota/kabupaten-batang.json"
     },
     {
       "slug": "kabupaten-ciamis",
@@ -43,11 +51,27 @@
       "file": "kota/kabupaten-gresik.json"
     },
     {
+      "slug": "kabupaten-kampar",
+      "kabkota": "Kabupaten Kampar",
+      "provinsi": "Riau",
+      "kode": "14.01",
+      "jumlah": 2,
+      "file": "kota/kabupaten-kampar.json"
+    },
+    {
+      "slug": "kabupaten-kuantan-singingi",
+      "kabkota": "Kabupaten Kuantan Singingi",
+      "provinsi": "Riau",
+      "kode": "14.09",
+      "jumlah": 1,
+      "file": "kota/kabupaten-kuantan-singingi.json"
+    },
+    {
       "slug": "kabupaten-langkat",
       "kabkota": "Kabupaten Langkat",
       "provinsi": "Sumatera Utara",
       "kode": "12.05",
-      "jumlah": 1,
+      "jumlah": 3,
       "file": "kota/kabupaten-langkat.json"
     },
     {
@@ -57,6 +81,14 @@
       "kode": "11.07",
       "jumlah": 4,
       "file": "kota/kabupaten-pidie.json"
+    },
+    {
+      "slug": "kabupaten-rokan-hulu",
+      "kabkota": "Kabupaten Rokan Hulu",
+      "provinsi": "Riau",
+      "kode": "14.06",
+      "jumlah": 1,
+      "file": "kota/kabupaten-rokan-hulu.json"
     },
     {
       "slug": "kabupaten-sukabumi",
@@ -71,7 +103,7 @@
       "kabkota": "Kabupaten Tasikmalaya",
       "provinsi": "Jawa Barat",
       "kode": "32.06",
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/kabupaten-tasikmalaya.json"
     },
     {
@@ -161,6 +193,14 @@
       "kode": "73.72",
       "jumlah": 1,
       "file": "kota/kota-parepare.json"
+    },
+    {
+      "slug": "kota-pekanbaru",
+      "kabkota": "Kota Pekanbaru",
+      "provinsi": "Riau",
+      "kode": "14.71",
+      "jumlah": 8,
+      "file": "kota/kota-pekanbaru.json"
     },
     {
       "slug": "kota-semarang",

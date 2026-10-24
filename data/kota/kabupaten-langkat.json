@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T23:51:41+00:00",
+  "dibuat": "2026-10-24T13:23:14+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,7 +8,7 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
     {
       "id": "ac788a06ec22",
@@ -55,7 +55,101 @@
         }
       ],
       "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
+      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+    },
+    {
+      "id": "ba0ef7d16d61",
+      "judul": "Info Kajian Sabtu Malam",
+      "tema": "Panduan ADAB Harian Seorang Muslim",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Riko Abu Faqih Abdillah, Lc. S.Pd.i."
+      ],
+      "tanggal": "2026-10-24",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Abu Bakar Ash-Shiddiq",
+        "alamat": "Jl. Soekarno-Hatta Gg. Pelita Labuhbaru Barat kec. Payung Sekaki",
+        "peta": "https://maps.app.goo.gl/x1bfxMq37zetS5UH9"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "ikhwan",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13028",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T09:08:55+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-24T13:23:14+00:00",
+      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+    },
+    {
+      "id": "d024dcb02c56",
+      "judul": null,
+      "tema": "Fiqih Muamalah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Gilang Prasetyo"
+      ],
+      "tanggal": "2026-10-24",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Mukhlisin",
+        "alamat": "Pandau",
+        "peta": "https://goo.gl/maps/35Rk785qJ9rfM1t46"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13031",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T09:13:55+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-24T13:23:14+00:00",
+      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
     }
   ]
 }

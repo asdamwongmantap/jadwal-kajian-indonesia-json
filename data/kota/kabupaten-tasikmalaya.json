@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-23T23:51:41+00:00",
+  "dibuat": "2026-10-24T13:23:14+00:00",
   "wilayah": {
     "kode": "32.06",
     "kabkota": "Kabupaten Tasikmalaya",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-tasikmalaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "3f1f435dda9e",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Haziem., [Pendidik Ma'had Ihya As Sunnah Kota Tasikmalaya & Pemateri Kajian Islam Ilmiah]"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": "Setiap Malam Ahad",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Mutaqin",
+        "alamat": "Jl Raya Timur Cikiray Singaparna Kab Tasikmalaya Belakang Rabani",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.06",
+        "kabkota": "Kabupaten Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "ikhwan",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13051",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T09:28:28+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-24T13:23:14+00:00",
+      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+    },
     {
       "id": "efa84e138769",
       "judul": "INFO KAJIAN MALAM AHAD BA'DA MAGRIB (Untuk Umum Khusus Ikhwan)",

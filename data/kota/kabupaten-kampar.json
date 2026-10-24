@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-24T13:23:14+00:00",
+  "wilayah": {
+    "kode": "14.01",
+    "kabkota": "Kabupaten Kampar",
+    "provinsi": "Riau",
+    "slug": "kabupaten-kampar",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "a5b31a715fbd",
+      "judul": "Kajian Rutin Sabtu Pekan 4",
+      "tema": null,
+      "kitab": "Tauhid Shahih Bukhari",
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-10-24",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Mushab bin Umair",
+        "alamat": "Desa Pulau Payung Rumbio - Kampar",
+        "peta": "https://g.co/kgs/rBdwSB"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13042",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T09:20:43+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-24T13:23:14+00:00",
+      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+    },
+    {
+      "id": "ff21c3bfb4bd",
+      "judul": "Kajian Ilmiah Islam",
+      "tema": "Tematik",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Masnur Abdurrahman, S.Pd."
+      ],
+      "tanggal": "2026-10-24",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Syuhada' Air Tiris Kampar Riau",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13044",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T09:21:44+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-24T13:23:14+00:00",
+      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+    }
+  ]
+}
