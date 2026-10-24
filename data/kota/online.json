@@ -1,49 +1,49 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-24T13:23:14+00:00",
+  "dibuat": "2026-10-24T23:13:34+00:00",
   "wilayah": null,
   "jumlah": 2,
   "kajian": [
     {
-      "id": "2f31a787518e",
-      "judul": null,
+      "id": "f60036851418",
+      "judul": "Kajian Rutin Untuk Umum",
       "tema": null,
       "kitab": null,
       "ustadz": [
-        "Ustadz Agus Hendra"
+        "Ustadz Irwansyah Al-Maidany, Lc."
       ],
-      "tanggal": "2026-10-24",
+      "tanggal": "2026-10-25",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": "10:00",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-24T10:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
         "nama": null,
         "alamat": null,
-        "peta": null
+        "peta": "https://bit.ly/masjidashshaff-googlemaps"
       },
       "wilayah": null,
       "mode": "online",
-      "streaming": "https://www.youtube.com/c/rumahdakwahuk",
+      "streaming": "https://youtube.com/masjidashshaff",
       "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12938",
-          "diteruskan_dari": "TAKLIM KOLABORASI",
-          "diposting": "2026-10-23T23:28:28+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/13089",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T21:07:00+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
     },
     {
       "id": "8a57b556d849",
@@ -84,7 +84,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T23:59:17+00:00",
-      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
     }
   ]
 }

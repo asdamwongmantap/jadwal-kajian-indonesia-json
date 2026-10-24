@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-24T13:23:14+00:00",
+  "dibuat": "2026-10-24T23:13:34+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,113 +8,19 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "7f22cab0db36",
-      "judul": "Kajian Al-Mughni Center For Islamic Studies",
-      "tema": "Kajian Akidah",
-      "kitab": "al-Mulakhkhash fiy Syarhi Kitabit-Tauhid",
+      "id": "67d50fb45ad9",
+      "judul": null,
+      "tema": null,
+      "kitab": "Tadzkiratus Sami')",
       "ustadz": [
-        "Ustadz Dr. Andy Octavian Latief, M.Sc."
+        "Ustadz Farid Ramdhan, Lc."
       ],
-      "tanggal": "2026-10-24",
+      "tanggal": "2026-10-25",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "08:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-24T08:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al-Hafidz",
-        "alamat": "Cigadung Valley Residence, Cigadung, Kec. Cibeunying Kaler, Bandung",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12933",
-          "diteruskan_dari": "Al-Mughni Center for Islamic Studies",
-          "diposting": "2026-10-23T23:22:58+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
-    },
-    {
-      "id": "7ab9b86a8c95",
-      "judul": "Kajian Sabtu Pagi Pekan Ini",
-      "tema": "Sudah Lama Mengaji, Apa Yang Berubah dari Diri?",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Nuruddin Abu Faynan Al Makki"
-      ],
-      "tanggal": "2026-10-24",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-24T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid ashSHIDDIQ",
-        "alamat": "Jl. Kebon Gedang Gg. Hj. Siti Aisyah RT 02 RW 10 Maleer, KotaBandung., (",
-        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12947",
-          "diteruskan_dari": "Imam Malik Bandung",
-          "diposting": "2026-10-23T23:38:37+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
-    },
-    {
-      "id": "95e636304c0e",
-      "judul": "Kajian Sabtu Malam Pekan Ini",
-      "tema": "BAB ISTINJA (Part 2)",
-      "kitab": "Zadul Mustaqni",
-      "ustadz": [
-        "Ustadz Iskandar Dinata, Lc."
-      ],
-      "tanggal": "2026-10-24",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -125,9 +31,9 @@
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Ash Shiddiq",
-        "alamat": "Jl. Kebon Gedang (Gg. Hj. Siti Aisyah) Rt.02 Rw.10 Maleer, Batununggal, Kota Bandung",
-        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
+        "nama": "Masjid Al Furqon",
+        "alamat": "Perumahan Top Regensi, Manglid - Kopo - Bandung",
+        "peta": "https://maps.app.goo.gl/TgDvdZLTxzfyVDk59"
       },
       "wilayah": {
         "kode": "32.73",
@@ -143,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12945",
-          "diteruskan_dari": "Imam Malik Bandung",
-          "diposting": "2026-10-23T23:38:03+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/13096",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T21:15:24+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
     }
   ]
 }

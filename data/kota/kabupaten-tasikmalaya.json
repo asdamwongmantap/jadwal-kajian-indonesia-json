@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-24T13:23:14+00:00",
+  "dibuat": "2026-10-24T23:13:34+00:00",
   "wilayah": {
     "kode": "32.06",
     "kabkota": "Kabupaten Tasikmalaya",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-tasikmalaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "27cf69fee209",
+      "judul": "Info Kajian Manonjaya Masjid Assholihin Ahad Sore",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Hatim Abduloh, LC., M.pd."
+      ],
+      "tanggal": "2026-10-25",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-25T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ash-Sholihin Manonjaya",
+        "alamat": "Jln. RTA Prawira Adiningrat, Patrol Kulon Manonjaya, Kab.Tasikmalaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.06",
+        "kabkota": "Kabupaten Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13097",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T21:16:39+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
+    },
     {
       "id": "3f1f435dda9e",
       "judul": null,
@@ -55,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-24T13:23:14+00:00",
-      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
     },
     {
       "id": "efa84e138769",

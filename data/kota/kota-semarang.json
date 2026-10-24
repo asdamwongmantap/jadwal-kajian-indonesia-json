@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-24T13:23:14+00:00",
+  "dibuat": "2026-10-24T23:13:34+00:00",
   "wilayah": {
     "kode": "33.74",
     "kabkota": "Kota Semarang",
@@ -8,32 +8,78 @@
     "slug": "kota-semarang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
     {
-      "id": "be80a60eca4c",
-      "judul": null,
-      "tema": "Tafsir Surat Al-Adiyat Ayat 6-11",
-      "kitab": "Faidhur Rahman Fi Tafsir Qur'an (juz Amma)",
+      "id": "3f94e7f6d744",
+      "judul": "Kajian Rutin Ahad Pagi",
+      "tema": "Harta Yang Tak Akan Pernah Hilang",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Achmad Nuruddin, Lc.",
-        "• Alumni LIPIA Jakarta"
+        "Al-Ustadz Muhammad Qosim Muhajir, Lc."
       ],
-      "tanggal": "2026-10-24",
+      "tanggal": "2026-10-25",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "07:00",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-25T07:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Nurus Sunnah",
-        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "nama": "Masjid Al Ikhlas Puri Anjasmoro",
+        "alamat": "Jl. Puri Anjasmoro Blok M-1 Tawangsari, Semarang",
+        "peta": "https://maps.app.goo.gl/TnFdbMgyQBZBdBWb7"
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13095",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T21:12:55+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
+    },
+    {
+      "id": "0890f0f192e5",
+      "judul": null,
+      "tema": "Memahami Perintah dan Makna Ibadah",
+      "kitab": "Tsalatsatul Ushul",
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-10-25",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-25T08:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Falah",
+        "alamat": "Perumahan Tembalang Pesona Asri, Kelurahan Kramas, Kecamatan Tembalang",
         "peta": null
       },
       "wilayah": {
@@ -50,13 +96,60 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12923",
-          "diteruskan_dari": "Masjid Nurussunnah",
-          "diposting": "2026-10-23T23:14:47+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/13066",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-10-24T20:40:52+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
+    },
+    {
+      "id": "3b8c94ce6d11",
+      "judul": "Kajian Rutin Masjid Ulil Albab Mijen Bersama Ykss",
+      "tema": "Memahami Makna Dua Kalimat Syahadat",
+      "kitab": "Kitab Tauhid",
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-10-25",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-25T10:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ulil Albab Mijen",
+        "alamat": "Kampung Kaligetas, Kelurahan Purwosari, Kecamatan Mijen",
+        "peta": "https://goo.gl/maps/5GU7FSstdu4bJE8i9"
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13064",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-10-24T20:40:52+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
     }
   ]
 }

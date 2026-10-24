@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-24T13:23:14+00:00",
+  "dibuat": "2026-10-24T23:13:34+00:00",
   "wilayah": {
     "kode": "35.25",
     "kabkota": "Kabupaten Gresik",
@@ -11,29 +11,29 @@
   "jumlah": 2,
   "kajian": [
     {
-      "id": "a834d5658e85",
-      "judul": null,
-      "tema": "Tafsir Ibnu Katsir",
-      "kitab": "Durusul Lughah",
+      "id": "7820ab100001",
+      "judul": "Kajian Anak",
+      "tema": "Fiqih Sunnah Wanita",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Rohmat Hadi"
+        "Ustadz Zakariya Rizky, S.Ag., Lc."
       ],
-      "tanggal": "2026-10-24",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "tanggal": "2026-10-25",
+      "tanggal_perkiraan": true,
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": "06:00",
-        "selesai": "07:30",
+        "mulai": "08:00",
+        "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-24T06:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Al Ihsan",
-        "alamat": "Jl. Proklamasi no.64 Gresik",
-        "peta": "https://maps.app.goo.gl/s4SagLSnYHfCW4Bj8"
+        "nama": "Masjid Al Ikhlas",
+        "alamat": "Driyorejo - Gresik, Ba'da Isya",
+        "peta": "https://maps.app.goo.gl/Lez1m5EsJJ18Ay1JA"
       },
       "wilayah": {
         "kode": "35.25",
@@ -44,18 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": "umum",
+      "peserta": "anak",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/12941",
+          "url": "https://t.me/jadwalkajiansunnah/13072",
           "diteruskan_dari": "Gresik Mengaji",
-          "diposting": "2026-10-23T23:29:54+00:00"
+          "diposting": "2026-10-24T20:44:00+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
     },
     {
       "id": "f8a62688c7fc",

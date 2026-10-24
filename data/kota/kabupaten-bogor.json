@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-24T23:13:34+00:00",
+  "wilayah": {
+    "kode": "32.01",
+    "kabkota": "Kabupaten Bogor",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bogor",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "f5176323bca3",
+      "judul": null,
+      "tema": "Bab Haji dan Umroh; Hal-Hal Yang Dilarang Bagi Wanita Yang Berihram",
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Zubdah Almaui'dzoh Salim, B.Sh."
+      ],
+      "tanggal": "2026-10-25",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-25T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid At-Tauhid",
+        "alamat": "Jl. Pajeleran Gunung Kp.Kranji Sukahati Cibinong",
+        "peta": "https://maps.app.goo.gl/hkYt39VKZqxxSXzw8"
+      },
+      "wilayah": {
+        "kode": "32.01",
+        "kabkota": "Kabupaten Bogor",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bogor",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13086",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T21:01:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
+    },
+    {
+      "id": "7ece7153ce44",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abdurrahman Dani"
+      ],
+      "tanggal": "2026-10-25",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Asy Syarifah Cibinong",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/gvdKqovmowXf9bix8"
+      },
+      "wilayah": {
+        "kode": "32.01",
+        "kabkota": "Kabupaten Bogor",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bogor",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13088",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-24T21:05:50+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
+      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
+    }
+  ]
+}
