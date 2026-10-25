@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-24T23:13:34+00:00",
+  "dibuat": "2026-10-25T13:45:20+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,8 +8,55 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "cfbf9292b886",
+      "judul": "Kajian Anak Rutin Tatap Muka",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Kak Naufal"
+      ],
+      "tanggal": "2026-10-25",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-25T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Raya Al Ihsan Darul Hikam",
+        "alamat": "Dago-Bandung",
+        "peta": "https://maps.app.goo.gl/AAa6zcwUfFiY582i9"
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "anak",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13113",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-25T01:44:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-25T13:45:20+00:00",
+      "terakhir_dilihat": "2026-10-25T13:45:20+00:00"
+    },
     {
       "id": "67d50fb45ad9",
       "judul": null,
@@ -55,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-24T23:13:34+00:00",
-      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
+      "terakhir_dilihat": "2026-10-25T13:45:20+00:00"
     }
   ]
 }

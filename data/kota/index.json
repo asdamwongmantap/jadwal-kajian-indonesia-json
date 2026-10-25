@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-24T23:13:34+00:00",
+  "dibuat": "2026-10-25T13:45:20+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -9,6 +9,14 @@
       "kode": "11.06",
       "jumlah": 1,
       "file": "kota/kabupaten-aceh-besar.json"
+    },
+    {
+      "slug": "kabupaten-banjarnegara",
+      "kabkota": "Kabupaten Banjarnegara",
+      "provinsi": "Jawa Tengah",
+      "kode": "33.04",
+      "jumlah": 1,
+      "file": "kota/kabupaten-banjarnegara.json"
     },
     {
       "slug": "kabupaten-bogor",
@@ -115,11 +123,19 @@
       "file": "kota/kota-administrasi-jakarta-timur.json"
     },
     {
+      "slug": "kota-administrasi-jakarta-utara",
+      "kabkota": "Kota Administrasi Jakarta Utara",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode": "31.72",
+      "jumlah": 1,
+      "file": "kota/kota-administrasi-jakarta-utara.json"
+    },
+    {
       "slug": "kota-bandar-lampung",
       "kabkota": "Kota Bandar Lampung",
       "provinsi": "Lampung",
       "kode": "18.71",
-      "jumlah": 5,
+      "jumlah": 6,
       "file": "kota/kota-bandar-lampung.json"
     },
     {
@@ -127,7 +143,7 @@
       "kabkota": "Kota Bandung",
       "provinsi": "Jawa Barat",
       "kode": "32.73",
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/kota-bandung.json"
     },
     {
@@ -147,12 +163,28 @@
       "file": "kota/kota-bekasi.json"
     },
     {
+      "slug": "kota-bima",
+      "kabkota": "Kota Bima",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode": "52.72",
+      "jumlah": 1,
+      "file": "kota/kota-bima.json"
+    },
+    {
       "slug": "kota-bogor",
       "kabkota": "Kota Bogor",
       "provinsi": "Jawa Barat",
       "kode": "32.71",
       "jumlah": 1,
       "file": "kota/kota-bogor.json"
+    },
+    {
+      "slug": "kota-depok",
+      "kabkota": "Kota Depok",
+      "provinsi": "Jawa Barat",
+      "kode": "32.76",
+      "jumlah": 1,
+      "file": "kota/kota-depok.json"
     },
     {
       "slug": "kota-makassar",

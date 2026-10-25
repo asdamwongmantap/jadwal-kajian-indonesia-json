@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-24T23:13:34+00:00",
+  "dibuat": "2026-10-25T13:45:20+00:00",
   "wilayah": {
     "kode": "32.06",
     "kabkota": "Kabupaten Tasikmalaya",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-24T23:13:34+00:00",
-      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
+      "terakhir_dilihat": "2026-10-25T13:45:20+00:00"
     },
     {
       "id": "3f1f435dda9e",
@@ -102,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-24T13:23:14+00:00",
-      "terakhir_dilihat": "2026-10-24T23:13:34+00:00"
+      "terakhir_dilihat": "2026-10-25T13:45:20+00:00"
     },
     {
       "id": "efa84e138769",
