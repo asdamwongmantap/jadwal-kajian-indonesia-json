@@ -1,50 +1,9 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-25T13:45:20+00:00",
+  "dibuat": "2026-10-25T23:16:22+00:00",
   "wilayah": null,
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "f60036851418",
-      "judul": "Kajian Rutin Untuk Umum",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Irwansyah Al-Maidany, Lc."
-      ],
-      "tanggal": "2026-10-25",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13089",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-24T21:07:00+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
-      "terakhir_dilihat": "2026-10-25T13:45:20+00:00"
-    },
     {
       "id": "8a57b556d849",
       "judul": null,

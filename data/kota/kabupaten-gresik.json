@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-25T13:45:20+00:00",
+  "dibuat": "2026-10-25T23:16:22+00:00",
   "wilayah": {
     "kode": "35.25",
     "kabkota": "Kabupaten Gresik",
@@ -8,55 +8,8 @@
     "slug": "kabupaten-gresik",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "7820ab100001",
-      "judul": "Kajian Anak",
-      "tema": "Fiqih Sunnah Wanita",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Zakariya Rizky, S.Ag., Lc."
-      ],
-      "tanggal": "2026-10-25",
-      "tanggal_perkiraan": true,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "08:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Ikhlas",
-        "alamat": "Driyorejo - Gresik, Ba'da Isya",
-        "peta": "https://maps.app.goo.gl/Lez1m5EsJJ18Ay1JA"
-      },
-      "wilayah": {
-        "kode": "35.25",
-        "kabkota": "Kabupaten Gresik",
-        "provinsi": "Jawa Timur",
-        "slug": "kabupaten-gresik",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "anak",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13072",
-          "diteruskan_dari": "Gresik Mengaji",
-          "diposting": "2026-10-24T20:44:00+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
-      "terakhir_dilihat": "2026-10-25T13:45:20+00:00"
-    },
     {
       "id": "f8a62688c7fc",
       "judul": null,
