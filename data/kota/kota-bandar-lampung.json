@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-25T23:16:22+00:00",
+  "dibuat": "2026-10-26T16:11:18+00:00",
   "wilayah": {
     "kode": "18.71",
     "kabkota": "Kota Bandar Lampung",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-25T13:45:20+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "f6c43e928c65",
@@ -116,7 +116,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "1dc35fb031dc",
@@ -214,10 +214,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12537",
           "diteruskan_dari": null,
           "diposting": "2026-10-19T08:37:27+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13123",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-26T04:43:13+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "3e18f1e7433f",

@@ -1,8 +1,55 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-25T23:16:22+00:00",
-  "jumlah": 49,
+  "dibuat": "2026-10-26T16:11:18+00:00",
+  "jumlah": 52,
   "kajian": [
+    {
+      "id": "1b3597d3ee73",
+      "judul": null,
+      "tema": "Tafsir Ibnu Katsir",
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Ummu Haura"
+      ],
+      "tanggal": "2026-10-26",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-26T08:00:00+07:00",
+      "tempat": {
+        "nama": "Rumah Qur'an Darussunnah",
+        "alamat": "Jl. Magetan no. 37 GKB",
+        "peta": "https://goo.gl/maps/5hkqeHbnYw6oRajh9"
+      },
+      "wilayah": {
+        "kode": "35.20",
+        "kabkota": "Kabupaten Magetan",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-magetan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13130",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-26T04:48:31+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-26T16:11:18+00:00",
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
+    },
     {
       "id": "604716369a4e",
       "judul": "Kajian Intensif Lanjutan",
@@ -48,7 +95,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-24T23:13:34+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
+    },
+    {
+      "id": "20d7e41180c8",
+      "judul": null,
+      "tema": "KUMPULAN HADIST AKHLAK (Syarah Kitab Ahadits Akhlak, Karya Syaikh Abdurrozzaq Bin Abdul Muhsin Al Abbad Al Badr)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ja'far Ad Demaky,S.Ag."
+      ],
+      "tanggal": "2026-10-26",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Kautsar Puri Gading",
+        "alamat": "(Belakang SPBU Puri Gading), Jl. Puri Gading Raya Perum Puri Gading, Dusun I, Grogol, Kec. Grogol, Kabupaten Sukoharjo, Jawa Tengah 57157",
+        "peta": "https://maps.app.goo.gl/w4WU5pMZB1GMsCMd7_"
+      },
+      "wilayah": {
+        "kode": "33.11",
+        "kabkota": "Kabupaten Sukoharjo",
+        "provinsi": "Jawa Tengah",
+        "slug": "kabupaten-sukoharjo",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13125",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-26T04:45:51+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-26T16:11:18+00:00",
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "8c2486a07264",
@@ -95,7 +189,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-25T23:16:22+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "b4023669ba6a",
@@ -142,7 +236,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-25T23:16:22+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "fe19379efeeb",
@@ -189,7 +283,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-25T23:16:22+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
+    },
+    {
+      "id": "f6fe6cfe5bd8",
+      "judul": "Kajian Riyaadhush Shaalihiin",
+      "tema": "Istana Pujian di Surga",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Rizal Yuliar Putrananda"
+      ],
+      "tanggal": "2026-10-26",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Komplek Masjid Pesantren Al-Lu'lu' Wal Marjan",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/XUg3gKRqPRxbK82s5"
+      },
+      "wilayah": {
+        "kode": "35.71",
+        "kabkota": "Kota Kediri",
+        "provinsi": "Jawa Timur",
+        "slug": "kota-kediri",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13127",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-26T04:47:39+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-26T16:11:18+00:00",
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "61be20b4f59d",
@@ -234,7 +375,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "4b8b93127342",
@@ -281,7 +422,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "eeceb54211c4",
@@ -336,7 +477,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "8a57b556d849",
@@ -659,7 +800,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-25T13:45:20+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "ec3838040932",
@@ -814,7 +955,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "cea1625c62ab",
@@ -1050,7 +1191,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-24T23:13:34+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "219a52e3e9ba",
@@ -1384,10 +1525,17 @@
           "url": "https://t.me/jadwalkajiansunnah/11701",
           "diteruskan_dari": "Gresik Mengaji",
           "diposting": "2026-10-12T04:38:21+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13131",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-26T04:48:31+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "27aad621b567",
@@ -1578,7 +1726,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-24T13:23:14+00:00",
-      "terakhir_dilihat": "2026-10-25T23:16:22+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "efa84e138769",
@@ -1777,10 +1925,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12537",
           "diteruskan_dari": null,
           "diposting": "2026-10-19T08:37:27+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13123",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-26T04:43:13+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-22T00:00:25+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     },
     {
       "id": "3e18f1e7433f",

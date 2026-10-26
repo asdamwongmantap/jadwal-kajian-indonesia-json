@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-25T23:16:22+00:00",
+  "dibuat": "2026-10-26T16:11:18+00:00",
   "wilayah": {
     "kode": "35.25",
     "kabkota": "Kabupaten Gresik",
@@ -53,10 +53,17 @@
           "url": "https://t.me/jadwalkajiansunnah/11701",
           "diteruskan_dari": "Gresik Mengaji",
           "diposting": "2026-10-12T04:38:21+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13131",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-26T04:48:31+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
     }
   ]
 }

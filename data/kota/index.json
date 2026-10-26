@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-25T23:16:22+00:00",
+  "dibuat": "2026-10-26T16:11:18+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -35,12 +35,28 @@
       "file": "kota/kabupaten-gresik.json"
     },
     {
+      "slug": "kabupaten-magetan",
+      "kabkota": "Kabupaten Magetan",
+      "provinsi": "Jawa Timur",
+      "kode": "35.20",
+      "jumlah": 1,
+      "file": "kota/kabupaten-magetan.json"
+    },
+    {
       "slug": "kabupaten-pidie",
       "kabkota": "Kabupaten Pidie",
       "provinsi": "Aceh",
       "kode": "11.07",
       "jumlah": 4,
       "file": "kota/kabupaten-pidie.json"
+    },
+    {
+      "slug": "kabupaten-sukoharjo",
+      "kabkota": "Kabupaten Sukoharjo",
+      "provinsi": "Jawa Tengah",
+      "kode": "33.11",
+      "jumlah": 1,
+      "file": "kota/kabupaten-sukoharjo.json"
     },
     {
       "slug": "kabupaten-tasikmalaya",
@@ -105,6 +121,14 @@
       "kode": "32.71",
       "jumlah": 1,
       "file": "kota/kota-bogor.json"
+    },
+    {
+      "slug": "kota-kediri",
+      "kabkota": "Kota Kediri",
+      "provinsi": "Jawa Timur",
+      "kode": "35.71",
+      "jumlah": 1,
+      "file": "kota/kota-kediri.json"
     },
     {
       "slug": "kota-makassar",
