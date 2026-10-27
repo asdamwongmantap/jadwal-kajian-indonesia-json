@@ -1,0 +1,156 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-27T15:25:16+00:00",
+  "wilayah": {
+    "kode": "33.74",
+    "kabkota": "Kota Semarang",
+    "provinsi": "Jawa Tengah",
+    "slug": "kota-semarang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 3,
+  "kajian": [
+    {
+      "id": "919727ec1fcf",
+      "judul": null,
+      "tema": "Nasehat-Nasehat Salman Al-Farisi Radhiyallahu Anhu (bagian Ke-4)",
+      "kitab": "Mawa'izh Shahabah",
+      "ustadz": [
+        "Ustadz Miftah Farid, Lc., MA., M.H.",
+        "• Alumni Universitas Islam Madinah"
+      ],
+      "tanggal": "2026-10-27",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurus Sunnah",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13214",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-27T04:46:04+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    },
+    {
+      "id": "be90510af8a1",
+      "judul": "Kajian Rutin Uau Official, Masjid Ibadurrahman Semarang Indah & Ykss",
+      "tema": "Sifat Shalat Nabi",
+      "kitab": "Al-Mulakhasul Fiqhi",
+      "ustadz": [
+        "Ustadz Abu Umair Kuswoyo"
+      ],
+      "tanggal": "2026-10-27",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ibadurrahman Semarang Indah",
+        "alamat": "Jl. Semarang Indah Blok C/X/1",
+        "peta": "https://maps.app.goo.gl/QXTxviVxdWGqfhyr7?g_st=aw"
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13216",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-27T04:47:11+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    },
+    {
+      "id": "27f4a1e28eb6",
+      "judul": null,
+      "tema": "Hal-Hal Yang Dilakukan Nabi Setelah Selesai Shalat",
+      "kitab": "Aktho'ul Musholliin (kesalahan-Kesalahan Orang Yang Shalat)",
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-10-28",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Azhar Banyumanik",
+        "alamat": "Jl. Klenteng Sari Kelurahan Pedalangan Kecamatan Banyumanik",
+        "peta": "https://maps.app.goo.gl/Kb2MKFpV615ySF6A6"
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13245",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-27T15:15:14+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    }
+  ]
+}

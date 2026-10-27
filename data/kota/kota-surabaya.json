@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-27T15:25:16+00:00",
+  "wilayah": {
+    "kode": "35.78",
+    "kabkota": "Kota Surabaya",
+    "provinsi": "Jawa Timur",
+    "slug": "kota-surabaya",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "4cd687b069a0",
+      "judul": "Kajian Rutin Kitab Tauhid",
+      "tema": "Firman Allah Ta'ala, \"para malaikat dan ruh naik kepada Allah",
+      "kitab": "Tauhid",
+      "ustadz": [
+        "Ustadz Muhammad Yusuf Rustam Lc.,M.A."
+      ],
+      "tanggal": "2026-10-27",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid al-Islamiyyah",
+        "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda) Surabaya",
+        "peta": "https://bit.ly/mapsmasjidalislamiyyah"
+      },
+      "wilayah": {
+        "kode": "35.78",
+        "kabkota": "Kota Surabaya",
+        "provinsi": "Jawa Timur",
+        "slug": "kota-surabaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13210",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-27T04:34:15+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    },
+    {
+      "id": "8b43b053517d",
+      "judul": "Kajian Kitab Ushul Tsalatsah",
+      "tema": null,
+      "kitab": "Ushul Tsalatsah",
+      "ustadz": [
+        "Ustadz Muhammad Azhari, Lc., M.A."
+      ],
+      "tanggal": "2026-10-27",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Baiturrahim",
+        "alamat": "Jl. Gubeng Kertajaya VIII D/18, Surabaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "35.78",
+        "kabkota": "Kota Surabaya",
+        "provinsi": "Jawa Timur",
+        "slug": "kota-surabaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13231",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-27T04:56:48+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    }
+  ]
+}

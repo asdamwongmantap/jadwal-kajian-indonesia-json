@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-27T15:25:16+00:00",
+  "wilayah": {
+    "kode": "12.71",
+    "kabkota": "Kota Medan",
+    "provinsi": "Sumatera Utara",
+    "slug": "kota-medan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "923d537ae5e4",
+      "judul": "Kajian Muslimah | Pekan 2 & 4",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Ummu Hany"
+      ],
+      "tanggal": "2026-10-27",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-27T10:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Muwahhidin",
+        "alamat": "Jl. Lorong Kabung, Medan Selayang, Kota Medan, (belakang kolam renang selayang -masuk dari Jl. SMKN 8 Medan)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.71",
+        "kabkota": "Kota Medan",
+        "provinsi": "Sumatera Utara",
+        "slug": "kota-medan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13234",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-27T04:58:40+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    },
+    {
+      "id": "ea761a7056ef",
+      "judul": null,
+      "tema": null,
+      "kitab": "Riyadhus Shalihin",
+      "ustadz": [
+        "Ustadz Ahmad Pinta Tarigan"
+      ],
+      "tanggal": "2026-10-27",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Muwahhidin",
+        "alamat": "Jl. Lorong Kabung, Medan Selayang, Kota Medan, (belakang kolam renang selayang -masuk dari Jl. SMKN 8 Medan)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.71",
+        "kabkota": "Kota Medan",
+        "provinsi": "Sumatera Utara",
+        "slug": "kota-medan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13226",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-27T04:55:15+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    }
+  ]
+}

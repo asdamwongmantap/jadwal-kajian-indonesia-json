@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-27T00:25:38+00:00",
+  "dibuat": "2026-10-27T15:25:16+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,8 +8,102 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "0ce11be53028",
+      "judul": null,
+      "tema": "Kitab Al Iksir",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Fadhil Huwaidy LC."
+      ],
+      "tanggal": "2026-10-27",
+      "tanggal_perkiraan": true,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Mesjid Nurul Ihsan",
+        "alamat": "Perumahan Pondok timur indah 1 blok C, Jl.Titiran raya RT 004 / 004 Mustikajaya Bekasi 17158",
+        "peta": "https://maps.app.goo.gl/vJgALd7iPavjoUgP9"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13195",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-27T04:22:47+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    },
+    {
+      "id": "24b6c8a7e417",
+      "judul": "Kajian Rutin Rabu Malam, Pekan Kelima, Rabu, 28 Oktober 2026 • 18 Jumadil Awwal 1448 H",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Khoirul Maktum, Lc."
+      ],
+      "tanggal": "2026-10-28",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid At-Taqwa Jatibening Satu",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "attaqwa-jatibening",
+          "nama": "Masjid At-Taqwa Jatibening Satu",
+          "url": "https://attaqwajatibening.com/berita/kajian-rutin-rabu-malam-pekan-kelima-rabu-28-oktober-2026-18-jumadil-awwal-1448-h",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-27T15:25:16.227642+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    },
     {
       "id": "1c22005effd3",
       "judul": null,

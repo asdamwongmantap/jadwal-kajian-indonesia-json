@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-27T15:25:16+00:00",
+  "wilayah": {
+    "kode": "35.11",
+    "kabkota": "Kabupaten Bondowoso",
+    "provinsi": "Jawa Timur",
+    "slug": "kabupaten-bondowoso",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "6e213a365e2d",
+      "judul": null,
+      "tema": "Pemimpinmu adalah Cerminanmu",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Mohammad Kurnaini, S.Ag., M.Ag.",
+        "Dosen STDI Imam Syafi'i Jember"
+      ],
+      "tanggal": "2026-10-27",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Bondowoso Mengaji, Musholla Al-Muhajirin",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/Yb9TuVNELDvXKUXp9"
+      },
+      "wilayah": {
+        "kode": "35.11",
+        "kabkota": "Kabupaten Bondowoso",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-bondowoso",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13241",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-27T05:04:02+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    }
+  ]
+}

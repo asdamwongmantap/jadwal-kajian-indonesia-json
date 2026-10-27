@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-27T15:25:16+00:00",
+  "wilayah": {
+    "kode": "73.09",
+    "kabkota": "Kabupaten Maros",
+    "provinsi": "Sulawesi Selatan",
+    "slug": "kabupaten-maros",
+    "zona_waktu": "WITA"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "5c39c3be8662",
+      "judul": null,
+      "tema": "Fikih Doa dan Dzikir",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Iqbal Gunawan, MA.",
+        "Pimpinan Pondok Pesantren Urwah Bin Zubair Maros"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": "Setiap hari Selasa (Pekan ke 3, 4 dan 5)",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Pondok Pesantren Urwah bin Zubair Maros",
+        "alamat": "Live Streaming",
+        "peta": "https://maps.app.goo.gl/dsyrZc7uNyX1arjx6"
+      },
+      "wilayah": {
+        "kode": "73.09",
+        "kabkota": "Kabupaten Maros",
+        "provinsi": "Sulawesi Selatan",
+        "slug": "kabupaten-maros",
+        "zona_waktu": "WITA"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/@ustadziqbalgunawan",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13211",
+          "diteruskan_dari": "",
+          "diposting": "2026-10-27T04:36:00+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
+      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+    }
+  ]
+}
