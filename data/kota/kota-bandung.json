@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-27T00:25:38+00:00",
+  "wilayah": {
+    "kode": "32.73",
+    "kabkota": "Kota Bandung",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-bandung",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "8201a6046d84",
+      "judul": "Kajian Rutin Aqidah",
+      "tema": "Kajian Rutin Aqidah",
+      "kitab": "Kitab Al-Wajibat Al-Mutahattimatu Al-Ma'rifatu 'ala Kulli Muslimin wa Muslimatin - Syirik Mahabbah",
+      "ustadz": [
+        "Ustadz Galih Suarsa, B.A."
+      ],
+      "tanggal": "2026-10-27",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "18:15",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-27T18:15:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Amanah",
+        "alamat": "Jl. Ruhana No. 6-8, RW 02, Paledang, Kecamatan Lengkong, Kota Bandung",
+        "peta": "https://maps.app.goo.gl/ZZbMTMtvmPGmaPnh9"
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13136",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-26T22:21:07+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-27T00:25:38+00:00",
+      "terakhir_dilihat": "2026-10-27T00:25:38+00:00"
+    }
+  ]
+}

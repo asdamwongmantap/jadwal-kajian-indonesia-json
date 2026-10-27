@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-26T16:11:18+00:00",
+  "dibuat": "2026-10-27T00:25:38+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -11,16 +11,16 @@
   "jumlah": 5,
   "kajian": [
     {
-      "id": "8c2486a07264",
+      "id": "37a5dd654507",
       "judul": "Kajian Renungan Fajar",
-      "tema": "Santri Harapan Bangsa",
+      "tema": "Cara Menggapai Kasih Sayang Allah",
       "kitab": null,
       "ustadz": [
-        "Dr. KH. Masruhin Abd. Majid, MA."
+        "Dr. KH. Mahkamah Mahdin, Lc, MA."
       ],
-      "tanggal": "2026-10-26",
+      "tanggal": "2026-10-27",
       "tanggal_perkiraan": false,
-      "hari": "Senin",
+      "hari": "Selasa",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -51,23 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-25T23:16:22.350521+00:00"
+          "diposting": "2026-10-27T00:25:38.308954+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-25T23:16:22+00:00",
-      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
+      "pertama_dilihat": "2026-10-27T00:25:38+00:00",
+      "terakhir_dilihat": "2026-10-27T00:25:38+00:00"
     },
     {
-      "id": "b4023669ba6a",
+      "id": "b5b44cbe27ba",
       "judul": "Kajian Dialog Zuhur",
-      "tema": "Mukasyafatul Qulub (TASAWUF)",
+      "tema": "Fiqhul Mawarits",
       "kitab": null,
       "ustadz": [
-        "Dr. H. Mulawarman Hannase, Lc, M.Hum."
+        "Dr. KH. Abdul Halim Sholeh, MM."
       ],
-      "tanggal": "2026-10-26",
+      "tanggal": "2026-10-27",
       "tanggal_perkiraan": false,
-      "hari": "Senin",
+      "hari": "Selasa",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -98,23 +98,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-25T23:16:22.350521+00:00"
+          "diposting": "2026-10-27T00:25:38.308954+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-25T23:16:22+00:00",
-      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
+      "pertama_dilihat": "2026-10-27T00:25:38+00:00",
+      "terakhir_dilihat": "2026-10-27T00:25:38+00:00"
     },
     {
-      "id": "fe19379efeeb",
+      "id": "cf6dcf709e03",
       "judul": "Kajian Khawamisy",
-      "tema": "Tarikh Tasyri’ Al Islami (FIQH)",
+      "tema": "Al Iqtdishad fi Al I’tiqad (AQIDAH)",
       "kitab": null,
       "ustadz": [
-        "Tarikh Tasyri’ Al Islami"
+        "H. Kopri Nurzen, Lc, MA."
       ],
-      "tanggal": "2026-10-26",
+      "tanggal": "2026-10-27",
       "tanggal_perkiraan": false,
-      "hari": "Senin",
+      "hari": "Selasa",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -145,11 +145,11 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-25T23:16:22.350521+00:00"
+          "diposting": "2026-10-27T00:25:38.308954+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-25T23:16:22+00:00",
-      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
+      "pertama_dilihat": "2026-10-27T00:25:38+00:00",
+      "terakhir_dilihat": "2026-10-27T00:25:38+00:00"
     },
     {
       "id": "61be20b4f59d",
@@ -194,7 +194,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
+      "terakhir_dilihat": "2026-10-27T00:25:38+00:00"
     },
     {
       "id": "ec3838040932",

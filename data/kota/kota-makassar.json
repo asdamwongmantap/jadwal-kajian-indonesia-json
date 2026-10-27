@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-26T16:11:18+00:00",
+  "dibuat": "2026-10-27T00:25:38+00:00",
   "wilayah": {
     "kode": "73.71",
     "kabkota": "Kota Makassar",
@@ -8,55 +8,8 @@
     "slug": "kota-makassar",
     "zona_waktu": "WITA"
   },
-  "jumlah": 7,
+  "jumlah": 6,
   "kajian": [
-    {
-      "id": "604716369a4e",
-      "judul": "Kajian Intensif Lanjutan",
-      "tema": "Tafsir Surah Al-Ahzab S.d. Surah Fathir",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dzulqarnain M. Sunusi"
-      ],
-      "tanggal": "2026-10-26",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "10:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WITA",
-      "mulai_iso": "2026-10-26T10:00:00+08:00",
-      "tempat": {
-        "nama": "Masjid As-Sunnah",
-        "alamat": "Jl. Baji Rupa No. 8 Makassar",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "73.71",
-        "kabkota": "Kota Makassar",
-        "provinsi": "Sulawesi Selatan",
-        "slug": "kota-makassar",
-        "zona_waktu": "WITA"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13058",
-          "diteruskan_dari": "Dzulqarnain Muhammad Sunusi",
-          "diposting": "2026-10-24T20:36:03+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-24T23:13:34+00:00",
-      "terakhir_dilihat": "2026-10-26T16:11:18+00:00"
-    },
     {
       "id": "22a50ecc3d49",
       "judul": null,
