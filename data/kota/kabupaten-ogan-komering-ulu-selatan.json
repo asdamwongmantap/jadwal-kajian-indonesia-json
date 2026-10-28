@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-28T16:08:21+00:00",
+  "wilayah": {
+    "kode": "16.09",
+    "kabkota": "Kabupaten Ogan Komering Ulu Selatan",
+    "provinsi": "Sumatera Selatan",
+    "slug": "kabupaten-ogan-komering-ulu-selatan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "14302e1ee20b",
+      "judul": "Kajian Rutin Masjid At-Taqwa",
+      "tema": "Hadits Arba'in",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Riko Febriadi, Lc."
+      ],
+      "tanggal": "2026-10-28",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Di Masjid At-Taqwa Jl. Kayu jati, Simpang Tiga",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/qDEB3oNXQeNQ7agA7"
+      },
+      "wilayah": {
+        "kode": "16.09",
+        "kabkota": "Kabupaten Ogan Komering Ulu Selatan",
+        "provinsi": "Sumatera Selatan",
+        "slug": "kabupaten-ogan-komering-ulu-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13270",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-28T08:39:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
+      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+    }
+  ]
+}

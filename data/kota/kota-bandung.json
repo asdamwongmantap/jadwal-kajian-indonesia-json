@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-28T00:31:34+00:00",
+  "dibuat": "2026-10-28T16:08:21+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,8 +8,55 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "43e8aa073ed8",
+      "judul": "Kajian Islam Ilmiah - Terbuka Untuk Umum",
+      "tema": null,
+      "kitab": "99 Hadits Pilihan Pondasi Agama",
+      "ustadz": [
+        "Ustadz Yusuf Abu Ubaidah as Sidawi"
+      ],
+      "tanggal": "2026-10-28",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "18:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-28T18:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Aziz (Jl. Soekarno Hatta No. 662 - Bandung)",
+        "alamat": "Peserta: Terbuka untuk umum (Ikhwan / Akhwat)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13310",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-28T09:22:15+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
+      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+    },
     {
       "id": "cf383dfd7781",
       "judul": null,
@@ -55,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-28T00:31:34+00:00",
-      "terakhir_dilihat": "2026-10-28T00:31:34+00:00"
+      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
     }
   ]
 }
