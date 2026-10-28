@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-27T15:25:16+00:00",
+  "dibuat": "2026-10-28T00:31:34+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,102 +8,8 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "fda4218f09f6",
-      "judul": "Majelis Ilmu Terbuka Umum Putra dan Putri",
-      "tema": "GUNCANGAN DAHSYAT Membahas Kitab Ar-riqaq min shahihil Bukhari, karya Syaikh Abdul Aziz bin Abdillah bin Baz Rahimahullahu ta'ala",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Afifi Abdul Wadud, B.A."
-      ],
-      "tanggal": "2026-10-27",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "15:45",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-27T15:45:00+07:00",
-      "tempat": {
-        "nama": "Masjid Agung Sleman dr Wahidin Soedirohoesodo Sleman",
-        "alamat": "Yogyakarta",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "34.71",
-        "kabkota": "Kota Yogyakarta",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kota-yogyakarta",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13141",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-27T03:05:47+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
-      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
-    },
-    {
-      "id": "dc3d375a3d41",
-      "judul": "Kajian Rutin Selasa Petang",
-      "tema": "Nabi Musa & Nabi Khidir 'Alaihimassalam",
-      "kitab": "Mendulang Mutiara Faidah dari Kisah Nabi dan Rasul",
-      "ustadz": [
-        "Ustadz Hasim Ikhwanudin, S.Ars."
-      ],
-      "tanggal": "2026-10-27",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Pogung Raya (MPR)",
-        "alamat": "Pogung Kampung Hijrah",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "34.71",
-        "kabkota": "Kota Yogyakarta",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kota-yogyakarta",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13212",
-          "diteruskan_dari": "",
-          "diposting": "2026-10-27T04:43:31+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
-      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
-    },
     {
       "id": "f2fc3c85a110",
       "judul": "Kajian Rutin Senin",

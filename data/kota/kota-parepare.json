@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-27T15:25:16+00:00",
+  "dibuat": "2026-10-28T00:31:34+00:00",
   "wilayah": {
     "kode": "73.72",
     "kabkota": "Kota Parepare",
@@ -8,55 +8,8 @@
     "slug": "kota-parepare",
     "zona_waktu": "WITA"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "ca639f1a0c59",
-      "judul": null,
-      "tema": "Kitab Tafsir Ibnu Katsir",
-      "kitab": "Sirah Nabawiyah",
-      "ustadz": [
-        "Ustadz Muhammad Permana"
-      ],
-      "tanggal": "2026-10-27",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "10:00",
-        "selesai": "12:00",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-27T10:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al-Is Syah Hakim (Jl. Karya Jaya Ujung",
-        "alamat": "Depan Sekolah Darul Ilmi Murni), Info Panitia Kajian : 0813-7534-2353, (KHUSUS AKHWAT / MUSLIMAH)",
-        "peta": "https://maps.app.goo.gl/ys6KrNG5VzZKyLKx7"
-      },
-      "wilayah": {
-        "kode": "73.72",
-        "kabkota": "Kota Parepare",
-        "provinsi": "Sulawesi Selatan",
-        "slug": "kota-parepare",
-        "zona_waktu": "WITA"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13228",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-27T04:55:43+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
-      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
-    },
     {
       "id": "0a026cd5881b",
       "judul": null,

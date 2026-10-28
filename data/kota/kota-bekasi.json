@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-27T15:25:16+00:00",
+  "dibuat": "2026-10-28T00:31:34+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,55 +8,8 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "0ce11be53028",
-      "judul": null,
-      "tema": "Kitab Al Iksir",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Fadhil Huwaidy LC."
-      ],
-      "tanggal": "2026-10-27",
-      "tanggal_perkiraan": true,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Mesjid Nurul Ihsan",
-        "alamat": "Perumahan Pondok timur indah 1 blok C, Jl.Titiran raya RT 004 / 004 Mustikajaya Bekasi 17158",
-        "peta": "https://maps.app.goo.gl/vJgALd7iPavjoUgP9"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13195",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-27T04:22:47+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-27T15:25:16+00:00",
-      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
-    },
     {
       "id": "24b6c8a7e417",
       "judul": "Kajian Rutin Rabu Malam, Pekan Kelima, Rabu, 28 Oktober 2026 • 18 Jumadil Awwal 1448 H",
@@ -102,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-27T15:25:16+00:00",
-      "terakhir_dilihat": "2026-10-27T15:25:16+00:00"
+      "terakhir_dilihat": "2026-10-28T00:31:34+00:00"
     },
     {
       "id": "1c22005effd3",
