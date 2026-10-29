@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-29T00:55:50+00:00",
+  "dibuat": "2026-10-29T16:14:05+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,7 +8,7 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
     {
       "id": "a4522241633d",
@@ -56,7 +56,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+    },
+    {
+      "id": "3fc56c8a862a",
+      "judul": "Kajian Rutin Kamis Buka Puasa",
+      "tema": "Setiap Penyakit Ada Obatnya",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Yulian Purnama, S.Kom."
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "17:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-29T17:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Pogung Raya (MPR)",
+        "alamat": "Pogung Kampung Hijrah",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13417",
+          "diteruskan_dari": "Masjid Pogung Raya - MPR",
+          "diposting": "2026-10-29T02:28:57+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
     },
     {
       "id": "f2fc3c85a110",

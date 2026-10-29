@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-29T16:14:05+00:00",
+  "wilayah": {
+    "kode": "33.01",
+    "kabkota": "Kabupaten Cilacap",
+    "provinsi": "Jawa Tengah",
+    "slug": "kabupaten-cilacap",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "296269d50240",
+      "judul": "Info Kajian Hari Ini",
+      "tema": "Al-Muharrar Fil Hadits",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Rijal, Lc."
+      ],
+      "tanggal": "2026-11-04",
+      "tanggal_perkiraan": true,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Alya",
+        "alamat": "Jl. Senggono, Gumilir - Cilacap, Penyelenggara:, MTQ Al-Manshuroh Cilacap",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.01",
+        "kabkota": "Kabupaten Cilacap",
+        "provinsi": "Jawa Tengah",
+        "slug": "kabupaten-cilacap",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13418",
+          "diteruskan_dari": "Al-Manshuroh Cilacap",
+          "diposting": "2026-10-29T02:32:24+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+    }
+  ]
+}

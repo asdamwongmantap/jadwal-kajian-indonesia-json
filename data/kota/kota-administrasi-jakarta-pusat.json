@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-29T00:55:50+00:00",
+  "dibuat": "2026-10-29T16:14:05+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -8,8 +8,149 @@
     "slug": "kota-administrasi-jakarta-pusat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 5,
+  "jumlah": 8,
   "kajian": [
+    {
+      "id": "b2d65b52c764",
+      "judul": "Kajian Akhwat Masjid Al Azhar Cempaka Putih",
+      "tema": "Serial Tematik Kajian Akhwat Shalat, Wujud Syukur paling Sempurna",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Nida Fatahullah"
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-29T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Azhar Cempaka Putih",
+        "alamat": "Cempaka Putih Barat III, Jakarta Pusat",
+        "peta": "https://maps.app.goo.gl/n2mY5cqDjqpk3tHG9"
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13384",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-29T01:46:49+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+    },
+    {
+      "id": "5e4d69dc3c71",
+      "judul": "Kajian Dhuha",
+      "tema": "Yaumul Hisab",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Firanda Andirja, MA."
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-29T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid AT - ATTAUFIQ Cempaka Putih",
+        "alamat": "Cempaka Putih TIMUR VI, Jakarta Pusat",
+        "peta": "https://maps.app.goo.gl/59Jj43opQQMyLm9V7"
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13383",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-29T01:46:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+    },
+    {
+      "id": "45c1867e4e20",
+      "judul": "Kajian Islam Ilmiah Rutin",
+      "tema": "Pembahasan Kitab Kaidah-kaidah Tauhid Kaidah-Kaidah Tauhid ( Pertemuan 35 )",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zainudin Khuzairi"
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Azhar Cempaka Putih",
+        "alamat": "Cempaka Putih Barat III, Jakarta Pusat",
+        "peta": "https://maps.app.goo.gl/n2mY5cqDjqpk3tHG9"
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13385",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-29T01:47:13+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+    },
     {
       "id": "7add6791fdd9",
       "judul": "Kajian Renungan Fajar",
@@ -55,7 +196,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
     },
     {
       "id": "7afcd3004395",
@@ -102,7 +243,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
     },
     {
       "id": "b5936a4a25bd",
@@ -149,7 +290,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
     },
     {
       "id": "61be20b4f59d",
@@ -194,7 +335,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
     },
     {
       "id": "ec3838040932",

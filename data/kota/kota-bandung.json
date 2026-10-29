@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-29T00:55:50+00:00",
+  "dibuat": "2026-10-29T16:14:05+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
     },
     {
       "id": "f31e531b425f",
@@ -102,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
     },
     {
       "id": "d1c6c5233aa0",
@@ -146,10 +146,17 @@
           "url": "https://t.me/jadwalkajiansunnah/13315",
           "diteruskan_dari": null,
           "diposting": "2026-10-28T19:14:38+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13425",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-10-29T02:39:44+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
     }
   ]
 }

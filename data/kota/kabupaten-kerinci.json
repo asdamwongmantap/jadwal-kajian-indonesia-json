@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-29T16:14:05+00:00",
+  "wilayah": {
+    "kode": "15.01",
+    "kabkota": "Kabupaten Kerinci",
+    "provinsi": "Jambi",
+    "slug": "kabupaten-kerinci",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "167264fcf795",
+      "judul": "Kajian Rutin Masjid Nurul Yaqin",
+      "tema": "Tematik",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muslim, Lc Ma."
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Yaqin",
+        "alamat": "Jln. Pemda, Pangkalan Kerinci Kota",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "15.01",
+        "kabkota": "Kabupaten Kerinci",
+        "provinsi": "Jambi",
+        "slug": "kabupaten-kerinci",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13406",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-29T02:14:14+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+    }
+  ]
+}

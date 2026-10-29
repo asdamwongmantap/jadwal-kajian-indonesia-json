@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-29T16:14:05+00:00",
+  "wilayah": {
+    "kode": "33.19",
+    "kabkota": "Kabupaten Kudus",
+    "provinsi": "Jawa Tengah",
+    "slug": "kabupaten-kudus",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "40d2ef63c63d",
+      "judul": "Kajian Rutin Pekanan Kamis malam Jum'at untuk Muslim dan Muslimah Pada",
+      "tema": null,
+      "kitab": "Ahaditsul Akhlaq",
+      "ustadz": [
+        "Ustadz Abu Ayyas Nuruddin"
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "18:00",
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-29T18:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Menara Iman JL.Menara Iman",
+        "alamat": "Belakang Unit Produksi PDAM Dukuh Krajan, Desa Bae RT 02 RW 01, Kec. Bae, Kab. Kudus - Jawa Tengah, Google Maps : Diselenggarakan oleh : Ta'mir Masjid Menara Iman & Yayasan Risalah Islam Kudus, Informasi Kajian & Kegiatan : Admin Yaris WA : wa.me/62…",
+        "peta": "https://bit.ly/MapsMenaraIman"
+      },
+      "wilayah": {
+        "kode": "33.19",
+        "kabkota": "Kabupaten Kudus",
+        "provinsi": "Jawa Tengah",
+        "slug": "kabupaten-kudus",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13423",
+          "diteruskan_dari": "Masjid Menara Iman Kudus",
+          "diposting": "2026-10-29T02:36:53+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+    }
+  ]
+}

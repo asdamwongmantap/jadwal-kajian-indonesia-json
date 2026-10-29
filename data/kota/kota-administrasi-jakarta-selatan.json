@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-29T00:55:50+00:00",
+  "dibuat": "2026-10-29T16:14:05+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,8 +8,102 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 4,
   "kajian": [
+    {
+      "id": "b2699ff45842",
+      "judul": "Kajian Ilmiah",
+      "tema": null,
+      "kitab": "1 7 5 Jalan Menuju Surga sub bahasan no.1 7 8 : Bagaimana Caranya Untuk Selamat Dan Bebas Dari Hak-hak Manusia",
+      "ustadz": [
+        "Ustadz Subhan Bawazier"
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:30",
+        "selesai": "10:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-29T08:30:00+07:00",
+      "tempat": {
+        "nama": "Gedung Umi Graha d/a Ayam Goreng Mbok Berek Ny. Umi",
+        "alamat": "Jl. Prof Dr Soepomo SH no.14 Tebet Jakarta Selatan",
+        "peta": "https://goo.gl/maps/ndc4JUC27gN2"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13372",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-29T01:28:51+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+    },
+    {
+      "id": "8a0e90703b4d",
+      "judul": null,
+      "tema": "Jeritan Orang-Orang yang Melalaikan Amal",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Halid Syari"
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "13:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-29T13:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Nurul Hidayah",
+        "alamat": "Jl. Brawijaya XII, Pulo Kebayoran, Jakarta Selatan",
+        "peta": "https://maps.app.goo.gl/BnTEUFsuVhCSF8Z47"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/live/XN_6K6_eEpw?si=5R5uGBMd-nI-g6B4",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13404",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-29T02:09:50+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
+      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+    },
     {
       "id": "4b8b93127342",
       "judul": null,
