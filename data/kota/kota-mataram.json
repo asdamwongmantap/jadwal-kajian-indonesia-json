@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-28T16:08:21+00:00",
+  "dibuat": "2026-10-29T00:55:50+00:00",
   "wilayah": {
     "kode": "52.71",
     "kabkota": "Kota Mataram",
@@ -11,17 +11,17 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "8768fd0fef71",
+      "id": "ac5644b9df05",
       "judul": "Kajian Kitab Rutin Pekanan",
-      "tema": "Kitab Tauhid",
+      "tema": "Tazkiyatun Nufs",
       "kitab": "Rutin Pekanan",
       "ustadz": [
-        "1 Ustadz Jamaluddin, Lc. . Jadwal Baru",
-        "2 Ustadz Hakam Abdurrahman bin Hizam, Lc."
+        "1 Ustadz Hakam bin Abdurrahman bin Hizam, Lc.",
+        "2 Ustadz Mufy Hanif Thalib, Lc."
       ],
-      "tanggal": "2026-10-28",
+      "tanggal": "2026-10-29",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -32,8 +32,8 @@
       "zona_waktu": "WITA",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Islamic Center Masjid 'Aisyah",
-        "alamat": "Jln. Soromandi no.01 Lawata - Mataram - Lombok - NTB",
+        "nama": "Masjid Al-Hidayah Otak Desa Ampenan",
+        "alamat": null,
         "peta": null
       },
       "wilayah": {
@@ -50,13 +50,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13299",
+          "url": "https://t.me/jadwalkajiansunnah/13352",
           "diteruskan_dari": null,
-          "diposting": "2026-10-28T09:15:03+00:00"
+          "diposting": "2026-10-28T20:33:27+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     }
   ]
 }

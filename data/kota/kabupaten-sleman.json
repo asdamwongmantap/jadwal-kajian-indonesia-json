@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-29T00:55:50+00:00",
+  "wilayah": {
+    "kode": "34.04",
+    "kabkota": "Kabupaten Sleman",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "slug": "kabupaten-sleman",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "cdc9fc426f5d",
+      "judul": null,
+      "tema": null,
+      "kitab": "bit.ly/MaalimAtTauhid",
+      "ustadz": [
+        "Ustadz Afifi Abdul Wadud, B.A."
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-29T07:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Real Masjid 3.0",
+        "alamat": "Depok, Sleman",
+        "peta": "https://maps.app.goo.gl/zaLkfkh7vUj3B2dj7"
+      },
+      "wilayah": {
+        "kode": "34.04",
+        "kabkota": "Kabupaten Sleman",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-sleman",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13323",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-28T19:23:52+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+    },
+    {
+      "id": "1f26c02e36a9",
+      "judul": null,
+      "tema": "Jangan Sombong, Allah Ciptakan Kita dengan Mudah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Amrullah Akadhinta, ST. Hafidzahullaahu"
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid ICBM",
+        "alamat": "Islamic Centre Baitul Muhsinin, (Jln. Temulawak-Sidomulyo, Temulawak, Triharjo, Sleman)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.04",
+        "kabkota": "Kabupaten Sleman",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-sleman",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/@icbmtv898",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13341",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-28T19:41:15+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+    }
+  ]
+}

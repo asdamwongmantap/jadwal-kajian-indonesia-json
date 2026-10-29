@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-28T16:08:21+00:00",
+  "dibuat": "2026-10-29T00:55:50+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,19 +8,66 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
     {
-      "id": "a8802e5fe9a5",
-      "judul": null,
-      "tema": "Nabi Musa dan Firaun",
-      "kitab": "Tafsir As-Sa'di",
+      "id": "66c4074d0ad7",
+      "judul": "Kajian Kamis Esok",
+      "tema": null,
+      "kitab": "Mutammimah Al Aajurrumiyyah",
       "ustadz": [
-        "Ustadz Pamuji Hadi Waluyo, Lc."
+        "Ustadz Ali Prasetyo Hafidzahullaahu"
       ],
-      "tanggal": "2026-10-28",
+      "tanggal": "2026-10-29",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Aula Ma'had Wisma Syabaabul Qur'an",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/r47ai8WKSmvzETaU9"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "ikhwan",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13357",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-28T20:40:30+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+    },
+    {
+      "id": "e77e26cc6a26",
+      "judul": "Kajian Kitab Sirah Nabi",
+      "tema": "Keyakinan dan Kepercayaan Bangsa Arab",
+      "kitab": "Sirah Nabi",
+      "ustadz": [
+        "Ustadz Imam Nur Cahyo, S.Pd."
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -32,7 +79,7 @@
       "mulai_iso": null,
       "tempat": {
         "nama": "Musholla Nurul Istiqomah",
-        "alamat": null,
+        "alamat": "Narahubung: 0813-1645-3253",
         "peta": "https://goo.gl/maps/MrnZEUdQw3K2"
       },
       "wilayah": {
@@ -49,13 +96,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13296",
+          "url": "https://t.me/jadwalkajiansunnah/13321",
           "diteruskan_dari": null,
-          "diposting": "2026-10-28T09:11:36+00:00"
+          "diposting": "2026-10-28T19:21:16+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     }
   ]
 }

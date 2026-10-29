@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-29T00:55:50+00:00",
+  "wilayah": {
+    "kode": "32.10",
+    "kabkota": "Kabupaten Majalengka",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-majalengka",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "ab4a83ccc206",
+      "judul": null,
+      "tema": null,
+      "kitab": "Nya",
+      "ustadz": [
+        "Ustadz Teguh Nugraha"
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": true,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "05:45",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ahsanul Mahmuda Panyingkiran",
+        "alamat": "Dekat Gudang Azad",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.10",
+        "kabkota": "Kabupaten Majalengka",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-majalengka",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13319",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-28T19:20:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+    }
+  ]
+}

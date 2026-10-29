@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-28T16:08:21+00:00",
+  "dibuat": "2026-10-29T00:55:50+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -11,17 +11,17 @@
   "jumlah": 2,
   "kajian": [
     {
-      "id": "48d7ee4f2144",
-      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
+      "id": "6bb4b954fe31",
+      "judul": "Kajian Ilmiah",
       "tema": null,
-      "kitab": "Al-Wabil ash-Shayyib",
+      "kitab": "Riyadhus Shalihin",
       "ustadz": [
-        "Ustadz Nizar Saad Jabal, Lc., M.Pd."
+        "Ustadz Awad Noval Munabari, BA"
       ],
-      "tanggal": "2026-10-28",
+      "tanggal": null,
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
+      "hari": "Kamis",
+      "rutin": "Rutin setiap Hari Kamis pekan 2&4",
       "waktu": {
         "mulai": null,
         "selesai": null,
@@ -31,8 +31,8 @@
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Soleh Hawa",
-        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
+        "nama": "Masjid Imam Nawawi",
+        "alamat": null,
         "peta": null
       },
       "wilayah": {
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13261",
+          "url": "https://t.me/jadwalkajiansunnah/13325",
           "diteruskan_dari": null,
-          "diposting": "2026-10-28T08:26:28+00:00"
+          "diposting": "2026-10-28T19:25:31+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     },
     {
       "id": "bbb31634806b",

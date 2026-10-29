@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-28T16:08:21+00:00",
+  "dibuat": "2026-10-29T00:55:50+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,180 +8,32 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 7,
+  "jumlah": 4,
   "kajian": [
     {
-      "id": "4ef4b9b54e5d",
-      "judul": "Kajian Rutin Hari Rabu Pekan 4",
-      "tema": null,
-      "kitab": "Qothful Jana Ad-Dani (Syarah Muqodimah Risalah Ibnu Abi Zaid Al-Qairawani) Karya Syaikh Abdul Muhsin Al 'Abbad Al Badr Hafizhahullah",
-      "ustadz": [
-        "Ustadz DR. Aspri Rahmat Azai, MA."
-      ],
-      "tanggal": "2026-10-28",
-      "tanggal_perkiraan": true,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ubay Bin Ka'ab",
-        "alamat": "Jl. Muhajirin, Arengka Atas, Kel. Sidomulyo Barat, Pekanbaru., (Link maps dapat dilihat pada bagian info paling bawah)",
-        "peta": "https://g.co/kgs/MvjUv1"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": "https://www.youtube.com/c/MasjidUbayBinKaabPekanbaru",
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13278",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T08:46:24+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
-    },
-    {
-      "id": "bbf98732da96",
-      "judul": "Kajian Ilmiah Islam",
-      "tema": "Shiroh Sahabat",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Ahmad Syakir, Lc., M.A."
-      ],
-      "tanggal": "2026-10-28",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Miftahul Jannah",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13267",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T08:38:06+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
-    },
-    {
-      "id": "c62b055a8c0c",
-      "judul": "Kajian ba'da sholat Maghrib",
+      "id": "60d7f6ebaca3",
+      "judul": "Kajian Riyadhus Shalihin",
       "tema": null,
       "kitab": null,
       "ustadz": [
-        "Ustadz Ahmad Doni, Lc."
+        "Ustadz Ade Agustian, Lc."
       ],
-      "tanggal": "2026-10-28",
-      "tanggal_perkiraan": true,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al-Fattah Citra Garden",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/BvSnMRV561Eo2MUw6?g_st=aw"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13308",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T09:21:35+00:00"
-        },
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13271",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T08:40:00+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
-    },
-    {
-      "id": "f376566fed9a",
-      "judul": null,
-      "tema": null,
-      "kitab": "Al Lu'lu wa Al Marjan",
-      "ustadz": [
-        "Ustadz Dr Muamar Ma'ruf, Lc., MA."
-      ],
-      "tanggal": "2026-10-28",
+      "tanggal": "2026-10-29",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": "Maghrib",
+        "acuan_shalat": "Subuh",
         "relasi": "setelah"
       },
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Jl. Kayu Putih Kel. Bina Widya Kec. Bina Widya, Pekanbaru, Riau",
-        "alamat": null,
-        "peta": null
+        "nama": "Musholla Al-Hidayah",
+        "alamat": "Jl. Pahlawan No. 93, Arengka Atas, Pekanbaru",
+        "peta": "https://maps.app.goo.gl/iqUhWuhJzdXHw3U97"
       },
       "wilayah": {
         "kode": "14.71",
@@ -192,18 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": null,
+      "peserta": "ikhwan",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13290",
+          "url": "https://t.me/jadwalkajiansunnah/13370",
           "diteruskan_dari": null,
-          "diposting": "2026-10-28T09:03:22+00:00"
+          "diposting": "2026-10-28T20:55:37+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     },
     {
       "id": "beab06772a41",
@@ -250,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     },
     {
       "id": "c943e9d84c27",
@@ -295,7 +147,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     },
     {
       "id": "dee87fdbff9f",
@@ -340,7 +192,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-27T15:25:16+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     }
   ]
 }

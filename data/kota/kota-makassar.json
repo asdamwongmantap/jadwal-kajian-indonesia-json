@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-28T16:08:21+00:00",
+  "dibuat": "2026-10-29T00:55:50+00:00",
   "wilayah": {
     "kode": "73.71",
     "kabkota": "Kota Makassar",
@@ -8,8 +8,55 @@
     "slug": "kota-makassar",
     "zona_waktu": "WITA"
   },
-  "jumlah": 6,
+  "jumlah": 7,
   "kajian": [
+    {
+      "id": "28917912c534",
+      "judul": "Kajian Islam Rutin",
+      "tema": "RAMBU RAMBU AQIDAH AHLUSSUNNAH WAL JAMA'AH (Kitab A'laam As Sunnah Al Mansyuroh lil I'tiqod At Thoifatu Al Manshuroh Karya Syaikh Al Hafidz Al Hakamy Rahimahullah)",
+      "kitab": null,
+      "ustadz": [
+        "Al Ustadz SYUKURULLAH ABU AWANAH"
+      ],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": true,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Darur Rahmah",
+        "alamat": "Jl. Satangnga No. 40 Makassar",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "73.71",
+        "kabkota": "Kota Makassar",
+        "provinsi": "Sulawesi Selatan",
+        "slug": "kota-makassar",
+        "zona_waktu": "WITA"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13327",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-28T19:27:42+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+    },
     {
       "id": "22a50ecc3d49",
       "judul": null,
@@ -193,10 +240,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12786",
           "diteruskan_dari": "I-Salam Karim",
           "diposting": "2026-10-22T07:52:43+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13328",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-28T19:28:27+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-22T14:34:00+00:00",
-      "terakhir_dilihat": "2026-10-24T13:23:14+00:00"
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     },
     {
       "id": "4cd43c06589f",

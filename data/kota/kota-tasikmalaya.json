@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-28T16:08:21+00:00",
+  "dibuat": "2026-10-29T00:55:50+00:00",
   "wilayah": {
     "kode": "32.78",
     "kabkota": "Kota Tasikmalaya",
@@ -8,55 +8,8 @@
     "slug": "kota-tasikmalaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "1df076eeee0a",
-      "judul": null,
-      "tema": "Jual Beli Barang Terpaksa",
-      "kitab": "Harta Haram Muamalat Kontemporer",
-      "ustadz": [
-        "Ustadz Iskandar Dinata, Lc."
-      ],
-      "tanggal": "2026-10-28",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "16:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-28T16:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Aisyah",
-        "alamat": "Jl. Ir. H. Juanda, Bantarsari, Kota Tasikmalaya",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.78",
-        "kabkota": "Kota Tasikmalaya",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-tasikmalaya",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13286",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T08:58:06+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
-    },
     {
       "id": "9cd19eb1f979",
       "judul": null,

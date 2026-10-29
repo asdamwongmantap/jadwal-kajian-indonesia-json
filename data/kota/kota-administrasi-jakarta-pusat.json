@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-28T16:08:21+00:00",
+  "dibuat": "2026-10-29T00:55:50+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -11,16 +11,16 @@
   "jumlah": 5,
   "kajian": [
     {
-      "id": "2eaf9139249d",
+      "id": "7add6791fdd9",
       "judul": "Kajian Renungan Fajar",
-      "tema": "Kewajiban Menuntut Ilmu",
+      "tema": "Keutamaan Bersedekah",
       "kitab": null,
       "ustadz": [
-        "Dr. H. Sholeh Asri, MA."
+        "H. M. Mahdi, M.Ag."
       ],
-      "tanggal": "2026-10-28",
+      "tanggal": "2026-10-29",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -51,23 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-28T00:31:34.244885+00:00"
+          "diposting": "2026-10-29T00:55:50.483599+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-28T00:31:34+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     },
     {
-      "id": "442081bd461f",
+      "id": "7afcd3004395",
       "judul": "Kajian Khawamisy",
-      "tema": "Kaifa Nata’amal Ma’al Qur’an (TAFSIR)",
+      "tema": "Tasawuf",
       "kitab": null,
       "ustadz": [
-        "Dr. H. Mulawarman Hannase, Lc, M.Hum."
+        "Irpan Husaini, ME"
       ],
-      "tanggal": "2026-10-28",
+      "tanggal": "2026-10-29",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -98,23 +98,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-28T00:31:34.244885+00:00"
+          "diposting": "2026-10-29T00:55:50.483599+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-28T00:31:34+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     },
     {
-      "id": "85669a9dcc6a",
+      "id": "b5936a4a25bd",
       "judul": "Kajian Dialog Zuhur",
-      "tema": "Tafsir Ibnu Katsir",
+      "tema": "Kitab Qashasul Anbiya’ (SEJARAH)",
       "kitab": null,
       "ustadz": [
-        "Dr. Budi Utomo, Lc, MA."
+        "KH Choirul Anshori, M.Pd.I."
       ],
-      "tanggal": "2026-10-28",
+      "tanggal": "2026-10-29",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -145,11 +145,11 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-28T00:31:34.244885+00:00"
+          "diposting": "2026-10-29T00:55:50.483599+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-28T00:31:34+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     },
     {
       "id": "61be20b4f59d",
@@ -194,7 +194,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-23T23:51:41+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     },
     {
       "id": "ec3838040932",

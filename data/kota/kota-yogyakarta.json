@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-28T16:08:21+00:00",
+  "dibuat": "2026-10-29T00:55:50+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -11,28 +11,29 @@
   "jumlah": 2,
   "kajian": [
     {
-      "id": "24fadc81fb46",
-      "judul": "Kajian Rutin Kolaborasi Rabu Malam di Maa",
-      "tema": "Teladan Para Salaf dalam Menjaga Keikhlasan",
-      "kitab": "Silsilah A'mal al-Qulub",
+      "id": "a4522241633d",
+      "judul": "Kajian Kamia Pagi",
+      "tema": "| Fikih Keluarga",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Abunnada, S.Psi."
+        "Ustadz Hanan Yasir, MA.",
+        "| @ustadzhananyasir"
       ],
-      "tanggal": "2026-10-28",
+      "tanggal": "2026-10-29",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "08:00",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-29T08:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Al Ashri Pogung Rejo",
-        "alamat": "Sinduadi, Mlati, Sleman, Yogyakarta",
+        "nama": "Pesantren Lansia",
+        "alamat": "Sleman, Yogyakarta",
         "peta": null
       },
       "wilayah": {
@@ -42,20 +43,20 @@
         "slug": "kota-yogyakarta",
         "zona_waktu": "WIB"
       },
-      "mode": "hybrid",
+      "mode": "offline",
       "streaming": null,
-      "peserta": "umum",
+      "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13294",
+          "url": "https://t.me/jadwalkajiansunnah/13366",
           "diteruskan_dari": null,
-          "diposting": "2026-10-28T09:09:53+00:00"
+          "diposting": "2026-10-28T20:46:47+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
     },
     {
       "id": "f2fc3c85a110",

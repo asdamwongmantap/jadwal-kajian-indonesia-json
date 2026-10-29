@@ -1,0 +1,47 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-29T00:55:50+00:00",
+  "wilayah": null,
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "3a93fc846781",
+      "judul": "Kajian Rutin Kamis ba'da Ashar",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-29",
+      "tanggal_perkiraan": true,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Iman Blok M Square Lt. 7",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": null,
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13335",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-28T19:34:32+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
+      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+    }
+  ]
+}
