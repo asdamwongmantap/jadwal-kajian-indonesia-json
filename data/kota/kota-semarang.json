@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-29T16:14:05+00:00",
+  "dibuat": "2026-10-30T00:58:38+00:00",
   "wilayah": {
     "kode": "33.74",
     "kabkota": "Kota Semarang",
@@ -8,114 +8,19 @@
     "slug": "kota-semarang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
     {
-      "id": "0672bb256672",
+      "id": "ee71a65d5cea",
       "judul": null,
-      "tema": "Tafsir Surat At-Takatsur",
-      "kitab": "Tafsir Al-Qur'an",
-      "ustadz": [
-        "Ustadz Endang Sutedi, Lc."
-      ],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": "10:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-29T10:00:00+07:00",
-      "tempat": {
-        "nama": "Rumah Bapak Denny / Ibu Anna",
-        "alamat": "Perumahan Graha Estetika, Jl. Prima Selatan No. E1, Semarang",
-        "peta": "https://maps.app.goo.gl/LNF2xwNqhCCeTnSD7"
-      },
-      "wilayah": {
-        "kode": "33.74",
-        "kabkota": "Kota Semarang",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-semarang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13416",
-          "diteruskan_dari": "Endang Sutedi Official",
-          "diposting": "2026-10-29T02:25:01+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "3adaf26d3cb7",
-      "judul": null,
-      "tema": "Waktu Mustajab di Hari Jum'at",
-      "kitab": "Bulughul Maram",
+      "tema": "Siapa Lebih Utama: Malaikat Atau Manusia Shaleh?",
+      "kitab": "Syarah At-Thahawiyah",
       "ustadz": [
         "Ustadz Abu Umair Kuswoyo"
       ],
-      "tanggal": "2026-10-29",
+      "tanggal": "2026-10-30",
       "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nur Annisa",
-        "alamat": "Perumahan New Villa Buana, Kelurahan Meteseh, Kecamatan Tembalang",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "33.74",
-        "kabkota": "Kota Semarang",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-semarang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13412",
-          "diteruskan_dari": "Abu Umair Official",
-          "diposting": "2026-10-29T02:22:34+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "4e17cc8f7fd0",
-      "judul": null,
-      "tema": "Sayyidul Istighfar (bagian Ke-2)",
-      "kitab": "Fiqhul Ad'iyah Wal Adzkar",
-      "ustadz": [
-        "Ustadz Budi Santoso Afrizal, Lc, M.H., C.AFM.",
-        "• Alumni LIPIA Jakarta"
-      ],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "hari": "Jumat",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -144,13 +49,60 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13414",
+          "url": "https://t.me/jadwalkajiansunnah/13447",
           "diteruskan_dari": "Masjid Nurussunnah",
-          "diposting": "2026-10-29T02:23:54+00:00"
+          "diposting": "2026-10-29T20:59:13+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-29T16:14:05+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+      "pertama_dilihat": "2026-10-30T00:58:38+00:00",
+      "terakhir_dilihat": "2026-10-30T00:58:38+00:00"
+    },
+    {
+      "id": "fda5460eedfb",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Faruq Suparwi S.Pd.I, M.Ag."
+      ],
+      "tanggal": "2026-10-30",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurus Sunnah",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13449",
+          "diteruskan_dari": "Masjid Nurussunnah",
+          "diposting": "2026-10-29T20:59:13+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T00:58:38+00:00",
+      "terakhir_dilihat": "2026-10-30T00:58:38+00:00"
     }
   ]
 }

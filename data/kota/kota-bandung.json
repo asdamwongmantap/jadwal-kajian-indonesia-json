@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-29T16:14:05+00:00",
+  "dibuat": "2026-10-30T00:58:38+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,126 +8,32 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
     {
-      "id": "966b662dc223",
-      "judul": "Kajian Muslimah - Masjid Al Aziz Bandung",
-      "tema": "Hadirilah Kajian Muslimah Masjid Al Aziz pekan ini dengan pembahasan fikih jenazah",
-      "kitab": "Ahkamu An-Nisa Li Ibni Al-Jauzi",
-      "ustadz": [
-        "Ustadzah Mardhotillah hafidzahallah"
-      ],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-29T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al Aziz (Jl. Soekarno Hatta No. 662 - Bandung)",
-        "alamat": "Peserta: Terbuka untuk umum, khusus Muslimah",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13313",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T19:09:15+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "f31e531b425f",
-      "judul": null,
-      "tema": "Muroqobatullah",
+      "id": "345f75bbd4ef",
+      "judul": "Kajian Islam Ilmiyah",
+      "tema": "Adab-Adab Membaca Al-Qur'an (part 3)",
       "kitab": null,
-      "ustadz": [
-        "Ustadz Ahmad Wijaya"
-      ],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": "16:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-29T16:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid At Tauhid",
-        "alamat": "Komplek BSD Sport Center, Jl. Ranca Mekar, Riung Bandung - Bandung",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13317",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T19:15:10+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "d1c6c5233aa0",
-      "judul": "Kajian Bareng Offline",
-      "tema": "Hadits Ke-46",
-      "kitab": "Arba'in An-Nawawi",
       "ustadz": [
         "Ustadz Hary Badar bin Marwan"
       ],
-      "tanggal": "2026-10-29",
+      "tanggal": "2026-10-30",
       "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "hari": "Jumat",
       "rutin": null,
       "waktu": {
-        "mulai": "20:00",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-29T20:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Studio MIMBA TV",
-        "alamat": "Jl. Kebon Gedang No. 99, Gatot Subroto, Kota Bandung",
-        "peta": null
+        "nama": "Masjid ashSHIDDIQ",
+        "alamat": "Jl. Kebon Gedang Gg. Hj. Siti Aisyah Rt 02 Rw 10 Maleer Bandung., (",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
       },
       "wilayah": {
         "kode": "32.73",
@@ -143,20 +49,60 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13315",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T19:14:38+00:00"
-        },
+          "url": "https://t.me/jadwalkajiansunnah/13464",
+          "diteruskan_dari": "Imam Malik Bandung",
+          "diposting": "2026-10-30T00:36:00+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T00:58:38+00:00",
+      "terakhir_dilihat": "2026-10-30T00:58:38+00:00"
+    },
+    {
+      "id": "dc186e091dbe",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Rian Abu Rabbany Hafidzhahullah"
+      ],
+      "tanggal": "2026-10-30",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ash Shidiq",
+        "alamat": "Jl. Kebon Gedang, RT 02 RW 10, Maleer, Bandung, Kota Bandung, Jawa Barat 40274",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13425",
-          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
-          "diposting": "2026-10-29T02:39:44+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/13462",
+          "diteruskan_dari": "Imam Malik Bandung",
+          "diposting": "2026-10-30T00:35:59+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
+      "pertama_dilihat": "2026-10-30T00:58:38+00:00",
+      "terakhir_dilihat": "2026-10-30T00:58:38+00:00"
     }
   ]
 }

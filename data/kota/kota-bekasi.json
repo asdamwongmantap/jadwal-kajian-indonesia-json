@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-29T16:14:05+00:00",
+  "dibuat": "2026-10-30T00:58:38+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,372 +8,8 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 10,
+  "jumlah": 3,
   "kajian": [
-    {
-      "id": "6de9abd50839",
-      "judul": "Kajian!! Mulia Dengan Kucuran Keringat Sendiri",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Abu Keis Derma Permana, B.Sh."
-      ],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": "10:00",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-29T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al-Fatah Perum Pemda Jatiasih",
-        "alamat": "Kota Bekasi",
-        "peta": "https://maps.app.goo.gl/BoshPNLeyMtmBV24A?g_st=iw"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13358",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T20:40:54+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "0741a87b6c79",
-      "judul": "Kajian Muslimah",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": true,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dhuha",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Furqan",
-        "alamat": "Jl. Pulosirih, Taman Galaxy, Pekayon Jaya, Kec. Bekasi Sel., Kota Bekasi, Jawa Barat 17148",
-        "peta": "https://maps.app.goo.gl/5H1jLWQnkuivroPr7"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13355",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T20:39:37+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "2bc0a83bfe1d",
-      "judul": null,
-      "tema": "Edisi 1, Kitab Shalat, Bab 14 \"Anjuran Shalat Secara Mutlak dan Keutamaan Rukuk, Sujud, dan Khusyu'\" Hadits ke-396",
-      "kitab": "Shahih At Targhib wa At Tarhib",
-      "ustadz": [
-        "Ustadz Khalid Basalamah"
-      ],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Baitul Ma'mur Bintara",
-        "alamat": "Bekasi, Jawa Barat",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13344",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T19:42:35+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "400ed3d66c27",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": true,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dhuha",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Raya At-Taqwa",
-        "alamat": "Rawalumbu Jemb. 11, Bojong Rawalumbu, Kec. Rawalumbu, Kota Bekasi, Jawa Barat 17116",
-        "peta": "https://maps.app.goo.gl/N7a5FUJE8XATsoMk8"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13353",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T20:38:52+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "6cb81aecab6d",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": true,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Asmaul Husna",
-        "alamat": "Jl. Villa Selatan, Taman Villa Baru, Pekayon Jaya, Kec. Bekasi Sel., Kota Bekasi, Jawa Barat 17148",
-        "peta": "https://maps.app.goo.gl/p4kSPwk9LtFWdTfU7"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13362",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T20:44:27+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "a25c54668b9e",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": true,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Aminussalam",
-        "alamat": "Jl. Setia 2, Jatiwaringin, Kec. Pondokgede, Kota Bekasi, Jawa Barat 17411",
-        "peta": "https://maps.app.goo.gl/i6FbLU6nHY8KhE3d7"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13363",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T20:44:55+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "a5f462925ce3",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": true,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dhuha",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Muhajirin",
-        "alamat": "Jl. Panda Raya No. 1, Taman Permata Cikunir, Jakamulya, Kec. Bekasi Sel., Kota Bekasi, Jawa Barat",
-        "peta": "https://maps.app.goo.gl/n9ynhZZpatbxpCjCA"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13354",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T20:39:13+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
-    {
-      "id": "f52ed6ebca39",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-29",
-      "tanggal_perkiraan": true,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Raya At-Taqwa",
-        "alamat": "Rawalumbu Jemb. 11, Bojong Rawalumbu, Kec. Rawalumbu, Kota Bekasi, Jawa Barat 17116",
-        "peta": "https://maps.app.goo.gl/N7a5FUJE8XATsoMk8"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13359",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-28T20:42:18+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T16:14:05+00:00"
-    },
     {
       "id": "1c22005effd3",
       "judul": null,
@@ -422,6 +58,53 @@
       "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
     },
     {
+      "id": "63673bf993f4",
+      "judul": null,
+      "tema": "Kitab Tauhid Pertemuan ke-107",
+      "kitab": "Shahih At Targhib wa At Tarhib.\" Judul: Edisi 1: Kitab Shalat: Bab 14 \"Anjuran Shalat Secara Mutlak dan Keutamaan Rukuk",
+      "ustadz": [
+        "Ustadz Aldhi Ferdian, Lc."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": "》Waktu : Ba'da Subuh – selesai (setiap kamis)",
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Baitul Ma'mur",
+        "alamat": "(Perumahan Grand Prima Bintara), Blok D5, No.1-2, Bintara, Bekasi Barat, Bekasi",
+        "peta": "https://maps.app.goo.gl/xZDVTbBFLvroy5h47"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13350",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-28T20:32:02+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T00:58:38+00:00",
+      "terakhir_dilihat": "2026-10-30T00:58:38+00:00"
+    },
+    {
       "id": "e4ddbeef9abd",
       "judul": null,
       "tema": "Ketegaran Para Shahabiyat",
@@ -466,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-29T00:55:50+00:00",
-      "terakhir_dilihat": "2026-10-29T00:55:50+00:00"
+      "terakhir_dilihat": "2026-10-30T00:58:38+00:00"
     }
   ]
 }
