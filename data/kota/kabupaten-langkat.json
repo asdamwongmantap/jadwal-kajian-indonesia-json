@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-30T15:59:40+00:00",
+  "wilayah": {
+    "kode": "12.05",
+    "kabkota": "Kabupaten Langkat",
+    "provinsi": "Sumatera Utara",
+    "slug": "kabupaten-langkat",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "b6725d5bf20b",
+      "judul": "Kajian Tematik",
+      "tema": "Kekuatan Sabar dan Syukur (bagian Ke-2)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-31T09:30:00+07:00",
+      "tempat": {
+        "nama": "Rumah Ibu Arie Kusuma",
+        "alamat": "Jl. Durian Utara III Perumahan Durian Town House 2 No.7 Pedalangan (Arah Durian Padel)",
+        "peta": "https://share.google/gPV0VMb4LnXnEIYji"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13577",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-10-30T15:28:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    },
+    {
+      "id": "93351826c821",
+      "judul": null,
+      "tema": "Perang Hunain, Hikmah untuk Tidak Ujub",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Mohamad Toriqul Huda, S.Ag., M.S.I."
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "15:45",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-31T15:45:00+07:00",
+      "tempat": {
+        "nama": "Ma'had Online TSL",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13589",
+          "diteruskan_dari": "Tarbiyah Sunnah Learning",
+          "diposting": "2026-10-30T15:39:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    }
+  ]
+}

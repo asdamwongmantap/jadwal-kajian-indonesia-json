@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T00:58:38+00:00",
+  "dibuat": "2026-10-30T15:59:40+00:00",
   "wilayah": {
     "kode": "34.04",
     "kabkota": "Kabupaten Sleman",
@@ -8,7 +8,7 @@
     "slug": "kabupaten-sleman",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
     {
       "id": "94d2071cf285",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-30T00:58:38+00:00",
-      "terakhir_dilihat": "2026-10-30T00:58:38+00:00"
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
     },
     {
       "id": "117a227f280c",
@@ -102,7 +102,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-30T00:58:38+00:00",
-      "terakhir_dilihat": "2026-10-30T00:58:38+00:00"
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    },
+    {
+      "id": "7f73f22f9af8",
+      "judul": null,
+      "tema": null,
+      "kitab": "bit.ly/10SebabLapangDada",
+      "ustadz": [
+        "Ustadz Afifi Abdul Wadud, B.A."
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-31T08:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Besar Baiturrahman Klidon (MBBK)",
+        "alamat": "Ngaglik, Sleman",
+        "peta": "https://maps.app.goo.gl/s6wNhqz97arTmpzj7"
+      },
+      "wilayah": {
+        "kode": "34.04",
+        "kabkota": "Kabupaten Sleman",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-sleman",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13586",
+          "diteruskan_dari": "Kajian Ustadz Afifi Abdul Wadud",
+          "diposting": "2026-10-30T15:36:06+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
     }
   ]
 }

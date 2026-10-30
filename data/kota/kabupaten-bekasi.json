@@ -1,0 +1,205 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-30T15:59:40+00:00",
+  "wilayah": {
+    "kode": "32.16",
+    "kabkota": "Kabupaten Bekasi",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bekasi",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 4,
+  "kajian": [
+    {
+      "id": "3d7228ba31a3",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-30",
+      "tanggal_perkiraan": true,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Hasanah (Shalahuddin Al Ayyubi Islamic Boarding School)",
+        "alamat": "Jl. Raya Babelan, Kebalen, Kec. Babelan, Kab. Bekasi, Jawa Barat 17610",
+        "peta": "https://maps.app.goo.gl/m2729xmAeqNt1GQY7"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13510",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T03:21:10+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13518",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T03:30:42+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    },
+    {
+      "id": "4e9bd9ce2fe9",
+      "judul": "Kajian Jum'at Malam",
+      "tema": "Keyakinan Imam Bukhari",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Musa Mulyadi, Lc."
+      ],
+      "tanggal": "2026-10-30",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid At-Taqwa BPN",
+        "alamat": "Lippo Cikarang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13573",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T04:13:32+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    },
+    {
+      "id": "8b8b31f912d3",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-30",
+      "tanggal_perkiraan": true,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Ikhlas",
+        "alamat": "Jalan Raya Dukuh Bima No. 2, Dukuh Bima Kota Legenda, Kec. Tambun Sel., Kab. Bekasi, Jawa Barat 17514",
+        "peta": "https://maps.app.goo.gl/5vUT8CkFRBEXvKBk7"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13495",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T03:15:18+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    },
+    {
+      "id": "f5dfdb72bacc",
+      "judul": "Kajian Tematik !!",
+      "tema": "Mulia Dengan Kucuran Keringat Sendiri",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Keiss Derma Permana, Lc."
+      ],
+      "tanggal": "2026-10-30",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami At-Tadzkirah",
+        "alamat": "SindangAsri, SindangMulya, Cibarusah, (Maps",
+        "peta": "https://goo.gl/maps/vZWSxq1JhXxCKiUF9"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13561",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T04:07:18+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-30T15:59:40+00:00",
+  "wilayah": {
+    "kode": "13.71",
+    "kabkota": "Kota Padang",
+    "provinsi": "Sumatera Barat",
+    "slug": "kota-padang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "aa4f0c813264",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Nabil Abu Yusuf"
+      ],
+      "tanggal": "2026-10-30",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "12:04",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-30T12:04:00+07:00",
+      "tempat": {
+        "nama": "Masjid Rahmatan Lil 'Alamin",
+        "alamat": "UPI YPTK Padang, Jum'at, 30 Oktober 2026 | 19 Jumadil Awal 1448 H, Waktu Jum'at masuk Pukul 12.04 WIB",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "13.71",
+        "kabkota": "Kota Padang",
+        "provinsi": "Sumatera Barat",
+        "slug": "kota-padang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13574",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T04:15:19+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    }
+  ]
+}

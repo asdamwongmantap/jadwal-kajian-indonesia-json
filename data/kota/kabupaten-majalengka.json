@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-30T15:59:40+00:00",
+  "wilayah": {
+    "kode": "32.10",
+    "kabkota": "Kabupaten Majalengka",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-majalengka",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "0d716178a322",
+      "judul": "Kajian Tematik Spesial",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Cecep Muttakin, Lc. M. Pd",
+        "Masjid Ahsanul Mahmuda"
+      ],
+      "tanggal": "2026-10-30",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-30T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ahsanul Mahmuda",
+        "alamat": "Jl. Panyingkiran ( Belakang SD Galunggung ), Jum'at 30 Oktober 2026 / 19 Jumadil Awwal 1448 H, 16.00 s.d selesai",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.10",
+        "kabkota": "Kabupaten Majalengka",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-majalengka",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13575",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T04:21:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    }
+  ]
+}

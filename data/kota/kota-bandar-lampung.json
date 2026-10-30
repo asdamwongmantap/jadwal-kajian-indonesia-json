@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T00:58:38+00:00",
+  "dibuat": "2026-10-30T15:59:40+00:00",
   "wilayah": {
     "kode": "18.71",
     "kabkota": "Kota Bandar Lampung",
@@ -8,7 +8,7 @@
     "slug": "kota-bandar-lampung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 7,
+  "jumlah": 8,
   "kajian": [
     {
       "id": "31241b1cc7d5",
@@ -55,7 +55,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-30T00:58:38+00:00",
-      "terakhir_dilihat": "2026-10-30T00:58:38+00:00"
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    },
+    {
+      "id": "eff15e2eb744",
+      "judul": "Kajian Ilmiah",
+      "tema": "Kitab: \"TAFSIR AS-SA'DI",
+      "kitab": "Tafsir As-Sa'di",
+      "ustadz": [
+        "Ustadz Abdullah Furqon"
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "14:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Hayah",
+        "alamat": "Jl. Z.A Pagar Alam, Gg. (Masuk melalui pintu gerbang SMP Islam Mumtaz) Gedung Meneng - Bandar Lampung",
+        "peta": "https://goo.gl/maps/TUp1W1Jw8by"
+      },
+      "wilayah": {
+        "kode": "18.71",
+        "kabkota": "Kota Bandar Lampung",
+        "provinsi": "Lampung",
+        "slug": "kota-bandar-lampung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13594",
+          "diteruskan_dari": "Masjid Al-Hayah",
+          "diposting": "2026-10-30T15:45:40+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
     },
     {
       "id": "79b49e7fde1d",

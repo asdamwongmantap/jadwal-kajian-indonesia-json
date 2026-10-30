@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-30T15:59:40+00:00",
+  "wilayah": {
+    "kode": "14.05",
+    "kabkota": "Kabupaten Pelalawan",
+    "provinsi": "Riau",
+    "slug": "kabupaten-pelalawan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "84ea17d9e8da",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Kusmayadi"
+      ],
+      "tanggal": "2026-10-30",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "12:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-30T12:00:00+07:00",
+      "tempat": {
+        "nama": "Jl. Jambu, Gang Swadaya Pangkalan Kerinci, Kabupaten Pelalawan",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "14.05",
+        "kabkota": "Kabupaten Pelalawan",
+        "provinsi": "Riau",
+        "slug": "kabupaten-pelalawan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13488",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T03:08:57+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    }
+  ]
+}

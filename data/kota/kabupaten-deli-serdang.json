@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-30T15:59:40+00:00",
+  "wilayah": {
+    "kode": "12.07",
+    "kabkota": "Kabupaten Deli Serdang",
+    "provinsi": "Sumatera Utara",
+    "slug": "kabupaten-deli-serdang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "4d7967032841",
+      "judul": null,
+      "tema": "Kitab Shahih Fiqih Sunnah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Yopi Abu Wildan"
+      ],
+      "tanggal": "2026-10-30",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Isya",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Musholla Utsman bin 'Affan (Jl. Roso Gg. Sedulur Marindal 1",
+        "alamat": "Kec. Patumbak, Kab. Deli Serdang), Info Panitia Kajian : 0813-6204-0045, (UMUM / IKHWAN & AKHWAT)",
+        "peta": "https://maps.app.goo.gl/TpGSDmRRQYe83dGW7"
+      },
+      "wilayah": {
+        "kode": "12.07",
+        "kabkota": "Kabupaten Deli Serdang",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-deli-serdang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13565",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T04:08:40+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
+      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+    }
+  ]
+}
