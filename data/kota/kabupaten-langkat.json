@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T00:47:24+00:00",
+  "dibuat": "2026-10-31T15:23:03+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "c435429daab4",
+      "judul": "Tabligh Akbar Kota Duri",
+      "tema": "Misteri Sholat 1",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Fauzan, Lc."
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-31T09:00:00+07:00",
+      "tempat": {
+        "nama": "Jl. Kayu mahoni Sebelum gate 3 PHR",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/jFbqPXFj6PRFAw8u5"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13658",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:07:04+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
     {
       "id": "b6725d5bf20b",
       "judul": "Kajian Tematik",
@@ -55,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
     },
     {
       "id": "93351826c821",
@@ -102,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
     }
   ]
 }

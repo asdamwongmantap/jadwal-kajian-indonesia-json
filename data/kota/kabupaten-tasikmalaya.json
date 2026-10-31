@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T00:47:24+00:00",
+  "dibuat": "2026-10-31T15:23:03+00:00",
   "wilayah": {
     "kode": "32.06",
     "kabkota": "Kabupaten Tasikmalaya",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-tasikmalaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "fbc1e1f63133",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abun Bunyamin"
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Abdurrahman",
+        "alamat": "Jl. Layang Rajapolah, Nanjungsari, Kec. Rajapolah",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.06",
+        "kabkota": "Kabupaten Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13653",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:01:51+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
     {
       "id": "3f1f435dda9e",
       "judul": null,

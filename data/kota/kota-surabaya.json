@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T00:47:24+00:00",
+  "dibuat": "2026-10-31T15:23:03+00:00",
   "wilayah": {
     "kode": "35.78",
     "kabkota": "Kota Surabaya",
@@ -8,7 +8,7 @@
     "slug": "kota-surabaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
     {
       "id": "46b4684835b1",
@@ -52,10 +52,65 @@
           "url": "https://t.me/jadwalkajiansunnah/13593",
           "diteruskan_dari": "Surabaya Mengaji",
           "diposting": "2026-10-30T15:44:58+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13635",
+          "diteruskan_dari": "Surabaya Mengaji",
+          "diposting": "2026-10-31T04:01:40+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
+    {
+      "id": "7684a10a2d4e",
+      "judul": null,
+      "tema": "Antara Aqidah & Realita: Allah Menjamin Rezeki Kita, Tetapi Kenapa Masih Galau",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Hanan Yasir, MA.",
+        "Da'i terstandarisasi MUI"
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "15:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-31T15:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Baitul Falah",
+        "alamat": "| Jl. Ngagel Jaya Barat No.37A, Pucang Sewu, Kec. Gubeng, Surabaya, Jawa Timur, | Maps",
+        "peta": "https://maps.app.goo.gl/BBk2ip5Fhjp7V5eu7"
+      },
+      "wilayah": {
+        "kode": "35.78",
+        "kabkota": "Kota Surabaya",
+        "provinsi": "Jawa Timur",
+        "slug": "kota-surabaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13637",
+          "diteruskan_dari": "MUTIARA HIKMAH OFFICIAL",
+          "diposting": "2026-10-31T04:02:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
     }
   ]
 }

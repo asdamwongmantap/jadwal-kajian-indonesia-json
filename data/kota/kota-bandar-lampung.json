@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T00:47:24+00:00",
+  "dibuat": "2026-10-31T15:23:03+00:00",
   "wilayah": {
     "kode": "18.71",
     "kabkota": "Kota Bandar Lampung",
@@ -8,7 +8,7 @@
     "slug": "kota-bandar-lampung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 7,
+  "jumlah": 8,
   "kajian": [
     {
       "id": "eff15e2eb744",
@@ -55,7 +55,54 @@
         }
       ],
       "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
+    {
+      "id": "2a796bb37d7a",
+      "judul": "Dauroh Ilmiah",
+      "tema": "Membuka Tabir Aqidah Kelompok Houthi Yaman",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abdullah Furqon"
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Hayah",
+        "alamat": "Jl. Z.A Pagar Alam, Gedung Meneng - Bandar Lampung, (Masuk melalui pintu gerbang SMP Islam Mumtaz)",
+        "peta": "https://goo.gl/maps/TUp1W1Jw8by"
+      },
+      "wilayah": {
+        "kode": "18.71",
+        "kabkota": "Kota Bandar Lampung",
+        "provinsi": "Lampung",
+        "slug": "kota-bandar-lampung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13673",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:32:42+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
     },
     {
       "id": "79b49e7fde1d",

@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-31T15:23:03+00:00",
+  "wilayah": {
+    "kode": "33.25",
+    "kabkota": "Kabupaten Batang",
+    "provinsi": "Jawa Tengah",
+    "slug": "kabupaten-batang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "8f83715ba290",
+      "judul": "Tabligh Akbar",
+      "tema": "Halal Tidak Berkah = Musibah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Gilang Prasetyo"
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid As'ad Bin Zurarah",
+        "alamat": "Jln. Raya Batang Batindih - Sibuak Desa Pantai Cermin.Kec.Tapung",
+        "peta": "https://maps.app.goo.gl/TYgPPso335C5C1zQ8"
+      },
+      "wilayah": {
+        "kode": "33.25",
+        "kabkota": "Kabupaten Batang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kabupaten-batang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13665",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:27:16+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    }
+  ]
+}

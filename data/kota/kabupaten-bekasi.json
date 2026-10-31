@@ -1,0 +1,104 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-31T15:23:03+00:00",
+  "wilayah": {
+    "kode": "32.16",
+    "kabkota": "Kabupaten Bekasi",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bekasi",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "2770d9069eae",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nuur Alaa Nur (Masnan)",
+        "alamat": "Jl. Buwek Jaya No. 2B, Sumberjaya, Kec. Tambun Sel., Kab. Bekasi, Jawa Barat 17510",
+        "peta": "https://maps.app.goo.gl/pYmorr5TbSWVvzJSA"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13679",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:35:23+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
+    {
+      "id": "e7b8e1a25df6",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Abu Bakr Ash Shiddiq (Mabas)",
+        "alamat": "Kp. Islami Thoyibah & Taman Rahmani, Kertamukti, Kec. Cibitung, Kab. Bekasi, Jawa Barat",
+        "peta": "https://maps.app.goo.gl/BfZSPDCmq7fF99LV7"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13680",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:35:42+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    }
+  ]
+}

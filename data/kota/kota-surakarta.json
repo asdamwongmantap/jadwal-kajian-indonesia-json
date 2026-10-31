@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T00:47:24+00:00",
+  "dibuat": "2026-10-31T15:23:03+00:00",
   "wilayah": {
     "kode": "33.72",
     "kabkota": "Kota Surakarta",
@@ -8,8 +8,55 @@
     "slug": "kota-surakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "9d115c8f3dd8",
+      "judul": "Kajian Islam",
+      "tema": "Tiga Landasan Utama",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ahmad Abu Naufal"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": "Rutin Setiap Hari Sabtu Malam Ahad \"Pekan Ke-4 & Pekan Ke-5",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Umar Bin Khathab Nusukan",
+        "alamat": "Nusukan, Kecamatan Banjarsari, Kota Surakarta, Jawa Tengah, Kodepos 57135",
+        "peta": "https://maps.app.goo.gl/etuycKrW13GbrnG3A?g_st=awb_"
+      },
+      "wilayah": {
+        "kode": "33.72",
+        "kabkota": "Kota Surakarta",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-surakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13687",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:43:03+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
     {
       "id": "b4607771827f",
       "judul": "Kajian Islam",

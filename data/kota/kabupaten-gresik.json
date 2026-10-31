@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T00:47:24+00:00",
+  "dibuat": "2026-10-31T15:23:03+00:00",
   "wilayah": {
     "kode": "35.25",
     "kabkota": "Kabupaten Gresik",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-gresik",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "f5abf2d5bea8",
+      "judul": null,
+      "tema": "Tafsir Ibnu Katsir",
+      "kitab": "Al Kabair",
+      "ustadz": [
+        "Ustadz Abdullah Amir Maretan"
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-31T07:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Ihsan",
+        "alamat": "Jl. Proklamasi no.64, Gresik",
+        "peta": "https://maps.app.goo.gl/s4SagLSnYHfCW4Bj8"
+      },
+      "wilayah": {
+        "kode": "35.25",
+        "kabkota": "Kabupaten Gresik",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-gresik",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13632",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-10-31T04:01:06+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
     {
       "id": "f8a62688c7fc",
       "judul": null,

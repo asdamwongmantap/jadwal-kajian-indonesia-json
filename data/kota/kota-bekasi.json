@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T00:47:24+00:00",
+  "dibuat": "2026-10-31T15:23:03+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,7 +8,7 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 5,
+  "jumlah": 8,
   "kajian": [
     {
       "id": "a50d0075f4b1",
@@ -55,7 +55,147 @@
         }
       ],
       "pertama_dilihat": "2026-10-31T00:47:24+00:00",
-      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
+    {
+      "id": "3a78cbeaf620",
+      "judul": "Kajian Tematik Rsb",
+      "tema": "Berprasangka Baik Kepada Allah",
+      "kitab": null,
+      "ustadz": [
+        "Zahir Al-Minangkabawi, Lc."
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "18:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-10-31T18:00:00+07:00",
+      "tempat": {
+        "nama": "Rumah Al-Qur'an Rsb",
+        "alamat": "Riyadhus Sunnah Binalindung, Jl. Binayasa 2/11, RT.006/011, Jaticempaka, Pondokgede",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13682",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:36:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
+    {
+      "id": "2d590a8f2e28",
+      "judul": null,
+      "tema": "Tafsir Juz 'amma",
+      "kitab": "LEBIH SISTEMATIS, Ilmunya Akan Lebih Meresap",
+      "ustadz": [
+        "Ustadz Muhammad Shoim",
+        "Hafidzhahulláhu"
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Pb Soedirman",
+        "alamat": "(Halaman depan SMPI PB Soedirman), Jl. Nusantara Raya no. 1 Villa Indah Permai (VIP) Blok c11 Teluk Pucung - Bekasi Utara",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13685",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:41:00+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
+    {
+      "id": "7a6b39c7c203",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul I'tishom",
+        "alamat": "Jl. Borobudur Raya, Duta Kranji, Bintara Jaya, Kec. Bekasi Barat, Kota Bekasi, Jawa Barat 17134",
+        "peta": "https://maps.app.goo.gl/GJMr4DS1iVD2Agc68"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13681",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:35:59+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
     },
     {
       "id": "da56c8ab3586",
@@ -102,7 +242,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
     },
     {
       "id": "1c22005effd3",

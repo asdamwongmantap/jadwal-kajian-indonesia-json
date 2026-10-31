@@ -1,0 +1,115 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-10-31T15:23:03+00:00",
+  "wilayah": {
+    "kode": "14.01",
+    "kabkota": "Kabupaten Kampar",
+    "provinsi": "Riau",
+    "slug": "kabupaten-kampar",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "095b40842de3",
+      "judul": "Kajian Sabtu Malam Pekan 5",
+      "tema": "Yang Harus Anda Ketahui Tentang Rezki",
+      "kitab": null,
+      "ustadz": [
+        "Dr. Helmi Basri, Lc., MA."
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Ihsan (Markaz Islamy Kampar)",
+        "alamat": "Bangkinang - Kampar",
+        "peta": "https://share.google/l9Pt5txZGdrnjDrWX"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13663",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:26:06+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13639",
+          "diteruskan_dari": "Ustadz Dr. Helmi Basri, Lc., MA حفظه الله",
+          "diposting": "2026-10-31T04:04:28+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    },
+    {
+      "id": "16610e49528f",
+      "judul": "Kajian Ilmiah Islam",
+      "tema": "Tematik",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Asathin Zamani Siregar, Lc, M.A."
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Syuhada' Air Tiris Kampar Riau",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13666",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T06:27:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
+      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+    }
+  ]
+}
