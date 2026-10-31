@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T15:59:40+00:00",
+  "dibuat": "2026-10-31T00:47:24+00:00",
   "wilayah": {
     "kode": "31.73",
     "kabkota": "Kota Administrasi Jakarta Barat",
@@ -11,28 +11,28 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "b34eb4edd495",
-      "judul": null,
+      "id": "4078096533a1",
+      "judul": "Kajian Khusus Ikhwan",
       "tema": null,
-      "kitab": null,
+      "kitab": "sahih muslim",
       "ustadz": [
-        "Ustadz Muhammad Maftuh Sani, Lc, M.A."
+        "Ustadz Abdul Hakim Bin Amir Bin Abdat"
       ],
-      "tanggal": "2026-10-30",
+      "tanggal": "2026-10-31",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "08:00",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-10-31T08:00:00+07:00",
       "tempat": {
         "nama": "Masjid Jami Al-Mubarak",
-        "alamat": "Jl. Kebahagiaan No. 7A, Krukut, Taman Sari, Jakarta Barat, ( ), Informasi Lebih Lanjut - Whatsapp : 081299504499",
+        "alamat": "Jl. Kebahagiaan No. 7A, Krukut, Taman Sari, Jakarta Barat, ( )",
         "peta": "https://g.co/kgs/savHYzb"
       },
       "wilayah": {
@@ -44,18 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": null,
+      "peserta": "ikhwan",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13554",
+          "url": "https://t.me/jadwalkajiansunnah/13603",
           "diteruskan_dari": null,
-          "diposting": "2026-10-30T04:01:14+00:00"
+          "diposting": "2026-10-30T16:32:22+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+      "pertama_dilihat": "2026-10-31T00:47:24+00:00",
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
     }
   ]
 }

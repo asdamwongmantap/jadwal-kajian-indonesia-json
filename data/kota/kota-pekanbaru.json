@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T15:59:40+00:00",
+  "dibuat": "2026-10-31T00:47:24+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,79 +8,32 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 6,
+  "jumlah": 7,
   "kajian": [
     {
-      "id": "ee9939698243",
-      "judul": null,
+      "id": "2496487c0b38",
+      "judul": "Kajian Islam Ilmiah Pekanan",
       "tema": null,
-      "kitab": null,
+      "kitab": "Harta Haram Muamalat Kontemporer",
       "ustadz": [
-        "Ustadz Afrizal, Lc., MA."
+        "Ustadz Gilang Prasetyo"
       ],
-      "tanggal": "2026-10-30",
+      "tanggal": "2026-10-31",
       "tanggal_perkiraan": true,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "12:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/8SAvPrsSHeFt7Kqv8"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "online",
-      "streaming": "https://www.youtube.com/@kajiansunnahpekanbaru",
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13489",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-30T03:09:25+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
-    },
-    {
-      "id": "f0152b4aca1b",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Riko Febriadi, Lc."
-      ],
-      "tanggal": "2026-10-30",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Jl. Kayu Putih Kel. Bina Widya Kec. Bina Widya, Pekanbaru, Riau",
-        "alamat": null,
-        "peta": null
+        "nama": "Masjid Al FURQON",
+        "alamat": "Jl. Karya Bersama No 26 Air Dingin Pekanbaru.., Map",
+        "peta": "https://maps.app.goo.gl/GnyzW9XiF33KFC1C9"
       },
       "wilayah": {
         "kode": "14.71",
@@ -91,18 +44,112 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": null,
+      "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13486",
+          "url": "https://t.me/jadwalkajiansunnah/13624",
           "diteruskan_dari": null,
-          "diposting": "2026-10-30T03:07:16+00:00"
+          "diposting": "2026-10-30T21:47:45+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+      "pertama_dilihat": "2026-10-31T00:47:24+00:00",
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
+    },
+    {
+      "id": "79b48db9505e",
+      "judul": "Kajian Rutin Untuk Umum",
+      "tema": "Sirah Nabawiyah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Afrizal, Lc,. M.A."
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami' Al Badr",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/FcTVZErVRS4ZLeoa8"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13627",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T21:49:19+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T00:47:24+00:00",
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
+    },
+    {
+      "id": "8cecabe1a0c3",
+      "judul": "Kajian Rutin Pekanan",
+      "tema": "Syarah Hadits Arbain Nawawi",
+      "kitab": "Syarah Hadits Arbain Nawawi",
+      "ustadz": [
+        "Ustadz Abu Dawud Ghanna"
+      ],
+      "tanggal": "2026-10-31",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Madinah",
+        "alamat": "Jl. Ampi No 99 Marpoyan - Pekanbaru",
+        "peta": "https://maps.app.goo.gl/9ektXR5vNXfEZ7iW9"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13628",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-30T21:50:23+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-10-31T00:47:24+00:00",
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
     },
     {
       "id": "764f88c7658e",
@@ -149,7 +196,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-29T16:14:05+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
     },
     {
       "id": "beab06772a41",

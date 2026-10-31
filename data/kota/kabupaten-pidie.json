@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T15:59:40+00:00",
+  "dibuat": "2026-10-31T00:47:24+00:00",
   "wilayah": {
     "kode": "11.07",
     "kabkota": "Kabupaten Pidie",
@@ -8,53 +8,8 @@
     "slug": "kabupaten-pidie",
     "zona_waktu": "WIB"
   },
-  "jumlah": 5,
+  "jumlah": 4,
   "kajian": [
-    {
-      "id": "175ff168d21b",
-      "judul": "Info kajian Masjid Al Ashri",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-30",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Ashri Pogung Rejo",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "11.07",
-        "kabkota": "Kabupaten Pidie",
-        "provinsi": "Aceh",
-        "slug": "kabupaten-pidie",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13557",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-30T04:04:27+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
-    },
     {
       "id": "eeceb54211c4",
       "judul": null,
@@ -211,7 +166,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-22T14:34:00+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
     },
     {
       "id": "e00beaf11da7",

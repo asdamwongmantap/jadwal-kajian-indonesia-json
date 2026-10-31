@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T15:59:40+00:00",
+  "dibuat": "2026-10-31T00:47:24+00:00",
   "wilayah": {
     "kode": "36.71",
     "kabkota": "Kota Tangerang",
@@ -11,16 +11,16 @@
   "jumlah": 4,
   "kajian": [
     {
-      "id": "5ad2e86e3b91",
-      "judul": "Kajian Rutin Bedah Kitab",
-      "tema": null,
+      "id": "1a8b760e1c37",
+      "judul": null,
+      "tema": "40 Hadits Mendidik Anak (Part 3)",
       "kitab": null,
       "ustadz": [
-        "Ustadz Mukhlis Abu Dzar"
+        "Ustadz Yusuf Abu Ubaidah bin Mukhtar as Sidawi"
       ],
-      "tanggal": "2026-10-30",
+      "tanggal": "2026-10-31",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13553",
+          "url": "https://t.me/jadwalkajiansunnah/13613",
           "diteruskan_dari": null,
-          "diposting": "2026-10-30T04:00:36+00:00"
+          "diposting": "2026-10-30T16:48:12+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+      "pertama_dilihat": "2026-10-31T00:47:24+00:00",
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
     },
     {
       "id": "f20c86f83fdd",

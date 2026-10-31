@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T15:59:40+00:00",
+  "dibuat": "2026-10-31T00:47:24+00:00",
   "wilayah": {
     "kode": "35.78",
     "kabkota": "Kota Surabaya",
@@ -8,56 +8,8 @@
     "slug": "kota-surabaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "38ef7f36d460",
-      "judul": null,
-      "tema": "Alumnus Daar El-Hadits Yaman",
-      "kitab": null,
-      "ustadz": [
-        "Ustadzah Imroatul Azizah",
-        "Da'iyah terstandarisasi MUI"
-      ],
-      "tanggal": "2026-10-30",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "15:15",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-30T15:15:00+07:00",
-      "tempat": {
-        "nama": "Masjid Taqwa",
-        "alamat": "| Jl. Kalimas Udik IC No.1, RT.003/RW.08, Nyamplungan, Kec. Pabean Cantian, Surabaya, Jawa Timur, | Maps",
-        "peta": "https://maps.app.goo.gl/oRbRPknV8fYmzGd78"
-      },
-      "wilayah": {
-        "kode": "35.78",
-        "kabkota": "Kota Surabaya",
-        "provinsi": "Jawa Timur",
-        "slug": "kota-surabaya",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13556",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-30T04:03:28+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
-    },
     {
       "id": "46b4684835b1",
       "judul": null,
@@ -103,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
     }
   ]
 }

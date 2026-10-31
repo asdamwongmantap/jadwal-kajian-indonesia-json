@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T15:59:40+00:00",
+  "dibuat": "2026-10-31T00:47:24+00:00",
   "wilayah": {
     "kode": "33.74",
     "kabkota": "Kota Semarang",
@@ -8,102 +8,8 @@
     "slug": "kota-semarang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "ee71a65d5cea",
-      "judul": null,
-      "tema": "Siapa Lebih Utama: Malaikat Atau Manusia Shaleh?",
-      "kitab": "Syarah At-Thahawiyah",
-      "ustadz": [
-        "Ustadz Abu Umair Kuswoyo"
-      ],
-      "tanggal": "2026-10-30",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurus Sunnah",
-        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "33.74",
-        "kabkota": "Kota Semarang",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-semarang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13447",
-          "diteruskan_dari": "Masjid Nurussunnah",
-          "diposting": "2026-10-29T20:59:13+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-30T00:58:38+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
-    },
-    {
-      "id": "fda5460eedfb",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Faruq Suparwi S.Pd.I, M.Ag."
-      ],
-      "tanggal": "2026-10-30",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dzuhur",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurus Sunnah",
-        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "33.74",
-        "kabkota": "Kota Semarang",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-semarang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13449",
-          "diteruskan_dari": "Masjid Nurussunnah",
-          "diposting": "2026-10-29T20:59:13+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-30T00:58:38+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
-    },
     {
       "id": "73a2ae1e9133",
       "judul": null,
@@ -150,7 +56,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
     }
   ]
 }

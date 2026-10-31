@@ -1,31 +1,33 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T15:59:40+00:00",
+  "dibuat": "2026-10-31T00:47:24+00:00",
   "wilayah": null,
   "jumlah": 1,
   "kajian": [
     {
-      "id": "981ed04199d7",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-10-30",
+      "id": "79b6f0397968",
+      "judul": "Kajian Kitab Tauhid",
+      "tema": "Penyebab Utama Kekufuran Adalah Berlebih-lebihan terhadap Orang Sholih",
+      "kitab": "Tauhid",
+      "ustadz": [
+        "Ustadz Muhammad Aminuddin, Lc."
+      ],
+      "tanggal": "2026-10-31",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Babah Aliong (Abu Al Khoir)",
+        "nama": "Masjid Al Ihsan Dukuh Zamrud",
         "alamat": null,
-        "peta": "https://share.google/wj314IsTVHUAr1Azu"
+        "peta": null
       },
       "wilayah": null,
       "mode": "offline",
@@ -35,13 +37,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13571",
+          "url": "https://t.me/jadwalkajiansunnah/13615",
           "diteruskan_dari": null,
-          "diposting": "2026-10-30T04:11:45+00:00"
+          "diposting": "2026-10-30T17:45:40+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+      "pertama_dilihat": "2026-10-31T00:47:24+00:00",
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
     }
   ]
 }

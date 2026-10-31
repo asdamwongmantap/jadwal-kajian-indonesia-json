@@ -1,8 +1,8 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T15:59:40+00:00",
-  "jumlah_kajian": 131,
-  "jumlah_kota": 48,
+  "dibuat": "2026-10-31T00:47:24+00:00",
+  "jumlah_kajian": 79,
+  "jumlah_kota": 34,
   "sumber": [
     {
       "id": "jadwalkajiansunnah",
@@ -37,8 +37,8 @@
       "tipe": "website",
       "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
       "status": "ok",
-      "pengumuman": 0,
-      "jadwal": 0
+      "pengumuman": 4,
+      "jadwal": 4
     }
   ],
   "catatan": "Data diambil otomatis dari pengumuman publik. Selalu cek sumber asli sebelum berangkat."

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-30T15:59:40+00:00",
+  "dibuat": "2026-10-31T00:47:24+00:00",
   "wilayah": {
     "kode": "34.04",
     "kabkota": "Kabupaten Sleman",
@@ -8,102 +8,8 @@
     "slug": "kabupaten-sleman",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "94d2071cf285",
-      "judul": null,
-      "tema": "Tauhid Tujuan Penciptaan",
-      "kitab": "hari Jum'at malam",
-      "ustadz": [
-        "Ustadz Afifi Abdul Wadud, B.A."
-      ],
-      "tanggal": "2026-10-30",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "18:00",
-        "selesai": null,
-        "acuan_shalat": "Isya",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-30T18:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al Hidayah",
-        "alamat": "Purwosari, Jalan Kaliurang Km. 6, Gang Bali C-16 SIA XVIII Purwosari, Sinduadi, Mlati, Purwosari, Sinduadi, Kabupaten Sleman, DIY 55284",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "34.04",
-        "kabkota": "Kabupaten Sleman",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kabupaten-sleman",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13439",
-          "diteruskan_dari": "Indonesia Bertauhid",
-          "diposting": "2026-10-29T20:54:56+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-30T00:58:38+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
-    },
-    {
-      "id": "117a227f280c",
-      "judul": "Kajian Parenting Rutin Setiap Jumat Malam",
-      "tema": null,
-      "kitab": "Al Arbauna Al Jiyad Fii Tarbiyatil Aulad",
-      "ustadz": [
-        "Ustadz Erlan Iskandar, S.T., M.Psi."
-      ],
-      "tanggal": "2026-10-30",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Pogung Dalangan",
-        "alamat": "Jl. Pogung Dalangan, Pogung Kidul, Sinduadi, Kec. Mlati, Sleman",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "34.04",
-        "kabkota": "Kabupaten Sleman",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kabupaten-sleman",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13461",
-          "diteruskan_dari": "Kak Erlan Bercerita",
-          "diposting": "2026-10-30T00:33:51+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-30T00:58:38+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
-    },
     {
       "id": "7f73f22f9af8",
       "judul": null,
@@ -149,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-30T15:59:40+00:00"
+      "terakhir_dilihat": "2026-10-31T00:47:24+00:00"
     }
   ]
 }
