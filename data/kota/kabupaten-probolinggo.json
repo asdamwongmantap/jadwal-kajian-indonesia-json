@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-01T00:07:23+00:00",
+  "wilayah": {
+    "kode": "35.13",
+    "kabkota": "Kabupaten Probolinggo",
+    "provinsi": "Jawa Timur",
+    "slug": "kabupaten-probolinggo",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "6896033d5ad4",
+      "judul": "Kajian Rutin Ahad Pekan Ganjil (1&3)",
+      "tema": "Jenis-Jenis Warisan",
+      "kitab": "Kitab Manhajus Salikhin",
+      "ustadz": [
+        "Ustadz Budi Santoso Afrizal, Lc, M.H., C.AFM.",
+        "• Alumni LIPIA Jakarta"
+      ],
+      "tanggal": "2026-11-01",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-01T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Jami Nurul Ulum",
+        "alamat": "Jl. Pucang Gading Raya, Kelurahan Batursari, Kecamatan Mranggen",
+        "peta": "https://maps.app.goo.gl/8HCVwEgGo3icCfgR6"
+      },
+      "wilayah": {
+        "kode": "35.13",
+        "kabkota": "Kabupaten Probolinggo",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-probolinggo",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13750",
+          "diteruskan_dari": "Budi Santoso Official",
+          "diposting": "2026-10-31T19:34:44+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+    }
+  ]
+}

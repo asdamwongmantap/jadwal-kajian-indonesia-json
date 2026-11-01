@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-01T00:07:23+00:00",
+  "wilayah": {
+    "kode": "35.14",
+    "kabkota": "Kabupaten Pasuruan",
+    "provinsi": "Jawa Timur",
+    "slug": "kabupaten-pasuruan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "51f068f0e108",
+      "judul": null,
+      "tema": "Manfaat Ibadah Akan Kembali Kepada Setiap Hamba (bagian Ke-10)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-11-01",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-01T07:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Mujahidin",
+        "alamat": "Wonorejo, Pesantren, Mijen",
+        "peta": "https://maps.app.goo.gl/R7TXqznEeMqsAbht7"
+      },
+      "wilayah": {
+        "kode": "35.14",
+        "kabkota": "Kabupaten Pasuruan",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-pasuruan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13719",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-10-31T18:59:41+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+    }
+  ]
+}

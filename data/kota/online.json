@@ -1,25 +1,25 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T15:23:03+00:00",
+  "dibuat": "2026-11-01T00:07:23+00:00",
   "wilayah": null,
   "jumlah": 2,
   "kajian": [
     {
-      "id": "c810de73cd14",
+      "id": "822861592005",
       "judul": null,
       "tema": null,
       "kitab": null,
       "ustadz": [
-        "Ustadz Ahmad Zainuddin Al-Banjary"
+        "Ustadz Dr. Ahmad Ridwan, Lc., M.E."
       ],
-      "tanggal": "2026-10-31",
+      "tanggal": "2026-11-01",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": "Maghrib",
+        "acuan_shalat": "Subuh",
         "relasi": "setelah"
       },
       "zona_waktu": "WIB",
@@ -37,13 +37,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13689",
+          "url": "https://t.me/jadwalkajiansunnah/13774",
           "diteruskan_dari": null,
-          "diposting": "2026-10-31T06:45:55+00:00"
+          "diposting": "2026-10-31T19:55:19+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
-      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
     },
     {
       "id": "8a57b556d849",

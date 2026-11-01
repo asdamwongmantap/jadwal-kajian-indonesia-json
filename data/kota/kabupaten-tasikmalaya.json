@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T15:23:03+00:00",
+  "dibuat": "2026-11-01T00:07:23+00:00",
   "wilayah": {
     "kode": "32.06",
     "kabkota": "Kabupaten Tasikmalaya",
@@ -11,28 +11,28 @@
   "jumlah": 3,
   "kajian": [
     {
-      "id": "fbc1e1f63133",
-      "judul": null,
+      "id": "e9d5dcb6d0be",
+      "judul": "Info Kajian Manonjaya Ahad Sore Masjid Assholihin",
       "tema": null,
       "kitab": null,
       "ustadz": [
-        "Ustadz Abun Bunyamin"
+        "Ustadz Iskandar Dinata, Lc."
       ],
-      "tanggal": "2026-10-31",
+      "tanggal": "2026-11-01",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "16:00",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-11-01T16:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Abdurrahman",
-        "alamat": "Jl. Layang Rajapolah, Nanjungsari, Kec. Rajapolah",
+        "nama": "Masjid Ash-Sholihin Manonjaya",
+        "alamat": "Jln. RTA Prawira Adiningrat, Patrol Kulon Manonjaya, Kab.Tasikmalaya",
         "peta": null
       },
       "wilayah": {
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13653",
+          "url": "https://t.me/jadwalkajiansunnah/13778",
           "diteruskan_dari": null,
-          "diposting": "2026-10-31T06:01:51+00:00"
+          "diposting": "2026-10-31T19:59:39+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
-      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
     },
     {
       "id": "3f1f435dda9e",

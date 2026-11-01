@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T15:23:03+00:00",
+  "dibuat": "2026-11-01T00:07:23+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,8 +8,194 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 6,
   "kajian": [
+    {
+      "id": "221a0ae2542d",
+      "judul": "Kajian Kitab Terbuka Untuk Umum Ikhwan & Akhwat",
+      "tema": null,
+      "kitab": "Ad Duruusu Al Yaumiyyah",
+      "ustadz": [],
+      "tanggal": "2026-11-01",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Thayyibah",
+        "alamat": "Jl. Olahraga II no. 1 Condet Cililitan Jakarta Timur, Google Maps: LIVE STREAMING",
+        "peta": "https://maps.app.goo.gl/ji4NKhpcWa9yzzac9"
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/c/MasjidThayyibah",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13771",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T19:52:53+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+    },
+    {
+      "id": "3cbb74585174",
+      "judul": "Kajian Fiqih Shalat",
+      "tema": "Hadirilah Kajian Fiqih Shalat",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Azhar Khalid bin Seff, Lc, M.A."
+      ],
+      "tanggal": "2026-11-01",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Imam Nawawi",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13819",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T21:55:58+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+    },
+    {
+      "id": "5be0a5225479",
+      "judul": "Kajian Kitab Memahami Aqidah Ahlus Sunnah",
+      "tema": "Islam Adalah Agama Yang Benar",
+      "kitab": "Memahami Aqidah Ahlus Sunnah",
+      "ustadz": [
+        "Ustadz Pamuji Hadi Waluyo, Lc."
+      ],
+      "tanggal": "2026-11-01",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Insan. Gg. Nangka No. 36 Rt. 04 Rw. 010 Kp. Tengah Kramat Jati Jakarta Timur",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/PXP1quRKRz2rCMSm8"
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13776",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T19:56:52+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+    },
+    {
+      "id": "a5e92951e935",
+      "judul": "Kajian Kitab Mukhtashar Jami'ul 'ulum Wal Hikam",
+      "tema": "Tanda Baik Islam Seseorang",
+      "kitab": "Mukhtashar Jami'ul 'ulum Wal Hikam",
+      "ustadz": [
+        "Ustadz Pamuji Hadi Waluyo, Lc."
+      ],
+      "tanggal": "2026-11-01",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Thayyibah",
+        "alamat": "Jl. Olahraga II no. 1 Condet Cililitan Jakarta Timur, Google Maps: LIVE STREAMING",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/c/MasjidThayyibah",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13773",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T19:53:59+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+    },
     {
       "id": "6bb4b954fe31",
       "judul": "Kajian Ilmiah",

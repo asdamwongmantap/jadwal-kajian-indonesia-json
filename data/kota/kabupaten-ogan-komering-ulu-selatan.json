@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T15:23:03+00:00",
+  "dibuat": "2026-11-01T00:07:23+00:00",
   "wilayah": {
     "kode": "16.09",
     "kabkota": "Kabupaten Ogan Komering Ulu Selatan",
@@ -8,71 +8,24 @@
     "slug": "kabupaten-ogan-komering-ulu-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "a9078cf3ca38",
-      "judul": "Info Kajian Muslimah",
-      "tema": "Khudz 'Aqiidatak Ambil Lah Aqidahmu Menurut Al-Qur'an dan As-Sunnah Yang Shahih",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Abu Raffi Rakhmat Shohirin"
-      ],
-      "tanggal": "2026-10-31",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "08:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-31T08:00:00+07:00",
-      "tempat": {
-        "nama": "Di Masjid At-Taqwa Jl. Kayu jati, Simpang Tiga",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/qDEB3oNXQeNQ7agA7"
-      },
-      "wilayah": {
-        "kode": "16.09",
-        "kabkota": "Kabupaten Ogan Komering Ulu Selatan",
-        "provinsi": "Sumatera Selatan",
-        "slug": "kabupaten-ogan-komering-ulu-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13626",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-30T21:48:45+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-31T00:47:24+00:00",
-      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
-    },
-    {
-      "id": "db4d95cbb901",
+      "id": "77aade3f827d",
       "judul": "Kajian Rutin Masjid At-Taqwa",
-      "tema": "Kitabu Tauhid",
+      "tema": "Tafsir Sholat",
       "kitab": null,
       "ustadz": [
         "Ustadz Abu Rafi Rakhmat Shohirin"
       ],
-      "tanggal": "2026-10-31",
+      "tanggal": "2026-11-01",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": "Maghrib",
+        "acuan_shalat": "Subuh",
         "relasi": "setelah"
       },
       "zona_waktu": "WIB",
@@ -96,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13660",
+          "url": "https://t.me/jadwalkajiansunnah/13791",
           "diteruskan_dari": null,
-          "diposting": "2026-10-31T06:07:51+00:00"
+          "diposting": "2026-10-31T20:43:48+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
-      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
     }
   ]
 }

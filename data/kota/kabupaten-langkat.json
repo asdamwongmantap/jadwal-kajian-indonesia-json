@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T15:23:03+00:00",
+  "dibuat": "2026-11-01T00:07:23+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -11,123 +11,29 @@
   "jumlah": 3,
   "kajian": [
     {
-      "id": "c435429daab4",
-      "judul": "Tabligh Akbar Kota Duri",
-      "tema": "Misteri Sholat 1",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Muhammad Fauzan, Lc."
-      ],
-      "tanggal": "2026-10-31",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-31T09:00:00+07:00",
-      "tempat": {
-        "nama": "Jl. Kayu mahoni Sebelum gate 3 PHR",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/jFbqPXFj6PRFAw8u5"
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13658",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-31T06:07:04+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-31T15:23:03+00:00",
-      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
-    },
-    {
-      "id": "b6725d5bf20b",
-      "judul": "Kajian Tematik",
-      "tema": "Kekuatan Sabar dan Syukur (bagian Ke-2)",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Endang Sutedi, Lc."
-      ],
-      "tanggal": "2026-10-31",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-31T09:30:00+07:00",
-      "tempat": {
-        "nama": "Rumah Ibu Arie Kusuma",
-        "alamat": "Jl. Durian Utara III Perumahan Durian Town House 2 No.7 Pedalangan (Arah Durian Padel)",
-        "peta": "https://share.google/gPV0VMb4LnXnEIYji"
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13577",
-          "diteruskan_dari": "Endang Sutedi Official",
-          "diposting": "2026-10-30T15:28:27+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
-    },
-    {
-      "id": "93351826c821",
+      "id": "4e545421f856",
       "judul": null,
-      "tema": "Perang Hunain, Hikmah untuk Tidak Ujub",
+      "tema": "PERTEMUAN NABI ADAM & HAWA DI BUMI (Kisah Nabi Adam)",
       "kitab": null,
       "ustadz": [
-        "Ustadz Mohamad Toriqul Huda, S.Ag., M.S.I."
+        "Ustadz Luthfi Abdul Jabbar, Lc."
       ],
-      "tanggal": "2026-10-31",
+      "tanggal": "2026-11-01",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": "15:45",
+        "mulai": "07:00",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-10-31T15:45:00+07:00",
+      "mulai_iso": "2026-11-01T07:00:00+07:00",
       "tempat": {
-        "nama": "Ma'had Online TSL",
-        "alamat": null,
-        "peta": null
+        "nama": "Masjid Al-Istiqomah",
+        "alamat": "Taman Yasmin Sektor 3, Jl. Seroja Raya No. 10",
+        "peta": "https://maps.app.goo.gl/n4EhdcmKqJFXPcdT8"
       },
       "wilayah": {
         "kode": "12.05",
@@ -143,13 +49,105 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13589",
-          "diteruskan_dari": "Tarbiyah Sunnah Learning",
-          "diposting": "2026-10-30T15:39:21+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/13711",
+          "diteruskan_dari": "R",
+          "diposting": "2026-10-31T18:54:09+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-30T15:59:40+00:00",
-      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+    },
+    {
+      "id": "3b27c3233b18",
+      "judul": null,
+      "tema": "Aqidah Ath Thahawiyah",
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-11-01",
+      "tanggal_perkiraan": true,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Mukhlisin",
+        "alamat": "Pandau",
+        "peta": "https://goo.gl/maps/35Rk785qJ9rfM1t46"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13783",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T20:20:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+    },
+    {
+      "id": "45e42996ad1e",
+      "judul": "Kajian Ahad Subuh",
+      "tema": "Kitab Tafsir Muyassar Fil Qur'anil Karim",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Asril Ilyas"
+      ],
+      "tanggal": "2026-11-01",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Di Masjid Nurul Hidayah",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/EddGQNT7iUhVNcSD9hy"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13760",
+          "diteruskan_dari": null,
+          "diposting": "2026-10-31T19:41:55+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
     }
   ]
 }

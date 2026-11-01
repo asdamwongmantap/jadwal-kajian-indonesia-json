@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-10-31T15:23:03+00:00",
+  "dibuat": "2026-11-01T00:07:23+00:00",
   "wilayah": {
     "kode": "11.17",
     "kabkota": "Kabupaten Bener Meriah",
@@ -11,28 +11,28 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "661f9bac5a5e",
-      "judul": "Kajian Rutin Terbuka Untuk Umum",
-      "tema": null,
-      "kitab": "Umdatul Ahkam",
+      "id": "4836b91002d7",
+      "judul": null,
+      "tema": "Hadits Ke-24 Sebab-Sebab Hidayah Allah (bagian Ke-19)",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Atori Husen"
+        "Ustadz Endang Sutedi, Lc."
       ],
-      "tanggal": "2026-10-31",
+      "tanggal": "2026-11-01",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": "Subuh",
+        "acuan_shalat": "Maghrib",
         "relasi": "setelah"
       },
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Al Amanah",
-        "alamat": "Bukit Nusa Indah, Jl. Kakak Tua, Serua – Ciputat",
+        "nama": "Masjid Thoyyibah",
+        "alamat": "Jl. Bukit Kencana Jaya Kelurahan Meteseh, Kecamatan Tembalang",
         "peta": null
       },
       "wilayah": {
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13608",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-30T16:37:24+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/13721",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-10-31T18:59:41+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-31T00:47:24+00:00",
-      "terakhir_dilihat": "2026-10-31T15:23:03+00:00"
+      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
+      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
     }
   ]
 }
