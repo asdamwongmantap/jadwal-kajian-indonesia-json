@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-01T00:07:23+00:00",
+  "dibuat": "2026-11-01T16:06:27+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -55,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
     },
     {
       "id": "3b27c3233b18",
@@ -100,7 +100,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
     },
     {
       "id": "45e42996ad1e",
@@ -147,7 +147,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T00:07:23+00:00"
+      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
     }
   ]
 }
