@@ -1,49 +1,49 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-01T16:06:27+00:00",
+  "dibuat": "2026-11-02T00:44:16+00:00",
   "wilayah": null,
   "jumlah": 2,
   "kajian": [
     {
-      "id": "822861592005",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
+      "id": "a9e06abe366d",
+      "judul": "kajian ⤵",
+      "tema": "Alumni Darul Hadits, Dammaj – Yaman",
+      "kitab": "Ushūlus Sunnah",
       "ustadz": [
-        "Ustadz Dr. Ahmad Ridwan, Lc., M.E."
+        "Ustadz Ayub Abu Ayub"
       ],
-      "tanggal": "2026-11-01",
+      "tanggal": "2026-11-02",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
+        "mulai": "09:00",
+        "selesai": "10:00",
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-11-02T09:00:00+07:00",
       "tempat": {
         "nama": null,
         "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+        "peta": null
       },
       "wilayah": null,
       "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": "umum",
+      "streaming": null,
+      "peserta": null,
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13774",
+          "url": "https://t.me/jadwalkajiansunnah/13857",
           "diteruskan_dari": null,
-          "diposting": "2026-10-31T19:55:19+00:00"
+          "diposting": "2026-11-01T22:19:26+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
+      "pertama_dilihat": "2026-11-02T00:44:16+00:00",
+      "terakhir_dilihat": "2026-11-02T00:44:16+00:00"
     },
     {
       "id": "8a57b556d849",

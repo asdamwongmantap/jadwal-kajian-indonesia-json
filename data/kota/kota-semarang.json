@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-01T16:06:27+00:00",
+  "dibuat": "2026-11-02T00:44:16+00:00",
   "wilayah": {
     "kode": "33.74",
     "kabkota": "Kota Semarang",
@@ -8,31 +8,31 @@
     "slug": "kota-semarang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "fabb8689e461",
+      "id": "904b65319f5e",
       "judul": null,
-      "tema": "Hukum Original, Imitasi, dan Aftermarket",
-      "kitab": null,
+      "tema": "Bahasa Arab Dasar (Kitab Tafsir Kilat)",
+      "kitab": "Tahsin At-Tibyan",
       "ustadz": [
-        "Ustadz Abu Umair Kuswoyo"
+        "Ustadzah Izzah Putri Farahdina"
       ],
-      "tanggal": "2026-11-01",
+      "tanggal": "2026-11-02",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
-        "mulai": "16:00",
-        "selesai": null,
+        "mulai": "07:00",
+        "selesai": "08:30",
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-01T16:00:00+07:00",
+      "mulai_iso": "2026-11-02T07:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Hotel Grasia",
-        "alamat": "Jl. Guntur, Kelurahan Gajahmungkur, Kecamatan Gajahmungkur",
+        "nama": "Masjid Nurus Sunnah (lantai 2)",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
         "peta": null
       },
       "wilayah": {
@@ -49,61 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13726",
-          "diteruskan_dari": "Abu Umair Official",
-          "diposting": "2026-10-31T19:04:35+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/13847",
+          "diteruskan_dari": "Masjid Nurussunnah",
+          "diposting": "2026-11-01T22:05:53+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
-    },
-    {
-      "id": "f63736ed0879",
-      "judul": "Kajian Rutin Ahad Ba'da Subuh Pekan Ganjil (1&3)",
-      "tema": "Sederhana Dalam Ketaatan",
-      "kitab": "Riyadush Shalihin",
-      "ustadz": [
-        "Ustadz Budi Santoso Afrizal, Lc, M.H., C.AFM.",
-        "• Alumni LIPIA Jakarta"
-      ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Falah Perumahan Pajak Sumurboto",
-        "alamat": "Jl. Ngesrep Timur 5 No. 19 A, Kelurahan Sumurboto, Kecamatan Banyumanik",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "33.74",
-        "kabkota": "Kota Semarang",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-semarang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13752",
-          "diteruskan_dari": "Budi Santoso Official",
-          "diposting": "2026-10-31T19:35:24+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
+      "pertama_dilihat": "2026-11-02T00:44:16+00:00",
+      "terakhir_dilihat": "2026-11-02T00:44:16+00:00"
     }
   ]
 }

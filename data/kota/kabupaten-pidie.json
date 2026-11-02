@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-01T16:06:27+00:00",
+  "dibuat": "2026-11-02T00:44:16+00:00",
   "wilayah": {
     "kode": "11.07",
     "kabkota": "Kabupaten Pidie",
@@ -8,55 +8,8 @@
     "slug": "kabupaten-pidie",
     "zona_waktu": "WIB"
   },
-  "jumlah": 5,
+  "jumlah": 4,
   "kajian": [
-    {
-      "id": "44296ceda58d",
-      "judul": "Info Kajian Rutin Masjid Jami' Al Imam Abu Daud",
-      "tema": "Pembahasan Kitab Ad-daa' WA Ad-dawaa",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Ruslan Zuardi, Lc, MA."
-      ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": true,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Imam Abu Daud",
-        "alamat": "Jl. Kampung Baru, Sialang sakti Tenayan Raya",
-        "peta": "https://maps.app.goo.gl/HDzF61ojnVXg2ePn8"
-      },
-      "wilayah": {
-        "kode": "11.07",
-        "kabkota": "Kabupaten Pidie",
-        "provinsi": "Aceh",
-        "slug": "kabupaten-pidie",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13787",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-31T20:22:38+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
-    },
     {
       "id": "eeceb54211c4",
       "judul": null,

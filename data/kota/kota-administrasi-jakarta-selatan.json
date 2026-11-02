@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-01T16:06:27+00:00",
+  "dibuat": "2026-11-02T00:44:16+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,31 +8,31 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 5,
+  "jumlah": 3,
   "kajian": [
     {
-      "id": "57bd45020695",
-      "judul": "Kajian Bareng",
+      "id": "4d2a1060f3ad",
+      "judul": "Kajian Bareng Offline",
       "tema": null,
       "kitab": null,
       "ustadz": [
         "Ustadz Abu Haidar As-Sundawy"
       ],
-      "tanggal": "2026-11-01",
+      "tanggal": "2026-11-02",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
-        "mulai": "09:30",
-        "selesai": "11:00",
+        "mulai": "13:00",
+        "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-01T09:30:00+07:00",
+      "mulai_iso": "2026-11-02T13:00:00+07:00",
       "tempat": {
-        "nama": "Masjid As-Sakinah",
-        "alamat": "Jl. Bendi Utama, Tanah Kusir, Kebayoran Lama, Jakarta Selatan",
+        "nama": "Gedung Rdtx Place Kuningan",
+        "alamat": "Lantai 25, Jakarta Selatan",
         "peta": null
       },
       "wilayah": {
@@ -49,107 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13703",
+          "url": "https://t.me/jadwalkajiansunnah/13848",
           "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
-          "diposting": "2026-10-31T18:45:25+00:00"
+          "diposting": "2026-11-01T22:07:02+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
-    },
-    {
-      "id": "241cc754ae7f",
-      "judul": "Kajian Tematik Untuk Umum",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Abu Yahya Badrusalam"
-      ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "10:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-01T10:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Baitussalam",
-        "alamat": "Jl. BNI 46, Cilandak Barat, Jakarta Selatan",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13794",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-31T20:46:42+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
-    },
-    {
-      "id": "7302e3b692b3",
-      "judul": "Majelis Ba'da Maghrib",
-      "tema": null,
-      "kitab": "Ahaditsul Akhlak",
-      "ustadz": [
-        "Ustadz Riza Afrizal, Lc., M.Ag."
-      ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurullah",
-        "alamat": "Apartemen Kalibata City, Basement Tower Cendana",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13724",
-          "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-10-31T19:03:27+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
+      "pertama_dilihat": "2026-11-02T00:44:16+00:00",
+      "terakhir_dilihat": "2026-11-02T00:44:16+00:00"
     },
     {
       "id": "4b8b93127342",

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-01T16:06:27+00:00",
+  "dibuat": "2026-11-02T00:44:16+00:00",
   "wilayah": {
     "kode": "32.76",
     "kabkota": "Kota Depok",
@@ -11,16 +11,16 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "f0b4076e6fda",
-      "judul": "Kajian Kitab Spesial",
-      "tema": "Akidah Ahlussunnah",
-      "kitab": "Spesial",
+      "id": "4581cee3c291",
+      "judul": "Pengajian Manhajiyah",
+      "tema": "Alumnus Darul Hadits Yaman",
+      "kitab": "Al-Ajwibatul-Mufidah 'an As'ilatil-Manhajil-Jadidah\" Tanya Jawab Bersama Syaikh Shalih al-Fauzan, dengan Hasyiyah 'Aliy",
       "ustadz": [
-        "Ustadz Muhamamd Tamrin, Lc."
+        "Ustadz Hudzaifah bin Muhammad"
       ],
-      "tanggal": "2026-11-01",
+      "tanggal": "2026-11-02",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13797",
+          "url": "https://t.me/jadwalkajiansunnah/13856",
           "diteruskan_dari": null,
-          "diposting": "2026-10-31T20:49:23+00:00"
+          "diposting": "2026-11-01T22:17:54+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
+      "pertama_dilihat": "2026-11-02T00:44:16+00:00",
+      "terakhir_dilihat": "2026-11-02T00:44:16+00:00"
     }
   ]
 }

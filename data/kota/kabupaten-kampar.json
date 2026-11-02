@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-02T00:44:16+00:00",
+  "wilayah": {
+    "kode": "14.01",
+    "kabkota": "Kabupaten Kampar",
+    "provinsi": "Riau",
+    "slug": "kabupaten-kampar",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "789644d9e7d3",
+      "judul": "Kajian Rutin Senin Malam Pekan 1",
+      "tema": null,
+      "kitab": "USHUL AL SUNNAH (Karya Imam Ahmad bin Hanbal rahimahullah)",
+      "ustadz": [
+        "Dr. Helmi Basri, Lc., MA."
+      ],
+      "tanggal": "2026-11-02",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Amal",
+        "alamat": "Bangkinang - Kampar",
+        "peta": "https://share.google/axn8ly6x6hDsA6vhm"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13872",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-02T00:24:49+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-02T00:44:16+00:00",
+      "terakhir_dilihat": "2026-11-02T00:44:16+00:00"
+    },
+    {
+      "id": "f7aedcf81641",
+      "judul": "Kajian Rutin Senin Malam Pekan 1",
+      "tema": null,
+      "kitab": "AL KABAA IR (Syeikh Muhammad bin Abdul Wahhab rahimahullah)#11",
+      "ustadz": [
+        "Dr. Hidayatullah Ismail, Lc., MA."
+      ],
+      "tanggal": "2026-11-02",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Musholla An Nur",
+        "alamat": "Desa Sungai Paku Lipat Kain - Kampar",
+        "peta": "https://share.google/x8dfexGqzbsGQ91KW"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13870",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-02T00:23:57+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-02T00:44:16+00:00",
+      "terakhir_dilihat": "2026-11-02T00:44:16+00:00"
+    }
+  ]
+}

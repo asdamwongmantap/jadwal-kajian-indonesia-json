@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-01T16:06:27+00:00",
+  "dibuat": "2026-11-02T00:44:16+00:00",
   "wilayah": {
     "kode": "36.71",
     "kabkota": "Kota Tangerang",
@@ -8,55 +8,8 @@
     "slug": "kota-tangerang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 3,
   "kajian": [
-    {
-      "id": "b12a5cbc4a1c",
-      "judul": "Kajian Ba'da Dzuhur",
-      "tema": "Kajian Kitab Fiqh Keluarga -\"Tak Kenal Maka Ta'aruf",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Taufiq Al Haddad, ST., S.H., MM."
-      ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dzuhur",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Raya Rahmatan Lil'alamin",
-        "alamat": "Jl. Taman Golf Raya, RT.001/RW.08, Modernland, Buaran Indah, Kec. Tangerang, Kota Tangerang",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "36.71",
-        "kabkota": "Kota Tangerang",
-        "provinsi": "Banten",
-        "slug": "kota-tangerang",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13777",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-31T19:58:22+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
-    },
     {
       "id": "f20c86f83fdd",
       "judul": null,

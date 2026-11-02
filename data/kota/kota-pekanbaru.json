@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-01T16:06:27+00:00",
+  "dibuat": "2026-11-02T00:44:16+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,220 +8,32 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 11,
+  "jumlah": 6,
   "kajian": [
     {
-      "id": "0eab8ce1b890",
-      "judul": null,
-      "tema": null,
+      "id": "72ea18649751",
+      "judul": "Kajian Rutin Ilmiah Khusus Muslimah",
+      "tema": "Catatan-catatan terkait Hukum-hukum khusus wanita",
       "kitab": null,
       "ustadz": [
-        "Ustadz Gilang Prasetyo"
+        "Ustadz Jefri Halim, Lc., M.A."
       ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "tanggal": "2026-11-02",
+      "tanggal_perkiraan": true,
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "09:30",
         "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Musholla Al-Hidayah",
-        "alamat": "Jl. Pahlawan No. 93, Arengka Atas, Pekanbaru",
-        "peta": "https://maps.app.goo.gl/iqUhWuhJzdXHw3U97"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "ikhwan",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13790",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-31T20:42:32+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
-    },
-    {
-      "id": "21e46ca8a0ab",
-      "judul": null,
-      "tema": "MENGENAL ALLAH LEBIH DEKAT Buku Panduan Fiqh Asmaul Husna Karya",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Maududi Abdullah, Lc."
-      ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Jl. Kayu Putih Kel. Bina Widya Kec. Bina Widya, Pekanbaru, Riau",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13788",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-31T20:23:16+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
-    },
-    {
-      "id": "30102b657acf",
-      "judul": null,
-      "tema": "Tafsir Per Kata Surah Al-Fatiha",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Riko Febriadi, Lc."
-      ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Bilal Bin Robah",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/dmKzzQftd2S9LqK5A"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13763",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-31T19:43:30+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
-    },
-    {
-      "id": "ac1d6751010e",
-      "judul": "Info Kajian Ahad Subuh Pekan 1",
-      "tema": "PRINSIP PRINSIP AGUNG DARI KAEDAH ISLAM (Abdurrahman bin Nashir As Sa'adi)",
-      "kitab": null,
-      "ustadz": [
-        "Dr. Hidayatullah Ismail, Lc., MA."
-      ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
+        "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Abu Bakar Ash Shiddiq",
-        "alamat": "Gg. Pelita Labuh Baru Kec.Payung Sekaki Pekanbaru",
-        "peta": "https://share.google/zQxHm5Eh9UzrXZaVN"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13795",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-31T20:48:00+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
-    },
-    {
-      "id": "c5df65ba36c2",
-      "judul": "Kajian Rutin Untuk Umum",
-      "tema": "Kajian Ilmiah Islam Tematik",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Delisman Ibrahim, Lc."
-      ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Jami' Al Badr",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/FcTVZErVRS4ZLeoa8"
+        "nama": "Masjid Jami' Abu Darda",
+        "alamat": "Jl. Merak Sakti, Panam - Pekanbaru",
+        "peta": "https://maps.app.goo.gl/SKeHp8s9rPiD1JMp8?g_st=ac"
       },
       "wilayah": {
         "kode": "14.71",
@@ -232,65 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": "umum",
+      "peserta": "akhwat",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13785",
+          "url": "https://t.me/jadwalkajiansunnah/13853",
           "diteruskan_dari": null,
-          "diposting": "2026-10-31T20:21:44+00:00"
+          "diposting": "2026-11-01T22:14:53+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
-    },
-    {
-      "id": "db8ad39f6e80",
-      "judul": "Kajian Islam Ilmiah Pekanan Ganjil 1 dan 3",
-      "tema": null,
-      "kitab": "Ahaditsul Akhlak",
-      "ustadz": [
-        "Ustadz Zamzami Juned Lc."
-      ],
-      "tanggal": "2026-11-01",
-      "tanggal_perkiraan": true,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al FURQON",
-        "alamat": "Jl. Karya Bersama No 26 Air Dingin Pekanbaru.., Map",
-        "peta": "https://maps.app.goo.gl/GnyzW9XiF33KFC1C9"
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13784",
-          "diteruskan_dari": null,
-          "diposting": "2026-10-31T20:21:16+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-01T00:07:23+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
+      "pertama_dilihat": "2026-11-02T00:44:16+00:00",
+      "terakhir_dilihat": "2026-11-02T00:44:16+00:00"
     },
     {
       "id": "764f88c7658e",
@@ -431,7 +196,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-31T15:23:03+00:00",
-      "terakhir_dilihat": "2026-11-01T16:06:27+00:00"
+      "terakhir_dilihat": "2026-11-02T00:44:16+00:00"
     },
     {
       "id": "c943e9d84c27",
