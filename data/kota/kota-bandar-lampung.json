@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-02T00:44:16+00:00",
+  "dibuat": "2026-11-02T19:34:03+00:00",
   "wilayah": {
     "kode": "18.71",
     "kabkota": "Kota Bandar Lampung",
@@ -228,10 +228,17 @@
           "url": "https://t.me/jadwalkajiansunnah/13123",
           "diteruskan_dari": "",
           "diposting": "2026-10-26T04:43:13+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13883",
+          "diteruskan_dari": "Masjid Al-Hayah",
+          "diposting": "2026-11-02T08:45:49+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "terakhir_dilihat": "2026-11-02T19:34:03+00:00"
     },
     {
       "id": "3e18f1e7433f",

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-02T00:44:16+00:00",
+  "dibuat": "2026-11-02T19:34:03+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,55 +8,8 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "4d2a1060f3ad",
-      "judul": "Kajian Bareng Offline",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Abu Haidar As-Sundawy"
-      ],
-      "tanggal": "2026-11-02",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": "13:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-02T13:00:00+07:00",
-      "tempat": {
-        "nama": "Gedung Rdtx Place Kuningan",
-        "alamat": "Lantai 25, Jakarta Selatan",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13848",
-          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
-          "diposting": "2026-11-01T22:07:02+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-02T00:44:16+00:00",
-      "terakhir_dilihat": "2026-11-02T00:44:16+00:00"
-    },
     {
       "id": "4b8b93127342",
       "judul": null,
