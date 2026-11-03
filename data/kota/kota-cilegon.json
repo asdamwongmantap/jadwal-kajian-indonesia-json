@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-03T02:55:01+00:00",
+  "wilayah": {
+    "kode": "36.72",
+    "kabkota": "Kota Cilegon",
+    "provinsi": "Banten",
+    "slug": "kota-cilegon",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "047aaee76cc5",
+      "judul": "Kajian Rutin Ba'da Subuh",
+      "tema": "Syarah Shahih Muslim",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Fathulloh Burhan"
+      ],
+      "tanggal": "2026-11-03",
+      "tanggal_perkiraan": true,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Imam An-Nawawi",
+        "alamat": "Komplek Yayasan Al-Hanif Al-Atsariyah, Perumnas Cibeber Blok F, Cibeber - Cilegon",
+        "peta": "https://s.id/PetaMIAN"
+      },
+      "wilayah": {
+        "kode": "36.72",
+        "kabkota": "Kota Cilegon",
+        "provinsi": "Banten",
+        "slug": "kota-cilegon",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13934",
+          "diteruskan_dari": "Yayasan Alhanif Cilegon",
+          "diposting": "2026-11-02T22:08:56+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
+      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+    }
+  ]
+}

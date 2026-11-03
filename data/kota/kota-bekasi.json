@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-02T19:34:03+00:00",
+  "dibuat": "2026-11-03T02:55:01+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,8 +8,55 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
+    {
+      "id": "ab2a1c24e785",
+      "judul": "Kajian Rutin Rumah Qur'an Mubeen",
+      "tema": "Syarh Riyadhush Shalihin",
+      "kitab": null,
+      "ustadz": [
+        "al Ustadz Varian Ghani, Lc."
+      ],
+      "tanggal": "2026-11-03",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": "11:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-03T09:30:00+07:00",
+      "tempat": {
+        "nama": "Rumah Qur'an Mubeen",
+        "alamat": "Jl. Bontang III No. 88, Jatiwaringin Asri, Pondok Gede, Kota Bekasi",
+        "peta": "https://maps.app.goo.gl/DmooGDD9HXrm9fjd7?g_st=aw"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13970",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-02T22:43:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
+      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+    },
     {
       "id": "1c22005effd3",
       "judul": null,

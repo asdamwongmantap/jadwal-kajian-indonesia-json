@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-02T19:34:03+00:00",
+  "dibuat": "2026-11-03T02:55:01+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,8 +8,243 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 7,
   "kajian": [
+    {
+      "id": "9c1c20b019ea",
+      "judul": "Kajian Rutin Kitab Syarah Fadhlul Islam Kesempurnaan dan Keagungan Islam",
+      "tema": "Kitab Syarah Fadhlul Islam, Kesempurnaan dan Keagungan Islam Serta Perintah Berpegang Teguh dan Menjaga Kemurniannya",
+      "kitab": "Syarah Fadhlul Islam Kesempurnaan dan Keagungan Islam",
+      "ustadz": [
+        "Ustadz Subhan Bawazier"
+      ],
+      "tanggal": "2026-11-03",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-03T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid As-Sakinah Nusantara",
+        "alamat": "Graha SNJ Group Lantai 6, Jl. Prof. Dr. Soepomo No. 176, Jakarta Selatan (Sebelah Toko Daging Nusantara)",
+        "peta": "https://maps.app.goo.gl/GHMiAQysPForepni8"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/@KajianTebet",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13987",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-02T23:11:58+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
+      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+    },
+    {
+      "id": "4bd3a0466714",
+      "judul": "Kajian Mama Muslimah",
+      "tema": null,
+      "kitab": "Adabul Mufrod",
+      "ustadz": [
+        "Ustadz Muammar Attamimi"
+      ],
+      "tanggal": "2026-11-03",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": "11:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-03T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Hidayah",
+        "alamat": "Villa Pejaten Mas, Jl. Pejaten Mas Raya no. 11, Pasar Minggu, Jakarta Selatan",
+        "peta": "https://maps.app.goo.gl/LrPToeBoKgdHu5X56?g_st=iw"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13928",
+          "diteruskan_dari": "Kajian MT Mama Muslimah",
+          "diposting": "2026-11-02T22:04:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
+      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+    },
+    {
+      "id": "66b1fa290213",
+      "judul": null,
+      "tema": "HUKUMAN SYAR'IYYAH & HUKUMAN QODARRIYYAH (Hubungan Antara Dosa & Hukuman) (Kitab Ad Daa' Wa Ad Dawaa')",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Luthfi Abdul Jabbar, Lc."
+      ],
+      "tanggal": "2026-11-03",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-03T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Jami' Al-Husna Admiralty Residence",
+        "alamat": "Jl. RS. Fatmawati, Cilandak - JakSel",
+        "peta": "https://maps.app.goo.gl/yfBwHz5jZgF6M9H88"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13924",
+          "diteruskan_dari": "R",
+          "diposting": "2026-11-02T21:59:51+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
+      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+    },
+    {
+      "id": "a7b3f491a62e",
+      "judul": "Kajian Ilmiah⤵",
+      "tema": "Alumni Darul Hadits Dammaj, murid Syaikh Muqbil Al-Wadiiy",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abdul Barr Kaisinda"
+      ],
+      "tanggal": "2026-11-03",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-03T10:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Baiturrahman",
+        "alamat": "Jl Buana Raya, Pondok Pinang, Jakarta Selatan",
+        "peta": "https://maps.app.goo.gl/6eSLMxRmPCcvxN2i6"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13997",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-02T23:48:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
+      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+    },
+    {
+      "id": "6419e06a3ecb",
+      "judul": "Kajian Ba'da Dzuhur",
+      "tema": "Riyadhus Shaalihiin\" (sesi 36)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Djazuli Ruhan Basyir, Lc.,MA."
+      ],
+      "tanggal": "2026-11-03",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "13:00",
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-03T13:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Nur Salma",
+        "alamat": "Centennial Tower lantai 22, Jl. Gatot Subroto Kav 24-25 Jaksel",
+        "peta": "https://maps.app.goo.gl/VhN76MxGZjyRKowH6"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/13984",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-02T22:58:30+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
+      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+    },
     {
       "id": "4b8b93127342",
       "judul": null,
