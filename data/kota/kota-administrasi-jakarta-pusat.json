@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-03T02:55:01+00:00",
+  "dibuat": "2026-11-03T17:08:24+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -8,19 +8,19 @@
     "slug": "kota-administrasi-jakarta-pusat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 7,
+  "jumlah": 5,
   "kajian": [
     {
-      "id": "11ba381df649",
+      "id": "4e344e0efd8b",
       "judul": "Kajian Renungan Fajar",
-      "tema": "Menjauhkan Diri Dari Perbuatan Maksiat",
+      "tema": "Beragama Dengan Akal Sehat",
       "kitab": null,
       "ustadz": [
-        "Kombes Pol Drs. KH. Zaenuri Anwar, M.Ag."
+        "Dr. Budi Utomo, Lc, M.A."
       ],
-      "tanggal": "2026-11-03",
+      "tanggal": "2026-11-04",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -51,158 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-03T02:55:01.456234+00:00"
+          "diposting": "2026-11-03T17:08:24.833167+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
-      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+      "pertama_dilihat": "2026-11-03T17:08:24+00:00",
+      "terakhir_dilihat": "2026-11-03T17:08:24+00:00"
     },
     {
-      "id": "13232295682b",
-      "judul": "Kajian Renungan Fajar",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-11-03",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Istiqlal",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "istiqlal-rutin",
-          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
-          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-02T19:34:03.641393+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-02T19:34:03+00:00",
-      "terakhir_dilihat": "2026-11-02T19:34:03+00:00"
-    },
-    {
-      "id": "645ee8b7a718",
-      "judul": "Kajian Khawamisy",
-      "tema": "Al Fiqhul Manhaji (FIQIH)",
-      "kitab": null,
-      "ustadz": [
-        "H. Jamaluddin F. Hasyim, SH., MH"
-      ],
-      "tanggal": "2026-11-03",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Ashar",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Istiqlal",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "istiqlal-rutin",
-          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
-          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-03T02:55:01.456234+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
-      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
-    },
-    {
-      "id": "dbfac3522ca4",
-      "judul": "Kajian Khawamisy",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-11-03",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Ashar",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Istiqlal",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "istiqlal-rutin",
-          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
-          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-02T19:34:03.641393+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-02T19:34:03+00:00",
-      "terakhir_dilihat": "2026-11-02T19:34:03+00:00"
-    },
-    {
-      "id": "f2e6c275dccd",
+      "id": "e3bbee19eeb4",
       "judul": "Kajian Dialog Zuhur",
-      "tema": null,
+      "tema": "Kajian Tafsir: Marah Labid (Li Kasyfi Ma'na Qur'an Al Majid)",
       "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-11-03",
+      "ustadz": [
+        "Dr. Syahrullah Iskandar, MA."
+      ],
+      "tanggal": "2026-11-04",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -233,11 +98,58 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-02T19:34:03.641393+00:00"
+          "diposting": "2026-11-03T17:08:24.833167+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-02T19:34:03+00:00",
-      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+      "pertama_dilihat": "2026-11-03T17:08:24+00:00",
+      "terakhir_dilihat": "2026-11-03T17:08:24+00:00"
+    },
+    {
+      "id": "ed006e63e638",
+      "judul": "Kajian Khawamisy",
+      "tema": "Al Adzkar An Nawawiyah (HADITS)",
+      "kitab": null,
+      "ustadz": [
+        "Drs. H. A. Dzulfatah Yasin, M.Ag."
+      ],
+      "tanggal": "2026-11-04",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-03T17:08:24.833167+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-03T17:08:24+00:00",
+      "terakhir_dilihat": "2026-11-03T17:08:24+00:00"
     },
     {
       "id": "9bcb52aa24fe",
@@ -282,7 +194,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-31T00:47:24+00:00",
-      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+      "terakhir_dilihat": "2026-11-03T17:08:24+00:00"
     },
     {
       "id": "ec3838040932",

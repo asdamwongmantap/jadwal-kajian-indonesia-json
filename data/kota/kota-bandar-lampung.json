@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-03T02:55:01+00:00",
+  "dibuat": "2026-11-03T17:08:24+00:00",
   "wilayah": {
     "kode": "18.71",
     "kabkota": "Kota Bandar Lampung",
@@ -8,55 +8,8 @@
     "slug": "kota-bandar-lampung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 7,
+  "jumlah": 6,
   "kajian": [
-    {
-      "id": "a6cc79b97945",
-      "judul": "Kajian Bulanan Muslimah",
-      "tema": "Islam Dalam Menjaga Kebersihan Badan",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Izzy Granary, BA"
-      ],
-      "tanggal": "2026-11-03",
-      "tanggal_perkiraan": true,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al-Hayah",
-        "alamat": "Jl. Z.A Pagar Alam, Gedung Meneng - Bandar Lampung, (Masuk melalui pintu gerbang SMP Islam Mumtaz)",
-        "peta": "https://goo.gl/maps/TUp1W1Jw8by"
-      },
-      "wilayah": {
-        "kode": "18.71",
-        "kabkota": "Kota Bandar Lampung",
-        "provinsi": "Lampung",
-        "slug": "kota-bandar-lampung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13955",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-02T22:26:34+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
-      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
-    },
     {
       "id": "79b49e7fde1d",
       "judul": "Kajian Bulanan",
@@ -285,7 +238,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+      "terakhir_dilihat": "2026-11-03T17:08:24+00:00"
     },
     {
       "id": "3e18f1e7433f",

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-03T02:55:01+00:00",
+  "dibuat": "2026-11-03T17:08:24+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,19 +8,19 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 3,
   "kajian": [
     {
-      "id": "ab25b1ca1f5f",
-      "judul": "Kajian Rutin (offline) MT AT THAHIRAH SELASA Pekan 1",
-      "tema": null,
-      "kitab": "Ahlak Mulia Dalam Rumah Tangga",
+      "id": "2aa7300b048d",
+      "judul": "Kajian Muslimah",
+      "tema": "TAWAKAL PEMBOHONG? (Kajian Tematik)",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Abu Ihsan Al Maidany M.A."
+        "Ustadz Luthfi Abdul Jabbar, Lc."
       ],
-      "tanggal": "2026-11-03",
+      "tanggal": "2026-11-04",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
         "mulai": "09:30",
@@ -29,11 +29,11 @@
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-03T09:30:00+07:00",
+      "mulai_iso": "2026-11-04T09:30:00+07:00",
       "tempat": {
-        "nama": "Masjid Fatahillah",
-        "alamat": "Komplek AD Bulak Rantai, Kramat Jati-Jakarta Timur",
-        "peta": "https://goo.gl/maps/XqH3SNkUmQY289R36"
+        "nama": "Rumah Belajar Permata Timur",
+        "alamat": "Permata Timur Raya G/20,, Curug Pondok Kelapa JakTim",
+        "peta": "https://maps.app.goo.gl/cCTYhvy89mkcdTzMA"
       },
       "wilayah": {
         "kode": "31.75",
@@ -44,65 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": "umum",
+      "peserta": "akhwat",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13961",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-02T22:33:15+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/14018",
+          "diteruskan_dari": "R",
+          "diposting": "2026-11-03T16:21:30+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
-      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
-    },
-    {
-      "id": "a35809deacbb",
-      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
-      "tema": "Syarh Manzhumah Ahsan al-Akhlaq",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Ilham Taufiq Al-Makki, B.Sh."
-      ],
-      "tanggal": "2026-11-03",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Soleh Hawa",
-        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.75",
-        "kabkota": "Kota Administrasi Jakarta Timur",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-timur",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13966",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-02T22:39:00+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
-      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+      "pertama_dilihat": "2026-11-03T17:08:24+00:00",
+      "terakhir_dilihat": "2026-11-03T17:08:24+00:00"
     },
     {
       "id": "6bb4b954fe31",

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-03T02:55:01+00:00",
+  "dibuat": "2026-11-03T17:08:24+00:00",
   "wilayah": {
     "kode": "36.72",
     "kabkota": "Kota Cilegon",
@@ -11,16 +11,16 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "047aaee76cc5",
+      "id": "1d8ce547b9ae",
       "judul": "Kajian Rutin Ba'da Subuh",
-      "tema": "Syarah Shahih Muslim",
+      "tema": "Kaifa 'aamalahum Rasulullah Muhammad",
       "kitab": null,
       "ustadz": [
-        "Ustadz Fathulloh Burhan"
+        "Ustadz Hibban Muttabi Al Haq, SH"
       ],
-      "tanggal": "2026-11-03",
+      "tanggal": "2026-11-04",
       "tanggal_perkiraan": true,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/13934",
-          "diteruskan_dari": "Yayasan Alhanif Cilegon",
-          "diposting": "2026-11-02T22:08:56+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/14024",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-03T16:25:07+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-03T02:55:01+00:00",
-      "terakhir_dilihat": "2026-11-03T02:55:01+00:00"
+      "pertama_dilihat": "2026-11-03T17:08:24+00:00",
+      "terakhir_dilihat": "2026-11-03T17:08:24+00:00"
     }
   ]
 }
