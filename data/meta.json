@@ -1,8 +1,8 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-03T17:08:24+00:00",
-  "jumlah_kajian": 73,
-  "jumlah_kota": 30,
+  "dibuat": "2026-11-04T01:20:00+00:00",
+  "jumlah_kajian": 94,
+  "jumlah_kota": 37,
   "sumber": [
     {
       "id": "jadwalkajiansunnah",
@@ -10,7 +10,7 @@
       "tipe": "telegram",
       "url": "https://t.me/s/jadwalkajiansunnah",
       "status": "ok",
-      "pengumuman": 156,
+      "pengumuman": 159,
       "jadwal": 102
     },
     {

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-03T17:08:24+00:00",
+  "dibuat": "2026-11-04T01:20:00+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,8 +8,55 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "ed42e7258815",
+      "judul": "Kajian Tawadhu",
+      "tema": "Akhir Pertempuran Perang Uhud",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Taufiq Al-Haddad, ST., SH., MM."
+      ],
+      "tanggal": "2026-11-04",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "12:00",
+        "selesai": "13:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-04T12:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Daarut Tauhiid Jakarta",
+        "alamat": "Jl. Cipaku I No. 43, Petogogan, Kebayoran Baru, Jakarta Selatan",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14059",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-04T01:04:39+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-04T01:20:00+00:00",
+      "terakhir_dilihat": "2026-11-04T01:20:00+00:00"
+    },
     {
       "id": "4b8b93127342",
       "judul": null,

@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-04T01:20:00+00:00",
+  "wilayah": {
+    "kode": "34.02",
+    "kabkota": "Kabupaten Bantul",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "slug": "kabupaten-bantul",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "915254c58ed6",
+      "judul": "Kajian | Rabu Pagi",
+      "tema": "Serial Kitabul Jami",
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Imroatul Azizah",
+        "| Inspirator Muslimah"
+      ],
+      "tanggal": "2026-11-04",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-04T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Firdaus",
+        "alamat": "| Ngoto, Sewon Bantul, | Maps",
+        "peta": "https://g.co/kgs/w7WsK1"
+      },
+      "wilayah": {
+        "kode": "34.02",
+        "kabkota": "Kabupaten Bantul",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-bantul",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14045",
+          "diteruskan_dari": "",
+          "diposting": "2026-11-04T00:40:47+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-04T01:20:00+00:00",
+      "terakhir_dilihat": "2026-11-04T01:20:00+00:00"
+    }
+  ]
+}

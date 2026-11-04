@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-03T17:08:24+00:00",
+  "dibuat": "2026-11-04T01:20:00+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -17,6 +17,22 @@
       "kode": "32.17",
       "jumlah": 1,
       "file": "kota/kabupaten-bandung-barat.json"
+    },
+    {
+      "slug": "kabupaten-bantul",
+      "kabkota": "Kabupaten Bantul",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kode": "34.02",
+      "jumlah": 1,
+      "file": "kota/kabupaten-bantul.json"
+    },
+    {
+      "slug": "kabupaten-bekasi",
+      "kabkota": "Kabupaten Bekasi",
+      "provinsi": "Jawa Barat",
+      "kode": "32.16",
+      "jumlah": 3,
+      "file": "kota/kabupaten-bekasi.json"
     },
     {
       "slug": "kabupaten-ciamis",
@@ -59,6 +75,14 @@
       "file": "kota/kabupaten-lamongan.json"
     },
     {
+      "slug": "kabupaten-magetan",
+      "kabkota": "Kabupaten Magetan",
+      "provinsi": "Jawa Timur",
+      "kode": "35.20",
+      "jumlah": 1,
+      "file": "kota/kabupaten-magetan.json"
+    },
+    {
       "slug": "kabupaten-maros",
       "kabkota": "Kabupaten Maros",
       "provinsi": "Sulawesi Selatan",
@@ -79,7 +103,7 @@
       "kabkota": "Kabupaten Sleman",
       "provinsi": "Daerah Istimewa Yogyakarta",
       "kode": "34.04",
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/kabupaten-sleman.json"
     },
     {
@@ -89,6 +113,14 @@
       "kode": "32.06",
       "jumlah": 2,
       "file": "kota/kabupaten-tasikmalaya.json"
+    },
+    {
+      "slug": "kota-administrasi-jakarta-barat",
+      "kabkota": "Kota Administrasi Jakarta Barat",
+      "provinsi": "Daerah Khusus Ibukota Jakarta",
+      "kode": "31.73",
+      "jumlah": 2,
+      "file": "kota/kota-administrasi-jakarta-barat.json"
     },
     {
       "slug": "kota-administrasi-jakarta-pusat",
@@ -103,7 +135,7 @@
       "kabkota": "Kota Administrasi Jakarta Selatan",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.74",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-administrasi-jakarta-selatan.json"
     },
     {
@@ -111,7 +143,7 @@
       "kabkota": "Kota Administrasi Jakarta Timur",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.75",
-      "jumlah": 3,
+      "jumlah": 4,
       "file": "kota/kota-administrasi-jakarta-timur.json"
     },
     {
@@ -127,7 +159,7 @@
       "kabkota": "Kota Bandung",
       "provinsi": "Jawa Barat",
       "kode": "32.73",
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/kota-bandung.json"
     },
     {
@@ -143,7 +175,7 @@
       "kabkota": "Kota Bekasi",
       "provinsi": "Jawa Barat",
       "kode": "32.75",
-      "jumlah": 4,
+      "jumlah": 8,
       "file": "kota/kota-bekasi.json"
     },
     {
@@ -163,12 +195,28 @@
       "file": "kota/kota-cilegon.json"
     },
     {
+      "slug": "kota-depok",
+      "kabkota": "Kota Depok",
+      "provinsi": "Jawa Barat",
+      "kode": "32.76",
+      "jumlah": 1,
+      "file": "kota/kota-depok.json"
+    },
+    {
       "slug": "kota-makassar",
       "kabkota": "Kota Makassar",
       "provinsi": "Sulawesi Selatan",
       "kode": "73.71",
       "jumlah": 6,
       "file": "kota/kota-makassar.json"
+    },
+    {
+      "slug": "kota-mataram",
+      "kabkota": "Kota Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode": "52.71",
+      "jumlah": 1,
+      "file": "kota/kota-mataram.json"
     },
     {
       "slug": "kota-parepare",
@@ -211,6 +259,14 @@
       "file": "kota/kota-tangerang.json"
     },
     {
+      "slug": "kota-tangerang-selatan",
+      "kabkota": "Kota Tangerang Selatan",
+      "provinsi": "Banten",
+      "kode": "36.74",
+      "jumlah": 1,
+      "file": "kota/kota-tangerang-selatan.json"
+    },
+    {
       "slug": "kota-tasikmalaya",
       "kabkota": "Kota Tasikmalaya",
       "provinsi": "Jawa Barat",
@@ -231,7 +287,7 @@
       "kabkota": null,
       "provinsi": null,
       "kode": null,
-      "jumlah": 1,
+      "jumlah": 4,
       "file": "kota/online.json"
     },
     {

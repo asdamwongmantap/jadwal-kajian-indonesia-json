@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-03T17:08:24+00:00",
+  "dibuat": "2026-11-04T01:20:00+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,8 +8,55 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
+    {
+      "id": "284b0baa31ab",
+      "judul": "Kajian Kitab Lubaabut Tafsiir Min Ibni Katsiir",
+      "tema": "TAFSIR SURAH AT-TAGHABUN, Jilid 10, hal.12 -3",
+      "kitab": "Lubaabut Tafsiir Min Ibni Katsiir",
+      "ustadz": [
+        "Ustadz DR. Syafiq Riza Basalamah, Lc. MA."
+      ],
+      "tanggal": "2026-11-04",
+      "tanggal_perkiraan": true,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "04:11",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Rumah Qur'an (RQ) Balancia",
+        "alamat": "Cawang Atas, Jl. Masjid 4 No.7, RT.002/011, Kel. Bidara Cina, Kec. Jatinegara, Jakarta Timur, (Belakang Gedung Indomobil MT. Haryono)",
+        "peta": "https://g.co/kgs/2a6LMH"
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14056",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-04T01:00:00+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-04T01:20:00+00:00",
+      "terakhir_dilihat": "2026-11-04T01:20:00+00:00"
+    },
     {
       "id": "2aa7300b048d",
       "judul": "Kajian Muslimah",
@@ -55,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-03T17:08:24+00:00",
-      "terakhir_dilihat": "2026-11-03T17:08:24+00:00"
+      "terakhir_dilihat": "2026-11-04T01:20:00+00:00"
     },
     {
       "id": "6bb4b954fe31",

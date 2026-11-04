@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-03T17:08:24+00:00",
+  "dibuat": "2026-11-04T01:20:00+00:00",
   "wilayah": {
     "kode": "34.04",
     "kabkota": "Kabupaten Sleman",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-sleman",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "0648208fe5cc",
+      "judul": "Kajian Rutin Rabu Malam (pekan 1 & 3) 6",
+      "tema": "Kajian Sirah Nabawiyah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Erlan Iskandar, S.T., M.Psi."
+      ],
+      "tanggal": "2026-11-04",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Mukmin Plosorejo",
+        "alamat": "Wonosobo, Sardonoharjo, Kec Ngaglik, Sleman",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.04",
+        "kabkota": "Kabupaten Sleman",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-sleman",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "anak",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14048",
+          "diteruskan_dari": "",
+          "diposting": "2026-11-04T00:48:47+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-04T01:20:00+00:00",
+      "terakhir_dilihat": "2026-11-04T01:20:00+00:00"
+    },
     {
       "id": "30205d8873f7",
       "judul": null,
@@ -55,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-03T17:08:24+00:00",
-      "terakhir_dilihat": "2026-11-03T17:08:24+00:00"
+      "terakhir_dilihat": "2026-11-04T01:20:00+00:00"
     }
   ]
 }
