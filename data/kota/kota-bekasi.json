@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-04T17:20:26+00:00",
+  "dibuat": "2026-11-05T01:27:42+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,8 +8,55 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
+    {
+      "id": "4d4c533d4c7b",
+      "judul": "Kajian Muslimah At Taqwa",
+      "tema": "Tafsir Al-Qur'an",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Subakir Ahmad"
+      ],
+      "tanggal": "2026-11-05",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": "10:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-05T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Raya At-Taqwa Rawalumbu Kota Bekasi",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/hrjSW9PErBsZhbzB8"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14113",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-04T21:48:29+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-05T01:27:42+00:00",
+      "terakhir_dilihat": "2026-11-05T01:27:42+00:00"
+    },
     {
       "id": "1c22005effd3",
       "judul": null,
