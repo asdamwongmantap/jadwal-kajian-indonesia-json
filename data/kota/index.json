@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-05T01:27:42+00:00",
+  "dibuat": "2026-11-05T17:28:08+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -79,7 +79,7 @@
       "kabkota": "Kota Administrasi Jakarta Timur",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.75",
-      "jumlah": 3,
+      "jumlah": 2,
       "file": "kota/kota-administrasi-jakarta-timur.json"
     },
     {
@@ -103,7 +103,7 @@
       "kabkota": "Kota Bekasi",
       "provinsi": "Jawa Barat",
       "kode": "32.75",
-      "jumlah": 4,
+      "jumlah": 5,
       "file": "kota/kota-bekasi.json"
     },
     {
@@ -115,28 +115,12 @@
       "file": "kota/kota-bogor.json"
     },
     {
-      "slug": "kota-cilegon",
-      "kabkota": "Kota Cilegon",
-      "provinsi": "Banten",
-      "kode": "36.72",
-      "jumlah": 1,
-      "file": "kota/kota-cilegon.json"
-    },
-    {
       "slug": "kota-makassar",
       "kabkota": "Kota Makassar",
       "provinsi": "Sulawesi Selatan",
       "kode": "73.71",
       "jumlah": 6,
       "file": "kota/kota-makassar.json"
-    },
-    {
-      "slug": "kota-mataram",
-      "kabkota": "Kota Mataram",
-      "provinsi": "Nusa Tenggara Barat",
-      "kode": "52.71",
-      "jumlah": 1,
-      "file": "kota/kota-mataram.json"
     },
     {
       "slug": "kota-parepare",

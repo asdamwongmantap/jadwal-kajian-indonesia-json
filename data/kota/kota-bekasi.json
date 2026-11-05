@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-05T01:27:42+00:00",
+  "dibuat": "2026-11-05T17:28:08+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,32 +8,79 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 5,
   "kajian": [
     {
-      "id": "4d4c533d4c7b",
-      "judul": "Kajian Muslimah At Taqwa",
-      "tema": "Tafsir Al-Qur'an",
+      "id": "e06ffa7883a4",
+      "judul": "Kajian Rutin Ahad Pagi Pekan Kedua, 8 November 2026 • 28 Jumadil Awwal 1448 H",
+      "tema": "Kitab Tauhid karya Syeikh Shalih Al-Fauzan Jilid 2, Bab 1, Pasal 4 Pembatal Iman (Bagian Kedua)",
       "kitab": null,
       "ustadz": [
-        "Ustadz Subakir Ahmad"
+        "Ustadz Zahir Al-Minangkabawi"
       ],
-      "tanggal": "2026-11-05",
+      "tanggal": "2026-11-08",
       "tanggal_perkiraan": false,
-      "hari": "Kamis",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": "09:00",
-        "selesai": "10:00",
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid At-Taqwa Jatibening Satu",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "attaqwa-jatibening",
+          "nama": "Masjid At-Taqwa Jatibening Satu",
+          "url": "https://attaqwajatibening.com/berita/kajian-rutin-ahad-pagi-pekan-kedua-8-november-2026-28-jumadil-awwal-1448-h",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-05T17:28:08.094586+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-05T17:28:08+00:00",
+      "terakhir_dilihat": "2026-11-05T17:28:08+00:00"
+    },
+    {
+      "id": "9872fbc34dce",
+      "judul": "Ta'lim Bulanan Ibu-Ibu At-Taqwa",
+      "tema": "Berdamai di Sisa Umur",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ahmad Rojab, M.A."
+      ],
+      "tanggal": "2026-11-09",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:45",
+        "selesai": "11:00",
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-05T09:00:00+07:00",
+      "mulai_iso": "2026-11-09T08:45:00+07:00",
       "tempat": {
-        "nama": "Masjid Raya At-Taqwa Rawalumbu Kota Bekasi",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/hrjSW9PErBsZhbzB8"
+        "nama": "Masjid At-Taqwa Jatibening Satu",
+        "alamat": "08.45 - 11.00 Wib",
+        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
       },
       "wilayah": {
         "kode": "32.75",
@@ -47,15 +94,15 @@
       "peserta": "akhwat",
       "sumber": [
         {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14113",
+          "id": "attaqwa-jatibening",
+          "nama": "Masjid At-Taqwa Jatibening Satu",
+          "url": "https://attaqwajatibening.com/berita/talim-bulanan-ibu-ibu-at-taqwa-senin-9-november-2026-29-jumadil-awwal-1448-h",
           "diteruskan_dari": null,
-          "diposting": "2026-11-04T21:48:29+00:00"
+          "diposting": "2026-11-05T17:28:08.094586+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-05T01:27:42+00:00",
-      "terakhir_dilihat": "2026-11-05T01:27:42+00:00"
+      "pertama_dilihat": "2026-11-05T17:28:08+00:00",
+      "terakhir_dilihat": "2026-11-05T17:28:08+00:00"
     },
     {
       "id": "1c22005effd3",
