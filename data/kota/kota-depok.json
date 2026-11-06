@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-06T16:49:06+00:00",
+  "wilayah": {
+    "kode": "32.76",
+    "kabkota": "Kota Depok",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-depok",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "ae129f841bff",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Lukman Hakim, Lc."
+      ],
+      "tanggal": "2026-11-06",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Fatahillah",
+        "alamat": "Depok",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14144",
+          "diteruskan_dari": "Masjid Fatahillah Depok",
+          "diposting": "2026-11-06T01:40:14+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-06T16:49:06+00:00",
+      "terakhir_dilihat": "2026-11-06T16:49:06+00:00"
+    }
+  ]
+}
