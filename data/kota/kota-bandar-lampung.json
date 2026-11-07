@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T00:56:24+00:00",
+  "dibuat": "2026-11-07T15:43:50+00:00",
   "wilayah": {
     "kode": "18.71",
     "kabkota": "Kota Bandar Lampung",
@@ -8,7 +8,7 @@
     "slug": "kota-bandar-lampung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 6,
+  "jumlah": 7,
   "kajian": [
     {
       "id": "79b49e7fde1d",
@@ -58,10 +58,57 @@
       "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
     },
     {
+      "id": "7e31ddb4d078",
+      "judul": "Kajian Ilmiah",
+      "tema": "Mengenal Pribadi Agung Nabi Muhammad (KITAB Asy-Syamail Al-Muhammadiyyah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ghozi Abu Iyas"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": "Setiap Ahad, pekan ke-2",
+      "waktu": {
+        "mulai": "10:20",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Hayah",
+        "alamat": "Jl. Z.A Pagar Alam, Gedung Meneng - Bandar Lampung, (Masuk melalui pintu gerbang SMP Islam Mumtaz), ( )",
+        "peta": "https://goo.gl/maps/TUp1W1Jw8by"
+      },
+      "wilayah": {
+        "kode": "18.71",
+        "kabkota": "Kota Bandar Lampung",
+        "provinsi": "Lampung",
+        "slug": "kota-bandar-lampung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14293",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T14:05:42+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
+    {
       "id": "f6c43e928c65",
-      "judul": "Kajian Khusus Muslimah",
+      "judul": "Kajian Muslimah",
       "tema": null,
-      "kitab": "Riyadhus Shalihin",
+      "kitab": "I'anatul Mustafid Bisyarhi Kitabut Tauhid",
       "ustadz": [
         "Ustadz Abdullah Furqon"
       ],
@@ -113,10 +160,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12934",
           "diteruskan_dari": "Masjid Al-Hayah",
           "diposting": "2026-10-23T23:24:05+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14282",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T06:37:43+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-10-27T00:25:38+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     },
     {
       "id": "1dc35fb031dc",

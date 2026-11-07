@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T00:56:24+00:00",
+  "dibuat": "2026-11-07T15:43:50+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,8 +8,55 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "e99c8ef47625",
+      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
+      "tema": null,
+      "kitab": "Hilyah Thalibil 'Ilmi",
+      "ustadz": [
+        "Ustadz Muflih Safitra, M.Sc."
+      ],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Soleh Hawa",
+        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14283",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T06:38:13+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
     {
       "id": "6bb4b954fe31",
       "judul": "Kajian Ilmiah",

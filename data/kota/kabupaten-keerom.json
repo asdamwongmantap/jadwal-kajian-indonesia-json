@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-07T15:43:50+00:00",
+  "wilayah": {
+    "kode": "91.11",
+    "kabkota": "Kabupaten Keerom",
+    "provinsi": "Papua",
+    "slug": "kabupaten-keerom",
+    "zona_waktu": "WIT"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "373a185165a8",
+      "judul": "Kajian Bincang Keluarga",
+      "tema": "CINTA SAJA TIDAK CUKUP (Panduan Lengkap Hak dan Kewajiban Suami dan Istri)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz DR. ALI MUSTAFA, SH, MH (Wakil rektor bidang kemahasiswaan di IAI IMSY"
+      ],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIT",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Musholla Ali bin Abi Tholib",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "91.11",
+        "kabkota": "Kabupaten Keerom",
+        "provinsi": "Papua",
+        "slug": "kabupaten-keerom",
+        "zona_waktu": "WIT"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14267",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T06:17:34+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
+    {
+      "id": "6dd1a3a05bab",
+      "judul": "Info Kajian Sabtu Malam Pekan 1 & 3",
+      "tema": "Fiqh Mu'amalah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Gilang Prasetyo"
+      ],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIT",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Abu Bakar Ash-Shiddiq",
+        "alamat": "Jl. Soekarno-Hatta Gg. Pelita Labuhbaru Barat kec. Payung Sekaki",
+        "peta": "https://maps.app.goo.gl/x1bfxMq37zetS5UH9"
+      },
+      "wilayah": {
+        "kode": "91.11",
+        "kabkota": "Kabupaten Keerom",
+        "provinsi": "Papua",
+        "slug": "kabupaten-keerom",
+        "zona_waktu": "WIT"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "ikhwan",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14264",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T06:16:11+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    }
+  ]
+}

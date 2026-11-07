@@ -1,9 +1,91 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T00:56:24+00:00",
+  "dibuat": "2026-11-07T15:43:50+00:00",
   "wilayah": null,
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "0003ac96e616",
+      "judul": null,
+      "tema": "Pola Beragama Yang Lurus",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Thohir Jones Vendra, Lc, MA."
+      ],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Nasmar",
+        "alamat": null,
+        "peta": "https://g.co/kgs/MSPDLf"
+      },
+      "wilayah": null,
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14260",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T06:14:29+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
+    {
+      "id": "fcfb80a843bc",
+      "judul": "Kajian Nahwu Wadhih & Kitabut Tashrif",
+      "tema": "Nahwu Wadhih Juz 2 | Hal. 113 : Tamrin Al Muarrof Bil Alifi Wal Lam",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Pamuji Hadi Waluyo, Lc."
+      ],
+      "tanggal": "2026-11-08",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:00",
+        "selesai": "08:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-08T07:00:00+07:00",
+      "tempat": {
+        "nama": "Mushola Nurul Istiqomah",
+        "alamat": null,
+        "peta": "https://goo.gl/maps/MrnZEUdQw3K2"
+      },
+      "wilayah": null,
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14299",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T14:08:07+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
     {
       "id": "78cc40adb078",
       "judul": null,
@@ -41,10 +123,17 @@
           "url": "https://t.me/jadwalkajiansunnah/13633",
           "diteruskan_dari": "Gresik Mengaji",
           "diposting": "2026-10-31T04:01:06+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14228",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-11-07T05:47:46+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-31T15:23:03+00:00",
-      "terakhir_dilihat": "2026-11-02T00:44:16+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     }
   ]
 }

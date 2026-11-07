@@ -1,8 +1,8 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T00:56:24+00:00",
-  "jumlah_kajian": 79,
-  "jumlah_kota": 27,
+  "dibuat": "2026-11-07T15:43:50+00:00",
+  "jumlah_kajian": 118,
+  "jumlah_kota": 39,
   "sumber": [
     {
       "id": "jadwalkajiansunnah",
@@ -10,8 +10,8 @@
       "tipe": "telegram",
       "url": "https://t.me/s/jadwalkajiansunnah",
       "status": "ok",
-      "pengumuman": 164,
-      "jadwal": 106
+      "pengumuman": 166,
+      "jadwal": 114
     },
     {
       "id": "attaqwa-jatibening",

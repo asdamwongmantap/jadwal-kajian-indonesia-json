@@ -1,0 +1,155 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-07T15:43:50+00:00",
+  "wilayah": {
+    "kode": "12.05",
+    "kabkota": "Kabupaten Langkat",
+    "provinsi": "Sumatera Utara",
+    "slug": "kabupaten-langkat",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 3,
+  "kajian": [
+    {
+      "id": "1c82414a8273",
+      "judul": null,
+      "tema": null,
+      "kitab": "Riyadhush Shalihin",
+      "ustadz": [
+        "Ustadz Dr. Djazuli Ruhan Basyir, Lc., M.A."
+      ],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "15:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-07T15:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Husna",
+        "alamat": "Admiralty Residence, Jl. RS Fatmawati, Pondok Labu Jak., Sel",
+        "peta": "https://maps.app.goo.gl/3B75bSWCfjgSLKtZ7"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14249",
+          "diteruskan_dari": "Djazuli Ruhan Basyir",
+          "diposting": "2026-11-07T06:04:05+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
+    {
+      "id": "9a84df46e65c",
+      "judul": null,
+      "tema": "Tafsir Qs. Ali Imran : 159 - Bagian Ke-2",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Ya'la Hizbul Majid"
+      ],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://goo.gl/maps/pr8SW"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "online",
+      "streaming": "https://youtube.com/live/5BB4Ty2IeWQ",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14232",
+          "diteruskan_dari": "Masjid Mu'adz bin Jabal",
+          "diposting": "2026-11-07T05:51:20+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
+    {
+      "id": "f3ffa5e9438a",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Erwandi Tarmizi, M.A."
+      ],
+      "tanggal": "2026-11-08",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://goo.gl/maps/pr8SW"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "online",
+      "streaming": "https://youtube.com/live/3Dah2rndbIs",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14300",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T14:08:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    }
+  ]
+}

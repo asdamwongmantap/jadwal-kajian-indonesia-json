@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-07T15:43:50+00:00",
+  "wilayah": {
+    "kode": "33.74",
+    "kabkota": "Kota Semarang",
+    "provinsi": "Jawa Tengah",
+    "slug": "kota-semarang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "8194beeccd44",
+      "judul": "Kajian Rutin Sabtu Pekan Ganjil",
+      "tema": "Shalat Menggunakan Kaos Kaki",
+      "kitab": "Sifat Shalat Nabi",
+      "ustadz": [
+        "Ustadz Budi Santoso Afrizal, Lc, M.H., C.AFM.",
+        "• Alumni LIPIA Jakarta"
+      ],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid As-Salaam",
+        "alamat": "Ngesrep Barat 4 No 17",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14234",
+          "diteruskan_dari": "Budi Santoso Official",
+          "diposting": "2026-11-07T05:52:33+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    }
+  ]
+}

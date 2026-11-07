@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T00:56:24+00:00",
+  "dibuat": "2026-11-07T15:43:50+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,8 +8,56 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 11,
+  "jumlah": 13,
   "kajian": [
+    {
+      "id": "0b73db498175",
+      "judul": null,
+      "tema": null,
+      "kitab": "LEBIH SISTEMATIS, Ilmunya Akan Lebih Meresap",
+      "ustadz": [
+        "Ustadz Abu Aisyah Muhamad Fajri, M Pdi",
+        "Hafidzhahulláhu"
+      ],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Pb Soedirman",
+        "alamat": "(Halaman depan SMPI PB Soedirman), Jl. Nusantara Raya no. 1 Villa Indah Permai (VIP) Blok c11 Teluk Pucung - Bekasi Utara",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14275",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T06:26:55+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
     {
       "id": "2aeb8d43a09b",
       "judul": null,
@@ -53,7 +101,54 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
+    {
+      "id": "2ecdbbeea4f5",
+      "judul": null,
+      "tema": "Fikih Muamalah dari Kitab Bulughul-Maram",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Adni Kurniawan"
+      ],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Raya At-Taqwa Jembatan 11",
+        "alamat": "Rawalumbu, Kota Bekasi",
+        "peta": "https://maps.app.goo.gl/hrjSW9PErBsZhbzB8"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14276",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T06:27:44+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     },
     {
       "id": "40a39640e537",
@@ -98,7 +193,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     },
     {
       "id": "4a763f971127",
@@ -143,7 +238,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     },
     {
       "id": "58d88f432ec1",
@@ -188,7 +283,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     },
     {
       "id": "81d478fc2d9a",
@@ -240,7 +335,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     },
     {
       "id": "9a0b237d12ea",
@@ -285,7 +380,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     },
     {
       "id": "e06ffa7883a4",
@@ -332,7 +427,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-05T17:28:08+00:00",
-      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     },
     {
       "id": "9872fbc34dce",
@@ -379,7 +474,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-05T17:28:08+00:00",
-      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     },
     {
       "id": "1c22005effd3",

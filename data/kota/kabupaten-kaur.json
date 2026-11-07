@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-07T15:43:50+00:00",
+  "wilayah": {
+    "kode": "17.04",
+    "kabkota": "Kabupaten Kaur",
+    "provinsi": "Bengkulu",
+    "slug": "kabupaten-kaur",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "416af7ef6100",
+      "judul": "Kajian Tematik Online)",
+      "tema": "1 Apa Itu Takdir? 2 Jika Semua Sudah Ditakdirkan, Mengapa Kita Masih Harus Berusaha? 3 Bagaimana Hubungan Doa, Ikhtiar, dan Tawakal dengan Takdir? 4 Bagaimana Menyikapi Kenyataan yang Tidak Selalu Se…",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Halid Syar'ie, Lc."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "19:30",
+        "selesai": "21:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-14T19:30:00+07:00",
+      "tempat": {
+        "nama": "Online via Zoom (Link akan dibagikan di Komunitas WhatsApp)",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "17.04",
+        "kabkota": "Kabupaten Kaur",
+        "provinsi": "Bengkulu",
+        "slug": "kabupaten-kaur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14224",
+          "diteruskan_dari": "Surabaya Mengaji",
+          "diposting": "2026-11-07T05:46:48+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    }
+  ]
+}

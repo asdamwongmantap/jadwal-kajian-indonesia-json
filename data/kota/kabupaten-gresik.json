@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T00:56:24+00:00",
+  "dibuat": "2026-11-07T15:43:50+00:00",
   "wilayah": {
     "kode": "35.25",
     "kabkota": "Kabupaten Gresik",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-gresik",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "1c4d50eb06bc",
+      "judul": null,
+      "tema": "Tafsir Ibnu Katsir",
+      "kitab": "Durusul Lughah",
+      "ustadz": [
+        "Ustadzah Shinta"
+      ],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-07T07:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Mutiara Sunnah",
+        "alamat": "Perum Ahsana, Kedanyang - Gresik",
+        "peta": "https://maps.app.goo.gl/s4SagLSnYHfCW4Bj8"
+      },
+      "wilayah": {
+        "kode": "35.25",
+        "kabkota": "Kabupaten Gresik",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-gresik",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14227",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-11-07T05:47:46+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
     {
       "id": "f8a62688c7fc",
       "judul": null,

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T00:56:24+00:00",
+  "dibuat": "2026-11-07T15:43:50+00:00",
   "wilayah": {
     "kode": "52.72",
     "kabkota": "Kota Bima",
@@ -8,7 +8,7 @@
     "slug": "kota-bima",
     "zona_waktu": "WITA"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
     {
       "id": "8b505e51ac9d",
@@ -56,7 +56,55 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
+    {
+      "id": "3bcf172ae414",
+      "judul": null,
+      "tema": null,
+      "kitab": "Bayan Sabilis Salaf #12 \"Tunduk dan Patuh Kepada Wahyu",
+      "ustadz": [
+        "Dr. Musyaffa' Ad Dariny, M. A",
+        "Kitab Bayan Sabilis Salaf #12 \"Tunduk dan Patuh Kepada Wahyu\""
+      ],
+      "tanggal": "2026-11-08",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "05:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-08T05:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Ikhlas Dukuh Bima",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "52.72",
+        "kabkota": "Kota Bima",
+        "provinsi": "Nusa Tenggara Barat",
+        "slug": "kota-bima",
+        "zona_waktu": "WITA"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14294",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T14:06:20+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
     }
   ]
 }

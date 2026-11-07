@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T00:56:24+00:00",
+  "dibuat": "2026-11-07T15:43:50+00:00",
   "wilayah": {
     "kode": "11.07",
     "kabkota": "Kabupaten Pidie",
@@ -8,8 +8,53 @@
     "slug": "kabupaten-pidie",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 5,
   "kajian": [
+    {
+      "id": "bd4f9f4d36c1",
+      "judul": "Info Kajian Rutin Masjid Jami' Al Imam Abu Daud",
+      "tema": null,
+      "kitab": "Al-Qawaidul",
+      "ustadz": [],
+      "tanggal": "2026-11-07",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Mesjid Imam Abu Daud",
+        "alamat": "Jl. Kampung Baru, Sialang Sakti Tenayan, Raya",
+        "peta": "https://maps.app.goo.gl/HDzF61ojnVXg2ePn8"
+      },
+      "wilayah": {
+        "kode": "11.07",
+        "kabkota": "Kabupaten Pidie",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-pidie",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14263",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T06:15:57+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
+      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
     {
       "id": "eeceb54211c4",
       "judul": null,
