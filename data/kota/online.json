@@ -1,50 +1,9 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-06T16:49:06+00:00",
+  "dibuat": "2026-11-07T00:56:24+00:00",
   "wilayah": null,
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "77ac9544a386",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Yogi Triandi, B.A."
-      ],
-      "tanggal": "2026-11-06",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dzuhur",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14134",
-          "diteruskan_dari": "",
-          "diposting": "2026-11-06T01:15:36+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-06T01:31:51+00:00",
-      "terakhir_dilihat": "2026-11-06T16:49:06+00:00"
-    },
     {
       "id": "8a57b556d849",
       "judul": null,

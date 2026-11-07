@@ -1,89 +1,9 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-06T16:49:06+00:00",
+  "dibuat": "2026-11-07T00:56:24+00:00",
   "wilayah": null,
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "245d578c6689",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-11-06",
-      "tanggal_perkiraan": true,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "11:38",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Soleh Hawa",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": null,
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14189",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-06T02:15:55+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-06T16:49:06+00:00",
-      "terakhir_dilihat": "2026-11-06T16:49:06+00:00"
-    },
-    {
-      "id": "46418be60422",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Diaz Nabil Zulfany"
-      ],
-      "tanggal": "2026-11-06",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Ihsan Dukuh Zamrud",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": null,
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14185",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-06T02:12:04+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-06T16:49:06+00:00",
-      "terakhir_dilihat": "2026-11-06T16:49:06+00:00"
-    },
     {
       "id": "78cc40adb078",
       "judul": null,

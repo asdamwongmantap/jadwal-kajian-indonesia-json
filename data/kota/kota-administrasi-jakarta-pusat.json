@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-06T16:49:06+00:00",
+  "dibuat": "2026-11-07T00:56:24+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -11,14 +11,16 @@
   "jumlah": 5,
   "kajian": [
     {
-      "id": "07e39e1b786b",
+      "id": "8584e8ec13e6",
       "judul": "Kajian Dialog Zuhur",
-      "tema": null,
+      "tema": "Kitab Bulughulmarom",
       "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-11-06",
+      "ustadz": [
+        "H. Ahmad Mulyadi, SE.I."
+      ],
+      "tanggal": "2026-11-07",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -49,23 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-05T17:28:08.094586+00:00"
+          "diposting": "2026-11-07T00:56:24.228943+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-05T17:28:08+00:00",
-      "terakhir_dilihat": "2026-11-06T16:49:06+00:00"
+      "pertama_dilihat": "2026-11-07T00:56:24+00:00",
+      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
     },
     {
-      "id": "27d403a49c0d",
+      "id": "8b6096cfe002",
       "judul": "Kajian Khawamisy",
-      "tema": "Taysirul Khollaq (AKHLAQ)",
+      "tema": "Ad Da'watut Tammah (AQIDAH)",
       "kitab": null,
       "ustadz": [
-        "H. Ahmad Mahrus Iskandar, B.Sc."
+        "Dr. Abdul Rosyid TH, M.Pd."
       ],
-      "tanggal": "2026-11-06",
+      "tanggal": "2026-11-07",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -96,23 +98,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-05T17:28:08.094586+00:00"
+          "diposting": "2026-11-07T00:56:24.228943+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-05T17:28:08+00:00",
-      "terakhir_dilihat": "2026-11-06T16:49:06+00:00"
+      "pertama_dilihat": "2026-11-07T00:56:24+00:00",
+      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
     },
     {
-      "id": "3a098472222b",
+      "id": "bd43891f7ec3",
       "judul": "Kajian Renungan Fajar",
-      "tema": "Memaafkan Karena Allah",
+      "tema": "Bukti Bagi Seorang Mu'min",
       "kitab": null,
       "ustadz": [
-        "KH. Mas'ud Halimin, M.A."
+        "Dr. H. Ahmad Shaleh Amin, Lc, M.A."
       ],
-      "tanggal": "2026-11-06",
+      "tanggal": "2026-11-07",
       "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -143,19 +145,19 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-05T17:28:08.094586+00:00"
+          "diposting": "2026-11-07T00:56:24.228943+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-05T17:28:08+00:00",
-      "terakhir_dilihat": "2026-11-06T16:49:06+00:00"
+      "pertama_dilihat": "2026-11-07T00:56:24+00:00",
+      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
     },
     {
-      "id": "9bcb52aa24fe",
+      "id": "0527becbe450",
       "judul": "Kajian Qobla Jumat",
       "tema": null,
       "kitab": null,
       "ustadz": [],
-      "tanggal": "2026-11-06",
+      "tanggal": "2026-11-13",
       "tanggal_perkiraan": true,
       "hari": "Jumat",
       "rutin": null,
@@ -188,11 +190,11 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-10-31T00:47:24.934759+00:00"
+          "diposting": "2026-11-07T00:56:24.228943+00:00"
         }
       ],
-      "pertama_dilihat": "2026-10-31T00:47:24+00:00",
-      "terakhir_dilihat": "2026-11-06T16:49:06+00:00"
+      "pertama_dilihat": "2026-11-07T00:56:24+00:00",
+      "terakhir_dilihat": "2026-11-07T00:56:24+00:00"
     },
     {
       "id": "ec3838040932",
