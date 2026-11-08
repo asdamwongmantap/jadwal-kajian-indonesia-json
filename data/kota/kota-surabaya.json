@@ -1,0 +1,155 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-08T00:34:57+00:00",
+  "wilayah": {
+    "kode": "35.78",
+    "kabkota": "Kota Surabaya",
+    "provinsi": "Jawa Timur",
+    "slug": "kota-surabaya",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 3,
+  "kajian": [
+    {
+      "id": "6aacce225c64",
+      "judul": null,
+      "tema": "Fiqh As-Sirah",
+      "kitab": "Tadzkiratus Sami' Wal Mutakallim",
+      "ustadz": [
+        "Ustadz Ahmad Ubaidillah Nasiden, Lc."
+      ],
+      "tanggal": "2026-11-08",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "06:00",
+        "selesai": "07:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-08T06:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ahmad Yani - Jl. Tegal Mulyorejo Baru 80-81",
+        "alamat": "Surabaya",
+        "peta": "https://maps.app.goo.gl/xGTKtSs7SKTGqgaN9"
+      },
+      "wilayah": {
+        "kode": "35.78",
+        "kabkota": "Kota Surabaya",
+        "provinsi": "Jawa Timur",
+        "slug": "kota-surabaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14345",
+          "diteruskan_dari": "Surabaya Mengaji",
+          "diposting": "2026-11-07T20:24:53+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
+    },
+    {
+      "id": "61f3a02932ea",
+      "judul": "Kajian Anak - Serial Sirah Nabawiyah",
+      "tema": "AKU CINTA NABIKU - Bagian 6 (Menikah dengan Ibunda Khadijah Radhiallahu'anha)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zakariya Rizky, S.Ag., Lc."
+      ],
+      "tanggal": "2026-11-08",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": "10:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-08T08:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Jami Makkah",
+        "alamat": "Jl. Bendul Merisi Tengah No. 52, Bendul Merisi, Kec. Wonocolo, Surabaya",
+        "peta": "https://maps.app.goo.gl/HPscuAgg4Tu9CEYe8"
+      },
+      "wilayah": {
+        "kode": "35.78",
+        "kabkota": "Kota Surabaya",
+        "provinsi": "Jawa Timur",
+        "slug": "kota-surabaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "anak",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14395",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T21:13:55+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
+    },
+    {
+      "id": "85973e237090",
+      "judul": "Kajian Kitab Rutin",
+      "tema": "40 Hadits Tentang Hati",
+      "kitab": "40 Hadits Tentang Hati",
+      "ustadz": [
+        "Ustadz Ahmad Sabiq, Lc."
+      ],
+      "tanggal": "2026-11-08",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami' Makkah",
+        "alamat": "Bendul Merisi Tengah No 52, Surabaya",
+        "peta": "https://maps.app.goo.gl/HPscuAgg4Tu9CEYe8"
+      },
+      "wilayah": {
+        "kode": "35.78",
+        "kabkota": "Kota Surabaya",
+        "provinsi": "Jawa Timur",
+        "slug": "kota-surabaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14397",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T21:14:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
+    }
+  ]
+}

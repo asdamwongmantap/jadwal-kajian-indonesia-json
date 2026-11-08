@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T15:43:50+00:00",
+  "dibuat": "2026-11-08T00:34:57+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,32 +8,32 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
-      "id": "2c49d9093061",
-      "judul": "Info Kajian Mt. Nurul Jannah",
-      "tema": "Birrul Walidain , Jihad Yang Dilupakan",
-      "kitab": null,
+      "id": "d3c2bc7b6018",
+      "judul": "Majelis Ba'da Maghrib",
+      "tema": null,
+      "kitab": "Ahaditsul Akhlak",
       "ustadz": [
-        "Ustadz DR. Musyaffa Ad-Dariny"
+        "Ustadz Riza Afrizal, Lc., M.Ag."
       ],
-      "tanggal": "2026-11-07",
+      "tanggal": "2026-11-08",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": "09:30",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-07T09:30:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Al Hijrah",
-        "alamat": "JL.Cempaka V No 2 Rt 006 / 011 Bintaro Pesanggrahan Jakarta Selatan",
-        "peta": "https://maps.app.goo.gl/8N85KzH2CDct932P9"
+        "nama": "Masjid Nurullah",
+        "alamat": "Apartemen Kalibata City, Basement Tower Cendana",
+        "peta": null
       },
       "wilayah": {
         "kode": "31.74",
@@ -44,18 +44,65 @@
       },
       "mode": "hybrid",
       "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14350",
+          "diteruskan_dari": "Masjid Nurullah Kalibata City",
+          "diposting": "2026-11-07T20:26:53+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
+    },
+    {
+      "id": "d7f0e8077090",
+      "judul": null,
+      "tema": "Serial Dauroh Aqidah (seri 1)",
+      "kitab": "Pembahasan",
+      "ustadz": [
+        "Ustadz Dr. Sufyan bin Fuad Baswedan, M.A."
+      ],
+      "tanggal": "2026-11-29",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "13:00",
+        "selesai": "14:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-29T13:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Nurul Iman",
+        "alamat": "Blok M Square Lantai 7, Kebayoran Baru, Jakarta Selatan",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
       "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14222",
+          "url": "https://t.me/jadwalkajiansunnah/14384",
           "diteruskan_dari": null,
-          "diposting": "2026-11-06T22:02:15+00:00"
+          "diposting": "2026-11-07T20:57:50+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     },
     {
       "id": "4b8b93127342",

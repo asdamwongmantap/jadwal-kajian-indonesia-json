@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T15:43:50+00:00",
+  "dibuat": "2026-11-08T00:34:57+00:00",
   "wilayah": {
     "kode": "32.76",
     "kabkota": "Kota Depok",
@@ -8,66 +8,19 @@
     "slug": "kota-depok",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "d5e00606e49a",
-      "judul": "Kajian Tematik Spesial Muslimah",
-      "tema": "Jika Aku Mati Duluan Kamu Gimana?",
-      "kitab": null,
+      "id": "35c40f3ef613",
+      "judul": "Kajian Spesial",
+      "tema": "dalam Aqidah, Manhaj, dan Akhlak",
+      "kitab": "Min Washaya as-Salaf",
       "ustadz": [
-        "Ustadz Muflih Safitra, M.sc."
+        "Ustadz Ali Basuki, Lc."
       ],
-      "tanggal": "2026-11-07",
+      "tanggal": "2026-11-08",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-07T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Ar Riyadh Depok",
-        "alamat": "Jl. Kolintang 2, Mekarjaya, Sukmajaya, Depok 2 Tengah 16411",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.76",
-        "kabkota": "Kota Depok",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-depok",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14217",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-06T21:57:46+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
-    },
-    {
-      "id": "b2a3dc8e9857",
-      "judul": "Kajian KITAB AL-KABAAIR",
-      "tema": null,
-      "kitab": "Al-Kabaair",
-      "ustadz": [
-        "Ustadz Amrullah Tekko, Lc."
-      ],
-      "tanggal": "2026-11-07",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -96,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14219",
+          "url": "https://t.me/jadwalkajiansunnah/14378",
           "diteruskan_dari": null,
-          "diposting": "2026-11-06T21:58:30+00:00"
+          "diposting": "2026-11-07T20:49:40+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     }
   ]
 }

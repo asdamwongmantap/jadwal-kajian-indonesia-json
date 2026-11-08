@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T15:43:50+00:00",
+  "dibuat": "2026-11-08T00:34:57+00:00",
   "wilayah": {
     "kode": "32.07",
     "kabkota": "Kabupaten Ciamis",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-ciamis",
     "zona_waktu": "WIB"
   },
-  "jumlah": 7,
+  "jumlah": 8,
   "kajian": [
+    {
+      "id": "73cda15d6686",
+      "judul": "Kajian Islam Tematik",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Rizal Arifin, M.Pd."
+      ],
+      "tanggal": "2026-11-08",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Imam Syafi'i Ciamis",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/MJedjY6gjiprRmbAA"
+      },
+      "wilayah": {
+        "kode": "32.07",
+        "kabkota": "Kabupaten Ciamis",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-ciamis",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14393",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T21:09:02+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
+    },
     {
       "id": "83967a1141bf",
       "judul": "Ta'lim Ahad Sore",
@@ -99,10 +146,17 @@
           "url": "https://t.me/jadwalkajiansunnah/13074",
           "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
           "diposting": "2026-10-24T20:45:56+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14403",
+          "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
+          "diposting": "2026-11-07T22:03:09+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-24T23:13:34+00:00",
-      "terakhir_dilihat": "2026-10-28T16:08:21+00:00"
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     },
     {
       "id": "219a52e3e9ba",

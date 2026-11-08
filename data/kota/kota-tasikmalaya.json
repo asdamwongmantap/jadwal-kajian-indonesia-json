@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T15:43:50+00:00",
+  "dibuat": "2026-11-08T00:34:57+00:00",
   "wilayah": {
     "kode": "32.78",
     "kabkota": "Kota Tasikmalaya",
@@ -8,31 +8,31 @@
     "slug": "kota-tasikmalaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
-      "id": "318b2a67c42f",
-      "judul": "Kajian Rutin Alfata",
-      "tema": null,
-      "kitab": "Qawaid Quraniyah",
+      "id": "b8247ef803a5",
+      "judul": "Info Kajian Al Hasan Hawu Nini Tasikmalaya",
+      "tema": "Tauhid & Aqidah - Kitab A'lam Sunnah Al Mansyurah & Riyadhus Shalihin",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Arif Priyadi Lc hafidzhahullah"
+        "Ustadz Rizal Arifin, M.Pd."
       ],
-      "tanggal": "2026-11-07",
+      "tanggal": "2026-11-08",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": "16:00",
+        "mulai": "10:00",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-07T16:00:00+07:00",
+      "mulai_iso": "2026-11-08T10:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Al Falah",
-        "alamat": "Jl. Nusa indah, Perumnas Cisalak Kec Cipedes Kota Tasikmalaya Jawa Barat",
+        "nama": "Masjid Al Hasan",
+        "alamat": "Jl. Raya Singaparna - Tasik,, Rumah Makan Hawu Nini / SPBU Cikunir Hilir,, Kec. Mangkubumi - Kota Tasikmalaya",
         "peta": null
       },
       "wilayah": {
@@ -49,13 +49,60 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14277",
+          "url": "https://t.me/jadwalkajiansunnah/14306",
           "diteruskan_dari": null,
-          "diposting": "2026-11-07T06:28:47+00:00"
+          "diposting": "2026-11-07T15:46:29+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
+    },
+    {
+      "id": "c0e033b9fe0e",
+      "judul": "Kajian Tahsin & Syarah Kitab Muqoddimah Jazariyyah",
+      "tema": "Kajian Tahsin & Syarah Kitab Muqoddimah Jazariyyah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zulfikar Tamher, S.Ag."
+      ],
+      "tanggal": "2026-11-08",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ahsanul Mahmuda",
+        "alamat": "Jl. SL. Tobing, Sambongpari, Mangkubumi, Kota Tasikmalaya",
+        "peta": "https://maps.app.goo.gl/mVFjrQH8tB26CVUv9"
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14319",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T15:57:42+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     },
     {
       "id": "9cd19eb1f979",

@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-08T00:34:57+00:00",
+  "wilayah": {
+    "kode": "12.72",
+    "kabkota": "Kota Pematangsiantar",
+    "provinsi": "Sumatera Utara",
+    "slug": "kota-pematangsiantar",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "e01b12fe7f25",
+      "judul": null,
+      "tema": "Ensiklopedi Adab Islam",
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Ummu Ahsan"
+      ],
+      "tanggal": "2026-11-08",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "14:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-08T14:00:00+07:00",
+      "tempat": {
+        "nama": "Ma'had Khadijah Boarding School",
+        "alamat": "Jl. Sisingamangaraja Gg. Ibrahim No.134 Kel. Bukit Sofa Pematangsiantar",
+        "peta": "https://maps.app.goo.gl/hVFZvfP65zc9npcT7"
+      },
+      "wilayah": {
+        "kode": "12.72",
+        "kabkota": "Kota Pematangsiantar",
+        "provinsi": "Sumatera Utara",
+        "slug": "kota-pematangsiantar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14322",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T16:01:45+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
+    }
+  ]
+}

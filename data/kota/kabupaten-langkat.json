@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T15:43:50+00:00",
+  "dibuat": "2026-11-08T00:34:57+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,32 +8,32 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
-      "id": "1c82414a8273",
-      "judul": null,
-      "tema": null,
-      "kitab": "Riyadhush Shalihin",
+      "id": "4a7235e66d96",
+      "judul": "Kajian Ahad Pagi Ba'da Sholat Subuh",
+      "tema": "Syarh Ushul Tsalatsah Mengenal Rasulullah(lanjutan)",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Dr. Djazuli Ruhan Basyir, Lc., M.A."
+        "Ustadz Hari Febriansyah, S.PdI., M.Pd."
       ],
-      "tanggal": "2026-11-07",
+      "tanggal": "2026-11-08",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": "15:00",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-07T15:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Al Husna",
-        "alamat": "Admiralty Residence, Jl. RS Fatmawati, Pondok Labu Jak., Sel",
-        "peta": "https://maps.app.goo.gl/3B75bSWCfjgSLKtZ7"
+        "nama": "Masjid Ahmad Daromi",
+        "alamat": "Kavling Hasanah, Jl.Pilar - Sukatani No.197, (Arah timur 50m sebelum lapangan Futsal Ganda Agung)",
+        "peta": null
       },
       "wilayah": {
         "kode": "12.05",
@@ -49,38 +49,38 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14249",
-          "diteruskan_dari": "Djazuli Ruhan Basyir",
-          "diposting": "2026-11-07T06:04:05+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/14314",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T15:50:50+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     },
     {
-      "id": "9a84df46e65c",
+      "id": "e621c641bca0",
       "judul": null,
-      "tema": "Tafsir Qs. Ali Imran : 159 - Bagian Ke-2",
-      "kitab": null,
+      "tema": "Dua Sifat Yang Dicintai Oleh Allah",
+      "kitab": "Syarah Riyadus Shalihin",
       "ustadz": [
-        "Ustadz Abu Ya'la Hizbul Majid"
+        "Ustadz Pamuji Hadi Waluyo, Lc."
       ],
-      "tanggal": "2026-11-07",
+      "tanggal": "2026-11-08",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": "Maghrib",
+        "acuan_shalat": "Subuh",
         "relasi": "setelah"
       },
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://goo.gl/maps/pr8SW"
+        "nama": "Musholla Nurul Istiqomah",
+        "alamat": "Narahubung: 0813-1645-3253",
+        "peta": "https://goo.gl/maps/MrnZEUdQw3K2"
       },
       "wilayah": {
         "kode": "12.05",
@@ -89,20 +89,20 @@
         "slug": "kabupaten-langkat",
         "zona_waktu": "WIB"
       },
-      "mode": "online",
-      "streaming": "https://youtube.com/live/5BB4Ty2IeWQ",
-      "peserta": null,
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14232",
-          "diteruskan_dari": "Masjid Mu'adz bin Jabal",
-          "diposting": "2026-11-07T05:51:20+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/14308",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T15:47:05+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     },
     {
       "id": "f3ffa5e9438a",
@@ -149,7 +149,54 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T15:43:50+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
+    },
+    {
+      "id": "f4987cb24624",
+      "judul": null,
+      "tema": "Tafsir surat Al humazah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Irfan khumaidulloh"
+      ],
+      "tanggal": "2026-11-08",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Cahaya Hidayah",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/DMuSrKX6ovAwE8Z27"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14303",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-07T15:44:58+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     }
   ]
 }

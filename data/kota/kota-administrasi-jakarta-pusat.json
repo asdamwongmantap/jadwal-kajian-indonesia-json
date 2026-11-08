@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-07T15:43:50+00:00",
+  "dibuat": "2026-11-08T00:34:57+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -11,16 +11,16 @@
   "jumlah": 5,
   "kajian": [
     {
-      "id": "8584e8ec13e6",
+      "id": "c1ed52ccc180",
       "judul": "Kajian Dialog Zuhur",
-      "tema": "Kitab Bulughulmarom",
+      "tema": "Maraqi al-Ubudiyah Syarah Bidayatul Hidayah",
       "kitab": null,
       "ustadz": [
-        "H. Ahmad Mulyadi, SE.I."
+        "Dr. KH. Bukhori Sail Attahiri, Lc, MA."
       ],
-      "tanggal": "2026-11-07",
+      "tanggal": "2026-11-08",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -51,23 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-07T00:56:24.228943+00:00"
+          "diposting": "2026-11-08T00:34:57.545584+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     },
     {
-      "id": "8b6096cfe002",
+      "id": "d96894f323ef",
       "judul": "Kajian Khawamisy",
-      "tema": "Ad Da'watut Tammah (AQIDAH)",
+      "tema": "Syarah Tajul Arus (TASAWWUF)",
       "kitab": null,
       "ustadz": [
-        "Dr. Abdul Rosyid TH, M.Pd."
+        "Dr. KH. Bukhori Sail Attahiri, Lc., MA."
       ],
-      "tanggal": "2026-11-07",
+      "tanggal": "2026-11-08",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -98,23 +98,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-07T00:56:24.228943+00:00"
+          "diposting": "2026-11-08T00:34:57.545584+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     },
     {
-      "id": "bd43891f7ec3",
+      "id": "ee0ef8b0f42c",
       "judul": "Kajian Renungan Fajar",
-      "tema": "Bukti Bagi Seorang Mu'min",
+      "tema": "Berbuat Baik Kepada Orang Tua",
       "kitab": null,
       "ustadz": [
-        "Dr. H. Ahmad Shaleh Amin, Lc, M.A."
+        "KH. Jamaluddin F Hasyim Adnan, M.H."
       ],
-      "tanggal": "2026-11-07",
+      "tanggal": "2026-11-08",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -145,11 +145,11 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-07T00:56:24.228943+00:00"
+          "diposting": "2026-11-08T00:34:57.545584+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     },
     {
       "id": "0527becbe450",
@@ -194,7 +194,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+      "terakhir_dilihat": "2026-11-08T00:34:57+00:00"
     },
     {
       "id": "ec3838040932",
