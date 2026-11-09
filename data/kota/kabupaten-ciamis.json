@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-09T00:54:26+00:00",
+  "dibuat": "2026-11-09T19:53:38+00:00",
   "wilayah": {
     "kode": "32.07",
     "kabkota": "Kabupaten Ciamis",
@@ -8,7 +8,7 @@
     "slug": "kabupaten-ciamis",
     "zona_waktu": "WIB"
   },
-  "jumlah": 7,
+  "jumlah": 8,
   "kajian": [
     {
       "id": "83967a1141bf",
@@ -109,7 +109,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-24T23:13:34+00:00",
-      "terakhir_dilihat": "2026-11-09T00:54:26+00:00"
+      "terakhir_dilihat": "2026-11-09T19:53:38+00:00"
     },
     {
       "id": "219a52e3e9ba",
@@ -159,6 +159,53 @@
       "terakhir_dilihat": "2026-10-23T23:51:41+00:00"
     },
     {
+      "id": "3bc152577bba",
+      "judul": "Kajian Islam Ilmiyyah",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Al-Ustadz Ayip Saepudin, Lc."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": "Setiap Malam Selasa",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Ma'had Al-Ihsan Al-Atsary",
+        "alamat": "Bojonggaok - Ciamis, bit.ly/PonpesAlihsan",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.07",
+        "kabkota": "Kabupaten Ciamis",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-ciamis",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14458",
+          "diteruskan_dari": "",
+          "diposting": "2026-11-09T07:45:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-09T19:53:38+00:00",
+      "terakhir_dilihat": "2026-11-09T19:53:38+00:00"
+    },
+    {
       "id": "77ffadb06f77",
       "judul": "Ta'lim Senin Ba'da Maghrib",
       "tema": null,
@@ -200,10 +247,17 @@
           "url": "https://t.me/jadwalkajiansunnah/11717",
           "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
           "diposting": "2026-10-12T10:44:25+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14459",
+          "diteruskan_dari": "",
+          "diposting": "2026-11-09T07:45:53+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-14T00:17:48+00:00"
+      "terakhir_dilihat": "2026-11-09T19:53:38+00:00"
     },
     {
       "id": "a17fc892bfb5",

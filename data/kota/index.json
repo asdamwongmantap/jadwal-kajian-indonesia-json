@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-09T00:54:26+00:00",
+  "dibuat": "2026-11-09T19:53:38+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -15,7 +15,7 @@
       "kabkota": "Kabupaten Ciamis",
       "provinsi": "Jawa Barat",
       "kode": "32.07",
-      "jumlah": 7,
+      "jumlah": 8,
       "file": "kota/kabupaten-ciamis.json"
     },
     {
@@ -119,7 +119,7 @@
       "kabkota": "Kota Bekasi",
       "provinsi": "Jawa Barat",
       "kode": "32.75",
-      "jumlah": 4,
+      "jumlah": 3,
       "file": "kota/kota-bekasi.json"
     },
     {
@@ -151,7 +151,7 @@
       "kabkota": "Kota Parepare",
       "provinsi": "Sulawesi Selatan",
       "kode": "73.72",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-parepare.json"
     },
     {
@@ -183,7 +183,7 @@
       "kabkota": "Kota Tasikmalaya",
       "provinsi": "Jawa Barat",
       "kode": "32.78",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-tasikmalaya.json"
     },
     {

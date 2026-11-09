@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-09T00:54:26+00:00",
+  "dibuat": "2026-11-09T19:53:38+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,55 +8,8 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 3,
   "kajian": [
-    {
-      "id": "9872fbc34dce",
-      "judul": "Ta'lim Bulanan Ibu-Ibu At-Taqwa",
-      "tema": "Berdamai di Sisa Umur",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Ahmad Rojab, M.A."
-      ],
-      "tanggal": "2026-11-09",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": "08:45",
-        "selesai": "11:00",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-09T08:45:00+07:00",
-      "tempat": {
-        "nama": "Masjid At-Taqwa Jatibening Satu",
-        "alamat": "08.45 - 11.00 Wib",
-        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "attaqwa-jatibening",
-          "nama": "Masjid At-Taqwa Jatibening Satu",
-          "url": "https://attaqwajatibening.com/berita/talim-bulanan-ibu-ibu-at-taqwa-senin-9-november-2026-29-jumadil-awwal-1448-h",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-05T17:28:08.094586+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-05T17:28:08+00:00",
-      "terakhir_dilihat": "2026-11-09T00:54:26+00:00"
-    },
     {
       "id": "1c22005effd3",
       "judul": null,
