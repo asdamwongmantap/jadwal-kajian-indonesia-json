@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-08T16:02:00+00:00",
+  "dibuat": "2026-11-09T00:54:26+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,55 +8,8 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 3,
   "kajian": [
-    {
-      "id": "d3c2bc7b6018",
-      "judul": "Majelis Ba'da Maghrib",
-      "tema": null,
-      "kitab": "Ahaditsul Akhlak",
-      "ustadz": [
-        "Ustadz Riza Afrizal, Lc., M.Ag."
-      ],
-      "tanggal": "2026-11-08",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurullah",
-        "alamat": "Apartemen Kalibata City, Basement Tower Cendana",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14350",
-          "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-11-07T20:26:53+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
-      "terakhir_dilihat": "2026-11-08T16:02:00+00:00"
-    },
     {
       "id": "d7f0e8077090",
       "judul": null,
@@ -102,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-08T00:34:57+00:00",
-      "terakhir_dilihat": "2026-11-08T16:02:00+00:00"
+      "terakhir_dilihat": "2026-11-09T00:54:26+00:00"
     },
     {
       "id": "4b8b93127342",

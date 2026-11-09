@@ -1,91 +1,9 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-08T16:02:00+00:00",
+  "dibuat": "2026-11-09T00:54:26+00:00",
   "wilayah": null,
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "fcfb80a843bc",
-      "judul": "Kajian Nahwu Wadhih & Kitabut Tashrif",
-      "tema": "Nahwu Wadhih Juz 2 | Hal. 113 : Tamrin Al Muarrof Bil Alifi Wal Lam",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Pamuji Hadi Waluyo, Lc."
-      ],
-      "tanggal": "2026-11-08",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "07:00",
-        "selesai": "08:00",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-08T07:00:00+07:00",
-      "tempat": {
-        "nama": "Mushola Nurul Istiqomah",
-        "alamat": null,
-        "peta": "https://goo.gl/maps/MrnZEUdQw3K2"
-      },
-      "wilayah": null,
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14299",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-07T14:08:07+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-07T15:43:50+00:00",
-      "terakhir_dilihat": "2026-11-08T16:02:00+00:00"
-    },
-    {
-      "id": "23ee4071cdb0",
-      "judul": null,
-      "tema": null,
-      "kitab": "Masalah Penuntut Ilmu",
-      "ustadz": [
-        "Ustadz Ahmad Baidhawi, Lc."
-      ],
-      "tanggal": "2026-11-08",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Ihsan",
-        "alamat": "Dukuh Zamrud",
-        "peta": null
-      },
-      "wilayah": null,
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14372",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-07T20:43:33+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
-      "terakhir_dilihat": "2026-11-08T16:02:00+00:00"
-    },
     {
       "id": "78cc40adb078",
       "judul": null,
@@ -133,7 +51,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-31T15:23:03+00:00",
-      "terakhir_dilihat": "2026-11-08T16:02:00+00:00"
+      "terakhir_dilihat": "2026-11-09T00:54:26+00:00"
     }
   ]
 }

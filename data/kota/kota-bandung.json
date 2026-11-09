@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-08T16:02:00+00:00",
+  "dibuat": "2026-11-09T00:54:26+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,55 +8,8 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "fcffee98dcb2",
-      "judul": "Kajian Al-Mughni Center For Islamic Studies",
-      "tema": "Allah Maha Dekat dengan Para Hamba-Nya (Bagian 2)",
-      "kitab": "al-Qawa'id al-Mutsla fiy Shifatillahi wa-Asma'ihi al-Husna",
-      "ustadz": [
-        "Ustadz Dr. Andy Octavian Latief, M.Sc."
-      ],
-      "tanggal": "2026-11-08",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid An-Naafi",
-        "alamat": "Jl. Dago Pakar Permai 7, Komp. Resort Dago Pakar Bandung",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": "https://youtube.com/@almughnicenter",
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14356",
-          "diteruskan_dari": "Al-Mughni Center for Islamic Studies",
-          "diposting": "2026-11-07T20:31:15+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-08T00:34:57+00:00",
-      "terakhir_dilihat": "2026-11-08T16:02:00+00:00"
-    },
     {
       "id": "2a1dc7c25614",
       "judul": null,
@@ -102,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-08T00:34:57+00:00",
-      "terakhir_dilihat": "2026-11-08T16:02:00+00:00"
+      "terakhir_dilihat": "2026-11-09T00:54:26+00:00"
     }
   ]
 }
