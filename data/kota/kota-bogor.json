@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-09T19:53:38+00:00",
+  "dibuat": "2026-11-10T03:33:46+00:00",
   "wilayah": {
     "kode": "32.71",
     "kabkota": "Kota Bogor",
@@ -8,8 +8,55 @@
     "slug": "kota-bogor",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "c07421ddc707",
+      "judul": null,
+      "tema": "Kematian Itu Haq Kematian Itu Pasti",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Luthfi Abdul Jabbar, Lc."
+      ],
+      "tanggal": "2026-11-10",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-10T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid At-Taufiq",
+        "alamat": "Paledang, Jl. Paledang No. 44 Bogor",
+        "peta": "https://maps.app.goo.gl/iR55tVzFJmFXrTtW6"
+      },
+      "wilayah": {
+        "kode": "32.71",
+        "kabkota": "Kota Bogor",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bogor",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14471",
+          "diteruskan_dari": "R",
+          "diposting": "2026-11-09T20:53:16+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-10T03:33:46+00:00",
+      "terakhir_dilihat": "2026-11-10T03:33:46+00:00"
+    },
     {
       "id": "209775f771e4",
       "judul": null,
@@ -56,6 +103,53 @@
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
       "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+    },
+    {
+      "id": "75655705d6c5",
+      "judul": null,
+      "tema": "Kitab Fiqih Sunnah Wanita",
+      "kitab": "Hadist Arbain An Nawawi, Hadits ke-28: Memegang Teguh Sunnah dan Menjauhi Perselisihan Bid'ah",
+      "ustadz": [
+        "Ustadz Abu Bakar Al Akhdhory, Lc., M.Pd."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": "》Waktu : Ba'da Maghrib – selesai (setiap senin)",
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Alumni IPB",
+        "alamat": "Jl. Cidangiang No.4, Baranangsiang, Kecamatan Bogor Tengah, Kota Bogor",
+        "peta": "https://maps.app.goo.gl/f5zei9MUrHAfnaae6"
+      },
+      "wilayah": {
+        "kode": "32.71",
+        "kabkota": "Kota Bogor",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bogor",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14419",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-09T03:36:56+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-10T03:33:46+00:00",
+      "terakhir_dilihat": "2026-11-10T03:33:46+00:00"
     }
   ]
 }

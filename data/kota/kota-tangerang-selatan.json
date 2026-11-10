@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-10T03:33:46+00:00",
+  "wilayah": {
+    "kode": "36.74",
+    "kabkota": "Kota Tangerang Selatan",
+    "provinsi": "Banten",
+    "slug": "kota-tangerang-selatan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "497163430342",
+      "judul": null,
+      "tema": "Kitab Al Adab Al Mufrad, Menyingkirkan Ganguan",
+      "kitab": "Hilyah Thalabul Ilmi, Menjaga kehormatan dan kemuliaan ilmu",
+      "ustadz": [
+        "Ustadz Jajang Ibnu Hajar, Lc."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": "》Waktu : 08.30 – 10.00 WIB (setiap senin) (khusus akhwat)",
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Muhajirin",
+        "alamat": "Jl. Kasuari No. 1 Kompleks Pondok Pucung Indah I Tangerang Selatan",
+        "peta": "https://maps.app.goo.gl/Z2U6xiqfwJQYCwtW7?g_st=ic"
+      },
+      "wilayah": {
+        "kode": "36.74",
+        "kabkota": "Kota Tangerang Selatan",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14420",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-09T03:36:56+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-10T03:33:46+00:00",
+      "terakhir_dilihat": "2026-11-10T03:33:46+00:00"
+    }
+  ]
+}
