@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-10T03:33:46+00:00",
+  "dibuat": "2026-11-10T17:07:28+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,55 +8,8 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "525543821cae",
-      "judul": null,
-      "tema": "Keutamaan Shalat Subuh dan Ashar (Kitab Al Lulu Wal Marjan)",
-      "kitab": null,
-      "ustadz": [
-        "Al Ustadz Muhammad Mundzir"
-      ],
-      "tanggal": "2026-11-10",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurul Falaah",
-        "alamat": "Jl. Rajamantri Kidul No.6, Bandung",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14493",
-          "diteruskan_dari": "Pekerja Mengaji Channel",
-          "diposting": "2026-11-09T21:05:31+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-10T03:33:46+00:00",
-      "terakhir_dilihat": "2026-11-10T03:33:46+00:00"
-    },
     {
       "id": "2a1dc7c25614",
       "judul": null,

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-10T03:33:46+00:00",
+  "dibuat": "2026-11-10T17:07:28+00:00",
   "wilayah": {
     "kode": "32.71",
     "kabkota": "Kota Bogor",
@@ -8,55 +8,8 @@
     "slug": "kota-bogor",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
-    {
-      "id": "c07421ddc707",
-      "judul": null,
-      "tema": "Kematian Itu Haq Kematian Itu Pasti",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Luthfi Abdul Jabbar, Lc."
-      ],
-      "tanggal": "2026-11-10",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-10T09:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid At-Taufiq",
-        "alamat": "Paledang, Jl. Paledang No. 44 Bogor",
-        "peta": "https://maps.app.goo.gl/iR55tVzFJmFXrTtW6"
-      },
-      "wilayah": {
-        "kode": "32.71",
-        "kabkota": "Kota Bogor",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bogor",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14471",
-          "diteruskan_dari": "R",
-          "diposting": "2026-11-09T20:53:16+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-10T03:33:46+00:00",
-      "terakhir_dilihat": "2026-11-10T03:33:46+00:00"
-    },
     {
       "id": "209775f771e4",
       "judul": null,

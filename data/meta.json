@@ -1,8 +1,8 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-10T03:33:46+00:00",
-  "jumlah_kajian": 88,
-  "jumlah_kota": 34,
+  "dibuat": "2026-11-10T17:07:28+00:00",
+  "jumlah_kajian": 79,
+  "jumlah_kota": 27,
   "sumber": [
     {
       "id": "jadwalkajiansunnah",
@@ -10,8 +10,8 @@
       "tipe": "telegram",
       "url": "https://t.me/s/jadwalkajiansunnah",
       "status": "ok",
-      "pengumuman": 167,
-      "jadwal": 130
+      "pengumuman": 162,
+      "jadwal": 116
     },
     {
       "id": "attaqwa-jatibening",
@@ -27,7 +27,7 @@
       "nama": "Masjid Darussalam Cibubur",
       "tipe": "website",
       "url": "https://darussalam.id/live/",
-      "status": "ok",
+      "status": "gagal: ConnectTimeout",
       "pengumuman": 0,
       "jadwal": 0
     },
@@ -37,8 +37,8 @@
       "tipe": "website",
       "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
       "status": "ok",
-      "pengumuman": 0,
-      "jadwal": 0
+      "pengumuman": 4,
+      "jadwal": 4
     }
   ],
   "catatan": "Data diambil otomatis dari pengumuman publik. Selalu cek sumber asli sebelum berangkat."

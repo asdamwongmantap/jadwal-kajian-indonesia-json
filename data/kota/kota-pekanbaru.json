@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-10T03:33:46+00:00",
+  "dibuat": "2026-11-10T17:07:28+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,7 +8,7 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 9,
+  "jumlah": 10,
   "kajian": [
     {
       "id": "883697f3a5ab",
@@ -197,6 +197,53 @@
       ],
       "pertama_dilihat": "2026-11-04T17:20:26+00:00",
       "terakhir_dilihat": "2026-11-07T15:43:50+00:00"
+    },
+    {
+      "id": "a62b6d5537bd",
+      "judul": "Kajian Kitab Rutin",
+      "tema": null,
+      "kitab": "Rutin",
+      "ustadz": [
+        "Ustadz Gilang Prasetyo"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": "Setiap Selasa, Ba'da Maghrib - Selesai",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Furqon",
+        "alamat": "Jl. Taman Karya Perumahan Taman Mutiara I, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293, Map",
+        "peta": "https://maps.app.goo.gl/Wzkk1oQRuxBALGGJA"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14537",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-10T07:49:59+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-10T17:07:28+00:00",
+      "terakhir_dilihat": "2026-11-10T17:07:28+00:00"
     },
     {
       "id": "beab06772a41",
