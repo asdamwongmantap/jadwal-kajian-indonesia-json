@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-11T17:14:53+00:00",
+  "wilayah": {
+    "kode": "32.72",
+    "kabkota": "Kota Sukabumi",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-sukabumi",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "35ca823bf0fd",
+      "judul": "Kajian Rutin Aqidah",
+      "tema": "Kajian Rutin Aqidah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zainal Arifin, B.A., M.Pd."
+      ],
+      "tanggal": "2026-11-12",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-12T16:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Nurul Huda",
+        "alamat": "Jalan Lingkar Selatan, Warudoyong – Kota Sukabumi",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.72",
+        "kabkota": "Kota Sukabumi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-sukabumi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14657",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-11T15:17:24+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T17:14:53+00:00",
+      "terakhir_dilihat": "2026-11-11T17:14:53+00:00"
+    }
+  ]
+}

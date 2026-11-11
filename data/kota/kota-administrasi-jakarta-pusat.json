@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-11T01:14:09+00:00",
+  "dibuat": "2026-11-11T17:14:53+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -8,19 +8,19 @@
     "slug": "kota-administrasi-jakarta-pusat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 6,
+  "jumlah": 5,
   "kajian": [
     {
-      "id": "1265670d9c3f",
+      "id": "21dfef610de4",
       "judul": "Kajian Khawamisy",
-      "tema": "Annawaazil Fiqhiyyah Fi Shina'atil Muntajaatil Halal (FIQIH)",
+      "tema": "Fathul Baari bi Syarah Shahih Al Bukhari (HADITS)",
       "kitab": null,
       "ustadz": [
-        "H. Muladi Mughni, Lc., LLM., Ph.D."
+        "Dr. KH. Abdul Halim Sholeh, MM."
       ],
-      "tanggal": "2026-11-11",
+      "tanggal": "2026-11-12",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -51,70 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-10T17:07:28.416790+00:00"
+          "diposting": "2026-11-11T17:14:53.347653+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-10T17:07:28+00:00",
-      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+      "pertama_dilihat": "2026-11-11T17:14:53+00:00",
+      "terakhir_dilihat": "2026-11-11T17:14:53+00:00"
     },
     {
-      "id": "796ee6483b91",
-      "judul": "Kajian Kitab Rutin – Terbuka untuk Umum",
-      "tema": null,
-      "kitab": "Rutin – Terbuka untuk Umum",
-      "ustadz": [
-        "Ustadz Habib Taufiq Al Haddad ST., SH., MM."
-      ],
-      "tanggal": "2026-11-11",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Baitul Huda",
-        "alamat": "Jl. Kebun Kacang 31, Tanah Abang, Jakarta Pusat",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14610",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-10T22:46:36+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
-      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
-    },
-    {
-      "id": "a0e09cfee30b",
+      "id": "7b643dae94f9",
       "judul": "Kajian Renungan Fajar",
-      "tema": "Keteladanan Orang-Orang Shaleh",
+      "tema": "Meneladani Kemuliaan Akhlak Rasulullah",
       "kitab": null,
       "ustadz": [
-        "Dr. KH. A. Husni Ismail, M.Ag."
+        "H. Martomo Malaing, SQ, M.A."
       ],
-      "tanggal": "2026-11-11",
+      "tanggal": "2026-11-12",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -145,23 +98,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-10T17:07:28.416790+00:00"
+          "diposting": "2026-11-11T17:14:53.347653+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-10T17:07:28+00:00",
-      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+      "pertama_dilihat": "2026-11-11T17:14:53+00:00",
+      "terakhir_dilihat": "2026-11-11T17:14:53+00:00"
     },
     {
-      "id": "bbb0ef3b660e",
+      "id": "d673bc42d317",
       "judul": "Kajian Dialog Zuhur",
-      "tema": "Tafsir Kemenag",
+      "tema": "Kajian Tauhid Kitab: Muhammad Rasulullah SAW - Syamailuhu",
       "kitab": null,
       "ustadz": [
-        "Dr. KH. Hisbullah Huda, MA."
+        "KH. Ahmad Busyairi, Lc, MA."
       ],
-      "tanggal": "2026-11-11",
+      "tanggal": "2026-11-12",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -192,11 +145,11 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-10T17:07:28.416790+00:00"
+          "diposting": "2026-11-11T17:14:53.347653+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-10T17:07:28+00:00",
-      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+      "pertama_dilihat": "2026-11-11T17:14:53+00:00",
+      "terakhir_dilihat": "2026-11-11T17:14:53+00:00"
     },
     {
       "id": "0527becbe450",
@@ -241,7 +194,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+      "terakhir_dilihat": "2026-11-11T17:14:53+00:00"
     },
     {
       "id": "ec3838040932",

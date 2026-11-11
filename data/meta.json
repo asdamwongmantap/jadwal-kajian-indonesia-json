@@ -1,8 +1,8 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-11T01:14:09+00:00",
-  "jumlah_kajian": 117,
-  "jumlah_kota": 38,
+  "dibuat": "2026-11-11T17:14:53+00:00",
+  "jumlah_kajian": 80,
+  "jumlah_kota": 29,
   "sumber": [
     {
       "id": "jadwalkajiansunnah",
@@ -10,17 +10,17 @@
       "tipe": "telegram",
       "url": "https://t.me/s/jadwalkajiansunnah",
       "status": "ok",
-      "pengumuman": 151,
-      "jadwal": 108
+      "pengumuman": 147,
+      "jadwal": 103
     },
     {
       "id": "attaqwa-jatibening",
       "nama": "Masjid At-Taqwa Jatibening Satu",
       "tipe": "website",
       "url": "https://attaqwajatibening.com/berita",
-      "status": "gagal: ConnectTimeout",
-      "pengumuman": 0,
-      "jadwal": 0
+      "status": "ok",
+      "pengumuman": 9,
+      "jadwal": 9
     },
     {
       "id": "darussalam-cibubur",

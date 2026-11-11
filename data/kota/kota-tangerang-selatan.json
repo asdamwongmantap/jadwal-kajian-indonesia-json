@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-11T01:14:09+00:00",
+  "dibuat": "2026-11-11T17:14:53+00:00",
   "wilayah": {
     "kode": "36.74",
     "kabkota": "Kota Tangerang Selatan",
@@ -8,149 +8,8 @@
     "slug": "kota-tangerang-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "137a33d45cc2",
-      "judul": null,
-      "tema": "Menyelisihi Pemahaman Salafush Shalih adalah Kerusakan",
-      "kitab": "Kaidah dalam Tauhid",
-      "ustadz": [
-        "Ustadz Abu Yahya Badrusalam, Lc."
-      ],
-      "tanggal": "2026-11-11",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-11T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al-Barkah Sawah Baru",
-        "alamat": "Ciputat",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "36.74",
-        "kabkota": "Kota Tangerang Selatan",
-        "provinsi": "Banten",
-        "slug": "kota-tangerang-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14602",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-10T22:40:23+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
-      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
-    },
-    {
-      "id": "5d1bcce62adf",
-      "judul": "Kajian Dhuha Offline",
-      "tema": "KITAB MINHAJUL MUSLIM (Luqothah & Laqith)",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Luthfi Abdul Jabbar, Lc Hafidzhahullah"
-      ],
-      "tanggal": "2026-11-11",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-11T09:30:00+07:00",
-      "tempat": {
-        "nama": "@masjidjamiutsmanbinaffan",
-        "alamat": "Jl.Murjaya No.14 Rt.002 Rw.04, Jurang Mangu Barat, Pdk Aren, Tangerang Selatan",
-        "peta": "https://maps.app.goo.gl/fRwftVbZ6AJv6wT18"
-      },
-      "wilayah": {
-        "kode": "36.74",
-        "kabkota": "Kota Tangerang Selatan",
-        "provinsi": "Banten",
-        "slug": "kota-tangerang-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14604",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-10T22:41:34+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
-      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
-    },
-    {
-      "id": "ce8a9c08c300",
-      "judul": null,
-      "tema": "Beriman terhadap Adanya Al-Masih Ad-Dajjal",
-      "kitab": "Syarhus Sunnah",
-      "ustadz": [
-        "Ustadz Farhan Abu Furaihan"
-      ],
-      "tanggal": "2026-11-11",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al-Barkah Sawah Baru",
-        "alamat": "Ciputat",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "36.74",
-        "kabkota": "Kota Tangerang Selatan",
-        "provinsi": "Banten",
-        "slug": "kota-tangerang-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14601",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-10T22:39:34+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
-      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
-    },
     {
       "id": "497163430342",
       "judul": null,

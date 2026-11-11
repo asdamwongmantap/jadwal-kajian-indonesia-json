@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-11T01:14:09+00:00",
+  "dibuat": "2026-11-11T17:14:53+00:00",
   "wilayah": {
     "kode": "17.04",
     "kabkota": "Kabupaten Kaur",
@@ -52,10 +52,17 @@
           "url": "https://t.me/jadwalkajiansunnah/14224",
           "diteruskan_dari": "Surabaya Mengaji",
           "diposting": "2026-11-07T05:46:48+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14648",
+          "diteruskan_dari": "Surabaya Mengaji",
+          "diposting": "2026-11-11T01:30:45+00:00"
         }
       ],
       "pertama_dilihat": "2026-11-07T15:43:50+00:00",
-      "terakhir_dilihat": "2026-11-09T00:54:26+00:00"
+      "terakhir_dilihat": "2026-11-11T17:14:53+00:00"
     }
   ]
 }
