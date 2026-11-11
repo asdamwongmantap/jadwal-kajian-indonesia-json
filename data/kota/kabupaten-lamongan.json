@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-11T01:14:09+00:00",
+  "wilayah": {
+    "kode": "35.24",
+    "kabkota": "Kabupaten Lamongan",
+    "provinsi": "Jawa Timur",
+    "slug": "kabupaten-lamongan",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "9342a9ea4ea0",
+      "judul": null,
+      "tema": "Tafsir Surat Al-Kafirun (bagian Ke-3)",
+      "kitab": "Kitab Tafsir Ibnu Katsir",
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-11T10:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Taqwa Al Muhajirin Sampangan",
+        "alamat": "Jl. Lamongan III Perumnas No 61 Kelurahan Sampangan Kecamatan Gajah Mungkur",
+        "peta": "https://goo.gl/maps/pPm7J8Wus1NaRvJe6"
+      },
+      "wilayah": {
+        "kode": "35.24",
+        "kabkota": "Kabupaten Lamongan",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-lamongan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14634",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-11-10T23:10:53+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    }
+  ]
+}

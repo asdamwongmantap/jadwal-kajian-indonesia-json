@@ -1,0 +1,155 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-11T01:14:09+00:00",
+  "wilayah": {
+    "kode": "12.05",
+    "kabkota": "Kabupaten Langkat",
+    "provinsi": "Sumatera Utara",
+    "slug": "kabupaten-langkat",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 3,
+  "kajian": [
+    {
+      "id": "cf0b285e20af",
+      "judul": "KAJIAN MUSLIMAH : Mendamaikan Dua Orang",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Syafiq Al Khatieb, Lc,. M.A."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "13:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-11T13:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Jami Al-Mubarak",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14557",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-10T20:56:34+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
+    {
+      "id": "932078b84f3c",
+      "judul": null,
+      "tema": "Perintah Istiqomah Dalam Al Quran",
+      "kitab": "Tafsir As-Sa'di",
+      "ustadz": [
+        "Ustadz Pamuji Hadi Waluyo, Lc."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Musholla Nurul Istiqomah",
+        "alamat": null,
+        "peta": "https://goo.gl/maps/MrnZEUdQw3K2"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14598",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-10T22:36:56+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
+    {
+      "id": "f7432f1cf790",
+      "judul": null,
+      "tema": "KAJIAN ISLAM : Tafsir Al Qur'an | Al Kahf | Bagian 7 | Melanjutkan Pembahasan dari Ayat 107",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Naiim Luthfi Ambadar, Lc."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami Al-Mubarak",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14558",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-10T20:57:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    }
+  ]
+}

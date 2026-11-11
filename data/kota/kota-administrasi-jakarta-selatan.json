@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-10T17:07:28+00:00",
+  "dibuat": "2026-11-11T01:14:09+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,8 +8,149 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 6,
   "kajian": [
+    {
+      "id": "651a57dcd548",
+      "judul": "Kajian Spesial Ummahat Alhaamidiyah Taklim",
+      "tema": "Bukan Cuma Badan Yang Dibersihkan (kitab Tazkiyatun Nafs)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Habib Taufiq Al Haddad, ST., SH., MM."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-11T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Alhaamidiyah",
+        "alamat": "JI. TB Simatupang No.1, (Samping Gedung AD Premier). Belakang Ex pom bensin tb simatupang. Ragunan - Jakarta Selatan",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/live/2iz1cWOyblg",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14611",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-10T22:46:52+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
+    {
+      "id": "63839c801bda",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Taufiq Al-Haddad, ST., SH., MM."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "12:00",
+        "selesai": "13:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-11T12:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Daarut Tauhiid Jakarta (Jl. Cipaku I No.43",
+        "alamat": "Petogogan, Kebayoran Baru, Jakarta Selatan), Terbuka untuk Umum (Ikhwan & Akhwat)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14609",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-10T22:45:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
+    {
+      "id": "9a3acae9afcc",
+      "judul": "Kajian Rutin Tafsir Juz'amma",
+      "tema": "Tafsir Surah Al-Insyiqaq\" ayat 16",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Nizar Saad Jabal, Lc.,M.Pd."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "13:00",
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-11T13:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Nur Salma",
+        "alamat": "Centennial Tower lantai 22, Jl. Gatot Subroto Kav 24-25 Jaksel",
+        "peta": "https://maps.app.goo.gl/VhN76MxGZjyRKowH6"
+      },
+      "wilayah": {
+        "kode": "31.74",
+        "kabkota": "Kota Administrasi Jakarta Selatan",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14562",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-10T21:00:41+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
     {
       "id": "d7f0e8077090",
       "judul": null,

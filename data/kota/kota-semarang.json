@@ -1,0 +1,203 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-11T01:14:09+00:00",
+  "wilayah": {
+    "kode": "33.74",
+    "kabkota": "Kota Semarang",
+    "provinsi": "Jawa Tengah",
+    "slug": "kota-semarang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 4,
+  "kajian": [
+    {
+      "id": "7ea49b5693ff",
+      "judul": null,
+      "tema": "Mukhtaaraat (Ringkasan Kaidah-Kaidah Bahasa Arab)",
+      "kitab": "Bahasa Arab Amsilati",
+      "ustadz": [
+        "Ustadz Teguh Priyono, M.Pd."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": "09:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-11T08:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Nurus Sunnah (lantai 2)",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14627",
+          "diteruskan_dari": "Masjid Nurussunnah",
+          "diposting": "2026-11-10T23:08:58+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
+    {
+      "id": "04a8ad357d0b",
+      "judul": null,
+      "tema": "Studi Tentang Sebagian Sifat-Sifat Allah (bagian Ke-4)",
+      "kitab": "Kitab Tauhid",
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-11T16:30:00+07:00",
+      "tempat": {
+        "nama": "Rumah Perwira",
+        "alamat": "Jl. Diponegoro X Nomor 103 Perwira, Kelurahan Banyumanik, Kecamatan Banyumanik",
+        "peta": "https://maps.app.goo.gl/E2qD728Y132ipqNq9"
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14636",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-11-10T23:10:54+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
+    {
+      "id": "125472d8a2e8",
+      "judul": null,
+      "tema": "Diyat (bagian Ke-2)",
+      "kitab": "Bulughul Maram",
+      "ustadz": [
+        "Ustadz Abdul Hakim Rahmatulloh, Lc.",
+        "• Alumni LIPIA Jakarta"
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurus Sunnah",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14631",
+          "diteruskan_dari": "Masjid Nurussunnah",
+          "diposting": "2026-11-10T23:08:58+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
+    {
+      "id": "b018ff39d49b",
+      "judul": null,
+      "tema": "Hal-Hal Yang Berkaitan Mengenai Iqamah",
+      "kitab": "Aktho'ul Musholliin (kesalahan-Kesalahan Orang Yang Shalat)",
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Azhar Banyumanik",
+        "alamat": "Jl. Klenteng Sari Kelurahan Pedalangan Kecamatan Banyumanik",
+        "peta": "https://maps.app.goo.gl/Kb2MKFpV615ySF6A6"
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14638",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-11-10T23:10:54+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    }
+  ]
+}

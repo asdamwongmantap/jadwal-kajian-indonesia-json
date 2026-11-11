@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-10T17:07:28+00:00",
+  "dibuat": "2026-11-11T01:14:09+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,8 +8,102 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 4,
   "kajian": [
+    {
+      "id": "8d4b958d4f54",
+      "judul": "Kajian Rabu Pagi",
+      "tema": "Syukur",
+      "kitab": "Zuhud Dan Kelembutan Hati",
+      "ustadz": [
+        "Ustadz Ahmad Rasyid Bazher"
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-11T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Salman Al Farisi",
+        "alamat": "Jln. Haji Ten, Komp. Bulog, Jakarta Timur",
+        "peta": "https://maps.app.goo.gl/MTqFs42kQ4v1LF2dA"
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14600",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-10T22:38:43+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
+    {
+      "id": "fbf1324d9cd6",
+      "judul": "Info Kajian Rutin Masjid Soleh Hawa",
+      "tema": null,
+      "kitab": "Al-Wabil ash-Shayyib",
+      "ustadz": [
+        "Ustadz Nizar Saad Jabal, Lc., M.Pd."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Soleh Hawa",
+        "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14592",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-10T22:25:43+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
     {
       "id": "6bb4b954fe31",
       "judul": "Kajian Ilmiah",

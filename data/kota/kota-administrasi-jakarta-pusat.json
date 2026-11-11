@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-10T17:07:28+00:00",
+  "dibuat": "2026-11-11T01:14:09+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -8,7 +8,7 @@
     "slug": "kota-administrasi-jakarta-pusat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 5,
+  "jumlah": 6,
   "kajian": [
     {
       "id": "1265670d9c3f",
@@ -55,7 +55,54 @@
         }
       ],
       "pertama_dilihat": "2026-11-10T17:07:28+00:00",
-      "terakhir_dilihat": "2026-11-10T17:07:28+00:00"
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
+    },
+    {
+      "id": "796ee6483b91",
+      "judul": "Kajian Kitab Rutin – Terbuka untuk Umum",
+      "tema": null,
+      "kitab": "Rutin – Terbuka untuk Umum",
+      "ustadz": [
+        "Ustadz Habib Taufiq Al Haddad ST., SH., MM."
+      ],
+      "tanggal": "2026-11-11",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Baitul Huda",
+        "alamat": "Jl. Kebun Kacang 31, Tanah Abang, Jakarta Pusat",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14610",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-10T22:46:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-11T01:14:09+00:00",
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
     },
     {
       "id": "a0e09cfee30b",
@@ -102,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-10T17:07:28+00:00",
-      "terakhir_dilihat": "2026-11-10T17:07:28+00:00"
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
     },
     {
       "id": "bbb0ef3b660e",
@@ -149,7 +196,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-10T17:07:28+00:00",
-      "terakhir_dilihat": "2026-11-10T17:07:28+00:00"
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
     },
     {
       "id": "0527becbe450",
@@ -194,7 +241,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-07T00:56:24+00:00",
-      "terakhir_dilihat": "2026-11-10T17:07:28+00:00"
+      "terakhir_dilihat": "2026-11-11T01:14:09+00:00"
     },
     {
       "id": "ec3838040932",
