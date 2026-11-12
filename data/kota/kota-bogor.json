@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-11T17:14:53+00:00",
+  "dibuat": "2026-11-12T02:16:00+00:00",
   "wilayah": {
     "kode": "32.71",
     "kabkota": "Kota Bogor",
@@ -8,8 +8,55 @@
     "slug": "kota-bogor",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "197e0e0d671f",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Nurhayanto Lc S.Pd M.Pd."
+      ],
+      "tanggal": "2026-11-12",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-12T07:30:00+07:00",
+      "tempat": {
+        "nama": "Musholla Yayasan As Sahabat",
+        "alamat": "Bogor",
+        "peta": "https://maps.app.goo.gl/M6nYyQ1yFVH7tDeg9"
+      },
+      "wilayah": {
+        "kode": "32.71",
+        "kabkota": "Kota Bogor",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bogor",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14680",
+          "diteruskan_dari": "R",
+          "diposting": "2026-11-11T22:23:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-12T02:16:00+00:00",
+      "terakhir_dilihat": "2026-11-12T02:16:00+00:00"
+    },
     {
       "id": "209775f771e4",
       "judul": null,

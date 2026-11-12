@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-11T17:14:53+00:00",
+  "dibuat": "2026-11-12T02:16:00+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,8 +8,149 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 4,
   "kajian": [
+    {
+      "id": "631abc5e2848",
+      "judul": "Kajian Rutin - Terbuka Untuk Umum (ikhwan / Akhwat)",
+      "tema": null,
+      "kitab": "Hilyah Tholibil 'Ilmi",
+      "ustadz": [
+        "Ustadz Muhammad Bin Sugeng Avianto, B.A."
+      ],
+      "tanggal": "2026-11-12",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "18:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-12T18:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Aziz (Jl. Soekarno Hatta No. 662 - Bandung)",
+        "alamat": "Peserta: Terbuka untuk umum (Ikhwan / Akhwat)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14660",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-11T21:59:54+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-12T02:16:00+00:00",
+      "terakhir_dilihat": "2026-11-12T02:16:00+00:00"
+    },
+    {
+      "id": "7a8a8cb25835",
+      "judul": "Kajian Bareng Offline",
+      "tema": "Hadits Ke-48",
+      "kitab": "Arba'in An-Nawawi",
+      "ustadz": [
+        "Ustadz Hary Badar bin Marwan"
+      ],
+      "tanggal": "2026-11-12",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "20:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-12T20:00:00+07:00",
+      "tempat": {
+        "nama": "Studio MIMBA TV",
+        "alamat": "Jl. Kebon Gedang No. 99, Gatot Subroto, Kota Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14697",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-11-11T22:33:19+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-12T02:16:00+00:00",
+      "terakhir_dilihat": "2026-11-12T02:16:00+00:00"
+    },
+    {
+      "id": "661d82778ede",
+      "judul": "Kajian Kamis Malam Pekan ke Dua",
+      "tema": "Tafsir Surat Al-Baqarah Ayat 92-95",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ahmad Wijaya"
+      ],
+      "tanggal": "2026-11-12",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid ashSHIDDIQ",
+        "alamat": "Jl. Kebon Gedang (Gg. Hj. Siti Aisyah) Rt 02 Rw 10 Maleer, Batununggal, Kota Bandung",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14699",
+          "diteruskan_dari": "Imam Malik Bandung",
+          "diposting": "2026-11-11T22:36:16+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-12T02:16:00+00:00",
+      "terakhir_dilihat": "2026-11-12T02:16:00+00:00"
+    },
     {
       "id": "2a1dc7c25614",
       "judul": null,

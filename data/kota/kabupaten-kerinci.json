@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-12T02:16:00+00:00",
+  "wilayah": {
+    "kode": "15.01",
+    "kabkota": "Kabupaten Kerinci",
+    "provinsi": "Jambi",
+    "slug": "kabupaten-kerinci",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "ff16c2fbc29d",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Rafi Rahmat Sohirin Hafidzahullâh"
+      ],
+      "tanggal": "2026-11-12",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Yaqin",
+        "alamat": "Jl. Pemda, Pangkalan Kerinci Kota, Bârakallâhu fîkum",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "15.01",
+        "kabkota": "Kabupaten Kerinci",
+        "provinsi": "Jambi",
+        "slug": "kabupaten-kerinci",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14735",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-12T01:38:34+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-12T02:16:00+00:00",
+      "terakhir_dilihat": "2026-11-12T02:16:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-12T02:16:00+00:00",
+  "wilayah": {
+    "kode": "32.76",
+    "kabkota": "Kota Depok",
+    "provinsi": "Jawa Barat",
+    "slug": "kota-depok",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "41a7cde4ba8f",
+      "judul": null,
+      "tema": "Allah Menggenggam Dunia dan Melipat Langit",
+      "kitab": "Ushulul Iman",
+      "ustadz": [
+        "Ustadz Abu Faris Yudi Kurnia, Lc., M.pd."
+      ],
+      "tanggal": "2026-11-12",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Imam Asy Syafi'i (mias)",
+        "alamat": "Jl. Raden Saleh, Gg. Persahabatan No.69, Sukmajaya, Depok, GMaps: s.id/miasdepok",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14664",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-11T22:02:05+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-12T02:16:00+00:00",
+      "terakhir_dilihat": "2026-11-12T02:16:00+00:00"
+    }
+  ]
+}
