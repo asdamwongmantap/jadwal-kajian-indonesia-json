@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-12T17:38:30+00:00",
+  "wilayah": {
+    "kode": "35.71",
+    "kabkota": "Kota Kediri",
+    "provinsi": "Jawa Timur",
+    "slug": "kota-kediri",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "081b24da07c2",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Nizar Saad Jabal, M.Pd 'ala"
+      ],
+      "tanggal": "2026-11-13",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Pondok Pesantren Tahfizh Al-Qur'an Imam Nawawi",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "35.71",
+        "kabkota": "Kota Kediri",
+        "provinsi": "Jawa Timur",
+        "slug": "kota-kediri",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14740",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-12T15:10:26+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-12T17:38:30+00:00",
+      "terakhir_dilihat": "2026-11-12T17:38:30+00:00"
+    }
+  ]
+}
