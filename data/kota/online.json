@@ -1,9 +1,98 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-13T01:49:23+00:00",
+  "dibuat": "2026-11-13T17:15:57+00:00",
   "wilayah": null,
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "912d24cf020a",
+      "judul": "Kajian Rutin Untuk Umum",
+      "tema": "Syarah Aqidah Wasithiyah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Taufiq Al-Haddad, S.T., S.H., M.M."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": "https://youtube.com/masjidashshaff",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14947",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-13T13:38:48+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14917",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-13T13:14:33+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T17:15:57+00:00",
+      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+    },
+    {
+      "id": "bbafe1d494bb",
+      "judul": "Kajian Tematik Untuk Umum",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Achmad Buchari Jawas, B.A."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": "https://youtube.com/masjidashshaff",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14920",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-13T13:16:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T17:15:57+00:00",
+      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+    },
     {
       "id": "8a57b556d849",
       "judul": null,

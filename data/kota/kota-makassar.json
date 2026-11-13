@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-13T01:49:23+00:00",
+  "dibuat": "2026-11-13T17:15:57+00:00",
   "wilayah": {
     "kode": "73.71",
     "kabkota": "Kota Makassar",
@@ -8,55 +8,8 @@
     "slug": "kota-makassar",
     "zona_waktu": "WITA"
   },
-  "jumlah": 7,
+  "jumlah": 6,
   "kajian": [
-    {
-      "id": "18b9e1c5ba8c",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dzulqarnain M. Sunusi"
-      ],
-      "tanggal": "2026-11-13",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WITA",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid As-Sunnah",
-        "alamat": "Jl. Baji Rupa No. 8 Makassar",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "73.71",
-        "kabkota": "Kota Makassar",
-        "provinsi": "Sulawesi Selatan",
-        "slug": "kota-makassar",
-        "zona_waktu": "WITA"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14806",
-          "diteruskan_dari": "Dzulqarnain Muhammad Sunusi",
-          "diposting": "2026-11-13T01:18:30+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-13T01:49:23+00:00",
-      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
-    },
     {
       "id": "22a50ecc3d49",
       "judul": null,

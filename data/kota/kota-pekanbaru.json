@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-13T01:49:23+00:00",
+  "dibuat": "2026-11-13T17:15:57+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,32 +8,32 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 11,
+  "jumlah": 13,
   "kajian": [
     {
-      "id": "82629c7ca95f",
-      "judul": null,
+      "id": "4251254062fe",
+      "judul": "Kajian Islam Ilmiah Pekanan",
       "tema": null,
-      "kitab": null,
+      "kitab": "Harta Haram Muamalat Kontemporer",
       "ustadz": [
-        "Ustadz Asathin Zamani Siregar, Lc., M.A."
+        "Ustadz Gilang Prasetyo"
       ],
-      "tanggal": "2026-11-13",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
       "rutin": null,
       "waktu": {
         "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Jl. Kayu Putih Kel. Bina Widya Kec. Bina Widya, Pekanbaru, Riau",
-        "alamat": null,
-        "peta": null
+        "nama": "Masjid Al FURQON",
+        "alamat": "Jl. Karya Bersama No 26 Air Dingin Pekanbaru.., Map",
+        "peta": "https://maps.app.goo.gl/GnyzW9XiF33KFC1C9"
       },
       "wilayah": {
         "kode": "14.71",
@@ -44,18 +44,65 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": null,
+      "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14844",
+          "url": "https://t.me/jadwalkajiansunnah/14906",
           "diteruskan_dari": null,
-          "diposting": "2026-11-13T01:44:41+00:00"
+          "diposting": "2026-11-13T13:06:20+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-13T01:49:23+00:00",
-      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
+      "pertama_dilihat": "2026-11-13T17:15:57+00:00",
+      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+    },
+    {
+      "id": "8948fcafb5f8",
+      "judul": "Kajian Rutin Untuk Umum",
+      "tema": "Sirah Nabawiyah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Afrizal, Lc,. M.A."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami' Al Badr",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/FcTVZErVRS4ZLeoa8"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14905",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-13T13:05:58+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T17:15:57+00:00",
+      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
     },
     {
       "id": "9138edab41d0",
@@ -102,7 +149,55 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T01:49:23+00:00",
-      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
+      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+    },
+    {
+      "id": "ff00eab16467",
+      "judul": "Info Kajian Rutin Sabtu Shubuh",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA hafidzahulloh",
+        "Kajian Tema : I'TIQADU AHLIS SUNNAH #29"
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Musholla Hasanah",
+        "alamat": "Jln. Marina/Marsan - Pekanbaru",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14907",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-13T13:07:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T17:15:57+00:00",
+      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
     },
     {
       "id": "3dba418c8dce",

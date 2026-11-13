@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-13T01:49:23+00:00",
+  "dibuat": "2026-11-13T17:15:57+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,8 +8,55 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 5,
+  "jumlah": 6,
   "kajian": [
+    {
+      "id": "047bb995fff6",
+      "judul": "Kajian Rutin Ahad Pagi Pekan Ketiga, 15 November 2026 • 5 Jumadil Akhir 1448 H",
+      "tema": null,
+      "kitab": "Ensiklopedi Shalat",
+      "ustadz": [
+        "Ustadz Varian Ghani, Lc."
+      ],
+      "tanggal": "2026-11-15",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid At-Taqwa Jatibening Satu",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
+      },
+      "wilayah": {
+        "kode": "32.75",
+        "kabkota": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "attaqwa-jatibening",
+          "nama": "Masjid At-Taqwa Jatibening Satu",
+          "url": "https://attaqwajatibening.com/berita/kajian-rutin-ahad-pagi-pekan-ketiga-15-november-2026-5-jumadil-akhir-1448-h",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-13T17:15:57.964209+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T17:15:57+00:00",
+      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+    },
     {
       "id": "df2e2cfe44e2",
       "judul": null,

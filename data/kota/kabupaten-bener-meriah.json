@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-13T17:15:57+00:00",
+  "wilayah": {
+    "kode": "11.17",
+    "kabkota": "Kabupaten Bener Meriah",
+    "provinsi": "Aceh",
+    "slug": "kabupaten-bener-meriah",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "1f84a7889de5",
+      "judul": "Kajian Sabtu Dhuha",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abdurrahman Thoyyib, Lc."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-14T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Amanah",
+        "alamat": "Bukit Nusa Indah, Jl. Kakak Tua, Serua - Ciputat",
+        "peta": "https://maps.app.goo.gl/HDw3LLX79dkEQSZG6"
+      },
+      "wilayah": {
+        "kode": "11.17",
+        "kabkota": "Kabupaten Bener Meriah",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-bener-meriah",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14939",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-13T13:29:11+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T17:15:57+00:00",
+      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+    },
+    {
+      "id": "3a29605196f1",
+      "judul": "Kajian Rutin Terbuka Untuk Umum",
+      "tema": null,
+      "kitab": "Umdatul Ahkam",
+      "ustadz": [
+        "Ustadz Atori Husen"
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Amanah",
+        "alamat": "Bukit Nusa Indah, Jl. Kakak Tua, Serua – Ciputat",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "11.17",
+        "kabkota": "Kabupaten Bener Meriah",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-bener-meriah",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14938",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-13T13:28:39+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T17:15:57+00:00",
+      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+    }
+  ]
+}

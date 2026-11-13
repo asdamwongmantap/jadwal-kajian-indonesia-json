@@ -1,91 +1,9 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-13T01:49:23+00:00",
+  "dibuat": "2026-11-13T17:15:57+00:00",
   "wilayah": null,
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "e3bc980a2d85",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Ratno Abu Muhammad, Lc., M.Ag."
-      ],
-      "tanggal": "2026-11-13",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "11:30",
-        "selesai": "12:30",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-13T11:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid Pogung Dalangan",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": null,
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14813",
-          "diteruskan_dari": "Masjid Pogung Dalangan - MPD",
-          "diposting": "2026-11-13T01:23:19+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-13T01:49:23+00:00",
-      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
-    },
-    {
-      "id": "3dd0d29e78d6",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dedin Sholehuddin"
-      ],
-      "tanggal": "2026-11-13",
-      "tanggal_perkiraan": true,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "14:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ash-Shohaabah",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": null,
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14833",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-13T01:36:05+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-13T01:49:23+00:00",
-      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
-    },
     {
       "id": "78cc40adb078",
       "judul": null,
