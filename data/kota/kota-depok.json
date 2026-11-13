@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-12T17:38:30+00:00",
+  "dibuat": "2026-11-13T01:49:23+00:00",
   "wilayah": {
     "kode": "32.76",
     "kabkota": "Kota Depok",
@@ -8,8 +8,102 @@
     "slug": "kota-depok",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "fc519df1810d",
+      "judul": null,
+      "tema": "Manusia dan Harapannya",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Hasan Al-Jaizy, Lc."
+      ],
+      "tanggal": "2026-11-13",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "11:39",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-13T11:39:00+07:00",
+      "tempat": {
+        "nama": "Masjid Imam Asy Syafi'i (mias)",
+        "alamat": "Jl. Raden Saleh, Gg. Persahabatan No.69, Sukmajaya, Depok, GMaps : s.id/miasdepok",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14832",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-13T01:35:31+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T01:49:23+00:00",
+      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
+    },
+    {
+      "id": "67af1695f30d",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Harits Zakaria"
+      ],
+      "tanggal": "2026-11-13",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Fatahillah",
+        "alamat": "Depok",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.76",
+        "kabkota": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-depok",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14809",
+          "diteruskan_dari": "Masjid Fatahillah Depok",
+          "diposting": "2026-11-13T01:20:24+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T01:49:23+00:00",
+      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
+    },
     {
       "id": "fba6ae89f212",
       "judul": null,
@@ -55,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-12T17:38:30+00:00",
-      "terakhir_dilihat": "2026-11-12T17:38:30+00:00"
+      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
     }
   ]
 }

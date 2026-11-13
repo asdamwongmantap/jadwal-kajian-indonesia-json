@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-13T01:49:23+00:00",
+  "wilayah": {
+    "kode": "33.22",
+    "kabkota": "Kabupaten Semarang",
+    "provinsi": "Jawa Tengah",
+    "slug": "kabupaten-semarang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "77149fd46ced",
+      "judul": null,
+      "tema": "Jangan Berhukum Kepada Taghut",
+      "kitab": "Al Mulakhas Fii Syarhi Kitabit Tauhid",
+      "ustadz": [
+        "Ustadz Abu Umair Kuswoyo"
+      ],
+      "tanggal": "2026-11-13",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:15",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-13T09:15:00+07:00",
+      "tempat": {
+        "nama": "Rumah Bu Pipit Ummu Fikri",
+        "alamat": "Jl. Parasamya VII No. 27 Perumda, Gedanganak, Ungaran Timur",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.22",
+        "kabkota": "Kabupaten Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kabupaten-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14762",
+          "diteruskan_dari": "Abu Umair Official",
+          "diposting": "2026-11-12T22:04:53+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T01:49:23+00:00",
+      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
+    }
+  ]
+}

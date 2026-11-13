@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-12T17:38:30+00:00",
+  "dibuat": "2026-11-13T01:49:23+00:00",
   "wilayah": {
     "kode": "32.07",
     "kabkota": "Kabupaten Ciamis",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-ciamis",
     "zona_waktu": "WIB"
   },
-  "jumlah": 8,
+  "jumlah": 9,
   "kajian": [
+    {
+      "id": "3e3b3af4536b",
+      "judul": "Ta'lim Jum'at Pagi",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Hisyam"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": "Waktu: Setiap Jum'at Pagi",
+      "waktu": {
+        "mulai": "06:30",
+        "selesai": "07:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Madrasah Cidolog",
+        "alamat": "Sindangkasih - Ciamis",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.07",
+        "kabkota": "Kabupaten Ciamis",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-ciamis",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14760",
+          "diteruskan_dari": "Ma'had Al-Ihsan Al-Atsary",
+          "diposting": "2026-11-12T22:04:10+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T01:49:23+00:00",
+      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
+    },
     {
       "id": "83967a1141bf",
       "judul": "Ta'lim Ahad Sore",

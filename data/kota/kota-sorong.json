@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-12T17:38:30+00:00",
+  "dibuat": "2026-11-13T01:49:23+00:00",
   "wilayah": {
     "kode": "96.71",
     "kabkota": "Kota Sorong",
@@ -8,8 +8,55 @@
     "slug": "kota-sorong",
     "zona_waktu": "WIT"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "141f0a59dd9c",
+      "judul": "Kajian Spesial",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Khanif Muslim, S.Pd."
+      ],
+      "tanggal": "2026-11-13",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIT",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Mujtahidin",
+        "alamat": "Kota Sorong",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "96.71",
+        "kabkota": "Kota Sorong",
+        "provinsi": "Papua Barat Daya",
+        "slug": "kota-sorong",
+        "zona_waktu": "WIT"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14843",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-13T01:41:42+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T01:49:23+00:00",
+      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
+    },
     {
       "id": "cfd905e96623",
       "judul": "Kajian Tauhid",

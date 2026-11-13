@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-12T17:38:30+00:00",
+  "dibuat": "2026-11-13T01:49:23+00:00",
   "wilayah": {
     "kode": "36.74",
     "kabkota": "Kota Tangerang Selatan",
@@ -8,8 +8,53 @@
     "slug": "kota-tangerang-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "593ec89cd9b7",
+      "judul": "Kajian Anak bersama Kak Yogi Triandi,B.A",
+      "tema": "Aku Orang Kaya Kok",
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-11-13",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-13T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid At Taqwa",
+        "alamat": "Bakti Jaya LUK, Setu - Tangsel",
+        "peta": "https://g.co/kgs/a89VJL"
+      },
+      "wilayah": {
+        "kode": "36.74",
+        "kabkota": "Kota Tangerang Selatan",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "anak",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14772",
+          "diteruskan_dari": "Kajian Anak Kak Yogi",
+          "diposting": "2026-11-12T22:08:47+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-13T01:49:23+00:00",
+      "terakhir_dilihat": "2026-11-13T01:49:23+00:00"
+    },
     {
       "id": "497163430342",
       "judul": null,
