@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-14T01:26:32+00:00",
+  "dibuat": "2026-11-14T15:52:04+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,7 +8,7 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 5,
   "kajian": [
     {
       "id": "fc68513fd0cf",
@@ -55,7 +55,54 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
+    },
+    {
+      "id": "0bf1eabf85f0",
+      "judul": "Info Kajian Sabtu Malam",
+      "tema": "Panduan ADAB Harian Seorang Muslim",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Riko Abu Faqih Abdillah, Lc. S.Pd.i."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": true,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Abu Bakar Ash-Shiddiq",
+        "alamat": "Jl. Soekarno-Hatta Gg. Pelita Labuhbaru Barat kec. Payung Sekaki",
+        "peta": "https://maps.app.goo.gl/x1bfxMq37zetS5UH9"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "ikhwan",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14991",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T10:48:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T15:52:04+00:00",
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
     },
     {
       "id": "926dd7d2b6e6",
@@ -102,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
     },
     {
       "id": "d6cc272e5361",
@@ -149,7 +196,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
     },
     {
       "id": "d88d9e700603",
@@ -194,7 +241,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
     }
   ]
 }

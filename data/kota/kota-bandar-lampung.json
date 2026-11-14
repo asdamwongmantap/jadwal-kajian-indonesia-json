@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-14T01:26:32+00:00",
+  "dibuat": "2026-11-14T15:52:04+00:00",
   "wilayah": {
     "kode": "18.71",
     "kabkota": "Kota Bandar Lampung",
@@ -106,9 +106,9 @@
     },
     {
       "id": "f6c43e928c65",
-      "judul": "Kajian Muslimah",
+      "judul": "Kajian Khusus Muslimah",
       "tema": null,
-      "kitab": "I'anatul Mustafid Bisyarhi Kitabut Tauhid",
+      "kitab": "Riyadhus Shalihin",
       "ustadz": [
         "Ustadz Abdullah Furqon"
       ],
@@ -167,10 +167,17 @@
           "url": "https://t.me/jadwalkajiansunnah/14282",
           "diteruskan_dari": null,
           "diposting": "2026-11-07T06:37:43+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14964",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T04:03:52+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-11-10T03:33:46+00:00"
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
     },
     {
       "id": "1dc35fb031dc",

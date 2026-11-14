@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-14T01:26:32+00:00",
+  "dibuat": "2026-11-14T15:52:04+00:00",
   "wilayah": null,
   "jumlah": 3,
   "kajian": [
@@ -47,10 +47,17 @@
           "url": "https://t.me/jadwalkajiansunnah/14917",
           "diteruskan_dari": null,
           "diposting": "2026-11-13T13:14:33+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14956",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T03:46:43+00:00"
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
     },
     {
       "id": "bbafe1d494bb",
@@ -91,7 +98,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
     },
     {
       "id": "8a57b556d849",

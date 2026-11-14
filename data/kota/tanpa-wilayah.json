@@ -1,9 +1,50 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-14T01:26:32+00:00",
+  "dibuat": "2026-11-14T15:52:04+00:00",
   "wilayah": null,
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "201886333af5",
+      "judul": "Kajian Tafsir Al-Qur'an",
+      "tema": "Kajian Tafsir Al-Qur'an",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Musa Mulyadi, BA"
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Ihsan Dukuh Zamrud mengundang kaum muslimin untuk menghadiri kajian Tafsir Al-Qur'an Surah Al-Muthaffifin ber…",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": null,
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14955",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T03:43:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T15:52:04+00:00",
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
+    },
     {
       "id": "78cc40adb078",
       "judul": null,

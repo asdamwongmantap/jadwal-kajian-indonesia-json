@@ -1,0 +1,155 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-14T15:52:04+00:00",
+  "wilayah": {
+    "kode": "14.01",
+    "kabkota": "Kabupaten Kampar",
+    "provinsi": "Riau",
+    "slug": "kabupaten-kampar",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 3,
+  "kajian": [
+    {
+      "id": "08aabc9f522d",
+      "judul": "Kajian Ilmiah Islam",
+      "tema": "Fiqih Akhlaq",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ahmad Dhoni, Lc."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Syuhada' Air Tiris Kampar Riau",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14988",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T10:47:19+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T15:52:04+00:00",
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
+    },
+    {
+      "id": "5fa431cacabd",
+      "judul": "Kajian Rutin Sabtu Pekan 2",
+      "tema": "Kitab : FIQIH DZIKIR & DO'A",
+      "kitab": "Fiqih Dzikir & Do'a",
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Ishlah",
+        "alamat": "Muaro Jalai - Kampar",
+        "peta": "https://share.google/2vHDuX9IavzaZsbvY"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14966",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T09:26:59+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T15:52:04+00:00",
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
+    },
+    {
+      "id": "d364753aa0cb",
+      "judul": "Kajian Rutin Sabtu Malam Pekan 2",
+      "tema": "Tafsir As Sa'adiy ( )",
+      "kitab": null,
+      "ustadz": [
+        "Dr. Hidayatullah Ismail, Lc., MA."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Mushab bin Umair",
+        "alamat": "Pulau Payung Rumbio - Kampar",
+        "peta": "https://share.google/fmg5U9Q6eNaZDpD4U"
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14973",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T09:29:46+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T15:52:04+00:00",
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
+    }
+  ]
+}

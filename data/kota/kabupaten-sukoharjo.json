@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-14T15:52:04+00:00",
+  "wilayah": {
+    "kode": "33.11",
+    "kabkota": "Kabupaten Sukoharjo",
+    "provinsi": "Jawa Tengah",
+    "slug": "kabupaten-sukoharjo",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "1c88b66332dd",
+      "judul": "Kajian Islam",
+      "tema": "115 Hadits Tentang Syarat, Pengahalang, Dan Sebab Masuk Surga\" Insya Allah Rutin Dibahas Setiap Hari Sabtu Malam Ahad \"Pekan Ke-2",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Agus Setiawan, S.H."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Bahaudin Nur Hidayah",
+        "alamat": "Dusun I, Singopuran, Kecamatan Kartasura, Kabupaten Sukoharjo, Jawa Tengah, Kodepos 57164",
+        "peta": "https://maps.google.com/?cid=4277706996278410843&entry=gps_"
+      },
+      "wilayah": {
+        "kode": "33.11",
+        "kabkota": "Kabupaten Sukoharjo",
+        "provinsi": "Jawa Tengah",
+        "slug": "kabupaten-sukoharjo",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14976",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T09:33:35+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T15:52:04+00:00",
+      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
+    }
+  ]
+}
