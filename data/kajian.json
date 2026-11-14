@@ -1,7 +1,7 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-13T17:15:57+00:00",
-  "jumlah": 98,
+  "dibuat": "2026-11-14T01:26:32+00:00",
+  "jumlah": 102,
   "kajian": [
     {
       "id": "3687442d4cd9",
@@ -48,7 +48,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "1fb8fa598df7",
@@ -95,7 +95,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "fc68513fd0cf",
@@ -142,7 +142,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "d19610388bb1",
@@ -189,7 +189,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "1f84a7889de5",
@@ -236,7 +236,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "1afa36fc0b46",
@@ -283,7 +283,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-12T17:38:30+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "416af7ef6100",
@@ -384,7 +384,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "926dd7d2b6e6",
@@ -431,7 +431,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "d6cc272e5361",
@@ -478,7 +478,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "d88d9e700603",
@@ -523,7 +523,148 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+    },
+    {
+      "id": "1b1e17403ce8",
+      "judul": "Kajian Dialog Zuhur",
+      "tema": "Kajian Tasawuf, Kitab: Mukasyafatul Qulub",
+      "kitab": null,
+      "ustadz": [
+        "Drs. H. Sholahuddin Hamid, MA."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T01:26:32.618016+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T01:26:32+00:00",
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+    },
+    {
+      "id": "40897e28ed14",
+      "judul": "Kajian Renungan Fajar",
+      "tema": "Sabar dan Syukur Sebagai Penolong",
+      "kitab": null,
+      "ustadz": [
+        "H. Abu Hurairah Abd. Salam, Lc, M.A."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T01:26:32.618016+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T01:26:32+00:00",
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+    },
+    {
+      "id": "5a814c5a1dd0",
+      "judul": "Kajian Khawamisy",
+      "tema": "Irsyadul Ibad (FIQIH)",
+      "kitab": null,
+      "ustadz": [
+        "H. Budi Firmansyah, MM."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T01:26:32.618016+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T01:26:32+00:00",
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "f3a94530f77d",
@@ -570,7 +711,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "7afc23755d36",
@@ -617,7 +758,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "4251254062fe",
@@ -664,7 +805,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "8948fcafb5f8",
@@ -711,7 +852,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "9138edab41d0",
@@ -758,7 +899,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T01:49:23+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "ff00eab16467",
@@ -806,7 +947,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "4ad8247600eb",
@@ -853,7 +994,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "912d24cf020a",
@@ -901,7 +1042,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "bbafe1d494bb",
@@ -942,7 +1083,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "047bb995fff6",
@@ -989,7 +1130,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "fba6ae89f212",
@@ -1036,7 +1177,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-12T17:38:30+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "cfd905e96623",
@@ -1084,6 +1225,51 @@
       ],
       "pertama_dilihat": "2026-11-11T01:14:09+00:00",
       "terakhir_dilihat": "2026-11-12T17:38:30+00:00"
+    },
+    {
+      "id": "091c82098722",
+      "judul": "Kajian Qobla Jumat",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-11-20",
+      "tanggal_perkiraan": true,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T01:26:32.618016+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T01:26:32+00:00",
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "d7f0e8077090",
@@ -1224,7 +1410,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T01:49:23+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "4b8b93127342",
@@ -2898,7 +3084,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-13T17:15:57+00:00"
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
     },
     {
       "id": "60c3e4057d79",

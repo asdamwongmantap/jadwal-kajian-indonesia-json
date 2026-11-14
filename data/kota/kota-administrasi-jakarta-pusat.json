@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-13T17:15:57+00:00",
+  "dibuat": "2026-11-14T01:26:32+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -8,8 +8,194 @@
     "slug": "kota-administrasi-jakarta-pusat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 5,
   "kajian": [
+    {
+      "id": "1b1e17403ce8",
+      "judul": "Kajian Dialog Zuhur",
+      "tema": "Kajian Tasawuf, Kitab: Mukasyafatul Qulub",
+      "kitab": null,
+      "ustadz": [
+        "Drs. H. Sholahuddin Hamid, MA."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T01:26:32.618016+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T01:26:32+00:00",
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+    },
+    {
+      "id": "40897e28ed14",
+      "judul": "Kajian Renungan Fajar",
+      "tema": "Sabar dan Syukur Sebagai Penolong",
+      "kitab": null,
+      "ustadz": [
+        "H. Abu Hurairah Abd. Salam, Lc, M.A."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T01:26:32.618016+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T01:26:32+00:00",
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+    },
+    {
+      "id": "5a814c5a1dd0",
+      "judul": "Kajian Khawamisy",
+      "tema": "Irsyadul Ibad (FIQIH)",
+      "kitab": null,
+      "ustadz": [
+        "H. Budi Firmansyah, MM."
+      ],
+      "tanggal": "2026-11-14",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T01:26:32.618016+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T01:26:32+00:00",
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+    },
+    {
+      "id": "091c82098722",
+      "judul": "Kajian Qobla Jumat",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-11-20",
+      "tanggal_perkiraan": true,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T01:26:32.618016+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-14T01:26:32+00:00",
+      "terakhir_dilihat": "2026-11-14T01:26:32+00:00"
+    },
     {
       "id": "ec3838040932",
       "judul": null,

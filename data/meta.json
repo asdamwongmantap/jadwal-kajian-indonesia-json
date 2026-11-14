@@ -1,7 +1,7 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-13T17:15:57+00:00",
-  "jumlah_kajian": 98,
+  "dibuat": "2026-11-14T01:26:32+00:00",
+  "jumlah_kajian": 102,
   "jumlah_kota": 34,
   "sumber": [
     {
@@ -36,9 +36,9 @@
       "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
       "tipe": "website",
       "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
-      "status": "gagal: ReadTimeout",
-      "pengumuman": 0,
-      "jadwal": 0
+      "status": "ok",
+      "pengumuman": 4,
+      "jadwal": 4
     }
   ],
   "catatan": "Data diambil otomatis dari pengumuman publik. Selalu cek sumber asli sebelum berangkat."
