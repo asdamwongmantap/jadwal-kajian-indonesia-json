@@ -1,0 +1,59 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-15T01:01:56+00:00",
+  "wilayah": {
+    "kode": "34.03",
+    "kabkota": "Kabupaten Gunungkidul",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "slug": "kabupaten-gunungkidul",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "6b3b9b751888",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-11-15",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "04:30",
+        "selesai": "05:30",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-15T04:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Jami' Al-Adha",
+        "alamat": "Ponpes Darush Sholihin, Ds. Warak, Girisekar, Panggang, Gunungkidul",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.03",
+        "kabkota": "Kabupaten Gunungkidul",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kabupaten-gunungkidul",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15114",
+          "diteruskan_dari": "Info Kajian UMAT (Ustadz Muhammad Abduh Tuasikal)",
+          "diposting": "2026-11-14T21:14:36+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
+      "terakhir_dilihat": "2026-11-15T01:01:56+00:00"
+    }
+  ]
+}

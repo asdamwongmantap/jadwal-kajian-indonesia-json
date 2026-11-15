@@ -1,0 +1,156 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-15T01:01:56+00:00",
+  "wilayah": {
+    "kode": "33.74",
+    "kabkota": "Kota Semarang",
+    "provinsi": "Jawa Tengah",
+    "slug": "kota-semarang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 3,
+  "kajian": [
+    {
+      "id": "2935aaad346a",
+      "judul": null,
+      "tema": "Memurnikan Ibadah dan Pertolongan",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Umair Kuswoyo"
+      ],
+      "tanggal": "2026-11-15",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-15T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Hotel Grasia",
+        "alamat": "Jl. Guntur, Kelurahan Gajahmungkur, Kecamatan Gajahmungkur",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15123",
+          "diteruskan_dari": "",
+          "diposting": "2026-11-14T21:17:40+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
+      "terakhir_dilihat": "2026-11-15T01:01:56+00:00"
+    },
+    {
+      "id": "2d7fa02f9485",
+      "judul": "Kajian Rutin Ahad Ba'da Subuh Pekan Ganjil (1&3)",
+      "tema": "Islam Agama Yang Mudah",
+      "kitab": "Riyadush Shalihin",
+      "ustadz": [
+        "Ustadz Budi Santoso Afrizal, Lc, M.H., C.AFM.",
+        "• Alumni LIPIA Jakarta"
+      ],
+      "tanggal": "2026-11-15",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Falah Perumahan Pajak Sumurboto",
+        "alamat": "Jl. Ngesrep Timur 5 No. 19 A, Kelurahan Sumurboto, Kecamatan Banyumanik",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15129",
+          "diteruskan_dari": "",
+          "diposting": "2026-11-14T21:18:16+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
+      "terakhir_dilihat": "2026-11-15T01:01:56+00:00"
+    },
+    {
+      "id": "9f416ffb37a9",
+      "judul": null,
+      "tema": "Keutamaan Shalat",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Umair Kuswoyo"
+      ],
+      "tanggal": "2026-11-15",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Baitul Wahid",
+        "alamat": "Perumahan Graha Wahid Kelurahan Sambiroto, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15125",
+          "diteruskan_dari": "",
+          "diposting": "2026-11-14T21:17:42+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
+      "terakhir_dilihat": "2026-11-15T01:01:56+00:00"
+    }
+  ]
+}

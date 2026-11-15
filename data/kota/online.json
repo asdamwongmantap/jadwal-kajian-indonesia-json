@@ -1,75 +1,61 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-14T15:52:04+00:00",
+  "dibuat": "2026-11-15T01:01:56+00:00",
   "wilayah": null,
   "jumlah": 3,
   "kajian": [
     {
-      "id": "912d24cf020a",
-      "judul": "Kajian Rutin Untuk Umum",
-      "tema": "Syarah Aqidah Wasithiyah",
+      "id": "d0089eb94139",
+      "judul": null,
+      "tema": "Fiqih Asma Ul-Husna - Bagian 6",
       "kitab": null,
       "ustadz": [
-        "Ustadz Taufiq Al-Haddad, S.T., S.H., M.M."
+        "Ustadz Ahmad Susilo"
       ],
-      "tanggal": "2026-11-14",
+      "tanggal": "2026-11-15",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": null,
+        "mulai": "12:30",
         "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
+        "acuan_shalat": null,
+        "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": null,
+      "mulai_iso": "2026-11-15T12:30:00+07:00",
       "tempat": {
         "nama": null,
         "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+        "peta": null
       },
       "wilayah": null,
       "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
+      "streaming": "https://www.youtube.com/c/rumahdakwahuk",
       "peserta": "umum",
       "sumber": [
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14947",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-13T13:38:48+00:00"
-        },
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14917",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-13T13:14:33+00:00"
-        },
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14956",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-14T03:46:43+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/15103",
+          "diteruskan_dari": "Info Kajian Rumah Dakwah UK",
+          "diposting": "2026-11-14T21:07:28+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
+      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
+      "terakhir_dilihat": "2026-11-15T01:01:56+00:00"
     },
     {
-      "id": "bbafe1d494bb",
-      "judul": "Kajian Tematik Untuk Umum",
+      "id": "57e1568dfb1b",
+      "judul": "Kajian Rutin Untuk Umum",
       "tema": null,
       "kitab": null,
       "ustadz": [
-        "Ustadz Achmad Buchari Jawas, B.A."
+        "Ustadz Ahmad Ali Rozaq, Lc."
       ],
-      "tanggal": "2026-11-14",
+      "tanggal": "2026-11-15",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -92,13 +78,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14920",
+          "url": "https://t.me/jadwalkajiansunnah/15095",
           "diteruskan_dari": null,
-          "diposting": "2026-11-13T13:16:21+00:00"
+          "diposting": "2026-11-14T21:01:30+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-13T17:15:57+00:00",
-      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
+      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
+      "terakhir_dilihat": "2026-11-15T01:01:56+00:00"
     },
     {
       "id": "8a57b556d849",

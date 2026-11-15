@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-15T01:01:56+00:00",
+  "wilayah": {
+    "kode": "35.15",
+    "kabkota": "Kabupaten Sidoarjo",
+    "provinsi": "Jawa Timur",
+    "slug": "kabupaten-sidoarjo",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "a6ae87d4dc67",
+      "judul": null,
+      "tema": "Syarah Lum'atul I'tiqod",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ma'ruf Nur Salam, Lc."
+      ],
+      "tanggal": "2026-11-15",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-15T07:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Griya Permata Ilmu - Griya Sejahtera No. 59-61",
+        "alamat": "Keboan, Keboananom, Gedangan, Sidoarjo",
+        "peta": "https://maps.app.goo.gl/oYV8MwaunPLMbQtJA"
+      },
+      "wilayah": {
+        "kode": "35.15",
+        "kabkota": "Kabupaten Sidoarjo",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-sidoarjo",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15112",
+          "diteruskan_dari": "Surabaya Mengaji",
+          "diposting": "2026-11-14T21:12:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
+      "terakhir_dilihat": "2026-11-15T01:01:56+00:00"
+    }
+  ]
+}

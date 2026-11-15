@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-14T15:52:04+00:00",
+  "dibuat": "2026-11-15T01:01:56+00:00",
   "wilayah": {
     "kode": "32.78",
     "kabkota": "Kota Tasikmalaya",
@@ -8,31 +8,78 @@
     "slug": "kota-tasikmalaya",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 6,
   "kajian": [
     {
-      "id": "d331059afef3",
-      "judul": "Kajian Rutin Alfata",
-      "tema": null,
-      "kitab": "Qawaid Quraniyah",
+      "id": "5ba10715b7b5",
+      "judul": "Kajian Islam – Majelis Taklim Ar-Rayyan Tasikmalaya",
+      "tema": "Tajhīzul Janā'iz (Part 2)",
+      "kitab": null,
       "ustadz": [
-        "Ustadz Arif Priyadi Lc hafidzhahullah"
+        "Ustadz Yudi Nurdani, Lc."
       ],
-      "tanggal": "2026-11-14",
+      "tanggal": "2026-11-15",
       "tanggal_perkiraan": false,
-      "hari": "Sabtu",
+      "hari": "Ahad",
       "rutin": null,
       "waktu": {
-        "mulai": "16:00",
+        "mulai": "09:00",
         "selesai": null,
         "acuan_shalat": null,
         "relasi": null
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-14T16:00:00+07:00",
+      "mulai_iso": "2026-11-15T09:00:00+07:00",
       "tempat": {
-        "nama": "Masjid Al Falah",
-        "alamat": "Jl. Nusa indah, Perumnas Cisalak Kec Cipedes Kota Tasikmalaya Jawa Barat",
+        "nama": "Masjid Ahsanul Mahmuda",
+        "alamat": "Jl. SL Tobing, Sambongpari, Mangkubumi, Tasikmalaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15017",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T16:54:18+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
+      "terakhir_dilihat": "2026-11-15T01:01:56+00:00"
+    },
+    {
+      "id": "dce58fc078da",
+      "judul": "Info Kajian Al Hasan Hawu Nini Tasikmalaya",
+      "tema": "Tafsir Surat Nuh - Bagian 4",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Heri Iman Santoso"
+      ],
+      "tanggal": "2026-11-15",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-15T10:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Hasan",
+        "alamat": "Jl. Raya Singaparna - Tasik,, Rumah Makan Hawu Nini / SPBU Cikunir Hilir,, Kec. Mangkubumi - Kota Tasikmalaya",
         "peta": null
       },
       "wilayah": {
@@ -49,13 +96,60 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/14962",
+          "url": "https://t.me/jadwalkajiansunnah/14994",
           "diteruskan_dari": null,
-          "diposting": "2026-11-14T04:02:28+00:00"
+          "diposting": "2026-11-14T16:12:34+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-14T15:52:04+00:00",
-      "terakhir_dilihat": "2026-11-14T15:52:04+00:00"
+      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
+      "terakhir_dilihat": "2026-11-15T01:01:56+00:00"
+    },
+    {
+      "id": "7a623c335b3b",
+      "judul": null,
+      "tema": "Kiat Meraih Cinta Allah",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Cecep Muttaqin, Lc."
+      ],
+      "tanggal": "2026-11-15",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": "17:10",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-15T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Ibadurohim",
+        "alamat": "Jl, Cikunten Indah, Babakan Domba,, Masuk gang, Dekat perum bening regency,, Kota Tasikmalaya",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.78",
+        "kabkota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-tasikmalaya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/14996",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-14T16:14:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
+      "terakhir_dilihat": "2026-11-15T01:01:56+00:00"
     },
     {
       "id": "9cd19eb1f979",
