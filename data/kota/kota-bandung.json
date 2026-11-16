@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-15T16:26:07+00:00",
+  "dibuat": "2026-11-16T01:01:08+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,8 +8,102 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "2c3f4b6bbd9a",
+      "judul": null,
+      "tema": null,
+      "kitab": "Syarh Tsalatsatil-Ushul",
+      "ustadz": [
+        "Ustadz Dr. Andy Octavian Latief, M.Sc. )"
+      ],
+      "tanggal": "2026-11-16",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Furqon",
+        "alamat": "Jalan Jurang Gg. Masjid Al Furqon. Kel. Pasteur Kec. Sukajadi, Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15143",
+          "diteruskan_dari": "Al-Mughni Center for Islamic Studies",
+          "diposting": "2026-11-15T17:05:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-16T01:01:08+00:00",
+      "terakhir_dilihat": "2026-11-16T01:01:08+00:00"
+    },
+    {
+      "id": "d68839434465",
+      "judul": "Kajian Islam Ilmiyah",
+      "tema": "Persyaratan Dalam Jual Beli",
+      "kitab": "Taisirul Allam Syarah Umdatul Ahkam",
+      "ustadz": [
+        "Ustadz Hary Badar bin Marwan"
+      ],
+      "tanggal": "2026-11-16",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ash Shiddiq",
+        "alamat": "Jl. Kebon Gedang (Gg. Hj. Siti Aisyah) Rt.02 Rw.10 Maleer, Batununggal, Kota Bandung",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15136",
+          "diteruskan_dari": "Imam Malik Bandung",
+          "diposting": "2026-11-15T16:59:00+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-16T01:01:08+00:00",
+      "terakhir_dilihat": "2026-11-16T01:01:08+00:00"
+    },
     {
       "id": "2a1dc7c25614",
       "judul": null,

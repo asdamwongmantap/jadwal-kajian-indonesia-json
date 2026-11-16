@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-15T16:26:07+00:00",
+  "dibuat": "2026-11-16T01:01:08+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -11,16 +11,16 @@
   "jumlah": 5,
   "kajian": [
     {
-      "id": "583effb5a9c7",
+      "id": "562d1f8dd066",
       "judul": "Kajian Dialog Zuhur",
-      "tema": "Kajian Fiqih Al Ahwalu Al Syahsiah Ushul Al-Nizham Al-Ijtima'iy Fi Al-Islam",
+      "tema": "Kajian Akhlaq: Khuluqul Muslim",
       "kitab": null,
       "ustadz": [
-        "Dr. H. Ahmad Shaleh Amin, Lc, MA."
+        "KH. Abdurrahman Bustomi, MA."
       ],
-      "tanggal": "2026-11-15",
+      "tanggal": "2026-11-16",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -51,70 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-15T01:01:56.442053+00:00"
+          "diposting": "2026-11-16T01:01:08.843844+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-15T16:26:07+00:00"
+      "pertama_dilihat": "2026-11-16T01:01:08+00:00",
+      "terakhir_dilihat": "2026-11-16T01:01:08+00:00"
     },
     {
-      "id": "77dae04e0e96",
-      "judul": "Kajian Renungan Fajar",
-      "tema": "Keutamaan Tawakkal",
-      "kitab": null,
-      "ustadz": [
-        "KH. Abdul Wahidul Qahhar, M.A. M.I.Kom."
-      ],
-      "tanggal": "2026-11-15",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Istiqlal",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "istiqlal-rutin",
-          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
-          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-15T01:01:56.442053+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-15T16:26:07+00:00"
-    },
-    {
-      "id": "ce4f1a3d7513",
+      "id": "727b34b98eb1",
       "judul": "Kajian Khawamisy",
-      "tema": "Hikmah At Tasyri' wa Falsafatuhu (FILSAFAT)",
+      "tema": "Al Wadhih fi Ulumil Qur'an (ULUM AL QUR'AN)",
       "kitab": null,
       "ustadz": [
-        "Dr. Budi Utomo, S.Th., MA."
+        "H. A. Muzakkir Abdurrahman, Lc., MA."
       ],
-      "tanggal": "2026-11-15",
+      "tanggal": "2026-11-16",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -145,11 +98,58 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-15T01:01:56.442053+00:00"
+          "diposting": "2026-11-16T01:01:08.843844+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-15T16:26:07+00:00"
+      "pertama_dilihat": "2026-11-16T01:01:08+00:00",
+      "terakhir_dilihat": "2026-11-16T01:01:08+00:00"
+    },
+    {
+      "id": "ce3bb4882c43",
+      "judul": "Kajian Renungan Fajar",
+      "tema": "Kejernihan Menjaga Silaturrahim",
+      "kitab": null,
+      "ustadz": [
+        "Dr. Ahmad Sunhaji, M.Pd.I."
+      ],
+      "tanggal": "2026-11-16",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-16T01:01:08.843844+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-16T01:01:08+00:00",
+      "terakhir_dilihat": "2026-11-16T01:01:08+00:00"
     },
     {
       "id": "091c82098722",
@@ -194,7 +194,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-14T01:26:32+00:00",
-      "terakhir_dilihat": "2026-11-15T16:26:07+00:00"
+      "terakhir_dilihat": "2026-11-16T01:01:08+00:00"
     },
     {
       "id": "ec3838040932",

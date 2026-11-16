@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-15T16:26:07+00:00",
+  "dibuat": "2026-11-16T01:01:08+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,102 +8,8 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 5,
+  "jumlah": 3,
   "kajian": [
-    {
-      "id": "3249a218b236",
-      "judul": "Majelis Ba'da Maghrib",
-      "tema": "Syarah Bait 24-29, Mengenal Hukum Lam Ta'rif dan Lam Fi'il",
-      "kitab": "Matan Tuhfatul Athfal",
-      "ustadz": [
-        "Ustadz Ilham Taufiq Al-Makki, B.Sh."
-      ],
-      "tanggal": "2026-11-15",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurullah",
-        "alamat": "Apartemen Kalibata City, Basement Tower Cendana",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15119",
-          "diteruskan_dari": "",
-          "diposting": "2026-11-14T21:15:26+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-15T16:26:07+00:00"
-    },
-    {
-      "id": "b96393f04968",
-      "judul": "Majelis Ba'da Subuh",
-      "tema": "Kitab Apa dan Bagaimana Hadits Nabi (Kajian Mustholah Hadits)",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Prof. Daud Rasyid"
-      ],
-      "tanggal": "2026-11-15",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurullah",
-        "alamat": "Apartemen Kalibata City, Basement Tower Cendana",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15117",
-          "diteruskan_dari": "",
-          "diposting": "2026-11-14T21:15:26+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-15T16:26:07+00:00"
-    },
     {
       "id": "d7f0e8077090",
       "judul": null,

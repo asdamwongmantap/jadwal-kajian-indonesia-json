@@ -1,91 +1,9 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-15T16:26:07+00:00",
+  "dibuat": "2026-11-16T01:01:08+00:00",
   "wilayah": null,
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "d0089eb94139",
-      "judul": null,
-      "tema": "Fiqih Asma Ul-Husna - Bagian 6",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Ahmad Susilo"
-      ],
-      "tanggal": "2026-11-15",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "12:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-15T12:30:00+07:00",
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": "https://www.youtube.com/c/rumahdakwahuk",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15103",
-          "diteruskan_dari": "Info Kajian Rumah Dakwah UK",
-          "diposting": "2026-11-14T21:07:28+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-15T16:26:07+00:00"
-    },
-    {
-      "id": "57e1568dfb1b",
-      "judul": "Kajian Rutin Untuk Umum",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Ahmad Ali Rozaq, Lc."
-      ],
-      "tanggal": "2026-11-15",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://bit.ly/masjidashshaff-googlemaps"
-      },
-      "wilayah": null,
-      "mode": "online",
-      "streaming": "https://youtube.com/masjidashshaff",
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15095",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-14T21:01:30+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-15T16:26:07+00:00"
-    },
     {
       "id": "8a57b556d849",
       "judul": null,
