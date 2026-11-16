@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-16T01:01:08+00:00",
+  "dibuat": "2026-11-16T19:40:52+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -11,29 +11,29 @@
   "jumlah": 7,
   "kajian": [
     {
-      "id": "6e84ecd8ff7d",
-      "judul": "Kajian Muslimah At Taqwa",
-      "tema": "Kitab UMDATUL AHKAM",
+      "id": "a6609b7c4fc2",
+      "judul": "Kajian Rutin Rabu Malam, Pekan Ketiga, 18 November 2026 • 9 Jumadil Akhir 1448 H",
+      "tema": "Kitab Tafsir Juz 'Amma",
       "kitab": null,
       "ustadz": [
-        "Ustadz Dr. Muhammad Dahri, Lc, MA."
+        "Ustadz Dr. Darwis Abu Ubaidah"
       ],
-      "tanggal": "2026-11-16",
+      "tanggal": "2026-11-18",
       "tanggal_perkiraan": false,
-      "hari": "Senin",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
-        "mulai": "09:00",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-16T09:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Raya At-Taqwa Rawalumbu Kota Bekasi",
+        "nama": "Masjid At-Taqwa Jatibening Satu",
         "alamat": null,
-        "peta": null
+        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
       },
       "wilayah": {
         "kode": "32.75",
@@ -44,18 +44,18 @@
       },
       "mode": "offline",
       "streaming": null,
-      "peserta": "akhwat",
+      "peserta": null,
       "sumber": [
         {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15160",
+          "id": "attaqwa-jatibening",
+          "nama": "Masjid At-Taqwa Jatibening Satu",
+          "url": "https://attaqwajatibening.com/berita/kajian-rutin-rabu-malam-pekan-ketiga-18-november-2026-9-jumadil-akhir-1448-h",
           "diteruskan_dari": null,
-          "diposting": "2026-11-15T22:09:04+00:00"
+          "diposting": "2026-11-16T19:40:52.614986+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-16T01:01:08+00:00",
-      "terakhir_dilihat": "2026-11-16T01:01:08+00:00"
+      "pertama_dilihat": "2026-11-16T19:40:52+00:00",
+      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
     },
     {
       "id": "5ba4b2d3f9dc",
@@ -102,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-16T01:01:08+00:00"
+      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
     },
     {
       "id": "df2e2cfe44e2",

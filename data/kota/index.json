@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-16T01:01:08+00:00",
+  "dibuat": "2026-11-16T19:40:52+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -11,12 +11,12 @@
       "file": "kota/kabupaten-aceh-besar.json"
     },
     {
-      "slug": "kabupaten-bandung",
-      "kabkota": "Kabupaten Bandung",
+      "slug": "kabupaten-bekasi",
+      "kabkota": "Kabupaten Bekasi",
       "provinsi": "Jawa Barat",
-      "kode": "32.04",
+      "kode": "32.16",
       "jumlah": 1,
-      "file": "kota/kabupaten-bandung.json"
+      "file": "kota/kabupaten-bekasi.json"
     },
     {
       "slug": "kabupaten-ciamis",
@@ -41,14 +41,6 @@
       "kode": "35.25",
       "jumlah": 1,
       "file": "kota/kabupaten-gresik.json"
-    },
-    {
-      "slug": "kabupaten-magetan",
-      "kabkota": "Kabupaten Magetan",
-      "provinsi": "Jawa Timur",
-      "kode": "35.20",
-      "jumlah": 1,
-      "file": "kota/kabupaten-magetan.json"
     },
     {
       "slug": "kabupaten-maros",
@@ -111,7 +103,7 @@
       "kabkota": "Kota Bandung",
       "provinsi": "Jawa Barat",
       "kode": "32.73",
-      "jumlah": 3,
+      "jumlah": 2,
       "file": "kota/kota-bandung.json"
     },
     {
@@ -137,22 +129,6 @@
       "kode": "32.71",
       "jumlah": 2,
       "file": "kota/kota-bogor.json"
-    },
-    {
-      "slug": "kota-cilegon",
-      "kabkota": "Kota Cilegon",
-      "provinsi": "Banten",
-      "kode": "36.72",
-      "jumlah": 1,
-      "file": "kota/kota-cilegon.json"
-    },
-    {
-      "slug": "kota-depok",
-      "kabkota": "Kota Depok",
-      "provinsi": "Jawa Barat",
-      "kode": "32.76",
-      "jumlah": 1,
-      "file": "kota/kota-depok.json"
     },
     {
       "slug": "kota-jambi",
@@ -183,16 +159,8 @@
       "kabkota": "Kota Pekanbaru",
       "provinsi": "Riau",
       "kode": "14.71",
-      "jumlah": 11,
+      "jumlah": 10,
       "file": "kota/kota-pekanbaru.json"
-    },
-    {
-      "slug": "kota-semarang",
-      "kabkota": "Kota Semarang",
-      "provinsi": "Jawa Tengah",
-      "kode": "33.74",
-      "jumlah": 1,
-      "file": "kota/kota-semarang.json"
     },
     {
       "slug": "kota-sorong",
@@ -239,7 +207,7 @@
       "kabkota": "Kota Yogyakarta",
       "provinsi": "Daerah Istimewa Yogyakarta",
       "kode": "34.71",
-      "jumlah": 2,
+      "jumlah": 1,
       "file": "kota/kota-yogyakarta.json"
     },
     {
