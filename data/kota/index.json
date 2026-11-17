@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-17T03:52:53+00:00",
+  "dibuat": "2026-11-17T18:38:44+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -17,14 +17,6 @@
       "kode": "32.17",
       "jumlah": 1,
       "file": "kota/kabupaten-bandung-barat.json"
-    },
-    {
-      "slug": "kabupaten-bekasi",
-      "kabkota": "Kabupaten Bekasi",
-      "provinsi": "Jawa Barat",
-      "kode": "32.16",
-      "jumlah": 1,
-      "file": "kota/kabupaten-bekasi.json"
     },
     {
       "slug": "kabupaten-ciamis",
@@ -111,7 +103,7 @@
       "kabkota": "Kota Bandung",
       "provinsi": "Jawa Barat",
       "kode": "32.73",
-      "jumlah": 3,
+      "jumlah": 2,
       "file": "kota/kota-bandung.json"
     },
     {
@@ -137,6 +129,14 @@
       "kode": "32.71",
       "jumlah": 2,
       "file": "kota/kota-bogor.json"
+    },
+    {
+      "slug": "kota-cilegon",
+      "kabkota": "Kota Cilegon",
+      "provinsi": "Banten",
+      "kode": "36.72",
+      "jumlah": 1,
+      "file": "kota/kota-cilegon.json"
     },
     {
       "slug": "kota-jambi",
@@ -171,12 +171,12 @@
       "file": "kota/kota-pekanbaru.json"
     },
     {
-      "slug": "kota-sorong",
-      "kabkota": "Kota Sorong",
-      "provinsi": "Papua Barat Daya",
-      "kode": "96.71",
+      "slug": "kota-surabaya",
+      "kabkota": "Kota Surabaya",
+      "provinsi": "Jawa Timur",
+      "kode": "35.78",
       "jumlah": 1,
-      "file": "kota/kota-sorong.json"
+      "file": "kota/kota-surabaya.json"
     },
     {
       "slug": "kota-surakarta",
@@ -215,7 +215,7 @@
       "kabkota": "Kota Yogyakarta",
       "provinsi": "Daerah Istimewa Yogyakarta",
       "kode": "34.71",
-      "jumlah": 1,
+      "jumlah": 3,
       "file": "kota/kota-yogyakarta.json"
     },
     {
@@ -231,7 +231,7 @@
       "kabkota": null,
       "provinsi": null,
       "kode": null,
-      "jumlah": 2,
+      "jumlah": 1,
       "file": "kota/tanpa-wilayah.json"
     }
   ]

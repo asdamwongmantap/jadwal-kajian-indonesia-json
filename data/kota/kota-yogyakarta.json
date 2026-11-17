@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-17T03:52:53+00:00",
+  "dibuat": "2026-11-17T18:38:44+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,8 +8,102 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "a9ebdc9edcb0",
+      "judul": "Kajian Rutin Kolaborasi Rabu Malam di Maa",
+      "tema": "Terselip Niat Dunia dalam Ibadah, Apakah Riya'?",
+      "kitab": "Silsilah A'mal al-Qulub",
+      "ustadz": [
+        "Ustadz Abunnada, S.Psi."
+      ],
+      "tanggal": "2026-11-18",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Ashri Pogung Rejo",
+        "alamat": "Sinduadi, Mlati, Sleman, Yogyakarta",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15233",
+          "diteruskan_dari": "",
+          "diposting": "2026-11-17T15:21:16+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-17T18:38:44+00:00",
+      "terakhir_dilihat": "2026-11-17T18:38:44+00:00"
+    },
+    {
+      "id": "ecc0a3f824f4",
+      "judul": "Kajian Rutin Rabu Petang",
+      "tema": "Cabang Keimanan ( Bagian 10 )",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Sulaiman Rasyid, S.T."
+      ],
+      "tanggal": "2026-11-18",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Pogung Raya (MPR)",
+        "alamat": "Pogung Kampung Hijrah",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15225",
+          "diteruskan_dari": "",
+          "diposting": "2026-11-17T15:17:49+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-17T18:38:44+00:00",
+      "terakhir_dilihat": "2026-11-17T18:38:44+00:00"
+    },
     {
       "id": "f2fc3c85a110",
       "judul": "Kajian Rutin Senin",

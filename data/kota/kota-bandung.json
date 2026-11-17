@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-17T03:52:53+00:00",
+  "dibuat": "2026-11-17T18:38:44+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,32 +8,32 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 2,
   "kajian": [
     {
-      "id": "a6d349e2a24f",
-      "judul": "Kajian Bareng Offline",
-      "tema": null,
-      "kitab": null,
+      "id": "8ee38ddff1c7",
+      "judul": "Kajian Islam Ilmiyah",
+      "tema": "Pasal Beriman Dengan Hari Akhir",
+      "kitab": "Aqidah Wasiithiyyah",
       "ustadz": [
-        "Ustadz Abu Haidar As-Sundawy"
+        "Ustadz Abu Abdillah Andi Suhandi"
       ],
-      "tanggal": "2026-11-17",
+      "tanggal": "2026-11-18",
       "tanggal_perkiraan": false,
-      "hari": "Selasa",
+      "hari": "Rabu",
       "rutin": null,
       "waktu": {
-        "mulai": "10:00",
+        "mulai": null,
         "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
       },
       "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-17T10:00:00+07:00",
+      "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Pusat Studi & Dakwah Islam PUSDAI Bandung",
-        "alamat": "Jalan Diponegoro No. 63 Kota Bandung",
-        "peta": null
+        "nama": "Masjid Ash Shiddiq",
+        "alamat": "Jl. Kebon Gedang, (Gg. Hj. Siti Aisyah) Rt.02 Rw.10, Maleer, Batununggal, Kota Bandung., (",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
       },
       "wilayah": {
         "kode": "32.73",
@@ -49,60 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15212",
-          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
-          "diposting": "2026-11-16T22:14:09+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/15226",
+          "diteruskan_dari": "",
+          "diposting": "2026-11-17T15:18:10+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-17T03:52:53+00:00",
-      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
-    },
-    {
-      "id": "28e178eb8be4",
-      "judul": "Kajian Islam Ilmiah Masjid Al Aziz pekan ini",
-      "tema": null,
-      "kitab": "10 Penyebab Keselamatan",
-      "ustadz": [
-        "Ustadz Zakariya Joko Prasetiyo, Lc, M.Pd."
-      ],
-      "tanggal": "2026-11-17",
-      "tanggal_perkiraan": false,
-      "hari": "Selasa",
-      "rutin": null,
-      "waktu": {
-        "mulai": "18:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-17T18:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al Aziz (Jl. Soekarno Hatta No. 662 - Bandung)",
-        "alamat": "Peserta: Terbuka untuk umum (Ikhwan / Akhwat)",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15196",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-16T17:44:02+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-16T19:40:52+00:00",
-      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
+      "pertama_dilihat": "2026-11-17T18:38:44+00:00",
+      "terakhir_dilihat": "2026-11-17T18:38:44+00:00"
     },
     {
       "id": "2a1dc7c25614",
