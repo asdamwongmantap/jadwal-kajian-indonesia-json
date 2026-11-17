@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-16T19:40:52+00:00",
+  "dibuat": "2026-11-17T03:52:53+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -9,6 +9,14 @@
       "kode": "11.06",
       "jumlah": 1,
       "file": "kota/kabupaten-aceh-besar.json"
+    },
+    {
+      "slug": "kabupaten-bandung-barat",
+      "kabkota": "Kabupaten Bandung Barat",
+      "provinsi": "Jawa Barat",
+      "kode": "32.17",
+      "jumlah": 1,
+      "file": "kota/kabupaten-bandung-barat.json"
     },
     {
       "slug": "kabupaten-bekasi",
@@ -103,7 +111,7 @@
       "kabkota": "Kota Bandung",
       "provinsi": "Jawa Barat",
       "kode": "32.73",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kota-bandung.json"
     },
     {
@@ -223,7 +231,7 @@
       "kabkota": null,
       "provinsi": null,
       "kode": null,
-      "jumlah": 1,
+      "jumlah": 2,
       "file": "kota/tanpa-wilayah.json"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-16T19:40:52+00:00",
-  "jumlah": 86,
+  "dibuat": "2026-11-17T03:52:53+00:00",
+  "jumlah": 89,
   "kajian": [
     {
       "id": "86c3746c09db",
@@ -48,7 +48,54 @@
         }
       ],
       "pertama_dilihat": "2026-11-16T19:40:52+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
+    },
+    {
+      "id": "a6d349e2a24f",
+      "judul": "Kajian Bareng Offline",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Haidar As-Sundawy"
+      ],
+      "tanggal": "2026-11-17",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-17T10:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Pusat Studi & Dakwah Islam PUSDAI Bandung",
+        "alamat": "Jalan Diponegoro No. 63 Kota Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15212",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-11-16T22:14:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-17T03:52:53+00:00",
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "28e178eb8be4",
@@ -95,7 +142,54 @@
         }
       ],
       "pertama_dilihat": "2026-11-16T19:40:52+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
+    },
+    {
+      "id": "dc28116126b2",
+      "judul": "Kajian Bareng Offline",
+      "tema": "50 Kaidah kehidupan dalam Hadits-hadits Nabi",
+      "kitab": "Qawaid Nabawiyyah",
+      "ustadz": [
+        "Ustadz Asep Zaenudin bin Anif Suwardani"
+      ],
+      "tanggal": "2026-11-17",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Umar bin Khattab",
+        "alamat": "Desa Selacau, Kec. Batujajar, Kab. Bandung Barat",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.17",
+        "kabkota": "Kabupaten Bandung Barat",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bandung-barat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15213",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-11-16T22:14:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-17T03:52:53+00:00",
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "409bfdee77c3",
@@ -142,7 +236,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-16T19:40:52+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "47bd1ca2cbce",
@@ -189,7 +283,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-16T19:40:52+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "df81c149da47",
@@ -236,7 +330,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-16T19:40:52+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "cfd905e96623",
@@ -286,6 +380,45 @@
       "terakhir_dilihat": "2026-11-12T17:38:30+00:00"
     },
     {
+      "id": "abca0cb03a46",
+      "judul": "Kajian Rutin Selasa ba'da Ashar",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-11-17",
+      "tanggal_perkiraan": true,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Ashar",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Iman Blok M Square Lt. 7",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": null,
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15200",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-16T21:54:23+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-17T03:52:53+00:00",
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
+    },
+    {
       "id": "a6609b7c4fc2",
       "judul": "Kajian Rutin Rabu Malam, Pekan Ketiga, 18 November 2026 • 9 Jumadil Akhir 1448 H",
       "tema": "Kitab Tafsir Juz 'Amma",
@@ -330,7 +463,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-16T19:40:52+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "091c82098722",
@@ -375,7 +508,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-14T01:26:32+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "5ba4b2d3f9dc",
@@ -422,7 +555,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "d7f0e8077090",
@@ -1190,7 +1323,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "79b49e7fde1d",
@@ -3601,7 +3734,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "a62b6d5537bd",

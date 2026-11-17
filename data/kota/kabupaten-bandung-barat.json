@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-17T03:52:53+00:00",
+  "wilayah": {
+    "kode": "32.17",
+    "kabkota": "Kabupaten Bandung Barat",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bandung-barat",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "dc28116126b2",
+      "judul": "Kajian Bareng Offline",
+      "tema": "50 Kaidah kehidupan dalam Hadits-hadits Nabi",
+      "kitab": "Qawaid Nabawiyyah",
+      "ustadz": [
+        "Ustadz Asep Zaenudin bin Anif Suwardani"
+      ],
+      "tanggal": "2026-11-17",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Umar bin Khattab",
+        "alamat": "Desa Selacau, Kec. Batujajar, Kab. Bandung Barat",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.17",
+        "kabkota": "Kabupaten Bandung Barat",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bandung-barat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15213",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-11-16T22:14:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-17T03:52:53+00:00",
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
+    }
+  ]
+}

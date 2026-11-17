@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-16T19:40:52+00:00",
+  "dibuat": "2026-11-17T03:52:53+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,8 +8,55 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "a6d349e2a24f",
+      "judul": "Kajian Bareng Offline",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Haidar As-Sundawy"
+      ],
+      "tanggal": "2026-11-17",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-17T10:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Pusat Studi & Dakwah Islam PUSDAI Bandung",
+        "alamat": "Jalan Diponegoro No. 63 Kota Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15212",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-11-16T22:14:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-17T03:52:53+00:00",
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
+    },
     {
       "id": "28e178eb8be4",
       "judul": "Kajian Islam Ilmiah Masjid Al Aziz pekan ini",
@@ -55,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-16T19:40:52+00:00",
-      "terakhir_dilihat": "2026-11-16T19:40:52+00:00"
+      "terakhir_dilihat": "2026-11-17T03:52:53+00:00"
     },
     {
       "id": "2a1dc7c25614",
