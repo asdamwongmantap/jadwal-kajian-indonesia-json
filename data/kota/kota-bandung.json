@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-17T18:38:44+00:00",
+  "dibuat": "2026-11-18T02:53:38+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,8 +8,102 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 4,
   "kajian": [
+    {
+      "id": "157c6e7847c6",
+      "judul": "Kajian Islam Ilmiah - Terbuka Untuk Umum (ikhwan / Akhwat)",
+      "tema": null,
+      "kitab": "99 Hadits Pilihan Pondasi Agama",
+      "ustadz": [
+        "Ustadz Yusuf Abu Ubaidah as Sidawi"
+      ],
+      "tanggal": "2026-11-18",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "18:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-18T18:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Aziz (Jl. Soekarno Hatta No. 662 - Bandung)",
+        "alamat": "Peserta: Terbuka untuk umum (Ikhwan / Akhwat)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15265",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-17T20:47:52+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-18T02:53:38+00:00",
+      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
+    },
+    {
+      "id": "0cfcb3c02450",
+      "judul": null,
+      "tema": "Mengakhirkan Shalat Isya (Kitab Al Lulu Wal Marjan)",
+      "kitab": null,
+      "ustadz": [
+        "Al Ustadz Muhammad Mundzir"
+      ],
+      "tanggal": "2026-11-18",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Falaah",
+        "alamat": "Jl. Rajamantri Kidul No.6, Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15258",
+          "diteruskan_dari": "Pekerja Mengaji Channel",
+          "diposting": "2026-11-17T20:45:29+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-18T02:53:38+00:00",
+      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
+    },
     {
       "id": "8ee38ddff1c7",
       "judul": "Kajian Islam Ilmiyah",
@@ -55,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-17T18:38:44+00:00",
-      "terakhir_dilihat": "2026-11-17T18:38:44+00:00"
+      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
     },
     {
       "id": "2a1dc7c25614",

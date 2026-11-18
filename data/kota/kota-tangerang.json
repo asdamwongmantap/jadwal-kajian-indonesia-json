@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-17T18:38:44+00:00",
+  "dibuat": "2026-11-18T02:53:38+00:00",
   "wilayah": {
     "kode": "36.71",
     "kabkota": "Kota Tangerang",
@@ -8,8 +8,55 @@
     "slug": "kota-tangerang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
+    {
+      "id": "9b864ffc0d1d",
+      "judul": null,
+      "tema": "Nasehat-nasehat bagi Seorang Hamba: Taqwa Kepada Allah Ta'ala",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Firmansyah Abu Fauzan,S.os."
+      ],
+      "tanggal": "2026-11-18",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Raya Rahmatan Lil'alamin",
+        "alamat": "Jl. Taman Golf Raya, RT.001/RW.08, Modernland, Buaran Indah, Kec. Tangerang, Kota Tangerang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "36.71",
+        "kabkota": "Kota Tangerang",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15281",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-17T21:11:13+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-18T02:53:38+00:00",
+      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
+    },
     {
       "id": "f20c86f83fdd",
       "judul": null,

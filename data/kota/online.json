@@ -1,9 +1,91 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-17T18:38:44+00:00",
+  "dibuat": "2026-11-18T02:53:38+00:00",
   "wilayah": null,
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "81b285c0f3b4",
+      "judul": "Kajian Online ⤵",
+      "tema": "Kitab Aqidah Salaf wa Ashabil Hadits",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Yahya, Lc."
+      ],
+      "tanggal": "2026-11-18",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:15",
+        "selesai": "10:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-18T09:15:00+07:00",
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15304",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-17T22:04:23+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-18T02:53:38+00:00",
+      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
+    },
+    {
+      "id": "8effa81e1609",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Aep Saepullah Ibnu Ahmad, Lc."
+      ],
+      "tanggal": "2026-11-18",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": "https://youtube.com/masjidashshaff",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15285",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-17T21:13:43+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-18T02:53:38+00:00",
+      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
+    },
     {
       "id": "8a57b556d849",
       "judul": null,

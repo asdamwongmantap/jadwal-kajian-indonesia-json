@@ -1,0 +1,151 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-18T02:53:38+00:00",
+  "wilayah": {
+    "kode": "32.16",
+    "kabkota": "Kabupaten Bekasi",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bekasi",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 3,
+  "kajian": [
+    {
+      "id": "e15b9e9373c9",
+      "judul": "Info Kajian Rabu Muslimah",
+      "tema": null,
+      "kitab": "Tauhid esok",
+      "ustadz": [
+        "Ustadz Irfan Halim, L.c, M.H."
+      ],
+      "tanggal": "2026-11-18",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": "11:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-18T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Hidayah",
+        "alamat": "Lembah Hijau Lippo Cikarang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://youtube.com/live/Khn3Lmx3hhw?feature=share",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15272",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-17T20:56:47+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-18T02:53:38+00:00",
+      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
+    },
+    {
+      "id": "9fdb5c0b8da2",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-11-18",
+      "tanggal_perkiraan": true,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Barokah",
+        "alamat": "Kav. Barokah, Bahagia, Kec. Babelan, Kab. Bekasi, Jawa Barat 17121",
+        "peta": "https://maps.app.goo.gl/Z56rNq5JK4LZoyxV6"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15298",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-17T21:54:16+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-18T02:53:38+00:00",
+      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
+    },
+    {
+      "id": "a42db69ad67e",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-11-18",
+      "tanggal_perkiraan": true,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dhuha",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurul Hikmah",
+        "alamat": "Graha Mustika Media (GMM) Cluster 89, Lubangbuaya, Kec. Setu, Kab. Bekasi, Jawa Barat 17320",
+        "peta": "https://maps.app.goo.gl/ztyLJrBAoBDkQN6j7"
+      },
+      "wilayah": {
+        "kode": "32.16",
+        "kabkota": "Kabupaten Bekasi",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bekasi",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15292",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-17T21:19:15+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-18T02:53:38+00:00",
+      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
+    }
+  ]
+}
