@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-18T02:53:38+00:00",
+  "dibuat": "2026-11-18T18:10:11+00:00",
   "wilayah": {
     "kode": "35.78",
     "kabkota": "Kota Surabaya",
@@ -11,16 +11,16 @@
   "jumlah": 1,
   "kajian": [
     {
-      "id": "ab8a9a141758",
-      "judul": "Kajian Rutin Surabaya Mengaji: Kitab Arbain Nawawi",
-      "tema": "Pembahasan Hadits ke - 34 , Kitab Arbai'in Nawawi",
-      "kitab": "Arbain Nawawi",
+      "id": "8fff8427456d",
+      "judul": "Kajian Rutin Surabaya Mengaji",
+      "tema": "Meminta Kebaikan Saat Memasuki Pagi/Petang",
+      "kitab": "Fiqhul Ad'iyah Wal Adzkar",
       "ustadz": [
-        "Ustadz Gemma Ilhamy, M.Pd.I. Hafizhohullohu"
+        "Ustadz Muhammad Azhari, Lc., M.A. Hafizhohullohu"
       ],
-      "tanggal": "2026-11-18",
+      "tanggal": "2026-11-19",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -31,9 +31,9 @@
       "zona_waktu": "WIB",
       "mulai_iso": null,
       "tempat": {
-        "nama": "Masjid Jami' Makkah",
-        "alamat": "Jl. Bendul Merisi Tengah No.52, Surabaya",
-        "peta": "https://bit.ly/mapsmasjidjamimakkah"
+        "nama": "Masjid Assalam Purimas",
+        "alamat": "Jl. Jimbaran No.2A Purimas, Gunung Anyar, Surabaya",
+        "peta": null
       },
       "wilayah": {
         "kode": "35.78",
@@ -49,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15236",
-          "diteruskan_dari": "",
-          "diposting": "2026-11-17T15:24:31+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/15336",
+          "diteruskan_dari": "Surabaya Mengaji",
+          "diposting": "2026-11-18T12:46:42+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-17T18:38:44+00:00",
-      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
+      "pertama_dilihat": "2026-11-18T18:10:11+00:00",
+      "terakhir_dilihat": "2026-11-18T18:10:11+00:00"
     }
   ]
 }

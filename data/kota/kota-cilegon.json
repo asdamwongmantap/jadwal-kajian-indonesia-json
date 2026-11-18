@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-18T02:53:38+00:00",
+  "dibuat": "2026-11-18T18:10:11+00:00",
   "wilayah": {
     "kode": "36.72",
     "kabkota": "Kota Cilegon",
@@ -8,66 +8,19 @@
     "slug": "kota-cilegon",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 1,
   "kajian": [
     {
-      "id": "19e5a2f8ccde",
-      "judul": null,
-      "tema": "『 Kitab Tafsir Juz 'amma 』",
-      "kitab": null,
-      "ustadz": [
-        "Ustadzah Hasanah Ummu Maryam"
-      ],
-      "tanggal": "2026-11-18",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:15",
-        "selesai": "10:30",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-18T09:15:00+07:00",
-      "tempat": {
-        "nama": "Masjid Abu Bakar Ash-Shiddiq",
-        "alamat": "Perum Bumi Rakata Asri, Cilegon, Offline, Kajian ini GRATIS",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "36.72",
-        "kabkota": "Kota Cilegon",
-        "provinsi": "Banten",
-        "slug": "kota-cilegon",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15256",
-          "diteruskan_dari": "🌹 Majelis Ilmu Muslimah Rakata 🌹",
-          "diposting": "2026-11-17T20:42:58+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-18T02:53:38+00:00",
-      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
-    },
-    {
-      "id": "37b53cdd6910",
+      "id": "5212e4999b45",
       "judul": "Kajian Rutin Ba'da Subuh",
-      "tema": "Tematik",
+      "tema": "Kitab Fawaidul Fawaid",
       "kitab": null,
       "ustadz": [
-        "Ustadz Muhammad Nazaruddin"
+        "Ustadz Ubaidillah Masyhadi"
       ],
-      "tanggal": "2026-11-18",
+      "tanggal": "2026-11-19",
       "tanggal_perkiraan": true,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -96,13 +49,13 @@
         {
           "id": "jadwalkajiansunnah",
           "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15234",
-          "diteruskan_dari": "",
-          "diposting": "2026-11-17T15:23:38+00:00"
+          "url": "https://t.me/jadwalkajiansunnah/15334",
+          "diteruskan_dari": "Yayasan Alhanif Cilegon",
+          "diposting": "2026-11-18T12:44:04+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-17T18:38:44+00:00",
-      "terakhir_dilihat": "2026-11-18T02:53:38+00:00"
+      "pertama_dilihat": "2026-11-18T18:10:11+00:00",
+      "terakhir_dilihat": "2026-11-18T18:10:11+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-18T02:53:38+00:00",
+  "dibuat": "2026-11-18T18:10:11+00:00",
   "wilayah": {
     "kode": "11.06",
     "kabkota": "Kabupaten Aceh Besar",
@@ -53,10 +53,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12682",
           "diteruskan_dari": "Gresik Mengaji",
           "diposting": "2026-10-21T07:46:09+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15315",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-11-18T05:28:49+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-21T14:32:10+00:00",
-      "terakhir_dilihat": "2026-10-23T14:17:15+00:00"
+      "terakhir_dilihat": "2026-11-18T18:10:11+00:00"
     }
   ]
 }
