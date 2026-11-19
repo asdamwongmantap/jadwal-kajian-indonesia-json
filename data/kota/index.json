@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-18T18:10:11+00:00",
+  "dibuat": "2026-11-19T02:33:52+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -9,6 +9,30 @@
       "kode": "11.06",
       "jumlah": 1,
       "file": "kota/kabupaten-aceh-besar.json"
+    },
+    {
+      "slug": "kabupaten-bandung",
+      "kabkota": "Kabupaten Bandung",
+      "provinsi": "Jawa Barat",
+      "kode": "32.04",
+      "jumlah": 1,
+      "file": "kota/kabupaten-bandung.json"
+    },
+    {
+      "slug": "kabupaten-bekasi",
+      "kabkota": "Kabupaten Bekasi",
+      "provinsi": "Jawa Barat",
+      "kode": "32.16",
+      "jumlah": 3,
+      "file": "kota/kabupaten-bekasi.json"
+    },
+    {
+      "slug": "kabupaten-bener-meriah",
+      "kabkota": "Kabupaten Bener Meriah",
+      "provinsi": "Aceh",
+      "kode": "11.17",
+      "jumlah": 1,
+      "file": "kota/kabupaten-bener-meriah.json"
     },
     {
       "slug": "kabupaten-ciamis",
@@ -39,8 +63,16 @@
       "kabkota": "Kabupaten Langkat",
       "provinsi": "Sumatera Utara",
       "kode": "12.05",
-      "jumlah": 2,
+      "jumlah": 3,
       "file": "kota/kabupaten-langkat.json"
+    },
+    {
+      "slug": "kabupaten-magetan",
+      "kabkota": "Kabupaten Magetan",
+      "provinsi": "Jawa Timur",
+      "kode": "35.20",
+      "jumlah": 1,
+      "file": "kota/kabupaten-magetan.json"
     },
     {
       "slug": "kabupaten-maros",
@@ -103,7 +135,7 @@
       "kabkota": "Kota Bandung",
       "provinsi": "Jawa Barat",
       "kode": "32.73",
-      "jumlah": 2,
+      "jumlah": 4,
       "file": "kota/kota-bandung.json"
     },
     {
@@ -119,7 +151,7 @@
       "kabkota": "Kota Bekasi",
       "provinsi": "Jawa Barat",
       "kode": "32.75",
-      "jumlah": 8,
+      "jumlah": 18,
       "file": "kota/kota-bekasi.json"
     },
     {
@@ -153,6 +185,14 @@
       "kode": "73.71",
       "jumlah": 6,
       "file": "kota/kota-makassar.json"
+    },
+    {
+      "slug": "kota-mataram",
+      "kabkota": "Kota Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "kode": "52.71",
+      "jumlah": 1,
+      "file": "kota/kota-mataram.json"
     },
     {
       "slug": "kota-parepare",
@@ -215,7 +255,7 @@
       "kabkota": "Kota Yogyakarta",
       "provinsi": "Daerah Istimewa Yogyakarta",
       "kode": "34.71",
-      "jumlah": 1,
+      "jumlah": 3,
       "file": "kota/kota-yogyakarta.json"
     },
     {

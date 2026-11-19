@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-18T18:10:11+00:00",
+  "dibuat": "2026-11-19T02:33:52+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,7 +8,7 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 4,
   "kajian": [
     {
       "id": "4f6ae05e5b8c",
@@ -55,7 +55,101 @@
         }
       ],
       "pertama_dilihat": "2026-11-18T18:10:11+00:00",
-      "terakhir_dilihat": "2026-11-18T18:10:11+00:00"
+      "terakhir_dilihat": "2026-11-19T02:33:52+00:00"
+    },
+    {
+      "id": "5206bc73b971",
+      "judul": "Kajian Bareng Offline",
+      "tema": "Hadits Ke-49",
+      "kitab": "Arba'in An-Nawawi",
+      "ustadz": [
+        "Ustadz Hary Badar bin Marwan"
+      ],
+      "tanggal": "2026-11-19",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "20:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-19T20:00:00+07:00",
+      "tempat": {
+        "nama": "Studio MIMBA TV",
+        "alamat": "Jl. Kebon Gedang No. 99, Gatot Subroto, Kota Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15361",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-11-18T22:49:40+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-19T02:33:52+00:00",
+      "terakhir_dilihat": "2026-11-19T02:33:52+00:00"
+    },
+    {
+      "id": "fad141fce4b8",
+      "judul": "Kajian Rutin Kamis Pekan Ketiga",
+      "tema": "Mengenal Nama Allah Al-Muhyi Wal Mumit",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Yahya Abdul Aziz"
+      ],
+      "tanggal": "2026-11-19",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid ashSHIDDIQ",
+        "alamat": "Jl. Kebon Gedang (Gg. Hj. Siti Aisyah) RT 02 RW 10, Maleer, Batununggal, Kota Bandung",
+        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15362",
+          "diteruskan_dari": "Imam Malik Bandung",
+          "diposting": "2026-11-18T22:50:16+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-19T02:33:52+00:00",
+      "terakhir_dilihat": "2026-11-19T02:33:52+00:00"
     },
     {
       "id": "2a1dc7c25614",

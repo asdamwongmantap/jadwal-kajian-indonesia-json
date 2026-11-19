@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-19T02:33:52+00:00",
+  "wilayah": {
+    "kode": "32.04",
+    "kabkota": "Kabupaten Bandung",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bandung",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "93be5bceec07",
+      "judul": null,
+      "tema": "Berteduh di Bawah Pohon",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Farid Ramdhan, Lc."
+      ],
+      "tanggal": "2026-11-19",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Isya",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Ikhlas",
+        "alamat": "Pesona prima 8, banjaran, Jln pahlawan No. 62. Kiangroke, kec. Banjaran, Kab. Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.04",
+        "kabkota": "Kabupaten Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15393",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-18T23:09:39+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-19T02:33:52+00:00",
+      "terakhir_dilihat": "2026-11-19T02:33:52+00:00"
+    }
+  ]
+}
