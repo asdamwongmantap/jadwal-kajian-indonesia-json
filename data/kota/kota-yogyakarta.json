@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-19T02:33:52+00:00",
+  "dibuat": "2026-11-19T18:22:39+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,103 +8,8 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "0d66396b1a5a",
-      "judul": "Kajian | Kamis Pagi",
-      "tema": "| Alumnus Daar El-Hadits Yaman",
-      "kitab": "Shohih Adabul Mufrod",
-      "ustadz": [
-        "Ustadzah Imroatul Azizah",
-        "| Inspirator Muslimah"
-      ],
-      "tanggal": "2026-11-19",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": "08:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-19T08:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Al-Hidayah Purwosari",
-        "alamat": "| Jl. Kaliurang Km. 6 Yogyakarta, | Maps",
-        "peta": "https://g.co/kgs/RLV9xt"
-      },
-      "wilayah": {
-        "kode": "34.71",
-        "kabkota": "Kota Yogyakarta",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kota-yogyakarta",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15367",
-          "diteruskan_dari": "MUTIARA HIKMAH OFFICIAL",
-          "diposting": "2026-11-18T22:52:01+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-19T02:33:52+00:00",
-      "terakhir_dilihat": "2026-11-19T02:33:52+00:00"
-    },
-    {
-      "id": "c91aa9e46be3",
-      "judul": "Kajian Rutin Kamis Buka Puasa",
-      "tema": "Meraih Syafaat Nabi",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dzulfahmi Djalaluddin, S.Si."
-      ],
-      "tanggal": "2026-11-19",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": "17:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-19T17:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Pogung Raya (MPR)",
-        "alamat": "Pogung Kampung Hijrah",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "34.71",
-        "kabkota": "Kota Yogyakarta",
-        "provinsi": "Daerah Istimewa Yogyakarta",
-        "slug": "kota-yogyakarta",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15358",
-          "diteruskan_dari": "Masjid Pogung Raya - MPR",
-          "diposting": "2026-11-18T22:47:41+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-19T02:33:52+00:00",
-      "terakhir_dilihat": "2026-11-19T02:33:52+00:00"
-    },
     {
       "id": "f2fc3c85a110",
       "judul": "Kajian Rutin Senin",

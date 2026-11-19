@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-19T02:33:52+00:00",
+  "dibuat": "2026-11-19T18:22:39+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,55 +8,8 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 3,
   "kajian": [
-    {
-      "id": "017add9be8d6",
-      "judul": "Majelis Ba'da Maghrib",
-      "tema": null,
-      "kitab": "Minhajul Firqatun Najiyah",
-      "ustadz": [
-        "Ustadz Dzikrullah Arza"
-      ],
-      "tanggal": "2026-11-19",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Nurullah",
-        "alamat": "Apartemen Kalibata City, Basement Tower Cendana",
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15347",
-          "diteruskan_dari": "Masjid Nurullah Kalibata City",
-          "diposting": "2026-11-18T12:54:04+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-18T18:10:11+00:00",
-      "terakhir_dilihat": "2026-11-19T02:33:52+00:00"
-    },
     {
       "id": "d7f0e8077090",
       "judul": null,

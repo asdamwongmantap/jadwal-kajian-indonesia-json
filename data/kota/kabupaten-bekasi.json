@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-19T02:33:52+00:00",
+  "dibuat": "2026-11-19T18:22:39+00:00",
   "wilayah": {
     "kode": "32.16",
     "kabkota": "Kabupaten Bekasi",
@@ -8,100 +8,8 @@
     "slug": "kabupaten-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "6334f5db65cb",
-      "judul": "Kajian Kamis Muslimah",
-      "tema": null,
-      "kitab": "hal. 497 dst.)",
-      "ustadz": [
-        "Ustadz Erfandoni Tarmidzi, Lc, M.H.I."
-      ],
-      "tanggal": "2026-11-19",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": "11:00",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-19T09:00:00+07:00",
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "32.16",
-        "kabkota": "Kabupaten Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kabupaten-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "online",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15379",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-18T22:58:58+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-19T02:33:52+00:00",
-      "terakhir_dilihat": "2026-11-19T02:33:52+00:00"
-    },
-    {
-      "id": "cfd96ddf5dc7",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [],
-      "tanggal": "2026-11-19",
-      "tanggal_perkiraan": true,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Dhuha",
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Utsman bin Affan (SIT Al Munawwarah)",
-        "alamat": "Kp. Gebang, Satriajaya, Kec. Tambun Utara, Kab. Bekasi, Jawa Barat 17510",
-        "peta": "https://maps.app.goo.gl/Z8GajTXnRrGh8zuo8"
-      },
-      "wilayah": {
-        "kode": "32.16",
-        "kabkota": "Kabupaten Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kabupaten-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15377",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-18T22:57:45+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-19T02:33:52+00:00",
-      "terakhir_dilihat": "2026-11-19T02:33:52+00:00"
-    },
     {
       "id": "5fee26cfe3c2",
       "judul": null,
@@ -147,7 +55,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-19T02:33:52+00:00",
-      "terakhir_dilihat": "2026-11-19T02:33:52+00:00"
+      "terakhir_dilihat": "2026-11-19T18:22:39+00:00"
     }
   ]
 }
