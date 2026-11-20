@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-20T02:19:11+00:00",
+  "wilayah": {
+    "kode": "51.71",
+    "kabkota": "Kota Denpasar",
+    "provinsi": "Bali",
+    "slug": "kota-denpasar",
+    "zona_waktu": "WITA"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "21646cbbf1a7",
+      "judul": null,
+      "tema": "Saat Tidak Lagi Ada Kematian",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Dr. Hudzaifah M. Maricar, Lc., MA."
+      ],
+      "tanggal": "2026-11-20",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WITA",
+      "mulai_iso": "2026-11-20T16:00:00+08:00",
+      "tempat": {
+        "nama": "Musholla Noor Muhammad",
+        "alamat": "Jl. Teuku Umar Barat (Belakang Toko kain SAS / Omaila Cafe), Denpasar Bali",
+        "peta": "https://maps.app.goo.gl/Ke1xDrF9VdkNEqh87?g_st=ac"
+      },
+      "wilayah": {
+        "kode": "51.71",
+        "kabkota": "Kota Denpasar",
+        "provinsi": "Bali",
+        "slug": "kota-denpasar",
+        "zona_waktu": "WITA"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15521",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-20T02:17:35+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
+      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
+    }
+  ]
+}

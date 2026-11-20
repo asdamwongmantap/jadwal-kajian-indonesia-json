@@ -1,0 +1,59 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-20T02:19:11+00:00",
+  "wilayah": {
+    "kode": "11.12",
+    "kabkota": "Kabupaten Aceh Barat Daya",
+    "provinsi": "Aceh",
+    "slug": "kabupaten-aceh-barat-daya",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "89f772664e69",
+      "judul": null,
+      "tema": "Pelajaran dalam Menumbuhkan Rasa Takut Terhadap Kesyirikan",
+      "kitab": null,
+      "ustadz": [],
+      "tanggal": "2026-11-20",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Aminussalam",
+        "alamat": "Jl. Setia 2 no.2 Jatiwaringin Pondok Gede",
+        "peta": "https://maps.app.goo.gl/i6FbLU6nHY8KhE3d7"
+      },
+      "wilayah": {
+        "kode": "11.12",
+        "kabkota": "Kabupaten Aceh Barat Daya",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-aceh-barat-daya",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15502",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-20T02:05:40+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
+      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
+    }
+  ]
+}

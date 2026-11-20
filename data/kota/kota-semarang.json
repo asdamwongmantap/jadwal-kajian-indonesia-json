@@ -1,0 +1,202 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-20T02:19:11+00:00",
+  "wilayah": {
+    "kode": "33.74",
+    "kabkota": "Kota Semarang",
+    "provinsi": "Jawa Tengah",
+    "slug": "kota-semarang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 4,
+  "kajian": [
+    {
+      "id": "1e247ea3fa11",
+      "judul": null,
+      "tema": "Perbedaan Nabi dan Rasul",
+      "kitab": "Syarah At-Thahawiyah",
+      "ustadz": [
+        "Ustadz Abu Umair Kuswoyo"
+      ],
+      "tanggal": "2026-11-20",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurus Sunnah",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15452",
+          "diteruskan_dari": "Masjid Nurussunnah",
+          "diposting": "2026-11-19T22:58:06+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
+      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
+    },
+    {
+      "id": "32b186299bd8",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Endang Sutedi, Lc."
+      ],
+      "tanggal": "2026-11-20",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Sa'ad bin Muadz",
+        "alamat": "Kelurahan Padangsari, Kecamatan Banyumanik",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15458",
+          "diteruskan_dari": "Endang Sutedi Official",
+          "diposting": "2026-11-19T23:00:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
+      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
+    },
+    {
+      "id": "61ea08a45026",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Umair Kuswoyo"
+      ],
+      "tanggal": "2026-11-20",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Nurus Sunnah",
+        "alamat": "Jl. Bulusan Utara Raya, Kelurahan Bulusan, Kecamatan Tembalang",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15450",
+          "diteruskan_dari": "Masjid Nurussunnah",
+          "diposting": "2026-11-19T22:58:06+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
+      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
+    },
+    {
+      "id": "813ede5f5248",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Budi Santoso Afrizal, Lc, M.H., C.AFM."
+      ],
+      "tanggal": "2026-11-20",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Dzuhur",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ibadurrahman Semarang Indah",
+        "alamat": "Jl. Semarang Indah Blok C/X/1",
+        "peta": "https://maps.app.goo.gl/QXTxviVxdWGqfhyr7?g_st=aw"
+      },
+      "wilayah": {
+        "kode": "33.74",
+        "kabkota": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "slug": "kota-semarang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15460",
+          "diteruskan_dari": "Budi Santoso Official",
+          "diposting": "2026-11-19T23:00:51+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
+      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
+    }
+  ]
+}

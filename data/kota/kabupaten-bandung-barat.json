@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-20T02:19:11+00:00",
+  "wilayah": {
+    "kode": "32.17",
+    "kabkota": "Kabupaten Bandung Barat",
+    "provinsi": "Jawa Barat",
+    "slug": "kabupaten-bandung-barat",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "21dc689fcfad",
+      "judul": "Kajian Bareng Offline",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz M. Hilman Al-Fiqhy, M.A."
+      ],
+      "tanggal": "2026-11-20",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Umar Bin Khattab",
+        "alamat": "Desa Selacau, Kec. Batujajar, Kab. Bandung Barat",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.17",
+        "kabkota": "Kabupaten Bandung Barat",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bandung-barat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15432",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-11-19T22:48:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
+      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
+    },
+    {
+      "id": "f5897ef7226f",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muh. Yusuf Abdullah"
+      ],
+      "tanggal": "2026-11-20",
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Umar bin Khattab",
+        "alamat": "Desa Selacau, Kec. Batujajar, Kab. Bandung Barat",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.17",
+        "kabkota": "Kabupaten Bandung Barat",
+        "provinsi": "Jawa Barat",
+        "slug": "kabupaten-bandung-barat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15430",
+          "diteruskan_dari": "Radio Tarbiyah Sunnah 1476 AM",
+          "diposting": "2026-11-19T22:48:21+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
+      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
+    }
+  ]
+}
