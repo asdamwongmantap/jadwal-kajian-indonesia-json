@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-20T02:19:11+00:00",
+  "dibuat": "2026-11-20T17:52:41+00:00",
   "wilayah": {
     "kode": "33.72",
     "kabkota": "Kota Surakarta",
@@ -8,55 +8,8 @@
     "slug": "kota-surakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 5,
+  "jumlah": 4,
   "kajian": [
-    {
-      "id": "0ba927bcc0b5",
-      "judul": "Kajian Islam",
-      "tema": "Menjadi Hamba Yang Dicintai Allah",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Zubair Bin Eko, B.A."
-      ],
-      "tanggal": "2026-11-20",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al-Qomar",
-        "alamat": "Jl.Slamet Riyadi No.414 Rel Bengkong Purwosari, Solo, Jawa Tengah, Kodepos 57142, (Sebelah Barat RS Kasih Ibu)",
-        "peta": "https://goo.gl/maps/1bfWkYUrwwq_"
-      },
-      "wilayah": {
-        "kode": "33.72",
-        "kabkota": "Kota Surakarta",
-        "provinsi": "Jawa Tengah",
-        "slug": "kota-surakarta",
-        "zona_waktu": "WIB"
-      },
-      "mode": "hybrid",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15464",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-20T01:31:52+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
-      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
-    },
     {
       "id": "3b932627163d",
       "judul": "Kajian Islam",

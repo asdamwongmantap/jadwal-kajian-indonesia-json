@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-20T02:19:11+00:00",
+  "dibuat": "2026-11-20T17:52:41+00:00",
   "wilayah": {
     "kode": "36.71",
     "kabkota": "Kota Tangerang",
@@ -8,7 +8,7 @@
     "slug": "kota-tangerang",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 4,
   "kajian": [
     {
       "id": "f20c86f83fdd",
@@ -150,6 +150,53 @@
       ],
       "pertama_dilihat": "2026-10-14T23:55:09+00:00",
       "terakhir_dilihat": "2026-10-16T14:01:09+00:00"
+    },
+    {
+      "id": "39dfda4fd5e7",
+      "judul": null,
+      "tema": "Kebiasan Kecil Berdampak Besar",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ahmad Ubaidillah Nasiden, Lc."
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": "Jumat",
+      "rutin": "Semoga Allah senantiasa memudahkan setiap niatan kita untuk mengikuti kajian",
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al Muhajirin Bojongrenged",
+        "alamat": "Jl. pintu kapuk no 42, Bojong renged, kec. Teluk Naga Tangerang, Depan kantor Desa Rawarengas",
+        "peta": "https://bit.ly/Mapsalmuhajirin"
+      },
+      "wilayah": {
+        "kode": "36.71",
+        "kabkota": "Kota Tangerang",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15527",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-20T02:24:18+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-20T17:52:41+00:00",
+      "terakhir_dilihat": "2026-11-20T17:52:41+00:00"
     }
   ]
 }

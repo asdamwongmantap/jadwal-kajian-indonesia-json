@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-20T02:19:11+00:00",
+  "dibuat": "2026-11-20T17:52:41+00:00",
   "wilayah": {
     "kode": "18.71",
     "kabkota": "Kota Bandar Lampung",
@@ -8,55 +8,8 @@
     "slug": "kota-bandar-lampung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 9,
+  "jumlah": 8,
   "kajian": [
-    {
-      "id": "0b2c16d300ee",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dimas Panji, S.Pd.I."
-      ],
-      "tanggal": "2026-11-20",
-      "tanggal_perkiraan": true,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "11:47",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al-Hayah",
-        "alamat": "Jl. Z.A Pagar Alam, Gedung Meneng - Bandar Lampung, (Masuk melalui pintu gerbang SMP Islam Mumtaz)",
-        "peta": "https://goo.gl/maps/TUp1W1Jw8by"
-      },
-      "wilayah": {
-        "kode": "18.71",
-        "kabkota": "Kota Bandar Lampung",
-        "provinsi": "Lampung",
-        "slug": "kota-bandar-lampung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15461",
-          "diteruskan_dari": "Masjid Al-Hayah",
-          "diposting": "2026-11-19T23:03:54+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
-      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
-    },
     {
       "id": "6d2042f40398",
       "judul": "Kajian Ahad Pagi",

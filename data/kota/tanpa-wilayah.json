@@ -1,91 +1,9 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-20T02:19:11+00:00",
+  "dibuat": "2026-11-20T17:52:41+00:00",
   "wilayah": null,
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "03e93f3e4f1e",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Sulaiman Rasyid"
-      ],
-      "tanggal": "2026-11-20",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": "11:30",
-        "selesai": "12:30",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-20T11:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid Pogung Dalangan",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": null,
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15396",
-          "diteruskan_dari": "Masjid Pogung Dalangan - MPD",
-          "diposting": "2026-11-19T22:35:27+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
-      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
-    },
-    {
-      "id": "e783c6b54691",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Syafiq Muhammad Qutub, S.Pd."
-      ],
-      "tanggal": "2026-11-20",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Al Ihsan Dukuh Zamrud",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": null,
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15506",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-20T02:07:33+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
-      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
-    },
     {
       "id": "78cc40adb078",
       "judul": null,

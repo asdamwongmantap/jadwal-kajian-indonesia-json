@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-20T02:19:11+00:00",
+  "dibuat": "2026-11-20T17:52:41+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,55 +8,8 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 11,
+  "jumlah": 10,
   "kajian": [
-    {
-      "id": "352f5df56a1d",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Rahmad Hidayat, Lc."
-      ],
-      "tanggal": "2026-11-20",
-      "tanggal_perkiraan": false,
-      "hari": "Jumat",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Jl. Kayu Putih Kel. Bina Widya Kec. Bina Widya, Pekanbaru, Riau",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "14.71",
-        "kabkota": "Kota Pekanbaru",
-        "provinsi": "Riau",
-        "slug": "kota-pekanbaru",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15520",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-20T02:16:19+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-20T02:19:11+00:00",
-      "terakhir_dilihat": "2026-11-20T02:19:11+00:00"
-    },
     {
       "id": "3dba418c8dce",
       "judul": null,
