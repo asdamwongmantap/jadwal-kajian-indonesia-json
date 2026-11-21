@@ -1,8 +1,149 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-20T17:52:41+00:00",
-  "jumlah": 87,
+  "dibuat": "2026-11-21T02:12:43+00:00",
+  "jumlah": 91,
   "kajian": [
+    {
+      "id": "3d4bc9a2a754",
+      "judul": null,
+      "tema": "Syarah Hisnul Muslim",
+      "kitab": "Al Kabair",
+      "ustadz": [
+        "Ustadz Abdurrohim"
+      ],
+      "tanggal": "2026-11-21",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "07:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-21T07:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Ihsan",
+        "alamat": "Jl. Proklamasi no.64, Gresik",
+        "peta": "https://maps.app.goo.gl/s4SagLSnYHfCW4Bj8"
+      },
+      "wilayah": {
+        "kode": "35.25",
+        "kabkota": "Kabupaten Gresik",
+        "provinsi": "Jawa Timur",
+        "slug": "kabupaten-gresik",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15561",
+          "diteruskan_dari": "Gresik Mengaji",
+          "diposting": "2026-11-20T18:50:30+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-21T02:12:43+00:00",
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
+    },
+    {
+      "id": "908554dc0cb6",
+      "judul": null,
+      "tema": "Kitab Bulughul Maram",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Luthfi Abdul Jabbar, Lc."
+      ],
+      "tanggal": "2026-11-21",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-21T10:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid An-Naba",
+        "alamat": "Graha Raya Bintaro",
+        "peta": "https://maps.app.goo.gl/xJAhSPszREKn6pZ79"
+      },
+      "wilayah": {
+        "kode": "36.74",
+        "kabkota": "Kota Tangerang Selatan",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15563",
+          "diteruskan_dari": "R",
+          "diposting": "2026-11-20T18:52:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-21T02:12:43+00:00",
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
+    },
+    {
+      "id": "c6f732ebabc1",
+      "judul": "Kajian Kitab)",
+      "tema": "KITAB AHADITSUL ISLAHUL QULUB (Kajian Kitab)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Luthfi Abdul Jabbar, Lc."
+      ],
+      "tanggal": "2026-11-21",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "15:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-21T15:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Ukhuwah",
+        "alamat": "BSD, Jl. Raya Cisauk Lapan, Sampora, Kec. Cisauk, Kabupaten Tangerang, Banten 15345",
+        "peta": "https://maps.app.goo.gl/77hmU5aMDB7Ycc7m7"
+      },
+      "wilayah": {
+        "kode": "36.03",
+        "kabkota": "Kabupaten Tangerang",
+        "provinsi": "Banten",
+        "slug": "kabupaten-tangerang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15564",
+          "diteruskan_dari": "R",
+          "diposting": "2026-11-20T18:53:26+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-21T02:12:43+00:00",
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
+    },
     {
       "id": "31bf7c47b5ea",
       "judul": "Kajian Dialog Zuhur",
@@ -48,7 +189,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-20T17:52:41+00:00"
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
     },
     {
       "id": "53277d718885",
@@ -95,7 +236,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-20T17:52:41+00:00"
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
     },
     {
       "id": "aa2d2a5cbbf8",
@@ -142,7 +283,54 @@
         }
       ],
       "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-20T17:52:41+00:00"
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
+    },
+    {
+      "id": "0bf9cd185982",
+      "judul": "Kajian Rutin Sabtu Subuh 1,3,5",
+      "tema": null,
+      "kitab": "SYARHUS SUNNAH (Imam Al Muzani rahimahullah)",
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-11-21",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ubay bin Ka'ab",
+        "alamat": "Komp.SD IT An Najiyah Muhajirin - Pekanbaru",
+        "peta": "https://share.google/NTVx1PXwOqFjAfFep"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15556",
+          "diteruskan_dari": "Ustadz Dr. Dasman Yahya, Ma'ali, Lc, MA حفظه الله",
+          "diposting": "2026-11-20T18:47:30+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-21T02:12:43+00:00",
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
     },
     {
       "id": "5ba4b2d3f9dc",
@@ -195,7 +383,7 @@
       "id": "31a7bddffe50",
       "judul": "Kajian Rutin Ahad Pagi Pekan Keempat, 22 November 2026 • 12 Jumadil Akhir 1448 H",
       "tema": "Kitab Tauhid karya Syeikh Shalih Al-Fauzan Jilid 2, Bab 1, Pasal 4 Pembatal Iman (Bagian Ketiga)",
-      "kitab": null,
+      "kitab": "Tauhid",
       "ustadz": [
         "Ustadz Zahir Al-Minangkabawi"
       ],
@@ -236,7 +424,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-20T17:52:41+00:00"
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
     },
     {
       "id": "60d808179216",
@@ -328,7 +516,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-20T17:52:41+00:00"
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
     },
     {
       "id": "d7f0e8077090",
@@ -476,7 +664,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T01:49:23+00:00",
-      "terakhir_dilihat": "2026-11-20T17:52:41+00:00"
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
     },
     {
       "id": "4b8b93127342",
@@ -1704,7 +1892,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-19T02:33:52+00:00",
-      "terakhir_dilihat": "2026-11-20T17:52:41+00:00"
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
     },
     {
       "id": "0587a16a5241",
@@ -4171,7 +4359,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-20T17:52:41+00:00"
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
     },
     {
       "id": "0a63152ae5be",

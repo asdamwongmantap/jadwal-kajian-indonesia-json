@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-20T17:52:41+00:00",
+  "dibuat": "2026-11-21T02:12:43+00:00",
   "wilayah": {
     "kode": "36.74",
     "kabkota": "Kota Tangerang Selatan",
@@ -8,8 +8,55 @@
     "slug": "kota-tangerang-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "908554dc0cb6",
+      "judul": null,
+      "tema": "Kitab Bulughul Maram",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Luthfi Abdul Jabbar, Lc."
+      ],
+      "tanggal": "2026-11-21",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "10:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-21T10:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid An-Naba",
+        "alamat": "Graha Raya Bintaro",
+        "peta": "https://maps.app.goo.gl/xJAhSPszREKn6pZ79"
+      },
+      "wilayah": {
+        "kode": "36.74",
+        "kabkota": "Kota Tangerang Selatan",
+        "provinsi": "Banten",
+        "slug": "kota-tangerang-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15563",
+          "diteruskan_dari": "R",
+          "diposting": "2026-11-20T18:52:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-21T02:12:43+00:00",
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
+    },
     {
       "id": "497163430342",
       "judul": null,

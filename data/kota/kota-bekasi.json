@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-20T17:52:41+00:00",
+  "dibuat": "2026-11-21T02:12:43+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -61,7 +61,7 @@
       "id": "31a7bddffe50",
       "judul": "Kajian Rutin Ahad Pagi Pekan Keempat, 22 November 2026 • 12 Jumadil Akhir 1448 H",
       "tema": "Kitab Tauhid karya Syeikh Shalih Al-Fauzan Jilid 2, Bab 1, Pasal 4 Pembatal Iman (Bagian Ketiga)",
-      "kitab": null,
+      "kitab": "Tauhid",
       "ustadz": [
         "Ustadz Zahir Al-Minangkabawi"
       ],
@@ -102,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-20T17:52:41+00:00"
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
     },
     {
       "id": "60d808179216",

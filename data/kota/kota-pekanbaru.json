@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-20T17:52:41+00:00",
+  "dibuat": "2026-11-21T02:12:43+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,8 +8,55 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 10,
+  "jumlah": 11,
   "kajian": [
+    {
+      "id": "0bf9cd185982",
+      "judul": "Kajian Rutin Sabtu Subuh 1,3,5",
+      "tema": null,
+      "kitab": "SYARHUS SUNNAH (Imam Al Muzani rahimahullah)",
+      "ustadz": [
+        "Dr. Dasman Yahya Ma'ali, Lc., MA."
+      ],
+      "tanggal": "2026-11-21",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ubay bin Ka'ab",
+        "alamat": "Komp.SD IT An Najiyah Muhajirin - Pekanbaru",
+        "peta": "https://share.google/NTVx1PXwOqFjAfFep"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://c2.siar.us/public/robbani",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15556",
+          "diteruskan_dari": "Ustadz Dr. Dasman Yahya, Ma'ali, Lc, MA حفظه الله",
+          "diposting": "2026-11-20T18:47:30+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-21T02:12:43+00:00",
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
+    },
     {
       "id": "3dba418c8dce",
       "judul": null,

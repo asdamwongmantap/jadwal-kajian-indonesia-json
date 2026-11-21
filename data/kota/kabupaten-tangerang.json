@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-21T02:12:43+00:00",
+  "wilayah": {
+    "kode": "36.03",
+    "kabkota": "Kabupaten Tangerang",
+    "provinsi": "Banten",
+    "slug": "kabupaten-tangerang",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "c6f732ebabc1",
+      "judul": "Kajian Kitab)",
+      "tema": "KITAB AHADITSUL ISLAHUL QULUB (Kajian Kitab)",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Luthfi Abdul Jabbar, Lc."
+      ],
+      "tanggal": "2026-11-21",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "15:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-21T15:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Ukhuwah",
+        "alamat": "BSD, Jl. Raya Cisauk Lapan, Sampora, Kec. Cisauk, Kabupaten Tangerang, Banten 15345",
+        "peta": "https://maps.app.goo.gl/77hmU5aMDB7Ycc7m7"
+      },
+      "wilayah": {
+        "kode": "36.03",
+        "kabkota": "Kabupaten Tangerang",
+        "provinsi": "Banten",
+        "slug": "kabupaten-tangerang",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15564",
+          "diteruskan_dari": "R",
+          "diposting": "2026-11-20T18:53:26+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-21T02:12:43+00:00",
+      "terakhir_dilihat": "2026-11-21T02:12:43+00:00"
+    }
+  ]
+}
