@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-22T01:18:05+00:00",
+  "dibuat": "2026-11-22T17:13:05+00:00",
   "wilayah": {
     "kode": "32.75",
     "kabkota": "Kota Bekasi",
@@ -8,102 +8,8 @@
     "slug": "kota-bekasi",
     "zona_waktu": "WIB"
   },
-  "jumlah": 8,
+  "jumlah": 6,
   "kajian": [
-    {
-      "id": "5ba4b2d3f9dc",
-      "judul": "Kajian Islam Ilmiyyah",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dr. Musyaffa' Ad-Dariny, M.A."
-      ],
-      "tanggal": "2026-11-22",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": "10:30",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-22T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Raya At-Taqwa Jembatan 11",
-        "alamat": "Rawalumbu, Kota Bekasi",
-        "peta": "https://maps.app.goo.gl/hrjSW9PErBsZhbzB8"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15060",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-14T20:34:57+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-17T18:38:44+00:00"
-    },
-    {
-      "id": "31a7bddffe50",
-      "judul": "Kajian Rutin Ahad Pagi Pekan Keempat, 22 November 2026 • 12 Jumadil Akhir 1448 H",
-      "tema": "Kitab Tauhid karya Syeikh Shalih Al-Fauzan Jilid 2, Bab 1, Pasal 4 Pembatal Iman (Bagian Ketiga)",
-      "kitab": "Tauhid",
-      "ustadz": [
-        "Ustadz Zahir Al-Minangkabawi"
-      ],
-      "tanggal": "2026-11-22",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid At-Taqwa Jatibening Satu",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "attaqwa-jatibening",
-          "nama": "Masjid At-Taqwa Jatibening Satu",
-          "url": "https://attaqwajatibening.com/berita/kajian-rutin-ahad-pagi-pekan-keempat-22-november-2026-12-jumadil-akhir-1448-h",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-20T17:52:41.344338+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-22T01:18:05+00:00"
-    },
     {
       "id": "60d808179216",
       "judul": null,

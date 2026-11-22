@@ -1,66 +1,19 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-22T01:18:05+00:00",
-  "jumlah": 87,
+  "dibuat": "2026-11-22T17:13:05+00:00",
+  "jumlah": 85,
   "kajian": [
     {
-      "id": "5ba4b2d3f9dc",
-      "judul": "Kajian Islam Ilmiyyah",
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dr. Musyaffa' Ad-Dariny, M.A."
-      ],
-      "tanggal": "2026-11-22",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:00",
-        "selesai": "10:30",
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-22T09:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid Raya At-Taqwa Jembatan 11",
-        "alamat": "Rawalumbu, Kota Bekasi",
-        "peta": "https://maps.app.goo.gl/hrjSW9PErBsZhbzB8"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15060",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-14T20:34:57+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-15T01:01:56+00:00",
-      "terakhir_dilihat": "2026-11-17T18:38:44+00:00"
-    },
-    {
-      "id": "5faf446f9fb6",
+      "id": "4fda8c056f20",
       "judul": "Kajian Renungan Fajar",
-      "tema": "Menjauhkan dari Perbuatan Tercela",
+      "tema": "Peran Guru Dalam Mencerdaskan Anak Bangsa",
       "kitab": null,
       "ustadz": [
-        "H. Hendra Sofiansyah, M.I.Kom."
+        "Dr. H. Masruhin Abd. Majid, M.A."
       ],
-      "tanggal": "2026-11-22",
+      "tanggal": "2026-11-23",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -91,23 +44,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-22T01:18:05.931899+00:00"
+          "diposting": "2026-11-22T17:13:05.525346+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-22T01:18:05+00:00",
-      "terakhir_dilihat": "2026-11-22T01:18:05+00:00"
+      "pertama_dilihat": "2026-11-22T17:13:05+00:00",
+      "terakhir_dilihat": "2026-11-22T17:13:05+00:00"
     },
     {
-      "id": "ad22d396b3d3",
+      "id": "6a9cb73062f8",
       "judul": "Kajian Khawamisy",
-      "tema": "Fiqih Sirah (SIRAH)",
+      "tema": "Tafsir At Tahrir Wattanwir (TAFSIR",
       "kitab": null,
       "ustadz": [
-        "H. Nur Hayyin Muhdlor, Lc., ME"
+        "H. Fathurrahman Yahya, Lc., MA."
       ],
-      "tanggal": "2026-11-22",
+      "tanggal": "2026-11-23",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -138,23 +91,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-22T01:18:05.931899+00:00"
+          "diposting": "2026-11-22T17:13:05.525346+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-22T01:18:05+00:00",
-      "terakhir_dilihat": "2026-11-22T01:18:05+00:00"
+      "pertama_dilihat": "2026-11-22T17:13:05+00:00",
+      "terakhir_dilihat": "2026-11-22T17:13:05+00:00"
     },
     {
-      "id": "cb43b38ef6f3",
+      "id": "6d6e56ba7090",
       "judul": "Kajian Dialog Zuhur",
-      "tema": "Isyarat Al I'jaz fi Madzannil Ijaz",
+      "tema": "Kajian Tasawuf, Kitab: Mukasyafatul Qulub",
       "kitab": null,
       "ustadz": [
-        "Dr. KH. Mahkamah Mahdin, Lc, MA."
+        "Dr. H. Mulawarman Hannase, Lc, M.Hum."
       ],
-      "tanggal": "2026-11-22",
+      "tanggal": "2026-11-23",
       "tanggal_perkiraan": false,
-      "hari": "Ahad",
+      "hari": "Senin",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -185,58 +138,11 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-22T01:18:05.931899+00:00"
+          "diposting": "2026-11-22T17:13:05.525346+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-22T01:18:05+00:00",
-      "terakhir_dilihat": "2026-11-22T01:18:05+00:00"
-    },
-    {
-      "id": "31a7bddffe50",
-      "judul": "Kajian Rutin Ahad Pagi Pekan Keempat, 22 November 2026 • 12 Jumadil Akhir 1448 H",
-      "tema": "Kitab Tauhid karya Syeikh Shalih Al-Fauzan Jilid 2, Bab 1, Pasal 4 Pembatal Iman (Bagian Ketiga)",
-      "kitab": "Tauhid",
-      "ustadz": [
-        "Ustadz Zahir Al-Minangkabawi"
-      ],
-      "tanggal": "2026-11-22",
-      "tanggal_perkiraan": false,
-      "hari": "Ahad",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid At-Taqwa Jatibening Satu",
-        "alamat": null,
-        "peta": "https://maps.app.goo.gl/LUMHnw8ytctLRcHeA?g_st=ic"
-      },
-      "wilayah": {
-        "kode": "32.75",
-        "kabkota": "Kota Bekasi",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bekasi",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "attaqwa-jatibening",
-          "nama": "Masjid At-Taqwa Jatibening Satu",
-          "url": "https://attaqwajatibening.com/berita/kajian-rutin-ahad-pagi-pekan-keempat-22-november-2026-12-jumadil-akhir-1448-h",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-20T17:52:41.344338+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-22T01:18:05+00:00"
+      "pertama_dilihat": "2026-11-22T17:13:05+00:00",
+      "terakhir_dilihat": "2026-11-22T17:13:05+00:00"
     },
     {
       "id": "60d808179216",
@@ -328,7 +234,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-22T01:18:05+00:00"
+      "terakhir_dilihat": "2026-11-22T17:13:05+00:00"
     },
     {
       "id": "d7f0e8077090",
@@ -476,7 +382,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-13T01:49:23+00:00",
-      "terakhir_dilihat": "2026-11-22T01:18:05+00:00"
+      "terakhir_dilihat": "2026-11-22T17:13:05+00:00"
     },
     {
       "id": "4b8b93127342",
@@ -1468,7 +1374,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-11T13:05:01+00:00",
-      "terakhir_dilihat": "2026-11-22T01:18:05+00:00"
+      "terakhir_dilihat": "2026-11-22T17:13:05+00:00"
     },
     {
       "id": "cea1625c62ab",
@@ -3792,7 +3698,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-31T15:23:03+00:00",
-      "terakhir_dilihat": "2026-11-22T01:18:05+00:00"
+      "terakhir_dilihat": "2026-11-22T17:13:05+00:00"
     },
     {
       "id": "c943e9d84c27",
@@ -4185,7 +4091,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-22T01:18:05+00:00"
+      "terakhir_dilihat": "2026-11-22T17:13:05+00:00"
     },
     {
       "id": "0a63152ae5be",

@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-22T01:18:05+00:00",
+  "dibuat": "2026-11-22T17:13:05+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -127,7 +127,7 @@
       "kabkota": "Kota Bekasi",
       "provinsi": "Jawa Barat",
       "kode": "32.75",
-      "jumlah": 8,
+      "jumlah": 6,
       "file": "kota/kota-bekasi.json"
     },
     {
