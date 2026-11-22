@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-21T16:50:46+00:00",
+  "dibuat": "2026-11-22T01:18:05+00:00",
   "wilayah": {
     "kode": "11.07",
     "kabkota": "Kabupaten Pidie",
@@ -8,147 +8,8 @@
     "slug": "kabupaten-pidie",
     "zona_waktu": "WIB"
   },
-  "jumlah": 8,
+  "jumlah": 5,
   "kajian": [
-    {
-      "id": "08590bddfba5",
-      "judul": "Info Kajian Rutin Masjid Jami' Al Imam Abu Daud",
-      "tema": null,
-      "kitab": "Waabilush Soyyib Min Kalimith Thoyyib",
-      "ustadz": [],
-      "tanggal": "2026-11-21",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Ashar",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Mesjid Imam Abu Daud",
-        "alamat": "Jl. Kampung Baru Sialang, Sakti Tenayan Raya",
-        "peta": "https://maps.app.goo.gl/HDzF61ojnVXg2ePn8"
-      },
-      "wilayah": {
-        "kode": "11.07",
-        "kabkota": "Kabupaten Pidie",
-        "provinsi": "Aceh",
-        "slug": "kabupaten-pidie",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "akhwat",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15597",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-21T04:28:28+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-21T16:50:46+00:00",
-      "terakhir_dilihat": "2026-11-21T16:50:46+00:00"
-    },
-    {
-      "id": "2071d85e47e0",
-      "judul": null,
-      "tema": null,
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Afif Fauzi, Lc. M.A."
-      ],
-      "tanggal": "2026-11-21",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": null,
-        "alamat": null,
-        "peta": "https://goo.gl/maps/pr8SW"
-      },
-      "wilayah": {
-        "kode": "11.07",
-        "kabkota": "Kabupaten Pidie",
-        "provinsi": "Aceh",
-        "slug": "kabupaten-pidie",
-        "zona_waktu": "WIB"
-      },
-      "mode": "online",
-      "streaming": "https://youtube.com/live/TwwfnGrUNLw",
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15571",
-          "diteruskan_dari": "Masjid Mu'adz bin Jabal",
-          "diposting": "2026-11-21T03:10:45+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-21T16:50:46+00:00",
-      "terakhir_dilihat": "2026-11-21T16:50:46+00:00"
-    },
-    {
-      "id": "730cfbf9e19b",
-      "judul": "Info Kajian Rutin Masjid Jami' Al Imam Abu Daud",
-      "tema": "ATTARGHIB WATTARHIB Perkara-perkara Yang Dimotivasi Oleh Nabi Dan Yang Dibenci",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Mursalin Bin Dahlan, Lc, Ma."
-      ],
-      "tanggal": "2026-11-21",
-      "tanggal_perkiraan": true,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Imam Abu Daud",
-        "alamat": "Jl. Kampung Baru, Sialang sakti Tenayan Raya",
-        "peta": "https://maps.app.goo.gl/HDzF61ojnVXg2ePn8"
-      },
-      "wilayah": {
-        "kode": "11.07",
-        "kabkota": "Kabupaten Pidie",
-        "provinsi": "Aceh",
-        "slug": "kabupaten-pidie",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15596",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-21T04:28:04+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-21T16:50:46+00:00",
-      "terakhir_dilihat": "2026-11-21T16:50:46+00:00"
-    },
     {
       "id": "eeceb54211c4",
       "judul": null,

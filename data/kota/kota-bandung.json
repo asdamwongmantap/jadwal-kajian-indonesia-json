@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-21T16:50:46+00:00",
+  "dibuat": "2026-11-22T01:18:05+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,102 +8,8 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 3,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "bc015c5d77a2",
-      "judul": "Kajian Sabtu Pekan Ini",
-      "tema": "10 Kaidah Dalam Pembersihan Jiwa",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dadan Hidayatullah, M.Pd."
-      ],
-      "tanggal": "2026-11-21",
-      "tanggal_perkiraan": false,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": "10:00",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-21T10:00:00+07:00",
-      "tempat": {
-        "nama": "Masjid ashSHIDDIQ",
-        "alamat": "Jl. Kebon Gedang Gg. Hj. Siti Aisyah Rt 02 Rw 10 Maleer Bandung., (",
-        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15580",
-          "diteruskan_dari": "Imam Malik Bandung",
-          "diposting": "2026-11-21T03:19:11+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-21T16:50:46+00:00",
-      "terakhir_dilihat": "2026-11-21T16:50:46+00:00"
-    },
-    {
-      "id": "3ed6cdcc8f9b",
-      "judul": "Kajian Sabtu Malam Pekan Ini",
-      "tema": "BAB ISTINJA (Part 3)",
-      "kitab": "Zadul Mustaqni",
-      "ustadz": [
-        "Ustadz Iskandar Dinata, Lc."
-      ],
-      "tanggal": "2026-11-21",
-      "tanggal_perkiraan": true,
-      "hari": "Sabtu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ash Shiddiq",
-        "alamat": "Jl. Kebon Gedang (Gg. Hj. Siti Aisyah) Rt.02 Rw.10 Maleer, Batununggal, Kota Bandung",
-        "peta": "https://goo.gl/maps/MSDmWa8ehqS2"
-      },
-      "wilayah": {
-        "kode": "32.73",
-        "kabkota": "Kota Bandung",
-        "provinsi": "Jawa Barat",
-        "slug": "kota-bandung",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15582",
-          "diteruskan_dari": "Imam Malik Bandung",
-          "diposting": "2026-11-21T03:19:11+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-21T16:50:46+00:00",
-      "terakhir_dilihat": "2026-11-21T16:50:46+00:00"
-    },
     {
       "id": "2a1dc7c25614",
       "judul": null,
