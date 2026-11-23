@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-22T17:13:05+00:00",
+  "dibuat": "2026-11-23T01:42:01+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,8 +8,55 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 10,
+  "jumlah": 11,
   "kajian": [
+    {
+      "id": "5c7aa0f84bdf",
+      "judul": "Kajian Rutin Hari Senin",
+      "tema": null,
+      "kitab": "Syarah Kitab Al Fawaid (Karya Al Imam Ibnul Qoyyim Al-Jauziyyah)",
+      "ustadz": [
+        "Ustadz Ahmad Doni, Lc."
+      ],
+      "tanggal": "2026-11-23",
+      "tanggal_perkiraan": true,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Ubay Bin Ka'ab",
+        "alamat": "Jl. Muhajirin, Arengka Atas, Kel. Sidomulyo Barat, Pekanbaru., (Link maps dapat dilihat pada bagian info paling bawah)",
+        "peta": "https://g.co/kgs/MvjUv1"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": "https://www.youtube.com/c/MasjidUbayBinKaabPekanbaru",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15671",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-22T22:45:43+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-23T01:42:01+00:00",
+      "terakhir_dilihat": "2026-11-23T01:42:01+00:00"
+    },
     {
       "id": "3dba418c8dce",
       "judul": null,
@@ -344,7 +391,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-31T15:23:03+00:00",
-      "terakhir_dilihat": "2026-11-22T17:13:05+00:00"
+      "terakhir_dilihat": "2026-11-23T01:42:01+00:00"
     },
     {
       "id": "c943e9d84c27",

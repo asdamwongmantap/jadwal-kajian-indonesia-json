@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-22T17:13:05+00:00",
+  "dibuat": "2026-11-23T01:42:01+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -61,7 +61,7 @@
       "id": "bbb31634806b",
       "judul": "Kajian Ilmiah",
       "tema": null,
-      "kitab": "Hilyah Tholibil Ilmi Pertemuan Ke-17",
+      "kitab": "Hilyah Tholibil Ilmi Pertemuan Ke-21",
       "ustadz": [
         "Ustadz Ahmad Rasyid Bazher"
       ],
@@ -106,10 +106,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12506",
           "diteruskan_dari": null,
           "diposting": "2026-10-19T01:56:15+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15646",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-22T22:18:43+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "terakhir_dilihat": "2026-11-23T01:42:01+00:00"
     }
   ]
 }

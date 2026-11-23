@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-22T17:13:05+00:00",
+  "dibuat": "2026-11-23T01:42:01+00:00",
   "wilayah": {
     "kode": "34.71",
     "kabkota": "Kota Yogyakarta",
@@ -8,20 +8,115 @@
     "slug": "kota-yogyakarta",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
     {
+      "id": "c7bd32400038",
+      "judul": "Kajian | Senin Pagi",
+      "tema": "| Alumnus Daar El-Hadits Yaman",
+      "kitab": null,
+      "ustadz": [
+        "Ustadzah Imroatul Azizah",
+        "| Inspirator Muslimah"
+      ],
+      "tanggal": "2026-11-23",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-23T08:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Besar Mangkuyudan",
+        "alamat": "| JI. Mangkuyudan No 28, Mantrijeron, Kec. Mantrijeron Yogyakarta, | Maps",
+        "peta": "https://g.co/kgs/CLPNKH"
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15629",
+          "diteruskan_dari": "MUTIARA HIKMAH OFFICIAL",
+          "diposting": "2026-11-22T22:03:23+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-23T01:42:01+00:00",
+      "terakhir_dilihat": "2026-11-23T01:42:01+00:00"
+    },
+    {
+      "id": "8fbdce5432ad",
+      "judul": "Kajian Rutin Buka Puasa Sunnah Senin",
+      "tema": "Doa Agar Selalu Menjadi Orang Beruntung",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ratno Abu Muhammad, Lc., M.Ag."
+      ],
+      "tanggal": "2026-11-23",
+      "tanggal_perkiraan": false,
+      "hari": "Senin",
+      "rutin": null,
+      "waktu": {
+        "mulai": "17:00",
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "sebelum"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-23T17:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Pogung Raya",
+        "alamat": "(Maps",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "34.71",
+        "kabkota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "slug": "kota-yogyakarta",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15627",
+          "diteruskan_dari": "Masjid Pogung Raya - MPR",
+          "diposting": "2026-11-22T22:02:50+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-23T01:42:01+00:00",
+      "terakhir_dilihat": "2026-11-23T01:42:01+00:00"
+    },
+    {
       "id": "f2fc3c85a110",
-      "judul": "Kajian Rutin Senin",
-      "tema": null,
-      "kitab": "Al-Kabair",
+      "judul": "Kajian Kitab Al-Kabair – Dosa Besar Ke-16",
+      "tema": "Kezaliman dan Kecurangan Pemimpin Kepada Rakyatnya",
+      "kitab": "Al-Kabair – Dosa Besar Ke-16",
       "ustadz": [
         "Ustadz Zaid Susanto"
       ],
       "tanggal": null,
       "tanggal_perkiraan": false,
       "hari": "Senin",
-      "rutin": "Waktu: Setiap Senin | Ba'da Maghrib – Selesai",
+      "rutin": "Setiap Senin",
       "waktu": {
         "mulai": null,
         "selesai": null,
@@ -33,7 +128,7 @@
       "tempat": {
         "nama": "Masjid Al-Hasanah Terban",
         "alamat": "Yogyakarta",
-        "peta": "https://maps.app.goo.gl/XFeAMu8jBuoNzwmS8?g_st=ic"
+        "peta": null
       },
       "wilayah": {
         "kode": "34.71",
@@ -59,10 +154,17 @@
           "url": "https://t.me/jadwalkajiansunnah/12513",
           "diteruskan_dari": null,
           "diposting": "2026-10-19T02:00:15+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15650",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-22T22:21:02+00:00"
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-10-21T14:32:10+00:00"
+      "terakhir_dilihat": "2026-11-23T01:42:01+00:00"
     }
   ]
 }
