@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-23T01:42:01+00:00",
+  "dibuat": "2026-11-23T21:30:27+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,149 +8,8 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 1,
   "kajian": [
-    {
-      "id": "15c2dbddda10",
-      "judul": "Kajian Dhuha bersama Ustadz Farhan Abu Furaihan",
-      "tema": "Seruan Wahyu dalam Surat Qaf (Part II)",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Farhan Abu Furaihan"
-      ],
-      "tanggal": "2026-11-23",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:30",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-23T09:30:00+07:00",
-      "tempat": {
-        "nama": "Masjid Raya Cipinang Muara",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15673",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-22T22:49:17+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-23T01:42:01+00:00",
-      "terakhir_dilihat": "2026-11-23T01:42:01+00:00"
-    },
-    {
-      "id": "5804351aef7b",
-      "judul": "Info Kajian Rutin Masjid Ar Raudhoh",
-      "tema": "Hadist Arba'in",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Mursalin Lc. MA."
-      ],
-      "tanggal": "2026-11-23",
-      "tanggal_perkiraan": false,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Ar Raudhoh Teratak Buluh",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15672",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-22T22:46:06+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-23T01:42:01+00:00",
-      "terakhir_dilihat": "2026-11-23T01:42:01+00:00"
-    },
-    {
-      "id": "a83e5b6800f6",
-      "judul": "Info Kajian Senin Ba'da Maghrib",
-      "tema": "Syarah Masa'il Jahiliyah",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dika Wahyudi, Lc."
-      ],
-      "tanggal": "2026-11-23",
-      "tanggal_perkiraan": true,
-      "hari": "Senin",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Maghrib",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid As-Sunnah VCM",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "12.05",
-        "kabkota": "Kabupaten Langkat",
-        "provinsi": "Sumatera Utara",
-        "slug": "kabupaten-langkat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15661",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-22T22:35:59+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-23T01:42:01+00:00",
-      "terakhir_dilihat": "2026-11-23T01:42:01+00:00"
-    },
     {
       "id": "4bb1993d9698",
       "judul": "Pengajian Kitab Rutin",

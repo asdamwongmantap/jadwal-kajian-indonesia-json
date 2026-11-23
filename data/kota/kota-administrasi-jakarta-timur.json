@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-23T01:42:01+00:00",
+  "dibuat": "2026-11-23T21:30:27+00:00",
   "wilayah": {
     "kode": "31.75",
     "kabkota": "Kota Administrasi Jakarta Timur",
@@ -8,8 +8,55 @@
     "slug": "kota-administrasi-jakarta-timur",
     "zona_waktu": "WIB"
   },
-  "jumlah": 2,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "f57b3813799f",
+      "judul": "Kajian Selasa Pagi",
+      "tema": "Syarah Riyadhus Shaalihin",
+      "kitab": "Syarah Riyadhus Shaalihin",
+      "ustadz": [
+        "Ustadz Abu Yahya Badru Salam, Lc."
+      ],
+      "tanggal": "2026-11-24",
+      "tanggal_perkiraan": false,
+      "hari": "Selasa",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-24T09:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Salman Al Farisi",
+        "alamat": "Jln. Hj. Ten, Komp. Bulog, Jakarta Timur",
+        "peta": "https://maps.app.goo.gl/MTqFs42kQ4v1LF2dA"
+      },
+      "wilayah": {
+        "kode": "31.75",
+        "kabkota": "Kota Administrasi Jakarta Timur",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15710",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-23T21:13:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-23T21:30:27+00:00",
+      "terakhir_dilihat": "2026-11-23T21:30:27+00:00"
+    },
     {
       "id": "6bb4b954fe31",
       "judul": "Kajian Ilmiah",
@@ -116,7 +163,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-12T19:07:25+00:00",
-      "terakhir_dilihat": "2026-11-23T01:42:01+00:00"
+      "terakhir_dilihat": "2026-11-23T21:30:27+00:00"
     }
   ]
 }
