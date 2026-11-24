@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-24T05:19:31+00:00",
+  "dibuat": "2026-11-24T20:13:25+00:00",
   "kota": [
     {
       "slug": "kabupaten-aceh-besar",
@@ -11,19 +11,11 @@
       "file": "kota/kabupaten-aceh-besar.json"
     },
     {
-      "slug": "kabupaten-bandung",
-      "kabkota": "Kabupaten Bandung",
-      "provinsi": "Jawa Barat",
-      "kode": "32.04",
-      "jumlah": 1,
-      "file": "kota/kabupaten-bandung.json"
-    },
-    {
       "slug": "kabupaten-bekasi",
       "kabkota": "Kabupaten Bekasi",
       "provinsi": "Jawa Barat",
       "kode": "32.16",
-      "jumlah": 3,
+      "jumlah": 1,
       "file": "kota/kabupaten-bekasi.json"
     },
     {
@@ -103,7 +95,7 @@
       "kabkota": "Kota Administrasi Jakarta Timur",
       "provinsi": "Daerah Khusus Ibukota Jakarta",
       "kode": "31.75",
-      "jumlah": 3,
+      "jumlah": 2,
       "file": "kota/kota-administrasi-jakarta-timur.json"
     },
     {
@@ -135,7 +127,7 @@
       "kabkota": "Kota Bekasi",
       "provinsi": "Jawa Barat",
       "kode": "32.75",
-      "jumlah": 14,
+      "jumlah": 6,
       "file": "kota/kota-bekasi.json"
     },
     {
@@ -145,14 +137,6 @@
       "kode": "32.71",
       "jumlah": 2,
       "file": "kota/kota-bogor.json"
-    },
-    {
-      "slug": "kota-depok",
-      "kabkota": "Kota Depok",
-      "provinsi": "Jawa Barat",
-      "kode": "32.76",
-      "jumlah": 3,
-      "file": "kota/kota-depok.json"
     },
     {
       "slug": "kota-jambi",
@@ -171,14 +155,6 @@
       "file": "kota/kota-makassar.json"
     },
     {
-      "slug": "kota-mataram",
-      "kabkota": "Kota Mataram",
-      "provinsi": "Nusa Tenggara Barat",
-      "kode": "52.71",
-      "jumlah": 1,
-      "file": "kota/kota-mataram.json"
-    },
-    {
       "slug": "kota-parepare",
       "kabkota": "Kota Parepare",
       "provinsi": "Sulawesi Selatan",
@@ -191,7 +167,7 @@
       "kabkota": "Kota Pekanbaru",
       "provinsi": "Riau",
       "kode": "14.71",
-      "jumlah": 11,
+      "jumlah": 10,
       "file": "kota/kota-pekanbaru.json"
     },
     {
