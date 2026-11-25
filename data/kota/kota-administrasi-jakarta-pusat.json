@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-25T04:11:04+00:00",
+  "dibuat": "2026-11-25T19:23:33+00:00",
   "wilayah": {
     "kode": "31.71",
     "kabkota": "Kota Administrasi Jakarta Pusat",
@@ -11,16 +11,16 @@
   "jumlah": 5,
   "kajian": [
     {
-      "id": "222e7b6a01f0",
+      "id": "0e49b6fcb1c5",
       "judul": "Kajian Dialog Zuhur",
-      "tema": "Kitab Tafsir Ibnu Katsir",
+      "tema": "Kitab Nashoihud Diniyah-Wal Washoya Al-Imaniyyah",
       "kitab": null,
       "ustadz": [
-        "Dr. Budi Utomo, Lc, MA."
+        "Drs. H.A. Dzulfatah Yasin, M.Ag."
       ],
-      "tanggal": "2026-11-25",
+      "tanggal": "2026-11-26",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -51,70 +51,23 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-24T20:13:25.308810+00:00"
+          "diposting": "2026-11-25T19:23:33.882556+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-24T20:13:25+00:00",
-      "terakhir_dilihat": "2026-11-25T04:11:04+00:00"
+      "pertama_dilihat": "2026-11-25T19:23:33+00:00",
+      "terakhir_dilihat": "2026-11-25T19:23:33+00:00"
     },
     {
-      "id": "8eb8e637ebec",
-      "judul": "Kajian Renungan Fajar",
-      "tema": "Bahaya Orang-Orang Yang Melalaikan Shalat",
-      "kitab": null,
-      "ustadz": [
-        "Dr. H. Sholeh Asri, M.A."
-      ],
-      "tanggal": "2026-11-25",
-      "tanggal_perkiraan": false,
-      "hari": "Rabu",
-      "rutin": null,
-      "waktu": {
-        "mulai": null,
-        "selesai": null,
-        "acuan_shalat": "Subuh",
-        "relasi": "setelah"
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": null,
-      "tempat": {
-        "nama": "Masjid Istiqlal",
-        "alamat": null,
-        "peta": null
-      },
-      "wilayah": {
-        "kode": "31.71",
-        "kabkota": "Kota Administrasi Jakarta Pusat",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-pusat",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": null,
-      "sumber": [
-        {
-          "id": "istiqlal-rutin",
-          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
-          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-24T20:13:25.308810+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-24T20:13:25+00:00",
-      "terakhir_dilihat": "2026-11-25T04:11:04+00:00"
-    },
-    {
-      "id": "9f8e46949a0e",
+      "id": "23c272d337ea",
       "judul": "Kajian Khawamisy",
-      "tema": "Kaifa Nata'amal Ma'al Qur'an (TAFSIR)",
+      "tema": "Nashoihul Ibad (AQIDAH)",
       "kitab": null,
       "ustadz": [
-        "Dr. H. Mulawarman Hannase, Lc., M.Hum."
+        "H. Moch. Taufiqurrahman, MA."
       ],
-      "tanggal": "2026-11-25",
+      "tanggal": "2026-11-26",
       "tanggal_perkiraan": false,
-      "hari": "Rabu",
+      "hari": "Kamis",
       "rutin": null,
       "waktu": {
         "mulai": null,
@@ -145,11 +98,58 @@
           "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
           "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
           "diteruskan_dari": null,
-          "diposting": "2026-11-24T20:13:25.308810+00:00"
+          "diposting": "2026-11-25T19:23:33.882556+00:00"
         }
       ],
-      "pertama_dilihat": "2026-11-24T20:13:25+00:00",
-      "terakhir_dilihat": "2026-11-25T04:11:04+00:00"
+      "pertama_dilihat": "2026-11-25T19:23:33+00:00",
+      "terakhir_dilihat": "2026-11-25T19:23:33+00:00"
+    },
+    {
+      "id": "a857506a2c09",
+      "judul": "Kajian Renungan Fajar",
+      "tema": "Dosa Besar Bagi Orang Yang Berputus Asa",
+      "kitab": null,
+      "ustadz": [
+        "Dr. KH. Agam Bayu Suyanto, M.B.A."
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Istiqlal",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "31.71",
+        "kabkota": "Kota Administrasi Jakarta Pusat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-pusat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "istiqlal-rutin",
+          "nama": "Masjid Istiqlal - Jadwal Rutin Kajian Hari Ini",
+          "url": "https://www.istiqlal.or.id/artikel/kategori/keislaman",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T19:23:33.882556+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-25T19:23:33+00:00",
+      "terakhir_dilihat": "2026-11-25T19:23:33+00:00"
     },
     {
       "id": "c3efedef6e48",
@@ -194,7 +194,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-20T17:52:41+00:00",
-      "terakhir_dilihat": "2026-11-25T04:11:04+00:00"
+      "terakhir_dilihat": "2026-11-25T19:23:33+00:00"
     },
     {
       "id": "ec3838040932",
