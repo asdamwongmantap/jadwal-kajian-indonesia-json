@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-25T04:11:04+00:00",
+  "wilayah": {
+    "kode": "14.01",
+    "kabkota": "Kabupaten Kampar",
+    "provinsi": "Riau",
+    "slug": "kabupaten-kampar",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "c1bad4706fba",
+      "judul": "Kajian Ilmiah Islam",
+      "tema": "Fiqh Do'a dan Dzikir",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zamzami Juned, Lc."
+      ],
+      "tanggal": "2026-11-25",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Syuhada' Air Tiris Kampar Riau",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "14.01",
+        "kabkota": "Kabupaten Kampar",
+        "provinsi": "Riau",
+        "slug": "kabupaten-kampar",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15773",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T01:21:55+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-25T04:11:04+00:00",
+      "terakhir_dilihat": "2026-11-25T04:11:04+00:00"
+    }
+  ]
+}

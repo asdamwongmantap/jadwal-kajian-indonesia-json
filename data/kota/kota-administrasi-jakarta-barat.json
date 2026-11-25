@@ -1,0 +1,108 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-25T04:11:04+00:00",
+  "wilayah": {
+    "kode": "31.73",
+    "kabkota": "Kota Administrasi Jakarta Barat",
+    "provinsi": "Daerah Khusus Ibukota Jakarta",
+    "slug": "kota-administrasi-jakarta-barat",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 2,
+  "kajian": [
+    {
+      "id": "cadae9252d7d",
+      "judul": "KAJIAN MUSLIMAH : Bab Tata Cara Berwudhu",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Muhammad Hanif Ridho, Lc,. M.A."
+      ],
+      "tanggal": "2026-11-25",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "13:30",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-25T13:30:00+07:00",
+      "tempat": {
+        "nama": "Masjid Jami Al-Mubarak",
+        "alamat": "Jl. Kebahagiaan No. 7A, Krukut, Taman Sari, Jakarta Barat, ( \"\")",
+        "peta": "https://g.co/kgs/savHYzb"
+      },
+      "wilayah": {
+        "kode": "31.73",
+        "kabkota": "Kota Administrasi Jakarta Barat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-barat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15786",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T02:40:09+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-25T04:11:04+00:00",
+      "terakhir_dilihat": "2026-11-25T04:11:04+00:00"
+    },
+    {
+      "id": "8e097e0c2946",
+      "judul": "KAJIAN ISLAM : Tafsir Al Qur'an | Ayat Kursi",
+      "tema": "KAJIAN ISLAM : Tafsir Al Qur'an | Ayat Kursi",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Naiim Luthfi Ambadar, Lc."
+      ],
+      "tanggal": "2026-11-25",
+      "tanggal_perkiraan": false,
+      "hari": "Rabu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Jami Al-Mubarak",
+        "alamat": "Jl. Kebahagiaan No. 7A, Krukut, Taman Sari, Jakarta Barat",
+        "peta": "https://g.co/kgs/savHYzb"
+      },
+      "wilayah": {
+        "kode": "31.73",
+        "kabkota": "Kota Administrasi Jakarta Barat",
+        "provinsi": "Daerah Khusus Ibukota Jakarta",
+        "slug": "kota-administrasi-jakarta-barat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15787",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T02:40:27+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-25T04:11:04+00:00",
+      "terakhir_dilihat": "2026-11-25T04:11:04+00:00"
+    }
+  ]
+}
