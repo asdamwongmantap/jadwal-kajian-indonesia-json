@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-26T03:34:01+00:00",
+  "dibuat": "2026-11-26T19:07:19+00:00",
   "wilayah": {
     "kode": "31.74",
     "kabkota": "Kota Administrasi Jakarta Selatan",
@@ -8,55 +8,8 @@
     "slug": "kota-administrasi-jakarta-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 4,
+  "jumlah": 3,
   "kajian": [
-    {
-      "id": "d640cf896430",
-      "judul": "Kajian Tafsir Al-Quran",
-      "tema": "Kajian Tafsir Al-Quran",
-      "kitab": null,
-      "ustadz": [
-        "Ustadz Dr. Djazuli Ruhan Basyir, Lc., M.A."
-      ],
-      "tanggal": "2026-11-26",
-      "tanggal_perkiraan": false,
-      "hari": "Kamis",
-      "rutin": null,
-      "waktu": {
-        "mulai": "09:45",
-        "selesai": null,
-        "acuan_shalat": null,
-        "relasi": null
-      },
-      "zona_waktu": "WIB",
-      "mulai_iso": "2026-11-26T09:45:00+07:00",
-      "tempat": {
-        "nama": "Masjid Nurul Hidayah",
-        "alamat": "Jl. Brawijaya XII No. 12 Pulo, Kebayoran Baru, Jakarta Selatan",
-        "peta": "https://maps.app.goo.gl/BnTEUFsuVhCSF8Z47"
-      },
-      "wilayah": {
-        "kode": "31.74",
-        "kabkota": "Kota Administrasi Jakarta Selatan",
-        "provinsi": "Daerah Khusus Ibukota Jakarta",
-        "slug": "kota-administrasi-jakarta-selatan",
-        "zona_waktu": "WIB"
-      },
-      "mode": "offline",
-      "streaming": null,
-      "peserta": "umum",
-      "sumber": [
-        {
-          "id": "jadwalkajiansunnah",
-          "nama": "Telegram @jadwalkajiansunnah",
-          "url": "https://t.me/jadwalkajiansunnah/15852",
-          "diteruskan_dari": null,
-          "diposting": "2026-11-25T22:58:03+00:00"
-        }
-      ],
-      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
-      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
-    },
     {
       "id": "d7f0e8077090",
       "judul": null,
