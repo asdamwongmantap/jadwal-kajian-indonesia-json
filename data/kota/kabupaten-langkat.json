@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-25T19:23:33+00:00",
+  "dibuat": "2026-11-26T03:34:01+00:00",
   "wilayah": {
     "kode": "12.05",
     "kabkota": "Kabupaten Langkat",
@@ -8,8 +8,196 @@
     "slug": "kabupaten-langkat",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 5,
   "kajian": [
+    {
+      "id": "d8fad2f32dad",
+      "judul": null,
+      "tema": "Pusat Kajian Akidah IHKAM",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Idrus Abidin"
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "20:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-26T20:00:00+07:00",
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "online",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15839",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T22:49:07+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    },
+    {
+      "id": "34c0f1538dbd",
+      "judul": "Kajian Kitab Sirah Nabi",
+      "tema": "Kepercayaan Agama Bangsa Arab",
+      "kitab": "Sirah Nabi",
+      "ustadz": [
+        "Ustadz Imam Nur Cahyo, S.Pd."
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Musholla Nurul Istiqomah",
+        "alamat": "Narahubung: 0813-1645-3253",
+        "peta": "https://goo.gl/maps/MrnZEUdQw3K2"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15846",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T22:52:40+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    },
+    {
+      "id": "ba39190e177a",
+      "judul": "Kajian Bahasa Arab: LISAN ARABI",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Mas'ud Mahmud, Lc."
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Isya",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://goo.gl/maps/pr8SW"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "online",
+      "streaming": "https://youtube.com/live/7XZZyPdCKoc",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15814",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T22:30:02+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    },
+    {
+      "id": "e03ee1a1eee0",
+      "judul": "Kajian Ushulus Sunnah Al-Imam Ahmad bin Hanbal",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Sofyan Chalid bin Idham Ruray, Lc."
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://goo.gl/maps/pr8SW"
+      },
+      "wilayah": {
+        "kode": "12.05",
+        "kabkota": "Kabupaten Langkat",
+        "provinsi": "Sumatera Utara",
+        "slug": "kabupaten-langkat",
+        "zona_waktu": "WIB"
+      },
+      "mode": "online",
+      "streaming": "https://youtube.com/live/QYYOLmcpwQU",
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15816",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T22:30:52+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    },
     {
       "id": "4bb1993d9698",
       "judul": "Pengajian Kitab Rutin",

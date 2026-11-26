@@ -1,0 +1,61 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-26T03:34:01+00:00",
+  "wilayah": {
+    "kode": "11.03",
+    "kabkota": "Kabupaten Aceh Timur",
+    "provinsi": "Aceh",
+    "slug": "kabupaten-aceh-timur",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "415ce61810c1",
+      "judul": null,
+      "tema": "RASULULLAH MULAI MENJADI NABI DAN RASUL Pembahasan Sirah Nabawiyah Kitab Ar Rohiqul Makhtum karya Syaikh Shofiyyurrahman Al Mubarokfuri",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abu Mujahid Rimbun, S.S."
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": true,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "12:15",
+        "selesai": "13:00",
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Darul Ihsan Telkom Gegerkalong",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/K9a8sr6yEA391dSg7"
+      },
+      "wilayah": {
+        "kode": "11.03",
+        "kabkota": "Kabupaten Aceh Timur",
+        "provinsi": "Aceh",
+        "slug": "kabupaten-aceh-timur",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15820",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T22:35:37+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    }
+  ]
+}

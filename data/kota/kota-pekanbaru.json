@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-25T19:23:33+00:00",
+  "dibuat": "2026-11-26T03:34:01+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,8 +8,55 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 11,
+  "jumlah": 12,
   "kajian": [
+    {
+      "id": "99df35dda371",
+      "judul": "Kajian Riyadhus Shalihin",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Ade Agustian, Lc."
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Musholla Al-Hidayah",
+        "alamat": "Jl. Pahlawan No. 93, Arengka Atas, Pekanbaru",
+        "peta": "https://maps.app.goo.gl/iqUhWuhJzdXHw3U97"
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "ikhwan",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15835",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T22:47:43+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    },
     {
       "id": "3dba418c8dce",
       "judul": null,
@@ -102,7 +149,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-25T04:11:04+00:00",
-      "terakhir_dilihat": "2026-11-25T19:23:33+00:00"
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
     },
     {
       "id": "764f88c7658e",
@@ -344,7 +391,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-11-25T19:23:33+00:00"
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
     },
     {
       "id": "c13e30823338",

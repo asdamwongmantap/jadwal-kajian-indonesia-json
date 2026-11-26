@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-25T19:23:33+00:00",
+  "dibuat": "2026-11-26T03:34:01+00:00",
   "wilayah": {
     "kode": "32.73",
     "kabkota": "Kota Bandung",
@@ -8,8 +8,243 @@
     "slug": "kota-bandung",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 6,
   "kajian": [
+    {
+      "id": "e20eec2c0b8f",
+      "judul": "Kajian Muslimah - Masjid Al Aziz Bandung",
+      "tema": null,
+      "kitab": "Ahkamu An-Nisa Li Ibni Al-Jauzi",
+      "ustadz": [
+        "Ustadzah Mardhotillah hafidzahallah"
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "09:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-26T09:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Aziz (Jl. Soekarno Hatta No. 662 - Bandung)",
+        "alamat": "Peserta: Terbuka untuk umum, khusus Muslimah",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15808",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T22:25:38+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    },
+    {
+      "id": "845dd01b5a57",
+      "judul": "Kajian Bareng Offline",
+      "tema": null,
+      "kitab": "A'malul Qulub)",
+      "ustadz": [
+        "Ustadz Abu Haidar As-Sundawy"
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-26T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Agung Al-Ukhuwwah",
+        "alamat": "Jl.Wastukencana No. 27, Kota Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15841",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T22:49:52+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    },
+    {
+      "id": "c5108b0cc62c",
+      "judul": "Kajian Rutin - Terbuka Untuk Umum (ikhwan / Akhwat)",
+      "tema": null,
+      "kitab": "Nurul Ikhlash wa Zhulumaat Iraadatud dunya bi 'amalil aakhiroh",
+      "ustadz": [
+        "Ustadz Abdullah Amir Maretan"
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "18:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-26T18:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Aziz (Jl. Soekarno Hatta No. 662 - Bandung)",
+        "alamat": "Peserta: Terbuka untuk umum (Ikhwan / Akhwat)",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "hybrid",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15856",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T23:25:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    },
+    {
+      "id": "cdb745a2e82b",
+      "judul": "Kajian Bareng Offline",
+      "tema": "Hadits Ke-50",
+      "kitab": "Arba'in An-Nawawi",
+      "ustadz": [
+        "Ustadz Hary Badar bin Marwan"
+      ],
+      "tanggal": "2026-11-26",
+      "tanggal_perkiraan": false,
+      "hari": "Kamis",
+      "rutin": null,
+      "waktu": {
+        "mulai": "20:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-26T20:00:00+07:00",
+      "tempat": {
+        "nama": "Studio MIMBA TV",
+        "alamat": "Jl. Kebon Gedang No. 99, Gatot Subroto, Kota Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15860",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T23:27:49+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    },
+    {
+      "id": "c8d6ccd92dcf",
+      "judul": null,
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Gigih Surya Nugraha di masjid Masjid Al Lathiif , kira-kira apa ya"
+      ],
+      "tanggal": "2026-11-29",
+      "tanggal_perkiraan": false,
+      "hari": "Ahad",
+      "rutin": null,
+      "waktu": {
+        "mulai": "16:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-29T16:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al-Lathiif ( Masjid Al Lathiif ) Jl. Saninten No 02",
+        "alamat": "Kota Bandung",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "32.73",
+        "kabkota": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "slug": "kota-bandung",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15854",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T22:58:50+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    },
     {
       "id": "2a1dc7c25614",
       "judul": null,

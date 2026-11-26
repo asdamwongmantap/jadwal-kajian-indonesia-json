@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-26T03:34:01+00:00",
+  "wilayah": {
+    "kode": "33.02",
+    "kabkota": "Kabupaten Banyumas",
+    "provinsi": "Jawa Tengah",
+    "slug": "kabupaten-banyumas",
+    "zona_waktu": "WIB"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "599b848cefba",
+      "judul": null,
+      "tema": "Satu Ibadah Harus Dilakukan Secara Bersambung",
+      "kitab": "KAIDAH FIQHIYYAH, karya Syaikh as Sa'dy Rahimahullah",
+      "ustadz": [
+        "Ustadz Abu Bakar",
+        "Pengajar di Ponpes Al-Faruq Karanglewas, Purwokerto, Banyumas, Jawa Tengah"
+      ],
+      "tanggal": null,
+      "tanggal_perkiraan": false,
+      "hari": null,
+      "rutin": "kajian rutin khusus Ikhwan Setiap Pekan ke 2, 4 dan 5. Setelah kajian di Mesjid Al lathif",
+      "waktu": {
+        "mulai": "20:15",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Kediaman Pak Mamay, Perum Bumi Asri (Pepabri) no.117",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/9fYs3M4RMptMeVmaA"
+      },
+      "wilayah": {
+        "kode": "33.02",
+        "kabkota": "Kabupaten Banyumas",
+        "provinsi": "Jawa Tengah",
+        "slug": "kabupaten-banyumas",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "ikhwan",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15829",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-25T22:44:02+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-26T03:34:01+00:00",
+      "terakhir_dilihat": "2026-11-26T03:34:01+00:00"
+    }
+  ]
+}
