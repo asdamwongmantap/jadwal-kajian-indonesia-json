@@ -1,9 +1,98 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-27T19:03:05+00:00",
+  "dibuat": "2026-11-28T03:18:47+00:00",
   "wilayah": null,
-  "jumlah": 1,
+  "jumlah": 3,
   "kajian": [
+    {
+      "id": "5aa095e53734",
+      "judul": "KAJIAN RUTIN UNTUK UMUM In syaaAllah",
+      "tema": null,
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Fadil Mulyono, B.Sc."
+      ],
+      "tanggal": "2026-11-28",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Maghrib",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": "https://youtube.com/masjidashshaff",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15989",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-27T20:33:49+00:00"
+        },
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15990",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-27T20:34:01+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-28T03:18:47+00:00",
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
+    },
+    {
+      "id": "a393ba4d7a95",
+      "judul": "KAJIAN RUTIN UNTUK UMUM In syaaAllah",
+      "tema": "Tafsir Al-Qur'an: Tafsir Muyassar",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Abdulbarr Kaisinda"
+      ],
+      "tanggal": "2026-11-28",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": "Subuh",
+        "relasi": "setelah"
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": null,
+        "alamat": null,
+        "peta": "https://bit.ly/masjidashshaff-googlemaps"
+      },
+      "wilayah": null,
+      "mode": "online",
+      "streaming": "https://youtube.com/masjidashshaff",
+      "peserta": "umum",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15988",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-27T20:32:47+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-28T03:18:47+00:00",
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
+    },
     {
       "id": "8a57b556d849",
       "judul": null,

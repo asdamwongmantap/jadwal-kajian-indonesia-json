@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-27T19:03:05+00:00",
+  "dibuat": "2026-11-28T03:18:47+00:00",
   "wilayah": {
     "kode": "16.09",
     "kabkota": "Kabupaten Ogan Komering Ulu Selatan",
@@ -8,8 +8,55 @@
     "slug": "kabupaten-ogan-komering-ulu-selatan",
     "zona_waktu": "WIB"
   },
-  "jumlah": 1,
+  "jumlah": 2,
   "kajian": [
+    {
+      "id": "c4b9b83851a2",
+      "judul": "Info Kajian Muslimah",
+      "tema": "Fadhoil A'mal Keutamaan-Keutamaan Amal Sholeh",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Zamzami Juned, Lc."
+      ],
+      "tanggal": "2026-11-28",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "08:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-28T08:00:00+07:00",
+      "tempat": {
+        "nama": "Di Masjid At-Taqwa Jl. Kayu jati, Simpang Tiga",
+        "alamat": null,
+        "peta": "https://maps.app.goo.gl/qDEB3oNXQeNQ7agA7"
+      },
+      "wilayah": {
+        "kode": "16.09",
+        "kabkota": "Kabupaten Ogan Komering Ulu Selatan",
+        "provinsi": "Sumatera Selatan",
+        "slug": "kabupaten-ogan-komering-ulu-selatan",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": "akhwat",
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15971",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-27T20:21:28+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-28T03:18:47+00:00",
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
+    },
     {
       "id": "1e9c0ad5f359",
       "judul": "Kajian Rutin Masjid At-Taqwa",
@@ -55,7 +102,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-27T19:03:05+00:00",
-      "terakhir_dilihat": "2026-11-27T19:03:05+00:00"
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
     }
   ]
 }

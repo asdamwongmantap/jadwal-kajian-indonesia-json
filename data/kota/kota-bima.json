@@ -1,0 +1,62 @@
+{
+  "skema": "1.0",
+  "dibuat": "2026-11-28T03:18:47+00:00",
+  "wilayah": {
+    "kode": "52.72",
+    "kabkota": "Kota Bima",
+    "provinsi": "Nusa Tenggara Barat",
+    "slug": "kota-bima",
+    "zona_waktu": "WITA"
+  },
+  "jumlah": 1,
+  "kajian": [
+    {
+      "id": "49b444fc4d43",
+      "judul": "Kajian Kitab",
+      "tema": null,
+      "kitab": "Masjid Al Ikhlas Dukuh Bima",
+      "ustadz": [
+        "Ustadz Muhammad Anwar Lc, M. Pd",
+        "Bulughul Maram #49"
+      ],
+      "tanggal": "2026-11-28",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": "05:00",
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": "2026-11-28T05:00:00+07:00",
+      "tempat": {
+        "nama": "Masjid Al Ikhlas Dukuh Bima",
+        "alamat": null,
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "52.72",
+        "kabkota": "Kota Bima",
+        "provinsi": "Nusa Tenggara Barat",
+        "slug": "kota-bima",
+        "zona_waktu": "WITA"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15995",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-27T20:49:53+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-28T03:18:47+00:00",
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
+    }
+  ]
+}

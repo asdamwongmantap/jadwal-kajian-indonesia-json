@@ -1,6 +1,6 @@
 {
   "skema": "1.0",
-  "dibuat": "2026-11-27T19:03:05+00:00",
+  "dibuat": "2026-11-28T03:18:47+00:00",
   "wilayah": {
     "kode": "14.71",
     "kabkota": "Kota Pekanbaru",
@@ -8,7 +8,7 @@
     "slug": "kota-pekanbaru",
     "zona_waktu": "WIB"
   },
-  "jumlah": 13,
+  "jumlah": 14,
   "kajian": [
     {
       "id": "be7094abf88d",
@@ -55,7 +55,54 @@
         }
       ],
       "pertama_dilihat": "2026-11-27T19:03:05+00:00",
-      "terakhir_dilihat": "2026-11-27T19:03:05+00:00"
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
+    },
+    {
+      "id": "daad6fbb5912",
+      "judul": null,
+      "tema": "Hikmah Dibalik Setiap Ujian",
+      "kitab": null,
+      "ustadz": [
+        "Ustadz Fattah Islami Qordova, Lc."
+      ],
+      "tanggal": "2026-11-28",
+      "tanggal_perkiraan": false,
+      "hari": "Sabtu",
+      "rutin": null,
+      "waktu": {
+        "mulai": null,
+        "selesai": null,
+        "acuan_shalat": null,
+        "relasi": null
+      },
+      "zona_waktu": "WIB",
+      "mulai_iso": null,
+      "tempat": {
+        "nama": "Masjid Al-Ittihad",
+        "alamat": "Komplek PHR, Rumbai, Kota Pekanbaru",
+        "peta": null
+      },
+      "wilayah": {
+        "kode": "14.71",
+        "kabkota": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "slug": "kota-pekanbaru",
+        "zona_waktu": "WIB"
+      },
+      "mode": "offline",
+      "streaming": null,
+      "peserta": null,
+      "sumber": [
+        {
+          "id": "jadwalkajiansunnah",
+          "nama": "Telegram @jadwalkajiansunnah",
+          "url": "https://t.me/jadwalkajiansunnah/15968",
+          "diteruskan_dari": null,
+          "diposting": "2026-11-27T20:18:55+00:00"
+        }
+      ],
+      "pertama_dilihat": "2026-11-28T03:18:47+00:00",
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
     },
     {
       "id": "3dba418c8dce",
@@ -149,7 +196,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-25T04:11:04+00:00",
-      "terakhir_dilihat": "2026-11-27T19:03:05+00:00"
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
     },
     {
       "id": "4a88d2db129b",
@@ -196,7 +243,7 @@
         }
       ],
       "pertama_dilihat": "2026-11-27T19:03:05+00:00",
-      "terakhir_dilihat": "2026-11-27T19:03:05+00:00"
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
     },
     {
       "id": "764f88c7658e",
@@ -250,7 +297,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-29T16:14:05+00:00",
-      "terakhir_dilihat": "2026-11-27T19:03:05+00:00"
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
     },
     {
       "id": "986e0311c1e0",
@@ -445,7 +492,7 @@
         }
       ],
       "pertama_dilihat": "2026-10-28T16:08:21+00:00",
-      "terakhir_dilihat": "2026-11-27T19:03:05+00:00"
+      "terakhir_dilihat": "2026-11-28T03:18:47+00:00"
     },
     {
       "id": "c13e30823338",
